@@ -1,0 +1,55 @@
+on:
+  schedule:
+  - cron: '34 3,4,5,6,9,12 * * *'
+
+  workflow_dispatch:
+
+jobs:
+  fcast3:
+    runs-on: ubuntu-latest
+    outputs:
+      json: ${{ steps.fcast.outputs.json }}
+      xml: ${{ steps.fcast.outputs.xml }}
+    steps:
+    - name: Checkout Repository
+      uses: actions/checkout@v2
+
+    - name: Install Dependencies
+      run: npm install --no-save
+
+    - name: Fetch Forecast
+      id: fcast
+      uses: ./.github/actions/fcast
+
+  deploy:
+    if: success() && github.ref == 'refs/heads/main'
+    needs: fcast3
+    runs-on: ubuntu-latest
+    steps:
+    - name: Save the JSON Output
+      env:
+        JSON: ${{ needs.fcast3.outputs.json }}
+      run: |
+        mkdir -p dist
+        echo "$JSON" > dist/fcast3.json
+        test -f dist/fcast3.json
+
+    - name: Save the XML Output
+      env:
+        XML: ${{ needs.fcast3.outputs.xml }}
+      run: |
+        mkdir -p dist
+        echo "$XML" > dist/fcast3.xml
+        test -f dist/fcast3.xml
+
+    - name: Deploy to Github Pages
+      uses: crazy-max/ghaction-github-pages@v2
+      with:
+        author: Dusan Vuckovic <dusan@dvuckovic.com>
+        commit_message: Deployed to Github Pages.
+        fqdn: data.dvuckovic.com
+        build_dir: dist/
+        repo: dvuckovic/data-miner
+        target_branch: gh-pages
+      env:
+        GITHUB_TOKEN: ${{ secrets.GH_PAT }}

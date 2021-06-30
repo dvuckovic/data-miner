@@ -1,0 +1,19 @@
+{
+  "name": "data-miner",
+  "version": "0.0.1",
+  "description": "Data mining powered by Github workflows",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dvuckovic/data-miner.git"
+  },
+  "keywords": [],
+  "author": "Dusan Vuckovic <dusan@dvuckovic.com>",
+  "license": "WTFPL",
+  "dependencies": {
+    "@actions/core": "^1.4.0",
+    "@actions/github": "^5.0.0",
+    "feed": "^4.2.2",
+    "moment": "^2.29.1",
+    "node-fetch": "^2.6.1"
+  }
+}
