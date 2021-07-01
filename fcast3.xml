@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>RHMZ</title>
+        <link>http://example.com/</link>
+        <description>Prognoza vremena za Srbiju</description>
+        <lastBuildDate>Sun, 14 Jul 2013 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>fcast</generator>
+        <language>sr-RS</language>
+        <image>
+            <title>RHMZ</title>
+            <url>http://example.com/image.png</url>
+            <link>http://example.com/</link>
+        </image>
+        <copyright>© 2021 Copyright RHMZ Srbije</copyright>
+    </channel>
+</rss>
