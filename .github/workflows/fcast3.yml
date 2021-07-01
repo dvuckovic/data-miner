@@ -26,21 +26,21 @@ jobs:
     needs: fcast3
     runs-on: ubuntu-latest
     steps:
-    - name: Save the JSON Output
+    - name: Checkout Repository
+      uses: actions/checkout@v2
+      with:
+        ref: gh-pages
+
+    - name: Prepare for Release
       env:
         JSON: ${{ needs.fcast3.outputs.json }}
-      run: |
-        mkdir -p dist
-        echo "$JSON" > dist/fcast3.json
-        test -f dist/fcast3.json
-
-    - name: Save the XML Output
-      env:
         XML: ${{ needs.fcast3.outputs.xml }}
       run: |
-        mkdir -p dist
-        echo "$XML" > dist/fcast3.xml
-        test -f dist/fcast3.xml
+        rm -f CNAME
+        echo "$JSON" > ./fcast3.json
+        echo "$XML" > ./fcast3.xml
+        test -f ./fcast3.json
+        test -f ./fcast3.xml
 
     - name: Deploy to Github Pages
       uses: crazy-max/ghaction-github-pages@v2
@@ -48,7 +48,7 @@ jobs:
         author: Dusan Vuckovic <dusan@dvuckovic.com>
         commit_message: Deployed to Github Pages.
         fqdn: data.dvuckovic.com
-        build_dir: dist/
+        build_dir: .
         repo: dvuckovic/data-miner
         target_branch: gh-pages
       env:

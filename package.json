@@ -13,6 +13,7 @@
     "@actions/core": "^1.4.0",
     "@actions/github": "^5.0.0",
     "feed": "^4.2.2",
+    "md5": "^2.3.0",
     "moment": "^2.29.1",
     "node-fetch": "^2.6.1"
   }
