@@ -3,8 +3,8 @@
     <channel>
         <title>RHMZ</title>
         <link>https://data.dvuckovic.com/fcast3.xml</link>
-        <description>Prognoza vremena za Srbiju</description>
-        <lastBuildDate>Thu, 01 Jul 2021 21:01:26 GMT</lastBuildDate>
+        <description>Weather Forecast for Serbia</description>
+        <lastBuildDate>Thu, 01 Jul 2021 21:04:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>fcast</generator>
         <language>sr-RS</language>
@@ -13,7 +13,7 @@
             <url>https://cdn.dvuckovic.com/images/rhmz-srbije.gif</url>
             <link>https://data.dvuckovic.com/fcast3.xml</link>
         </image>
-        <copyright>© 2021 Copyright RHMZ Srbije</copyright>
+        <copyright>© 2021 Copyright RHMZ Serbia</copyright>
         <item>
             <title><![CDATA[Palić]]></title>
             <guid>c9da108374dde45533baccabee5beb23</guid>
@@ -167,7 +167,7 @@ Max: 27°C<br>
 ]]></description>
         </item>
         <item>
-            <title><![CDATA[Pristina]]></title>
+            <title><![CDATA[Priština]]></title>
             <guid>125af4d20f1ece003e7e5645cb909f2f</guid>
             <pubDate>Thu, 01 Jul 2021 12:09:00 GMT</pubDate>
             <description><![CDATA[<strong>Thu 1 Jul</strong><br>
