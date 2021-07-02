@@ -4,7 +4,7 @@
         <title>RHMZ</title>
         <link>https://data.dvuckovic.com/fcast3.xml</link>
         <description>Weather Forecast for Serbia</description>
-        <lastBuildDate>Thu, 01 Jul 2021 21:04:33 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Jul 2021 03:42:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>fcast</generator>
         <language>sr-RS</language>
@@ -20,14 +20,9 @@
             <pubDate>Thu, 01 Jul 2021 12:09:00 GMT</pubDate>
             <description><![CDATA[<strong>Thu 1 Jul</strong><br>
 Partly cloudy<br>
-Max: 28°C<br>
-<br>
-<strong>Fri 2 Jul</strong><br>
-Partly cloudy<br>
-Min: 17°C<br>
 Max: 27°C<br>
 <br>
-<strong>Sat 3 Jul</strong><br>
+<strong>Sun 12 Sep</strong><br>
 Mostly cloudy<br>
 Min: 17°C<br>
 Max: 28°C<br>
@@ -38,15 +33,10 @@ Max: 28°C<br>
             <guid>867079fcaff2dfddeb29ca1f27853ef7</guid>
             <pubDate>Thu, 01 Jul 2021 12:09:00 GMT</pubDate>
             <description><![CDATA[<strong>Thu 1 Jul</strong><br>
-After noon rain showers<br>
-Max: 28°C<br>
-<br>
-<strong>Fri 2 Jul</strong><br>
 Partly cloudy<br>
-Min: 16°C<br>
 Max: 26°C<br>
 <br>
-<strong>Sat 3 Jul</strong><br>
+<strong>Sun 12 Sep</strong><br>
 Mostly cloudy<br>
 Min: 15°C<br>
 Max: 27°C<br>
@@ -57,15 +47,10 @@ Max: 27°C<br>
             <guid>5328c873d3470e351e602ea7cba85180</guid>
             <pubDate>Thu, 01 Jul 2021 12:09:00 GMT</pubDate>
             <description><![CDATA[<strong>Thu 1 Jul</strong><br>
-After noon rain showers<br>
-Max: 29°C<br>
-<br>
-<strong>Fri 2 Jul</strong><br>
 Partly cloudy<br>
-Min: 17°C<br>
 Max: 27°C<br>
 <br>
-<strong>Sat 3 Jul</strong><br>
+<strong>Sun 12 Sep</strong><br>
 Partly cloudy<br>
 Min: 16°C<br>
 Max: 27°C<br>
@@ -76,15 +61,10 @@ Max: 27°C<br>
             <guid>235aed15072a0cd8bb2836eea30d4884</guid>
             <pubDate>Thu, 01 Jul 2021 12:09:00 GMT</pubDate>
             <description><![CDATA[<strong>Thu 1 Jul</strong><br>
-After noon rain showers<br>
-Max: 29°C<br>
-<br>
-<strong>Fri 2 Jul</strong><br>
 Partly cloudy<br>
-Min: 17°C<br>
 Max: 26°C<br>
 <br>
-<strong>Sat 3 Jul</strong><br>
+<strong>Sun 12 Sep</strong><br>
 Mostly cloudy<br>
 Min: 17°C<br>
 Max: 27°C<br>
@@ -95,15 +75,10 @@ Max: 27°C<br>
             <guid>edbdd777879cbb165a94951e6a425b3f</guid>
             <pubDate>Thu, 01 Jul 2021 12:09:00 GMT</pubDate>
             <description><![CDATA[<strong>Thu 1 Jul</strong><br>
-After noon rain showers<br>
-Max: 30°C<br>
-<br>
-<strong>Fri 2 Jul</strong><br>
 Mostly cloudy<br>
-Min: 17°C<br>
 Max: 26°C<br>
 <br>
-<strong>Sat 3 Jul</strong><br>
+<strong>Sun 12 Sep</strong><br>
 Partly cloudy<br>
 Min: 16°C<br>
 Max: 26°C<br>
@@ -114,15 +89,10 @@ Max: 26°C<br>
             <guid>327efb45357264e0d764058cad59bba0</guid>
             <pubDate>Thu, 01 Jul 2021 12:09:00 GMT</pubDate>
             <description><![CDATA[<strong>Thu 1 Jul</strong><br>
-Mostly cloudy<br>
-Max: 32°C<br>
-<br>
-<strong>Fri 2 Jul</strong><br>
 Partly cloudy<br>
-Min: 21°C<br>
 Max: 28°C<br>
 <br>
-<strong>Sat 3 Jul</strong><br>
+<strong>Sun 12 Sep</strong><br>
 Partly cloudy<br>
 Min: 18°C<br>
 Max: 28°C<br>
@@ -134,14 +104,9 @@ Max: 28°C<br>
             <pubDate>Thu, 01 Jul 2021 12:09:00 GMT</pubDate>
             <description><![CDATA[<strong>Thu 1 Jul</strong><br>
 After noon rain showers<br>
-Max: 25°C<br>
-<br>
-<strong>Fri 2 Jul</strong><br>
-After noon rain showers<br>
-Min: 12°C<br>
 Max: 20°C<br>
 <br>
-<strong>Sat 3 Jul</strong><br>
+<strong>Sun 12 Sep</strong><br>
 Possible rain showers<br>
 Min: 11°C<br>
 Max: 21°C<br>
@@ -153,14 +118,9 @@ Max: 21°C<br>
             <pubDate>Thu, 01 Jul 2021 12:09:00 GMT</pubDate>
             <description><![CDATA[<strong>Thu 1 Jul</strong><br>
 After noon rain showers<br>
-Max: 31°C<br>
-<br>
-<strong>Fri 2 Jul</strong><br>
-After noon rain showers<br>
-Min: 17°C<br>
 Max: 26°C<br>
 <br>
-<strong>Sat 3 Jul</strong><br>
+<strong>Sun 12 Sep</strong><br>
 Partly cloudy<br>
 Min: 15°C<br>
 Max: 27°C<br>
@@ -172,14 +132,9 @@ Max: 27°C<br>
             <pubDate>Thu, 01 Jul 2021 12:09:00 GMT</pubDate>
             <description><![CDATA[<strong>Thu 1 Jul</strong><br>
 After noon rain showers<br>
-Max: 32°C<br>
-<br>
-<strong>Fri 2 Jul</strong><br>
-After noon rain showers<br>
-Min: 16°C<br>
 Max: 26°C<br>
 <br>
-<strong>Sat 3 Jul</strong><br>
+<strong>Sun 12 Sep</strong><br>
 Partly cloudy<br>
 Min: 14°C<br>
 Max: 26°C<br>
@@ -191,14 +146,9 @@ Max: 26°C<br>
             <pubDate>Thu, 01 Jul 2021 12:09:00 GMT</pubDate>
             <description><![CDATA[<strong>Thu 1 Jul</strong><br>
 After noon rain showers<br>
-Max: 32°C<br>
-<br>
-<strong>Fri 2 Jul</strong><br>
-After noon rain showers<br>
-Min: 18°C<br>
 Max: 27°C<br>
 <br>
-<strong>Sat 3 Jul</strong><br>
+<strong>Sun 12 Sep</strong><br>
 Partly cloudy<br>
 Min: 15°C<br>
 Max: 27°C<br>
