@@ -7,7 +7,7 @@ const generateFeed = require('./generate-feed');
 try {
     const fetchUrl = core.getInput('fetch-url');
 
-    console.log(`Fetching from ${fetchUrl} ...`);
+    core.info(`Fetching forecast from ${fetchUrl} ...`);
 
     fetch(fetchUrl)
         .then(res => {
@@ -16,12 +16,21 @@ try {
         })
         .then(body => {
             const json = parseThree(body);
+
+            if (json.status === 'not_ok') {
+                core.warning('Parsing exception...');
+                core.warning(`e: ${json.e}`);
+                core.startGroup('Source');
+                core.info(body);
+                core.endGroup();
+            }
+
             const xml = generateFeed(json);
 
             core.setOutput('json', json);
             core.setOutput('xml', xml);
 
-            console.log('Done.');
+            core.info('Done.');
         })
         .catch(error => {
             core.setFailed(error.message);

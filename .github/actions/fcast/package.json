@@ -6,6 +6,9 @@
     "type": "git",
     "url": "git+https://github.com/dvuckovic/data-miner.git"
   },
+  "scripts": {
+    "build": "npx @vercel/ncc build src/index.js --license licenses.txt"
+  },
   "keywords": [],
   "author": "Dusan Vuckovic <dusan@dvuckovic.com>",
   "license": "WTFPL",

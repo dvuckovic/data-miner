@@ -8,10 +8,10 @@ module.exports = (json) => {
         description: 'Weather Forecast for Serbia',
         id: 'https://data.dvuckovic.com/fcast3.xml',
         link: 'https://data.dvuckovic.com/fcast3.xml',
-        language: 'sr-RS',
-        image: 'https://cdn.dvuckovic.com/images/rhmz-srbije.gif',
-        favicon: 'http://www.hidmet.gov.rs/favicon.ico',
-        copyright: '© 2021 Copyright RHMZ Serbia',
+        language: 'en',
+        image: 'https://cdn.dvuckovic.com/images/fcast/fcast-0.png',
+        favicon: 'https://cdn.dvuckovic.com/images/fcast/fcast-0.png',
+        copyright: `© ${moment().format('YYYY')} Copyright RHMZ Serbia`,
         updated: moment().toDate(),
         generator: 'fcast',
         feedLinks: {
@@ -22,7 +22,7 @@ module.exports = (json) => {
     if (json.success === 'not_ok') {
         feed.addItem({
             title: 'Error',
-            id: md5(moment()),
+            id: md5(moment().format()),
             date: moment().toDate(),
             description: `Error: ${json.e}`,
         });
@@ -72,6 +72,7 @@ module.exports = (json) => {
 
             for (let i = 1; i <= data.days; i++) {
                 desc.push(`<strong>${moment(data[`day${i}`].date, 'YYYY-MM-DD').format('ddd D MMM')}</strong>`);
+                desc.push(`<img src="https://cdn.dvuckovic.com/images/fcast/fcast-${data[`day${i}`].type}.png" alt="${types[data[`day${i}`].type]}" />`);
                 desc.push(types[data[`day${i}`].type]);
                 if (data[`day${i}`].tmin) desc.push(`Min: ${data[`day${i}`].tmin}°C`);
                 desc.push(`Max: ${data[`day${i}`].tmax}°C`);
@@ -80,9 +81,10 @@ module.exports = (json) => {
 
             feed.addItem({
                 title: cityStr,
-                id: md5(cityId),
+                id: md5(`${moment(`${data.date} ${data.time}`, 'YYYY-MM-DD HH:mm').format()}_${cityId}`),
                 date: moment(`${data.date} ${data.time}`, 'YYYY-MM-DD HH:mm').toDate(),
                 description: desc.join('<br>\n'),
+                link: 'http://www.hidmet.gov.rs/eng/prognoza/index.php',
             });
         });
     }

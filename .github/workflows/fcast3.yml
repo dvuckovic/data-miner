@@ -14,9 +14,6 @@ jobs:
     - name: Checkout Repository
       uses: actions/checkout@v2
 
-    - name: Install Dependencies
-      run: npm install --no-save
-
     - name: Fetch Forecast
       id: fcast
       uses: ./.github/actions/fcast
@@ -31,7 +28,7 @@ jobs:
       with:
         ref: gh-pages
 
-    - name: Prepare for Release
+    - name: Prepare Output Files
       env:
         JSON: ${{ needs.fcast3.outputs.json }}
         XML: ${{ needs.fcast3.outputs.xml }}
@@ -45,11 +42,8 @@ jobs:
     - name: Deploy to Github Pages
       uses: crazy-max/ghaction-github-pages@v2
       with:
-        author: Dusan Vuckovic <dusan@dvuckovic.com>
         commit_message: Deployed to Github Pages.
         fqdn: data.dvuckovic.com
         build_dir: .
-        repo: dvuckovic/data-miner
-        target_branch: gh-pages
       env:
-        GITHUB_TOKEN: ${{ secrets.GH_PAT }}
+        GITHUB_TOKEN: ${{ github.token }}
