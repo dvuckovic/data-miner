@@ -11027,6 +11027,8 @@ const md5 = __nccwpck_require__(145);
 const moment = __nccwpck_require__(736);
 
 module.exports = (json) => {
+    const date = moment();
+
     const feed = new Feed({
         title: 'RHMZ',
         description: 'Weather Forecast for Serbia',
@@ -11035,8 +11037,8 @@ module.exports = (json) => {
         language: 'en',
         image: 'https://cdn.dvuckovic.com/images/fcast/fcast-0.png',
         favicon: 'https://cdn.dvuckovic.com/images/fcast/fcast-0.png',
-        copyright: `© ${moment().format('YYYY')} Copyright RHMZ Serbia`,
-        updated: moment().toDate(),
+        copyright: `© ${date.format('YYYY')} Copyright RHMZ Serbia`,
+        updated: date.toDate(),
         generator: 'fcast',
         feedLinks: {
             json: 'https://data.dvuckovic.com/fcast3.json',
@@ -11046,8 +11048,8 @@ module.exports = (json) => {
     if (json.success === 'not_ok') {
         feed.addItem({
             title: 'Error',
-            id: md5(moment().format()),
-            date: moment().toDate(),
+            id: md5(date.format()),
+            date: date.toDate(),
             description: `Error: ${json.e}`,
         });
     }
@@ -11090,6 +11092,8 @@ module.exports = (json) => {
             // 13379: 'Kopaonik',
         };
 
+        let isDateSet = false;
+
         Object.entries(cities).forEach(([cityId, cityStr]) => {
             const data = json.data[cityId];
             const desc = [];
@@ -11110,6 +11114,11 @@ module.exports = (json) => {
                 description: desc.join('<br>\n'),
                 link: 'http://www.hidmet.gov.rs/eng/prognoza/index.php',
             });
+
+            if (!isDateSet) {
+                feed.options.updated = moment(`${data.date} ${data.time}`, 'YYYY-MM-DD HH:mm').toDate();
+                isDateSet = true;
+            }
         });
     }
 
@@ -11205,8 +11214,11 @@ module.exports = (body) => {
                 + '<\\/tr>',
                 'ims'
             );
+
             if (!regex.test(body)) error_code = 3; // Date columns not found
             else {
+                match = body.match(regex);
+
                 days.push(
                     { date: moment(match[1], 'DD.MM.').format('YYYY-MM-DD') },
                     { date: moment(match[2], 'DD.MM.').format('YYYY-MM-DD') },

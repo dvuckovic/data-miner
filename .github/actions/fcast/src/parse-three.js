@@ -81,8 +81,11 @@ module.exports = (body) => {
                 + '<\\/tr>',
                 'ims'
             );
+
             if (!regex.test(body)) error_code = 3; // Date columns not found
             else {
+                match = body.match(regex);
+
                 days.push(
                     { date: moment(match[1], 'DD.MM.').format('YYYY-MM-DD') },
                     { date: moment(match[2], 'DD.MM.').format('YYYY-MM-DD') },
