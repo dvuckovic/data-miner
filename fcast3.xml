@@ -4,7 +4,7 @@
         <title>RHMZ</title>
         <link>https://data.dvuckovic.com/fcast3.xml</link>
         <description>Weather Forecast for Serbia</description>
-        <lastBuildDate>Sun, 04 Jul 2021 05:20:00 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 04 Jul 2021 06:10:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>fcast</generator>
         <language>en</language>
@@ -17,8 +17,8 @@
         <item>
             <title><![CDATA[Palić]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>fba36d680311e01cb8cb0ee405a8c65d</guid>
-            <pubDate>Sun, 04 Jul 2021 05:20:00 GMT</pubDate>
+            <guid>873ce747bccfab8de5cc10489b46bc10</guid>
+            <pubDate>Sun, 04 Jul 2021 06:10:00 GMT</pubDate>
             <description><![CDATA[<strong>Sun 4 Jul</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-4.png" alt="Partly cloudy" /><br>
 Partly cloudy<br>
@@ -34,8 +34,8 @@ Max: 27°C<br>
         <item>
             <title><![CDATA[Novi Sad]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>415142de123304a580643d227ff39fac</guid>
-            <pubDate>Sun, 04 Jul 2021 05:20:00 GMT</pubDate>
+            <guid>8ec6a2fb1b3fee5cf12befc0ff3d3484</guid>
+            <pubDate>Sun, 04 Jul 2021 06:10:00 GMT</pubDate>
             <description><![CDATA[<strong>Sun 4 Jul</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-4.png" alt="Partly cloudy" /><br>
 Partly cloudy<br>
@@ -51,8 +51,8 @@ Max: 28°C<br>
         <item>
             <title><![CDATA[Loznica]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>b34f1ba631f21484286d82d5ecf7c890</guid>
-            <pubDate>Sun, 04 Jul 2021 05:20:00 GMT</pubDate>
+            <guid>a47b1e9dbfe3790feb781357865c6dd2</guid>
+            <pubDate>Sun, 04 Jul 2021 06:10:00 GMT</pubDate>
             <description><![CDATA[<strong>Sun 4 Jul</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-10.png" alt="Mostly cloudy" /><br>
 Mostly cloudy<br>
@@ -68,8 +68,8 @@ Max: 27°C<br>
         <item>
             <title><![CDATA[Belgrade]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>3304364f5229207aee7a636e3e75be00</guid>
-            <pubDate>Sun, 04 Jul 2021 05:20:00 GMT</pubDate>
+            <guid>de91f02144d5d5e37c53f186a9986c92</guid>
+            <pubDate>Sun, 04 Jul 2021 06:10:00 GMT</pubDate>
             <description><![CDATA[<strong>Sun 4 Jul</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-10.png" alt="Mostly cloudy" /><br>
 Mostly cloudy<br>
@@ -85,8 +85,8 @@ Max: 28°C<br>
         <item>
             <title><![CDATA[Kragujevac]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>0db3d9892b366c78fe57e9ab81a813ba</guid>
-            <pubDate>Sun, 04 Jul 2021 05:20:00 GMT</pubDate>
+            <guid>65f16b9c798e11f39f18c9ab7ad3eec9</guid>
+            <pubDate>Sun, 04 Jul 2021 06:10:00 GMT</pubDate>
             <description><![CDATA[<strong>Sun 4 Jul</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-4.png" alt="Partly cloudy" /><br>
 Partly cloudy<br>
@@ -102,8 +102,8 @@ Max: 19°C<br>
         <item>
             <title><![CDATA[Negotin]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>c54e9d02c1c82381e52982d37812a3a8</guid>
-            <pubDate>Sun, 04 Jul 2021 05:20:00 GMT</pubDate>
+            <guid>85766de4278906bce0aeb9e39d647cc2</guid>
+            <pubDate>Sun, 04 Jul 2021 06:10:00 GMT</pubDate>
             <description><![CDATA[<strong>Sun 4 Jul</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-4.png" alt="Partly cloudy" /><br>
 Partly cloudy<br>
@@ -119,8 +119,8 @@ Max: 31°C<br>
         <item>
             <title><![CDATA[Zlatibor]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>7718ff7ea42c335d16ac051aadedcefe</guid>
-            <pubDate>Sun, 04 Jul 2021 05:20:00 GMT</pubDate>
+            <guid>5c11795f281bc442d23bbf880a5d158b</guid>
+            <pubDate>Sun, 04 Jul 2021 06:10:00 GMT</pubDate>
             <description><![CDATA[<strong>Sun 4 Jul</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-10.png" alt="Mostly cloudy" /><br>
 Mostly cloudy<br>
@@ -136,8 +136,8 @@ Max: 22°C<br>
         <item>
             <title><![CDATA[Kraljevo]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>543c561b513505301b24bb4e8454bf8d</guid>
-            <pubDate>Sun, 04 Jul 2021 05:20:00 GMT</pubDate>
+            <guid>d1ce3fa5680b31b4f665219a3ab25f12</guid>
+            <pubDate>Sun, 04 Jul 2021 06:10:00 GMT</pubDate>
             <description><![CDATA[<strong>Sun 4 Jul</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-10.png" alt="Mostly cloudy" /><br>
 Mostly cloudy<br>
@@ -153,8 +153,8 @@ Max: 27°C<br>
         <item>
             <title><![CDATA[Priština]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>bc31a5ee20246bb4dad70b30be111f09</guid>
-            <pubDate>Sun, 04 Jul 2021 05:20:00 GMT</pubDate>
+            <guid>57c07dabba312b904146e70114715945</guid>
+            <pubDate>Sun, 04 Jul 2021 06:10:00 GMT</pubDate>
             <description><![CDATA[<strong>Sun 4 Jul</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-10.png" alt="Mostly cloudy" /><br>
 Mostly cloudy<br>
@@ -170,8 +170,8 @@ Max: 26°C<br>
         <item>
             <title><![CDATA[Niš]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>6bc6a212bbd9791efc73b0b199700a18</guid>
-            <pubDate>Sun, 04 Jul 2021 05:20:00 GMT</pubDate>
+            <guid>6f776d0f2b722dc9391ffe99ca6054c6</guid>
+            <pubDate>Sun, 04 Jul 2021 06:10:00 GMT</pubDate>
             <description><![CDATA[<strong>Sun 4 Jul</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-4.png" alt="Partly cloudy" /><br>
 Partly cloudy<br>
