@@ -4,7 +4,7 @@
         <title>RHMZ</title>
         <link>https://data.dvuckovic.com/fcast3.xml</link>
         <description>Weather Forecast for Serbia</description>
-        <lastBuildDate>Wed, 07 Jul 2021 05:05:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Jul 2021 11:45:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>fcast</generator>
         <language>en</language>
@@ -17,8 +17,8 @@
         <item>
             <title><![CDATA[Palić]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>092059853420ee7d8042330ab28da667</guid>
-            <pubDate>Wed, 07 Jul 2021 05:05:00 GMT</pubDate>
+            <guid>6971c100a5a44df8b76e740d334f8243</guid>
+            <pubDate>Wed, 07 Jul 2021 11:45:00 GMT</pubDate>
             <description><![CDATA[<strong>Wed 7 Jul</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
 Sunny<br>
@@ -27,15 +27,21 @@ Max: 35°C<br>
 <strong>Thu 8 Jul</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
 Sunny<br>
-Min: 21°C<br>
-Max: 37°C<br>
+Min: 19°C<br>
+Max: 38°C<br>
+<br>
+<strong>Fri 9 Jul</strong><br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-5.png" alt="After noon rain showers" /><br>
+After noon rain showers<br>
+Min: 22°C<br>
+Max: 34°C<br>
 ]]></description>
         </item>
         <item>
             <title><![CDATA[Novi Sad]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>55a733ac1813a94bbed099de7c1c3d4a</guid>
-            <pubDate>Wed, 07 Jul 2021 05:05:00 GMT</pubDate>
+            <guid>ee67616842025928ae959dba2388109e</guid>
+            <pubDate>Wed, 07 Jul 2021 11:45:00 GMT</pubDate>
             <description><![CDATA[<strong>Wed 7 Jul</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
 Sunny<br>
@@ -45,14 +51,20 @@ Max: 36°C<br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
 Sunny<br>
 Min: 20°C<br>
-Max: 37°C<br>
+Max: 38°C<br>
+<br>
+<strong>Fri 9 Jul</strong><br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-5.png" alt="After noon rain showers" /><br>
+After noon rain showers<br>
+Min: 22°C<br>
+Max: 35°C<br>
 ]]></description>
         </item>
         <item>
             <title><![CDATA[Loznica]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>4a43bd0590286e34468e69edb0e5f8db</guid>
-            <pubDate>Wed, 07 Jul 2021 05:05:00 GMT</pubDate>
+            <guid>2fbd7f696f49c1aea3949238bef66991</guid>
+            <pubDate>Wed, 07 Jul 2021 11:45:00 GMT</pubDate>
             <description><![CDATA[<strong>Wed 7 Jul</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
 Sunny<br>
@@ -63,13 +75,19 @@ Max: 36°C<br>
 Sunny<br>
 Min: 19°C<br>
 Max: 38°C<br>
+<br>
+<strong>Fri 9 Jul</strong><br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-4.png" alt="Partly cloudy" /><br>
+Partly cloudy<br>
+Min: 21°C<br>
+Max: 35°C<br>
 ]]></description>
         </item>
         <item>
             <title><![CDATA[Belgrade]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>826c9a4c7bc0520f7e1892bcecde5255</guid>
-            <pubDate>Wed, 07 Jul 2021 05:05:00 GMT</pubDate>
+            <guid>0a343243a060ff9fa2f894b172add78b</guid>
+            <pubDate>Wed, 07 Jul 2021 11:45:00 GMT</pubDate>
             <description><![CDATA[<strong>Wed 7 Jul</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
 Sunny<br>
@@ -79,14 +97,20 @@ Max: 36°C<br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
 Sunny<br>
 Min: 23°C<br>
-Max: 37°C<br>
+Max: 38°C<br>
+<br>
+<strong>Fri 9 Jul</strong><br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-4.png" alt="Partly cloudy" /><br>
+Partly cloudy<br>
+Min: 26°C<br>
+Max: 35°C<br>
 ]]></description>
         </item>
         <item>
             <title><![CDATA[Kragujevac]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>089be4d59c53edc7df59bb0944bc33e7</guid>
-            <pubDate>Wed, 07 Jul 2021 05:05:00 GMT</pubDate>
+            <guid>6dabfbb74740d45a4a9d7c969c3d5573</guid>
+            <pubDate>Wed, 07 Jul 2021 11:45:00 GMT</pubDate>
             <description><![CDATA[<strong>Wed 7 Jul</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
 Sunny<br>
@@ -97,13 +121,19 @@ Max: 36°C<br>
 Sunny<br>
 Min: 17°C<br>
 Max: 37°C<br>
+<br>
+<strong>Fri 9 Jul</strong><br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
+Mostly sunny<br>
+Min: 20°C<br>
+Max: 36°C<br>
 ]]></description>
         </item>
         <item>
             <title><![CDATA[Negotin]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>03ac5bb1b4bbc0d4d33877ae52408ddd</guid>
-            <pubDate>Wed, 07 Jul 2021 05:05:00 GMT</pubDate>
+            <guid>7eed0a9f7d9fd194a97ee30485d26e3e</guid>
+            <pubDate>Wed, 07 Jul 2021 11:45:00 GMT</pubDate>
             <description><![CDATA[<strong>Wed 7 Jul</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
 Sunny<br>
@@ -112,15 +142,21 @@ Max: 36°C<br>
 <strong>Thu 8 Jul</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
 Sunny<br>
+Min: 19°C<br>
+Max: 35°C<br>
+<br>
+<strong>Fri 9 Jul</strong><br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
+Mostly sunny<br>
 Min: 20°C<br>
-Max: 36°C<br>
+Max: 34°C<br>
 ]]></description>
         </item>
         <item>
             <title><![CDATA[Zlatibor]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>fc1d7405a5b6c2cefe4f718c06c7aa74</guid>
-            <pubDate>Wed, 07 Jul 2021 05:05:00 GMT</pubDate>
+            <guid>592b3b81ba9108784ea59b207dc99728</guid>
+            <pubDate>Wed, 07 Jul 2021 11:45:00 GMT</pubDate>
             <description><![CDATA[<strong>Wed 7 Jul</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
 Sunny<br>
@@ -131,13 +167,19 @@ Max: 30°C<br>
 Sunny<br>
 Min: 18°C<br>
 Max: 32°C<br>
+<br>
+<strong>Fri 9 Jul</strong><br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-5.png" alt="After noon rain showers" /><br>
+After noon rain showers<br>
+Min: 19°C<br>
+Max: 31°C<br>
 ]]></description>
         </item>
         <item>
             <title><![CDATA[Kraljevo]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>cd32bae1e0b83b824e346bf590c5baf1</guid>
-            <pubDate>Wed, 07 Jul 2021 05:05:00 GMT</pubDate>
+            <guid>e745cc76be93c1d8fd523dbc0fae6ca6</guid>
+            <pubDate>Wed, 07 Jul 2021 11:45:00 GMT</pubDate>
             <description><![CDATA[<strong>Wed 7 Jul</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
 Sunny<br>
@@ -146,15 +188,21 @@ Max: 36°C<br>
 <strong>Thu 8 Jul</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
 Sunny<br>
-Min: 17°C<br>
+Min: 18°C<br>
 Max: 37°C<br>
+<br>
+<strong>Fri 9 Jul</strong><br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-4.png" alt="Partly cloudy" /><br>
+Partly cloudy<br>
+Min: 20°C<br>
+Max: 36°C<br>
 ]]></description>
         </item>
         <item>
             <title><![CDATA[Priština]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>9f91cf9b37bfe0a5310bf72cf2ca8188</guid>
-            <pubDate>Wed, 07 Jul 2021 05:05:00 GMT</pubDate>
+            <guid>83e68f4dedfea73ec4d442a67e59ca16</guid>
+            <pubDate>Wed, 07 Jul 2021 11:45:00 GMT</pubDate>
             <description><![CDATA[<strong>Wed 7 Jul</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
 Sunny<br>
@@ -164,14 +212,20 @@ Max: 34°C<br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
 Sunny<br>
 Min: 17°C<br>
-Max: 35°C<br>
+Max: 36°C<br>
+<br>
+<strong>Fri 9 Jul</strong><br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-4.png" alt="Partly cloudy" /><br>
+Partly cloudy<br>
+Min: 19°C<br>
+Max: 36°C<br>
 ]]></description>
         </item>
         <item>
             <title><![CDATA[Niš]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>d853dfee53b7cce52c7690ae9d9f59ed</guid>
-            <pubDate>Wed, 07 Jul 2021 05:05:00 GMT</pubDate>
+            <guid>4de4b37bb9f656b7ab275749b43bd39e</guid>
+            <pubDate>Wed, 07 Jul 2021 11:45:00 GMT</pubDate>
             <description><![CDATA[<strong>Wed 7 Jul</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
 Sunny<br>
@@ -180,7 +234,13 @@ Max: 36°C<br>
 <strong>Thu 8 Jul</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
 Sunny<br>
-Min: 19°C<br>
+Min: 18°C<br>
+Max: 37°C<br>
+<br>
+<strong>Fri 9 Jul</strong><br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
+Mostly sunny<br>
+Min: 21°C<br>
 Max: 37°C<br>
 ]]></description>
         </item>
