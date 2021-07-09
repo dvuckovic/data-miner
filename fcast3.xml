@@ -4,7 +4,7 @@
         <title>RHMZ</title>
         <link>https://data.dvuckovic.com/fcast3.xml</link>
         <description>Weather Forecast for Serbia</description>
-        <lastBuildDate>Fri, 09 Jul 2021 00:05:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Jul 2021 09:40:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>fcast</generator>
         <language>en</language>
@@ -17,8 +17,8 @@
         <item>
             <title><![CDATA[Palić]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>bb5d9e4ca241c5ab68351da41d8cf9cc</guid>
-            <pubDate>Fri, 09 Jul 2021 00:05:00 GMT</pubDate>
+            <guid>9c427dc0546d870e72139653c146e9a8</guid>
+            <pubDate>Fri, 09 Jul 2021 09:40:00 GMT</pubDate>
             <description><![CDATA[<strong>Fri 9 Jul</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-5.png" alt="After noon rain showers" /><br>
 After noon rain showers<br>
@@ -34,8 +34,8 @@ Max: 30°C<br>
         <item>
             <title><![CDATA[Novi Sad]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>a5882d176a237f3941a2d5abd1031fe9</guid>
-            <pubDate>Fri, 09 Jul 2021 00:05:00 GMT</pubDate>
+            <guid>74e395e2781a77ce71a37ff9d0d200fd</guid>
+            <pubDate>Fri, 09 Jul 2021 09:40:00 GMT</pubDate>
             <description><![CDATA[<strong>Fri 9 Jul</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-5.png" alt="After noon rain showers" /><br>
 After noon rain showers<br>
@@ -51,8 +51,8 @@ Max: 30°C<br>
         <item>
             <title><![CDATA[Loznica]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>99179502a76a7bf869cb7a77f3228c28</guid>
-            <pubDate>Fri, 09 Jul 2021 00:05:00 GMT</pubDate>
+            <guid>249e037bb666a736a5a8e6a50d09a78e</guid>
+            <pubDate>Fri, 09 Jul 2021 09:40:00 GMT</pubDate>
             <description><![CDATA[<strong>Fri 9 Jul</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-5.png" alt="After noon rain showers" /><br>
 After noon rain showers<br>
@@ -68,8 +68,8 @@ Max: 29°C<br>
         <item>
             <title><![CDATA[Belgrade]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>11df9511ae8bac7b1e0810d3931b9b71</guid>
-            <pubDate>Fri, 09 Jul 2021 00:05:00 GMT</pubDate>
+            <guid>478a22665fadeb15a2632c59ecb9f37b</guid>
+            <pubDate>Fri, 09 Jul 2021 09:40:00 GMT</pubDate>
             <description><![CDATA[<strong>Fri 9 Jul</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
 Mostly sunny<br>
@@ -85,8 +85,8 @@ Max: 31°C<br>
         <item>
             <title><![CDATA[Kragujevac]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>7a81d20262964e0f2246ccf5cb7caa5c</guid>
-            <pubDate>Fri, 09 Jul 2021 00:05:00 GMT</pubDate>
+            <guid>edb62f6230f658cbb3a07e5931761d20</guid>
+            <pubDate>Fri, 09 Jul 2021 09:40:00 GMT</pubDate>
             <description><![CDATA[<strong>Fri 9 Jul</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-6.png" alt="Possible rain showers" /><br>
 Possible rain showers<br>
@@ -102,8 +102,8 @@ Max: 31°C<br>
         <item>
             <title><![CDATA[Negotin]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>a4c2ebe5d156401f5491323f98bb6384</guid>
-            <pubDate>Fri, 09 Jul 2021 00:05:00 GMT</pubDate>
+            <guid>228d99501b9ce74f68cb7d27a592d1ce</guid>
+            <pubDate>Fri, 09 Jul 2021 09:40:00 GMT</pubDate>
             <description><![CDATA[<strong>Fri 9 Jul</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
 Sunny<br>
@@ -119,8 +119,8 @@ Max: 33°C<br>
         <item>
             <title><![CDATA[Zlatibor]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>d20ff056c81763cc48850efc42957a37</guid>
-            <pubDate>Fri, 09 Jul 2021 00:05:00 GMT</pubDate>
+            <guid>4c5bdcb1bf38c267ce13e5ed5764de90</guid>
+            <pubDate>Fri, 09 Jul 2021 09:40:00 GMT</pubDate>
             <description><![CDATA[<strong>Fri 9 Jul</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-5.png" alt="After noon rain showers" /><br>
 After noon rain showers<br>
@@ -136,8 +136,8 @@ Max: 24°C<br>
         <item>
             <title><![CDATA[Kraljevo]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>4a69ca7db31d9e62b8b96234c54e9fab</guid>
-            <pubDate>Fri, 09 Jul 2021 00:05:00 GMT</pubDate>
+            <guid>35ceace0c82907b9f533f23c2b569417</guid>
+            <pubDate>Fri, 09 Jul 2021 09:40:00 GMT</pubDate>
             <description><![CDATA[<strong>Fri 9 Jul</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-5.png" alt="After noon rain showers" /><br>
 After noon rain showers<br>
@@ -153,8 +153,8 @@ Max: 31°C<br>
         <item>
             <title><![CDATA[Priština]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>626ab837b70361a5dc786afa424e437e</guid>
-            <pubDate>Fri, 09 Jul 2021 00:05:00 GMT</pubDate>
+            <guid>4cd24d4662e4090d98206ec3963237a5</guid>
+            <pubDate>Fri, 09 Jul 2021 09:40:00 GMT</pubDate>
             <description><![CDATA[<strong>Fri 9 Jul</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-5.png" alt="After noon rain showers" /><br>
 After noon rain showers<br>
@@ -170,12 +170,12 @@ Max: 32°C<br>
         <item>
             <title><![CDATA[Niš]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>47dd815796bec2a3570c7e4e1ca89b50</guid>
-            <pubDate>Fri, 09 Jul 2021 00:05:00 GMT</pubDate>
+            <guid>c3298269027aae2a5add569c6d999d02</guid>
+            <pubDate>Fri, 09 Jul 2021 09:40:00 GMT</pubDate>
             <description><![CDATA[<strong>Fri 9 Jul</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
 Sunny<br>
-Max: 36°C<br>
+Max: 37°C<br>
 <br>
 <strong>Sat 10 Jul</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-6.png" alt="Possible rain showers" /><br>
