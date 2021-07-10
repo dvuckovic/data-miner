@@ -4,7 +4,7 @@
         <title>RHMZ</title>
         <link>https://data.dvuckovic.com/fcast3.xml</link>
         <description>Weather Forecast for Serbia</description>
-        <lastBuildDate>Sat, 10 Jul 2021 05:25:00 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 10 Jul 2021 11:03:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>fcast</generator>
         <language>en</language>
@@ -17,42 +17,54 @@
         <item>
             <title><![CDATA[Palić]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>8b2c26e78544f0d76f3bc4e734ee1b93</guid>
-            <pubDate>Sat, 10 Jul 2021 05:25:00 GMT</pubDate>
+            <guid>ec4e526c80675f2bd531b5499c62178a</guid>
+            <pubDate>Sat, 10 Jul 2021 11:03:00 GMT</pubDate>
             <description><![CDATA[<strong>Sat 10 Jul</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-5.png" alt="After noon rain showers" /><br>
 After noon rain showers<br>
 Max: 31°C<br>
 <br>
 <strong>Sun 11 Jul</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-4.png" alt="Partly cloudy" /><br>
-Partly cloudy<br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-5.png" alt="After noon rain showers" /><br>
+After noon rain showers<br>
 Min: 20°C<br>
+Max: 32°C<br>
+<br>
+<strong>Mon 12 Jul</strong><br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
+Sunny<br>
+Min: 19°C<br>
 Max: 32°C<br>
 ]]></description>
         </item>
         <item>
             <title><![CDATA[Novi Sad]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>3f1208861afe688b05f09cb3acf0cf7b</guid>
-            <pubDate>Sat, 10 Jul 2021 05:25:00 GMT</pubDate>
+            <guid>f08818bf475ba62a96f32cd474e620e7</guid>
+            <pubDate>Sat, 10 Jul 2021 11:03:00 GMT</pubDate>
             <description><![CDATA[<strong>Sat 10 Jul</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-5.png" alt="After noon rain showers" /><br>
 After noon rain showers<br>
 Max: 29°C<br>
 <br>
 <strong>Sun 11 Jul</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-4.png" alt="Partly cloudy" /><br>
-Partly cloudy<br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-6.png" alt="Possible rain showers" /><br>
+Possible rain showers<br>
 Min: 19°C<br>
-Max: 31°C<br>
+Max: 33°C<br>
+<br>
+<strong>Mon 12 Jul</strong><br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
+Sunny<br>
+Min: 19°C<br>
+Max: 32°C<br>
 ]]></description>
         </item>
         <item>
             <title><![CDATA[Loznica]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>42277bd9f04ad241e8f91bb86f23b1ab</guid>
-            <pubDate>Sat, 10 Jul 2021 05:25:00 GMT</pubDate>
+            <guid>134647bc84890e7ede8aa42729216df7</guid>
+            <pubDate>Sat, 10 Jul 2021 11:03:00 GMT</pubDate>
             <description><![CDATA[<strong>Sat 10 Jul</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-5.png" alt="After noon rain showers" /><br>
 After noon rain showers<br>
@@ -63,21 +75,33 @@ Max: 29°C<br>
 After noon rain showers<br>
 Min: 19°C<br>
 Max: 30°C<br>
+<br>
+<strong>Mon 12 Jul</strong><br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
+Sunny<br>
+Min: 20°C<br>
+Max: 32°C<br>
 ]]></description>
         </item>
         <item>
             <title><![CDATA[Belgrade]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>1a9659267f1dca41a2a7ab841984918c</guid>
-            <pubDate>Sat, 10 Jul 2021 05:25:00 GMT</pubDate>
+            <guid>b5bac1296b3aac9d145c23e17921304a</guid>
+            <pubDate>Sat, 10 Jul 2021 11:03:00 GMT</pubDate>
             <description><![CDATA[<strong>Sat 10 Jul</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-5.png" alt="After noon rain showers" /><br>
 After noon rain showers<br>
 Max: 31°C<br>
 <br>
 <strong>Sun 11 Jul</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-4.png" alt="Partly cloudy" /><br>
-Partly cloudy<br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-6.png" alt="Possible rain showers" /><br>
+Possible rain showers<br>
+Min: 22°C<br>
+Max: 33°C<br>
+<br>
+<strong>Mon 12 Jul</strong><br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
+Sunny<br>
 Min: 21°C<br>
 Max: 32°C<br>
 ]]></description>
@@ -85,25 +109,31 @@ Max: 32°C<br>
         <item>
             <title><![CDATA[Kragujevac]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>0131d7d71a95b4545940be48383f75e2</guid>
-            <pubDate>Sat, 10 Jul 2021 05:25:00 GMT</pubDate>
+            <guid>0f58500388ea871eab5cdbc51496c969</guid>
+            <pubDate>Sat, 10 Jul 2021 11:03:00 GMT</pubDate>
             <description><![CDATA[<strong>Sat 10 Jul</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-5.png" alt="After noon rain showers" /><br>
 After noon rain showers<br>
 Max: 31°C<br>
 <br>
 <strong>Sun 11 Jul</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-4.png" alt="Partly cloudy" /><br>
-Partly cloudy<br>
-Min: 16°C<br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-6.png" alt="Possible rain showers" /><br>
+Possible rain showers<br>
+Min: 19°C<br>
 Max: 33°C<br>
+<br>
+<strong>Mon 12 Jul</strong><br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
+Mostly sunny<br>
+Min: 18°C<br>
+Max: 32°C<br>
 ]]></description>
         </item>
         <item>
             <title><![CDATA[Negotin]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>db22ddb6dec80b6b680b2dcbf66e2d0c</guid>
-            <pubDate>Sat, 10 Jul 2021 05:25:00 GMT</pubDate>
+            <guid>eb8370ecd34ea232f14f97ef0fb63038</guid>
+            <pubDate>Sat, 10 Jul 2021 11:03:00 GMT</pubDate>
             <description><![CDATA[<strong>Sat 10 Jul</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-5.png" alt="After noon rain showers" /><br>
 After noon rain showers<br>
@@ -113,14 +143,20 @@ Max: 32°C<br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
 Mostly sunny<br>
 Min: 18°C<br>
-Max: 32°C<br>
+Max: 33°C<br>
+<br>
+<strong>Mon 12 Jul</strong><br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
+Sunny<br>
+Min: 19°C<br>
+Max: 34°C<br>
 ]]></description>
         </item>
         <item>
             <title><![CDATA[Zlatibor]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>603f25a41222147d43f95cec79976591</guid>
-            <pubDate>Sat, 10 Jul 2021 05:25:00 GMT</pubDate>
+            <guid>da4f956ac03afa0ba20e62c62f5fc33c</guid>
+            <pubDate>Sat, 10 Jul 2021 11:03:00 GMT</pubDate>
             <description><![CDATA[<strong>Sat 10 Jul</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-5.png" alt="After noon rain showers" /><br>
 After noon rain showers<br>
@@ -131,30 +167,42 @@ Max: 24°C<br>
 After noon rain showers<br>
 Min: 15°C<br>
 Max: 25°C<br>
+<br>
+<strong>Mon 12 Jul</strong><br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-6.png" alt="Possible rain showers" /><br>
+Possible rain showers<br>
+Min: 15°C<br>
+Max: 25°C<br>
 ]]></description>
         </item>
         <item>
             <title><![CDATA[Kraljevo]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>431c1052b62ebc5a658b7ab51b712758</guid>
-            <pubDate>Sat, 10 Jul 2021 05:25:00 GMT</pubDate>
+            <guid>8a127ea4fa6b6533df3ad396f57d1fab</guid>
+            <pubDate>Sat, 10 Jul 2021 11:03:00 GMT</pubDate>
             <description><![CDATA[<strong>Sat 10 Jul</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-5.png" alt="After noon rain showers" /><br>
 After noon rain showers<br>
 Max: 31°C<br>
 <br>
 <strong>Sun 11 Jul</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-4.png" alt="Partly cloudy" /><br>
-Partly cloudy<br>
-Min: 17°C<br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-6.png" alt="Possible rain showers" /><br>
+Possible rain showers<br>
+Min: 18°C<br>
+Max: 33°C<br>
+<br>
+<strong>Mon 12 Jul</strong><br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
+Mostly sunny<br>
+Min: 18°C<br>
 Max: 32°C<br>
 ]]></description>
         </item>
         <item>
             <title><![CDATA[Priština]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>de6b9fa4b825ebc57588fbb43d768d9d</guid>
-            <pubDate>Sat, 10 Jul 2021 05:25:00 GMT</pubDate>
+            <guid>1d84554074dcd14f03a3d8cd709900d2</guid>
+            <pubDate>Sat, 10 Jul 2021 11:03:00 GMT</pubDate>
             <description><![CDATA[<strong>Sat 10 Jul</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-5.png" alt="After noon rain showers" /><br>
 After noon rain showers<br>
@@ -163,6 +211,12 @@ Max: 32°C<br>
 <strong>Sun 11 Jul</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-6.png" alt="Possible rain showers" /><br>
 Possible rain showers<br>
+Min: 18°C<br>
+Max: 31°C<br>
+<br>
+<strong>Mon 12 Jul</strong><br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-4.png" alt="Partly cloudy" /><br>
+Partly cloudy<br>
 Min: 16°C<br>
 Max: 32°C<br>
 ]]></description>
@@ -170,16 +224,22 @@ Max: 32°C<br>
         <item>
             <title><![CDATA[Niš]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>1542e43cbb73c6d2221e22fd632a66c6</guid>
-            <pubDate>Sat, 10 Jul 2021 05:25:00 GMT</pubDate>
+            <guid>249b1ac17f553d7bed56430cd6cb82b6</guid>
+            <pubDate>Sat, 10 Jul 2021 11:03:00 GMT</pubDate>
             <description><![CDATA[<strong>Sat 10 Jul</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-5.png" alt="After noon rain showers" /><br>
 After noon rain showers<br>
 Max: 33°C<br>
 <br>
 <strong>Sun 11 Jul</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-4.png" alt="Partly cloudy" /><br>
-Partly cloudy<br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-6.png" alt="Possible rain showers" /><br>
+Possible rain showers<br>
+Min: 18°C<br>
+Max: 34°C<br>
+<br>
+<strong>Mon 12 Jul</strong><br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
+Mostly sunny<br>
 Min: 19°C<br>
 Max: 33°C<br>
 ]]></description>
