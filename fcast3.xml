@@ -4,7 +4,7 @@
         <title>RHMZ</title>
         <link>https://data.dvuckovic.com/fcast3.xml</link>
         <description>Weather Forecast for Serbia</description>
-        <lastBuildDate>Sun, 11 Jul 2021 05:25:00 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 11 Jul 2021 11:42:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>fcast</generator>
         <language>en</language>
@@ -17,8 +17,8 @@
         <item>
             <title><![CDATA[Palić]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>da75fcee3c03ae17140d5e6ea501d5b2</guid>
-            <pubDate>Sun, 11 Jul 2021 05:25:00 GMT</pubDate>
+            <guid>48996c927d6f12dc94079c2d9aa7afaa</guid>
+            <pubDate>Sun, 11 Jul 2021 11:42:00 GMT</pubDate>
             <description><![CDATA[<strong>Sun 11 Jul</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-5.png" alt="After noon rain showers" /><br>
 After noon rain showers<br>
@@ -29,13 +29,19 @@ Max: 32°C<br>
 Sunny<br>
 Min: 19°C<br>
 Max: 32°C<br>
+<br>
+<strong>Tue 13 Jul</strong><br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
+Sunny<br>
+Min: 19°C<br>
+Max: 35°C<br>
 ]]></description>
         </item>
         <item>
             <title><![CDATA[Novi Sad]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>aa778aa4b5cd1cb8c1af8e2ac8e628d5</guid>
-            <pubDate>Sun, 11 Jul 2021 05:25:00 GMT</pubDate>
+            <guid>bf3a960f6459de3530ab01643ff77d1c</guid>
+            <pubDate>Sun, 11 Jul 2021 11:42:00 GMT</pubDate>
             <description><![CDATA[<strong>Sun 11 Jul</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-5.png" alt="After noon rain showers" /><br>
 After noon rain showers<br>
@@ -45,14 +51,20 @@ Max: 33°C<br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
 Sunny<br>
 Min: 19°C<br>
-Max: 32°C<br>
+Max: 33°C<br>
+<br>
+<strong>Tue 13 Jul</strong><br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
+Sunny<br>
+Min: 20°C<br>
+Max: 37°C<br>
 ]]></description>
         </item>
         <item>
             <title><![CDATA[Loznica]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>be1ed5bdda584c9ca09a150bf1baabdf</guid>
-            <pubDate>Sun, 11 Jul 2021 05:25:00 GMT</pubDate>
+            <guid>cf627c67d77763415aa72cdfbca5c61c</guid>
+            <pubDate>Sun, 11 Jul 2021 11:42:00 GMT</pubDate>
             <description><![CDATA[<strong>Sun 11 Jul</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-5.png" alt="After noon rain showers" /><br>
 After noon rain showers<br>
@@ -62,14 +74,20 @@ Max: 30°C<br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
 Sunny<br>
 Min: 20°C<br>
-Max: 32°C<br>
+Max: 33°C<br>
+<br>
+<strong>Tue 13 Jul</strong><br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
+Sunny<br>
+Min: 19°C<br>
+Max: 37°C<br>
 ]]></description>
         </item>
         <item>
             <title><![CDATA[Belgrade]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>decbdc89836553adda68cb423e423978</guid>
-            <pubDate>Sun, 11 Jul 2021 05:25:00 GMT</pubDate>
+            <guid>0f787b47ed8e55a4c23727fabebd4b80</guid>
+            <pubDate>Sun, 11 Jul 2021 11:42:00 GMT</pubDate>
             <description><![CDATA[<strong>Sun 11 Jul</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-6.png" alt="Possible rain showers" /><br>
 Possible rain showers<br>
@@ -78,32 +96,44 @@ Max: 33°C<br>
 <strong>Mon 12 Jul</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
 Sunny<br>
-Min: 21°C<br>
-Max: 32°C<br>
+Min: 22°C<br>
+Max: 34°C<br>
+<br>
+<strong>Tue 13 Jul</strong><br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
+Sunny<br>
+Min: 23°C<br>
+Max: 37°C<br>
 ]]></description>
         </item>
         <item>
             <title><![CDATA[Kragujevac]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>c6692923b8a64193293ceddb14fc037d</guid>
-            <pubDate>Sun, 11 Jul 2021 05:25:00 GMT</pubDate>
+            <guid>173f9bdffb6952f906d79056ff76484e</guid>
+            <pubDate>Sun, 11 Jul 2021 11:42:00 GMT</pubDate>
             <description><![CDATA[<strong>Sun 11 Jul</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-6.png" alt="Possible rain showers" /><br>
 Possible rain showers<br>
 Max: 33°C<br>
 <br>
 <strong>Mon 12 Jul</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
-Mostly sunny<br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
+Sunny<br>
 Min: 18°C<br>
-Max: 32°C<br>
+Max: 33°C<br>
+<br>
+<strong>Tue 13 Jul</strong><br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
+Sunny<br>
+Min: 18°C<br>
+Max: 36°C<br>
 ]]></description>
         </item>
         <item>
             <title><![CDATA[Negotin]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>af923ea9bc8d2b51c0317ecc9286563e</guid>
-            <pubDate>Sun, 11 Jul 2021 05:25:00 GMT</pubDate>
+            <guid>375408183a82fa5308f2adfe8433281d</guid>
+            <pubDate>Sun, 11 Jul 2021 11:42:00 GMT</pubDate>
             <description><![CDATA[<strong>Sun 11 Jul</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
 Mostly sunny<br>
@@ -112,15 +142,21 @@ Max: 33°C<br>
 <strong>Mon 12 Jul</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
 Sunny<br>
-Min: 19°C<br>
-Max: 34°C<br>
+Min: 18°C<br>
+Max: 35°C<br>
+<br>
+<strong>Tue 13 Jul</strong><br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
+Sunny<br>
+Min: 18°C<br>
+Max: 36°C<br>
 ]]></description>
         </item>
         <item>
             <title><![CDATA[Zlatibor]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>ae6f8e0ba7e444fabebdb3f7b8acc36c</guid>
-            <pubDate>Sun, 11 Jul 2021 05:25:00 GMT</pubDate>
+            <guid>4455ff66cad2b672603130bc89004b10</guid>
+            <pubDate>Sun, 11 Jul 2021 11:42:00 GMT</pubDate>
             <description><![CDATA[<strong>Sun 11 Jul</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-5.png" alt="After noon rain showers" /><br>
 After noon rain showers<br>
@@ -130,14 +166,20 @@ Max: 25°C<br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-6.png" alt="Possible rain showers" /><br>
 Possible rain showers<br>
 Min: 15°C<br>
-Max: 25°C<br>
+Max: 27°C<br>
+<br>
+<strong>Tue 13 Jul</strong><br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
+Sunny<br>
+Min: 17°C<br>
+Max: 31°C<br>
 ]]></description>
         </item>
         <item>
             <title><![CDATA[Kraljevo]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>7b805cc68c185739660693758c373ddd</guid>
-            <pubDate>Sun, 11 Jul 2021 05:25:00 GMT</pubDate>
+            <guid>6e092e0013a448acae84f7dde3ae5605</guid>
+            <pubDate>Sun, 11 Jul 2021 11:42:00 GMT</pubDate>
             <description><![CDATA[<strong>Sun 11 Jul</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-6.png" alt="Possible rain showers" /><br>
 Possible rain showers<br>
@@ -147,14 +189,20 @@ Max: 33°C<br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
 Mostly sunny<br>
 Min: 18°C<br>
-Max: 32°C<br>
+Max: 33°C<br>
+<br>
+<strong>Tue 13 Jul</strong><br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
+Sunny<br>
+Min: 18°C<br>
+Max: 36°C<br>
 ]]></description>
         </item>
         <item>
             <title><![CDATA[Priština]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>2b8ddd2d66d2e6e49c5bc3cbe85d2458</guid>
-            <pubDate>Sun, 11 Jul 2021 05:25:00 GMT</pubDate>
+            <guid>1d8c67611d3e81236bb6b31eff0d39b6</guid>
+            <pubDate>Sun, 11 Jul 2021 11:42:00 GMT</pubDate>
             <description><![CDATA[<strong>Sun 11 Jul</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-6.png" alt="Possible rain showers" /><br>
 Possible rain showers<br>
@@ -163,25 +211,37 @@ Max: 31°C<br>
 <strong>Mon 12 Jul</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-4.png" alt="Partly cloudy" /><br>
 Partly cloudy<br>
-Min: 16°C<br>
+Min: 17°C<br>
 Max: 32°C<br>
+<br>
+<strong>Tue 13 Jul</strong><br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
+Sunny<br>
+Min: 18°C<br>
+Max: 34°C<br>
 ]]></description>
         </item>
         <item>
             <title><![CDATA[Niš]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>05435ef7fd9651ad0f08a78532b1dff6</guid>
-            <pubDate>Sun, 11 Jul 2021 05:25:00 GMT</pubDate>
+            <guid>b6f3a0f5dfaf6b054b95e62c50ac3335</guid>
+            <pubDate>Sun, 11 Jul 2021 11:42:00 GMT</pubDate>
             <description><![CDATA[<strong>Sun 11 Jul</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-6.png" alt="Possible rain showers" /><br>
 Possible rain showers<br>
 Max: 34°C<br>
 <br>
 <strong>Mon 12 Jul</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
-Mostly sunny<br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
+Sunny<br>
 Min: 19°C<br>
-Max: 33°C<br>
+Max: 35°C<br>
+<br>
+<strong>Tue 13 Jul</strong><br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
+Sunny<br>
+Min: 19°C<br>
+Max: 37°C<br>
 ]]></description>
         </item>
     </channel>
