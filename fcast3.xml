@@ -4,7 +4,7 @@
         <title>RHMZ</title>
         <link>https://data.dvuckovic.com/fcast3.xml</link>
         <description>Weather Forecast for Serbia</description>
-        <lastBuildDate>Mon, 12 Jul 2021 11:45:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Jul 2021 05:15:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>fcast</generator>
         <language>en</language>
@@ -17,17 +17,11 @@
         <item>
             <title><![CDATA[Palić]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>e2620ed0d98a86009650999714d22ae7</guid>
-            <pubDate>Mon, 12 Jul 2021 11:45:00 GMT</pubDate>
-            <description><![CDATA[<strong>Mon 12 Jul</strong><br>
+            <guid>fd787636f333dd3e4ae04aa004df80d6</guid>
+            <pubDate>Tue, 13 Jul 2021 05:15:00 GMT</pubDate>
+            <description><![CDATA[<strong>Tue 13 Jul</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
 Sunny<br>
-Max: 32°C<br>
-<br>
-<strong>Tue 13 Jul</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
-Sunny<br>
-Min: 20°C<br>
 Max: 36°C<br>
 <br>
 <strong>Wed 14 Jul</strong><br>
@@ -40,17 +34,11 @@ Max: 35°C<br>
         <item>
             <title><![CDATA[Novi Sad]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>d9fcad652d52bfa67b7b6091237ecd0a</guid>
-            <pubDate>Mon, 12 Jul 2021 11:45:00 GMT</pubDate>
-            <description><![CDATA[<strong>Mon 12 Jul</strong><br>
+            <guid>4a2f4b77814408714adb1e4ef52e963a</guid>
+            <pubDate>Tue, 13 Jul 2021 05:15:00 GMT</pubDate>
+            <description><![CDATA[<strong>Tue 13 Jul</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
 Sunny<br>
-Max: 33°C<br>
-<br>
-<strong>Tue 13 Jul</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
-Sunny<br>
-Min: 20°C<br>
 Max: 37°C<br>
 <br>
 <strong>Wed 14 Jul</strong><br>
@@ -63,17 +51,11 @@ Max: 36°C<br>
         <item>
             <title><![CDATA[Loznica]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>e69cf10c37c37e9b3f7c920bec3ea14b</guid>
-            <pubDate>Mon, 12 Jul 2021 11:45:00 GMT</pubDate>
-            <description><![CDATA[<strong>Mon 12 Jul</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
-Mostly sunny<br>
-Max: 33°C<br>
-<br>
-<strong>Tue 13 Jul</strong><br>
+            <guid>ae64d755687dc2046856db798bc95173</guid>
+            <pubDate>Tue, 13 Jul 2021 05:15:00 GMT</pubDate>
+            <description><![CDATA[<strong>Tue 13 Jul</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
 Sunny<br>
-Min: 19°C<br>
 Max: 38°C<br>
 <br>
 <strong>Wed 14 Jul</strong><br>
@@ -86,17 +68,11 @@ Max: 35°C<br>
         <item>
             <title><![CDATA[Belgrade]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>6cf72d3cf676c5c0d0fea95cdaf2d455</guid>
-            <pubDate>Mon, 12 Jul 2021 11:45:00 GMT</pubDate>
-            <description><![CDATA[<strong>Mon 12 Jul</strong><br>
+            <guid>2ff2ec06ad14f6b51791c83f552cc75a</guid>
+            <pubDate>Tue, 13 Jul 2021 05:15:00 GMT</pubDate>
+            <description><![CDATA[<strong>Tue 13 Jul</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
 Sunny<br>
-Max: 34°C<br>
-<br>
-<strong>Tue 13 Jul</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
-Sunny<br>
-Min: 23°C<br>
 Max: 37°C<br>
 <br>
 <strong>Wed 14 Jul</strong><br>
@@ -109,17 +85,11 @@ Max: 38°C<br>
         <item>
             <title><![CDATA[Kragujevac]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>3f0e174eab0e8871d4a2b9d6403bc0de</guid>
-            <pubDate>Mon, 12 Jul 2021 11:45:00 GMT</pubDate>
-            <description><![CDATA[<strong>Mon 12 Jul</strong><br>
+            <guid>cbeb36eecd3938af758fa9628541a39b</guid>
+            <pubDate>Tue, 13 Jul 2021 05:15:00 GMT</pubDate>
+            <description><![CDATA[<strong>Tue 13 Jul</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
 Sunny<br>
-Max: 33°C<br>
-<br>
-<strong>Tue 13 Jul</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
-Sunny<br>
-Min: 19°C<br>
 Max: 38°C<br>
 <br>
 <strong>Wed 14 Jul</strong><br>
@@ -132,17 +102,11 @@ Max: 38°C<br>
         <item>
             <title><![CDATA[Negotin]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>2ad9172e2e3ba21b2a38b896b61fcfa7</guid>
-            <pubDate>Mon, 12 Jul 2021 11:45:00 GMT</pubDate>
-            <description><![CDATA[<strong>Mon 12 Jul</strong><br>
+            <guid>edb29c28f60c19f2981de76dda729d5a</guid>
+            <pubDate>Tue, 13 Jul 2021 05:15:00 GMT</pubDate>
+            <description><![CDATA[<strong>Tue 13 Jul</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
 Sunny<br>
-Max: 35°C<br>
-<br>
-<strong>Tue 13 Jul</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
-Sunny<br>
-Min: 18°C<br>
 Max: 36°C<br>
 <br>
 <strong>Wed 14 Jul</strong><br>
@@ -155,17 +119,11 @@ Max: 37°C<br>
         <item>
             <title><![CDATA[Zlatibor]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>3cb264fa1621e8adf8a3393528c0a67c</guid>
-            <pubDate>Mon, 12 Jul 2021 11:45:00 GMT</pubDate>
-            <description><![CDATA[<strong>Mon 12 Jul</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-6.png" alt="Possible rain showers" /><br>
-Possible rain showers<br>
-Max: 27°C<br>
-<br>
-<strong>Tue 13 Jul</strong><br>
+            <guid>e00a5bd4beea860f435fc9dc84e06ee2</guid>
+            <pubDate>Tue, 13 Jul 2021 05:15:00 GMT</pubDate>
+            <description><![CDATA[<strong>Tue 13 Jul</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
 Sunny<br>
-Min: 16°C<br>
 Max: 32°C<br>
 <br>
 <strong>Wed 14 Jul</strong><br>
@@ -178,17 +136,11 @@ Max: 31°C<br>
         <item>
             <title><![CDATA[Kraljevo]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>c7d9f130726d81cf4a1e7d3580e85442</guid>
-            <pubDate>Mon, 12 Jul 2021 11:45:00 GMT</pubDate>
-            <description><![CDATA[<strong>Mon 12 Jul</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
-Mostly sunny<br>
-Max: 33°C<br>
-<br>
-<strong>Tue 13 Jul</strong><br>
+            <guid>b294baa6869f61fa343abd5170dd70ef</guid>
+            <pubDate>Tue, 13 Jul 2021 05:15:00 GMT</pubDate>
+            <description><![CDATA[<strong>Tue 13 Jul</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
 Sunny<br>
-Min: 18°C<br>
 Max: 38°C<br>
 <br>
 <strong>Wed 14 Jul</strong><br>
@@ -201,17 +153,11 @@ Max: 38°C<br>
         <item>
             <title><![CDATA[Priština]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>68e406a57743b678061711a3d72dcab0</guid>
-            <pubDate>Mon, 12 Jul 2021 11:45:00 GMT</pubDate>
-            <description><![CDATA[<strong>Mon 12 Jul</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-4.png" alt="Partly cloudy" /><br>
-Partly cloudy<br>
-Max: 32°C<br>
-<br>
-<strong>Tue 13 Jul</strong><br>
+            <guid>8cf27ddd2e7a9b89cb444e765bbcd4af</guid>
+            <pubDate>Tue, 13 Jul 2021 05:15:00 GMT</pubDate>
+            <description><![CDATA[<strong>Tue 13 Jul</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
 Sunny<br>
-Min: 18°C<br>
 Max: 36°C<br>
 <br>
 <strong>Wed 14 Jul</strong><br>
@@ -224,17 +170,11 @@ Max: 38°C<br>
         <item>
             <title><![CDATA[Niš]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>574d00c637d34dfd43add7e1f66d954b</guid>
-            <pubDate>Mon, 12 Jul 2021 11:45:00 GMT</pubDate>
-            <description><![CDATA[<strong>Mon 12 Jul</strong><br>
+            <guid>d62ec173cae21353475ff0d6575f9898</guid>
+            <pubDate>Tue, 13 Jul 2021 05:15:00 GMT</pubDate>
+            <description><![CDATA[<strong>Tue 13 Jul</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
 Sunny<br>
-Max: 35°C<br>
-<br>
-<strong>Tue 13 Jul</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
-Sunny<br>
-Min: 20°C<br>
 Max: 38°C<br>
 <br>
 <strong>Wed 14 Jul</strong><br>
