@@ -4,7 +4,7 @@
         <title>RHMZ</title>
         <link>https://data.dvuckovic.com/fcast3.xml</link>
         <description>Weather Forecast for Serbia</description>
-        <lastBuildDate>Fri, 16 Jul 2021 11:33:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Jul 2021 12:15:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>fcast</generator>
         <language>en</language>
@@ -17,8 +17,8 @@
         <item>
             <title><![CDATA[Palić]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>c2763398741caf1a8bd75a5ec6b94246</guid>
-            <pubDate>Fri, 16 Jul 2021 11:33:00 GMT</pubDate>
+            <guid>208ba2fa1923b3ab38dfa6d07aec9b2b</guid>
+            <pubDate>Fri, 16 Jul 2021 12:15:00 GMT</pubDate>
             <description><![CDATA[<strong>Fri 16 Jul</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-5.png" alt="After noon rain showers" /><br>
 After noon rain showers<br>
@@ -40,8 +40,8 @@ Max: 31°C<br>
         <item>
             <title><![CDATA[Novi Sad]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>84b5c58dedce6547bdf6911ea1c9eae3</guid>
-            <pubDate>Fri, 16 Jul 2021 11:33:00 GMT</pubDate>
+            <guid>440f48c36a22a9e329bd5f2d148ff94d</guid>
+            <pubDate>Fri, 16 Jul 2021 12:15:00 GMT</pubDate>
             <description><![CDATA[<strong>Fri 16 Jul</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-5.png" alt="After noon rain showers" /><br>
 After noon rain showers<br>
@@ -63,8 +63,8 @@ Max: 29°C<br>
         <item>
             <title><![CDATA[Loznica]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>d54176e2b2687d518f6a5deaabafb108</guid>
-            <pubDate>Fri, 16 Jul 2021 11:33:00 GMT</pubDate>
+            <guid>33a053f682b20dc5251ee6dcab4aa41c</guid>
+            <pubDate>Fri, 16 Jul 2021 12:15:00 GMT</pubDate>
             <description><![CDATA[<strong>Fri 16 Jul</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-5.png" alt="After noon rain showers" /><br>
 After noon rain showers<br>
@@ -86,8 +86,8 @@ Max: 26°C<br>
         <item>
             <title><![CDATA[Belgrade]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>30b44f608e2bcce0d536348c671403bf</guid>
-            <pubDate>Fri, 16 Jul 2021 11:33:00 GMT</pubDate>
+            <guid>a306c6a9a46f85b1deee2206a6c1f0e7</guid>
+            <pubDate>Fri, 16 Jul 2021 12:15:00 GMT</pubDate>
             <description><![CDATA[<strong>Fri 16 Jul</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-5.png" alt="After noon rain showers" /><br>
 After noon rain showers<br>
@@ -109,8 +109,8 @@ Max: 29°C<br>
         <item>
             <title><![CDATA[Kragujevac]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>933dddb4cb6187ea768055c6d27b1bf6</guid>
-            <pubDate>Fri, 16 Jul 2021 11:33:00 GMT</pubDate>
+            <guid>76b88c40016e62d430ebca058f26c3c1</guid>
+            <pubDate>Fri, 16 Jul 2021 12:15:00 GMT</pubDate>
             <description><![CDATA[<strong>Fri 16 Jul</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-5.png" alt="After noon rain showers" /><br>
 After noon rain showers<br>
@@ -132,8 +132,8 @@ Max: 28°C<br>
         <item>
             <title><![CDATA[Negotin]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>62fd46c438f3c3c8a4d0d9e977f7510a</guid>
-            <pubDate>Fri, 16 Jul 2021 11:33:00 GMT</pubDate>
+            <guid>af1e80e1c1f473053a0be306b8d643ee</guid>
+            <pubDate>Fri, 16 Jul 2021 12:15:00 GMT</pubDate>
             <description><![CDATA[<strong>Fri 16 Jul</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-5.png" alt="After noon rain showers" /><br>
 After noon rain showers<br>
@@ -155,8 +155,8 @@ Max: 33°C<br>
         <item>
             <title><![CDATA[Zlatibor]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>65e20e1bd0c05d4b58248db242a659e1</guid>
-            <pubDate>Fri, 16 Jul 2021 11:33:00 GMT</pubDate>
+            <guid>ac7078fc54492f2f36be84b75bb03e4f</guid>
+            <pubDate>Fri, 16 Jul 2021 12:15:00 GMT</pubDate>
             <description><![CDATA[<strong>Fri 16 Jul</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-5.png" alt="After noon rain showers" /><br>
 After noon rain showers<br>
@@ -178,8 +178,8 @@ Max: 19°C<br>
         <item>
             <title><![CDATA[Kraljevo]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>a941b278fcab6f90064c9802317fffd2</guid>
-            <pubDate>Fri, 16 Jul 2021 11:33:00 GMT</pubDate>
+            <guid>2945a8ca1cdc7e39b34b350a93442dbb</guid>
+            <pubDate>Fri, 16 Jul 2021 12:15:00 GMT</pubDate>
             <description><![CDATA[<strong>Fri 16 Jul</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-5.png" alt="After noon rain showers" /><br>
 After noon rain showers<br>
@@ -201,8 +201,8 @@ Max: 28°C<br>
         <item>
             <title><![CDATA[Priština]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>381c6ab1f42f52407e6843bf466d3596</guid>
-            <pubDate>Fri, 16 Jul 2021 11:33:00 GMT</pubDate>
+            <guid>fe6ff3b901eaa02e953f530792361d79</guid>
+            <pubDate>Fri, 16 Jul 2021 12:15:00 GMT</pubDate>
             <description><![CDATA[<strong>Fri 16 Jul</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-5.png" alt="After noon rain showers" /><br>
 After noon rain showers<br>
@@ -224,8 +224,8 @@ Max: 28°C<br>
         <item>
             <title><![CDATA[Niš]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>7b7b24973d316834b25f1206f8be6878</guid>
-            <pubDate>Fri, 16 Jul 2021 11:33:00 GMT</pubDate>
+            <guid>70eb4b43328545696006174c328165f3</guid>
+            <pubDate>Fri, 16 Jul 2021 12:15:00 GMT</pubDate>
             <description><![CDATA[<strong>Fri 16 Jul</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-5.png" alt="After noon rain showers" /><br>
 After noon rain showers<br>
