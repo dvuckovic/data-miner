@@ -4,7 +4,7 @@
         <title>RHMZ</title>
         <link>https://data.dvuckovic.com/fcast3.xml</link>
         <description>Weather Forecast for Serbia</description>
-        <lastBuildDate>Sun, 18 Jul 2021 05:40:00 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 18 Jul 2021 09:15:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>fcast</generator>
         <language>en</language>
@@ -17,8 +17,8 @@
         <item>
             <title><![CDATA[Palić]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>a78dc52dc82f6e060465561ba4318e73</guid>
-            <pubDate>Sun, 18 Jul 2021 05:40:00 GMT</pubDate>
+            <guid>f027d189fc5e35aa49fd26749b7782f7</guid>
+            <pubDate>Sun, 18 Jul 2021 09:15:00 GMT</pubDate>
             <description><![CDATA[<strong>Sun 18 Jul</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-5.png" alt="After noon rain showers" /><br>
 After noon rain showers<br>
@@ -34,8 +34,8 @@ Max: 26°C<br>
         <item>
             <title><![CDATA[Novi Sad]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>b89b55c4948627f98df849605e993483</guid>
-            <pubDate>Sun, 18 Jul 2021 05:40:00 GMT</pubDate>
+            <guid>b044961c65c16c86fd17a7153651d92e</guid>
+            <pubDate>Sun, 18 Jul 2021 09:15:00 GMT</pubDate>
             <description><![CDATA[<strong>Sun 18 Jul</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-5.png" alt="After noon rain showers" /><br>
 After noon rain showers<br>
@@ -51,12 +51,12 @@ Max: 27°C<br>
         <item>
             <title><![CDATA[Loznica]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>79974aa81f428a3876d3c881297e4743</guid>
-            <pubDate>Sun, 18 Jul 2021 05:40:00 GMT</pubDate>
+            <guid>ec9ed24c2017f28bae84074225727d52</guid>
+            <pubDate>Sun, 18 Jul 2021 09:15:00 GMT</pubDate>
             <description><![CDATA[<strong>Sun 18 Jul</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-12.png" alt="Showers and thunder storm" /><br>
 Showers and thunder storm<br>
-Max: 26°C<br>
+Max: 25°C<br>
 <br>
 <strong>Mon 19 Jul</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-12.png" alt="Showers and thunder storm" /><br>
@@ -68,8 +68,8 @@ Max: 25°C<br>
         <item>
             <title><![CDATA[Belgrade]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>3bbf84a5e50d3d5d3a238554afab5f23</guid>
-            <pubDate>Sun, 18 Jul 2021 05:40:00 GMT</pubDate>
+            <guid>0e748dbcdb9adedb99e95c8a6f9380d7</guid>
+            <pubDate>Sun, 18 Jul 2021 09:15:00 GMT</pubDate>
             <description><![CDATA[<strong>Sun 18 Jul</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-5.png" alt="After noon rain showers" /><br>
 After noon rain showers<br>
@@ -85,8 +85,8 @@ Max: 27°C<br>
         <item>
             <title><![CDATA[Kragujevac]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>9a9c3b5945a1fd74823b68545a04248a</guid>
-            <pubDate>Sun, 18 Jul 2021 05:40:00 GMT</pubDate>
+            <guid>e4b4d5419808f8b492b460bdfab5d04c</guid>
+            <pubDate>Sun, 18 Jul 2021 09:15:00 GMT</pubDate>
             <description><![CDATA[<strong>Sun 18 Jul</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-5.png" alt="After noon rain showers" /><br>
 After noon rain showers<br>
@@ -102,8 +102,8 @@ Max: 27°C<br>
         <item>
             <title><![CDATA[Negotin]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>80868cf05987ed4bb4bb8444fd42e01a</guid>
-            <pubDate>Sun, 18 Jul 2021 05:40:00 GMT</pubDate>
+            <guid>b560a9c89197432acb64b3d1055424b9</guid>
+            <pubDate>Sun, 18 Jul 2021 09:15:00 GMT</pubDate>
             <description><![CDATA[<strong>Sun 18 Jul</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-4.png" alt="Partly cloudy" /><br>
 Partly cloudy<br>
@@ -119,8 +119,8 @@ Max: 32°C<br>
         <item>
             <title><![CDATA[Zlatibor]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>ac5528ee36d83db59f5e7fbeb5ca5a91</guid>
-            <pubDate>Sun, 18 Jul 2021 05:40:00 GMT</pubDate>
+            <guid>bd9a50ff254fe86e2f30505100131df8</guid>
+            <pubDate>Sun, 18 Jul 2021 09:15:00 GMT</pubDate>
             <description><![CDATA[<strong>Sun 18 Jul</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-12.png" alt="Showers and thunder storm" /><br>
 Showers and thunder storm<br>
@@ -136,8 +136,8 @@ Max: 20°C<br>
         <item>
             <title><![CDATA[Kraljevo]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>70df513c1d772f763925b97fd2d2e2ee</guid>
-            <pubDate>Sun, 18 Jul 2021 05:40:00 GMT</pubDate>
+            <guid>c5053115d70f2012b5d8b80afd361983</guid>
+            <pubDate>Sun, 18 Jul 2021 09:15:00 GMT</pubDate>
             <description><![CDATA[<strong>Sun 18 Jul</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-12.png" alt="Showers and thunder storm" /><br>
 Showers and thunder storm<br>
@@ -153,8 +153,8 @@ Max: 26°C<br>
         <item>
             <title><![CDATA[Priština]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>7a146fc9ce8ed14ec514fe955bcc4bb3</guid>
-            <pubDate>Sun, 18 Jul 2021 05:40:00 GMT</pubDate>
+            <guid>c70582e0dbde89149dcee6115ebbe46a</guid>
+            <pubDate>Sun, 18 Jul 2021 09:15:00 GMT</pubDate>
             <description><![CDATA[<strong>Sun 18 Jul</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-5.png" alt="After noon rain showers" /><br>
 After noon rain showers<br>
@@ -170,8 +170,8 @@ Max: 25°C<br>
         <item>
             <title><![CDATA[Niš]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>58b2fe007d8177cc42d435bb099c302a</guid>
-            <pubDate>Sun, 18 Jul 2021 05:40:00 GMT</pubDate>
+            <guid>a167750a85c9b1a859679799ba9678fe</guid>
+            <pubDate>Sun, 18 Jul 2021 09:15:00 GMT</pubDate>
             <description><![CDATA[<strong>Sun 18 Jul</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-5.png" alt="After noon rain showers" /><br>
 After noon rain showers<br>
