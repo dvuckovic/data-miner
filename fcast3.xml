@@ -4,7 +4,7 @@
         <title>RHMZ</title>
         <link>https://data.dvuckovic.com/fcast3.xml</link>
         <description>Weather Forecast for Serbia</description>
-        <lastBuildDate>Thu, 22 Jul 2021 12:03:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Jul 2021 05:15:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>fcast</generator>
         <language>en</language>
@@ -17,17 +17,11 @@
         <item>
             <title><![CDATA[Palić]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>a40da2fa3df6f41452f77e3070ece1bb</guid>
-            <pubDate>Thu, 22 Jul 2021 12:03:00 GMT</pubDate>
-            <description><![CDATA[<strong>Thu 22 Jul</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-4.png" alt="Partly cloudy" /><br>
-Partly cloudy<br>
-Max: 27°C<br>
-<br>
-<strong>Fri 23 Jul</strong><br>
+            <guid>fee66ebf59fde4b1872ab2c59039f3eb</guid>
+            <pubDate>Fri, 23 Jul 2021 05:15:00 GMT</pubDate>
+            <description><![CDATA[<strong>Fri 23 Jul</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
 Mostly sunny<br>
-Min: 15°C<br>
 Max: 28°C<br>
 <br>
 <strong>Sat 24 Jul</strong><br>
@@ -40,17 +34,11 @@ Max: 29°C<br>
         <item>
             <title><![CDATA[Novi Sad]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>43be4ac629c3b39135bf73fd5a643dd1</guid>
-            <pubDate>Thu, 22 Jul 2021 12:03:00 GMT</pubDate>
-            <description><![CDATA[<strong>Thu 22 Jul</strong><br>
+            <guid>6013ae44e6faff960b0c4de54f70f42b</guid>
+            <pubDate>Fri, 23 Jul 2021 05:15:00 GMT</pubDate>
+            <description><![CDATA[<strong>Fri 23 Jul</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
 Mostly sunny<br>
-Max: 27°C<br>
-<br>
-<strong>Fri 23 Jul</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
-Mostly sunny<br>
-Min: 15°C<br>
 Max: 28°C<br>
 <br>
 <strong>Sat 24 Jul</strong><br>
@@ -63,17 +51,11 @@ Max: 30°C<br>
         <item>
             <title><![CDATA[Loznica]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>a7db8879d6b5b3c2366799e6186d2f09</guid>
-            <pubDate>Thu, 22 Jul 2021 12:03:00 GMT</pubDate>
-            <description><![CDATA[<strong>Thu 22 Jul</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-4.png" alt="Partly cloudy" /><br>
-Partly cloudy<br>
-Max: 27°C<br>
-<br>
-<strong>Fri 23 Jul</strong><br>
+            <guid>e0e776da5a848467d822e6aaf184aec5</guid>
+            <pubDate>Fri, 23 Jul 2021 05:15:00 GMT</pubDate>
+            <description><![CDATA[<strong>Fri 23 Jul</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
 Mostly sunny<br>
-Min: 15°C<br>
 Max: 28°C<br>
 <br>
 <strong>Sat 24 Jul</strong><br>
@@ -86,17 +68,11 @@ Max: 30°C<br>
         <item>
             <title><![CDATA[Belgrade]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>d9fb551cbc7f24daebfa43d979935f70</guid>
-            <pubDate>Thu, 22 Jul 2021 12:03:00 GMT</pubDate>
-            <description><![CDATA[<strong>Thu 22 Jul</strong><br>
+            <guid>68c9b06044b7c1a9231f881d78164ce6</guid>
+            <pubDate>Fri, 23 Jul 2021 05:15:00 GMT</pubDate>
+            <description><![CDATA[<strong>Fri 23 Jul</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
 Mostly sunny<br>
-Max: 28°C<br>
-<br>
-<strong>Fri 23 Jul</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
-Mostly sunny<br>
-Min: 17°C<br>
 Max: 28°C<br>
 <br>
 <strong>Sat 24 Jul</strong><br>
@@ -109,17 +85,11 @@ Max: 30°C<br>
         <item>
             <title><![CDATA[Kragujevac]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>291cb96cbd5d460bad7f36987122bb8a</guid>
-            <pubDate>Thu, 22 Jul 2021 12:03:00 GMT</pubDate>
-            <description><![CDATA[<strong>Thu 22 Jul</strong><br>
+            <guid>6fe91e3cc01ea6de069306f76caef8bb</guid>
+            <pubDate>Fri, 23 Jul 2021 05:15:00 GMT</pubDate>
+            <description><![CDATA[<strong>Fri 23 Jul</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
 Mostly sunny<br>
-Max: 27°C<br>
-<br>
-<strong>Fri 23 Jul</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
-Mostly sunny<br>
-Min: 13°C<br>
 Max: 28°C<br>
 <br>
 <strong>Sat 24 Jul</strong><br>
@@ -132,17 +102,11 @@ Max: 29°C<br>
         <item>
             <title><![CDATA[Negotin]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>ce10be154598eb430c12754806c6c9e8</guid>
-            <pubDate>Thu, 22 Jul 2021 12:03:00 GMT</pubDate>
-            <description><![CDATA[<strong>Thu 22 Jul</strong><br>
+            <guid>8f3d3f6698e9c27614dd114f933a78f6</guid>
+            <pubDate>Fri, 23 Jul 2021 05:15:00 GMT</pubDate>
+            <description><![CDATA[<strong>Fri 23 Jul</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
 Mostly sunny<br>
-Max: 30°C<br>
-<br>
-<strong>Fri 23 Jul</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
-Mostly sunny<br>
-Min: 17°C<br>
 Max: 30°C<br>
 <br>
 <strong>Sat 24 Jul</strong><br>
@@ -155,17 +119,11 @@ Max: 31°C<br>
         <item>
             <title><![CDATA[Zlatibor]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>2fb7c32901cae54be4fa3c19e83e0092</guid>
-            <pubDate>Thu, 22 Jul 2021 12:03:00 GMT</pubDate>
-            <description><![CDATA[<strong>Thu 22 Jul</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-4.png" alt="Partly cloudy" /><br>
-Partly cloudy<br>
-Max: 22°C<br>
-<br>
-<strong>Fri 23 Jul</strong><br>
+            <guid>6cc021186ce448fe9bf0611aa9dbff84</guid>
+            <pubDate>Fri, 23 Jul 2021 05:15:00 GMT</pubDate>
+            <description><![CDATA[<strong>Fri 23 Jul</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-6.png" alt="Possible rain showers" /><br>
 Possible rain showers<br>
-Min: 11°C<br>
 Max: 22°C<br>
 <br>
 <strong>Sat 24 Jul</strong><br>
@@ -178,17 +136,11 @@ Max: 24°C<br>
         <item>
             <title><![CDATA[Kraljevo]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>421b70cb0bb73a9db4d403f3e554cc36</guid>
-            <pubDate>Thu, 22 Jul 2021 12:03:00 GMT</pubDate>
-            <description><![CDATA[<strong>Thu 22 Jul</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
-Mostly sunny<br>
-Max: 27°C<br>
-<br>
-<strong>Fri 23 Jul</strong><br>
+            <guid>45d8c9fcb9281bdc3f7945719a380c93</guid>
+            <pubDate>Fri, 23 Jul 2021 05:15:00 GMT</pubDate>
+            <description><![CDATA[<strong>Fri 23 Jul</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-4.png" alt="Partly cloudy" /><br>
 Partly cloudy<br>
-Min: 14°C<br>
 Max: 28°C<br>
 <br>
 <strong>Sat 24 Jul</strong><br>
@@ -201,17 +153,11 @@ Max: 30°C<br>
         <item>
             <title><![CDATA[Priština]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>8679111d003ba16dec3612e86393ae8b</guid>
-            <pubDate>Thu, 22 Jul 2021 12:03:00 GMT</pubDate>
-            <description><![CDATA[<strong>Thu 22 Jul</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
-Mostly sunny<br>
-Max: 27°C<br>
-<br>
-<strong>Fri 23 Jul</strong><br>
+            <guid>40a32231f90656b54eee8b74ad38ebd5</guid>
+            <pubDate>Fri, 23 Jul 2021 05:15:00 GMT</pubDate>
+            <description><![CDATA[<strong>Fri 23 Jul</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-4.png" alt="Partly cloudy" /><br>
 Partly cloudy<br>
-Min: 12°C<br>
 Max: 27°C<br>
 <br>
 <strong>Sat 24 Jul</strong><br>
@@ -224,17 +170,11 @@ Max: 28°C<br>
         <item>
             <title><![CDATA[Niš]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>1d90ecd2e138e97d9d78ba826903e38d</guid>
-            <pubDate>Thu, 22 Jul 2021 12:03:00 GMT</pubDate>
-            <description><![CDATA[<strong>Thu 22 Jul</strong><br>
+            <guid>2c559fba0de0425bf6649582e13d2314</guid>
+            <pubDate>Fri, 23 Jul 2021 05:15:00 GMT</pubDate>
+            <description><![CDATA[<strong>Fri 23 Jul</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
 Mostly sunny<br>
-Max: 28°C<br>
-<br>
-<strong>Fri 23 Jul</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
-Mostly sunny<br>
-Min: 14°C<br>
 Max: 29°C<br>
 <br>
 <strong>Sat 24 Jul</strong><br>
