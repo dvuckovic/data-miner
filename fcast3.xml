@@ -4,7 +4,7 @@
         <title>RHMZ</title>
         <link>https://data.dvuckovic.com/fcast3.xml</link>
         <description>Weather Forecast for Serbia</description>
-        <lastBuildDate>Wed, 28 Jul 2021 12:27:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Jul 2021 05:20:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>fcast</generator>
         <language>en</language>
@@ -17,17 +17,11 @@
         <item>
             <title><![CDATA[Palić]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>3d9e0f6806bb4586a81abff9395caaa2</guid>
-            <pubDate>Wed, 28 Jul 2021 12:27:00 GMT</pubDate>
-            <description><![CDATA[<strong>Wed 28 Jul</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
-Mostly sunny<br>
-Max: 36°C<br>
-<br>
-<strong>Thu 29 Jul</strong><br>
+            <guid>70cc845bb3ee0b9b5bde684e1fc2017a</guid>
+            <pubDate>Thu, 29 Jul 2021 05:20:00 GMT</pubDate>
+            <description><![CDATA[<strong>Thu 29 Jul</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-4.png" alt="Partly cloudy" /><br>
 Partly cloudy<br>
-Min: 23°C<br>
 Max: 33°C<br>
 <br>
 <strong>Fri 30 Jul</strong><br>
@@ -40,17 +34,11 @@ Max: 35°C<br>
         <item>
             <title><![CDATA[Novi Sad]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>c6af781cda9a4b75ed6cee7f939bf9db</guid>
-            <pubDate>Wed, 28 Jul 2021 12:27:00 GMT</pubDate>
-            <description><![CDATA[<strong>Wed 28 Jul</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
-Mostly sunny<br>
-Max: 36°C<br>
-<br>
-<strong>Thu 29 Jul</strong><br>
+            <guid>9f29b14d75c828518303461ee1791bc5</guid>
+            <pubDate>Thu, 29 Jul 2021 05:20:00 GMT</pubDate>
+            <description><![CDATA[<strong>Thu 29 Jul</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-4.png" alt="Partly cloudy" /><br>
 Partly cloudy<br>
-Min: 21°C<br>
 Max: 34°C<br>
 <br>
 <strong>Fri 30 Jul</strong><br>
@@ -63,18 +51,12 @@ Max: 35°C<br>
         <item>
             <title><![CDATA[Loznica]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>cf038ec6482fe6ba62300dbb60e35ab0</guid>
-            <pubDate>Wed, 28 Jul 2021 12:27:00 GMT</pubDate>
-            <description><![CDATA[<strong>Wed 28 Jul</strong><br>
+            <guid>9660c0f10dd24a3dfe50c8b81cd0968b</guid>
+            <pubDate>Thu, 29 Jul 2021 05:20:00 GMT</pubDate>
+            <description><![CDATA[<strong>Thu 29 Jul</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
 Mostly sunny<br>
-Max: 37°C<br>
-<br>
-<strong>Thu 29 Jul</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
-Mostly sunny<br>
-Min: 21°C<br>
-Max: 35°C<br>
+Max: 36°C<br>
 <br>
 <strong>Fri 30 Jul</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
@@ -86,17 +68,11 @@ Max: 35°C<br>
         <item>
             <title><![CDATA[Belgrade]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>20d5ddaba6011c18b500bb503eb74ba4</guid>
-            <pubDate>Wed, 28 Jul 2021 12:27:00 GMT</pubDate>
-            <description><![CDATA[<strong>Wed 28 Jul</strong><br>
+            <guid>25624edae0f4a6c6599ccbeab80e901b</guid>
+            <pubDate>Thu, 29 Jul 2021 05:20:00 GMT</pubDate>
+            <description><![CDATA[<strong>Thu 29 Jul</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
 Mostly sunny<br>
-Max: 37°C<br>
-<br>
-<strong>Thu 29 Jul</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
-Mostly sunny<br>
-Min: 24°C<br>
 Max: 35°C<br>
 <br>
 <strong>Fri 30 Jul</strong><br>
@@ -109,18 +85,12 @@ Max: 36°C<br>
         <item>
             <title><![CDATA[Kragujevac]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>7262150a70e31dd34e6b2270a4d7d5ee</guid>
-            <pubDate>Wed, 28 Jul 2021 12:27:00 GMT</pubDate>
-            <description><![CDATA[<strong>Wed 28 Jul</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
-Mostly sunny<br>
-Max: 37°C<br>
-<br>
-<strong>Thu 29 Jul</strong><br>
+            <guid>821a312e9b0e023b25a44a1b204b99b1</guid>
+            <pubDate>Thu, 29 Jul 2021 05:20:00 GMT</pubDate>
+            <description><![CDATA[<strong>Thu 29 Jul</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
 Sunny<br>
-Min: 20°C<br>
-Max: 36°C<br>
+Max: 37°C<br>
 <br>
 <strong>Fri 30 Jul</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
@@ -132,17 +102,11 @@ Max: 36°C<br>
         <item>
             <title><![CDATA[Negotin]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>42e862601aed832f9437ad0cca75910b</guid>
-            <pubDate>Wed, 28 Jul 2021 12:27:00 GMT</pubDate>
-            <description><![CDATA[<strong>Wed 28 Jul</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-6.png" alt="Possible rain showers" /><br>
-Possible rain showers<br>
-Max: 37°C<br>
-<br>
-<strong>Thu 29 Jul</strong><br>
+            <guid>671236b547f6f7034c9d95fe2fd5dedf</guid>
+            <pubDate>Thu, 29 Jul 2021 05:20:00 GMT</pubDate>
+            <description><![CDATA[<strong>Thu 29 Jul</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
 Sunny<br>
-Min: 20°C<br>
 Max: 39°C<br>
 <br>
 <strong>Fri 30 Jul</strong><br>
@@ -155,17 +119,11 @@ Max: 38°C<br>
         <item>
             <title><![CDATA[Zlatibor]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>2579d621d88611d3a147cd0d7719b860</guid>
-            <pubDate>Wed, 28 Jul 2021 12:27:00 GMT</pubDate>
-            <description><![CDATA[<strong>Wed 28 Jul</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-5.png" alt="After noon rain showers" /><br>
-After noon rain showers<br>
-Max: 32°C<br>
-<br>
-<strong>Thu 29 Jul</strong><br>
+            <guid>986c05e9e1fd8430b0fc3ad5b3500ef5</guid>
+            <pubDate>Thu, 29 Jul 2021 05:20:00 GMT</pubDate>
+            <description><![CDATA[<strong>Thu 29 Jul</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
 Mostly sunny<br>
-Min: 19°C<br>
 Max: 32°C<br>
 <br>
 <strong>Fri 30 Jul</strong><br>
@@ -178,17 +136,11 @@ Max: 31°C<br>
         <item>
             <title><![CDATA[Kraljevo]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>4729eae70b0bf0552736f6526fce1548</guid>
-            <pubDate>Wed, 28 Jul 2021 12:27:00 GMT</pubDate>
-            <description><![CDATA[<strong>Wed 28 Jul</strong><br>
+            <guid>34584fe717e605b8d59b2e12c0d83bfe</guid>
+            <pubDate>Thu, 29 Jul 2021 05:20:00 GMT</pubDate>
+            <description><![CDATA[<strong>Thu 29 Jul</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
 Mostly sunny<br>
-Max: 37°C<br>
-<br>
-<strong>Thu 29 Jul</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
-Mostly sunny<br>
-Min: 19°C<br>
 Max: 37°C<br>
 <br>
 <strong>Fri 30 Jul</strong><br>
@@ -201,18 +153,12 @@ Max: 37°C<br>
         <item>
             <title><![CDATA[Priština]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>e41f6aa80e4241caa7b931970b3ed275</guid>
-            <pubDate>Wed, 28 Jul 2021 12:27:00 GMT</pubDate>
-            <description><![CDATA[<strong>Wed 28 Jul</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-6.png" alt="Possible rain showers" /><br>
-Possible rain showers<br>
-Max: 37°C<br>
-<br>
-<strong>Thu 29 Jul</strong><br>
+            <guid>74d7bc448e10c3f8f5dab62c53fe4434</guid>
+            <pubDate>Thu, 29 Jul 2021 05:20:00 GMT</pubDate>
+            <description><![CDATA[<strong>Thu 29 Jul</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
 Sunny<br>
-Min: 20°C<br>
-Max: 36°C<br>
+Max: 37°C<br>
 <br>
 <strong>Fri 30 Jul</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
@@ -224,17 +170,11 @@ Max: 37°C<br>
         <item>
             <title><![CDATA[Niš]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>7ad9c79b5eef4589a7b63fa680b72fbc</guid>
-            <pubDate>Wed, 28 Jul 2021 12:27:00 GMT</pubDate>
-            <description><![CDATA[<strong>Wed 28 Jul</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
-Mostly sunny<br>
-Max: 38°C<br>
-<br>
-<strong>Thu 29 Jul</strong><br>
+            <guid>c44810f9e30773e79918360f3a75e32b</guid>
+            <pubDate>Thu, 29 Jul 2021 05:20:00 GMT</pubDate>
+            <description><![CDATA[<strong>Thu 29 Jul</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
 Sunny<br>
-Min: 20°C<br>
 Max: 39°C<br>
 <br>
 <strong>Fri 30 Jul</strong><br>
