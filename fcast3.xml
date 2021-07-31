@@ -4,7 +4,7 @@
         <title>RHMZ</title>
         <link>https://data.dvuckovic.com/fcast3.xml</link>
         <description>Weather Forecast for Serbia</description>
-        <lastBuildDate>Fri, 30 Jul 2021 12:21:00 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 31 Jul 2021 06:50:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>fcast</generator>
         <language>en</language>
@@ -17,8 +17,8 @@
         <item>
             <title><![CDATA[Palić]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>acc1d06d46588b20d408f6b50fd20275</guid>
-            <pubDate>Fri, 30 Jul 2021 12:21:00 GMT</pubDate>
+            <guid>e5a419d0db6e2f82575c3498ec9a37b2</guid>
+            <pubDate>Sat, 31 Jul 2021 06:50:00 GMT</pubDate>
             <description><![CDATA[<strong>Sat 31 Jul</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-6.png" alt="Possible rain showers" /><br>
 Possible rain showers<br>
@@ -34,8 +34,8 @@ Max: 36°C<br>
         <item>
             <title><![CDATA[Novi Sad]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>4ee2b25ff5c8a39458fdabd131926310</guid>
-            <pubDate>Fri, 30 Jul 2021 12:21:00 GMT</pubDate>
+            <guid>708c2bf91eb49f90cac0ef01729442dd</guid>
+            <pubDate>Sat, 31 Jul 2021 06:50:00 GMT</pubDate>
             <description><![CDATA[<strong>Sat 31 Jul</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
 Mostly sunny<br>
@@ -51,8 +51,8 @@ Max: 36°C<br>
         <item>
             <title><![CDATA[Loznica]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>29ef51f39c14d4241634527265d25738</guid>
-            <pubDate>Fri, 30 Jul 2021 12:21:00 GMT</pubDate>
+            <guid>46c643a9c6656cf4ce3e74a5f7071a0b</guid>
+            <pubDate>Sat, 31 Jul 2021 06:50:00 GMT</pubDate>
             <description><![CDATA[<strong>Sat 31 Jul</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
 Sunny<br>
@@ -68,8 +68,8 @@ Max: 37°C<br>
         <item>
             <title><![CDATA[Belgrade]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>4b7e3048e552f03e05392f22238ddcf8</guid>
-            <pubDate>Fri, 30 Jul 2021 12:21:00 GMT</pubDate>
+            <guid>575157995ee7c7cf9d0b6981e15a3b00</guid>
+            <pubDate>Sat, 31 Jul 2021 06:50:00 GMT</pubDate>
             <description><![CDATA[<strong>Sat 31 Jul</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
 Sunny<br>
@@ -85,8 +85,8 @@ Max: 37°C<br>
         <item>
             <title><![CDATA[Kragujevac]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>656aa207f95b779b9d233e40da080f65</guid>
-            <pubDate>Fri, 30 Jul 2021 12:21:00 GMT</pubDate>
+            <guid>d916443f09f361cc8b59db5769a43e39</guid>
+            <pubDate>Sat, 31 Jul 2021 06:50:00 GMT</pubDate>
             <description><![CDATA[<strong>Sat 31 Jul</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
 Sunny<br>
@@ -102,8 +102,8 @@ Max: 37°C<br>
         <item>
             <title><![CDATA[Negotin]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>1fecdf2d01c20600c10b8b1150e00287</guid>
-            <pubDate>Fri, 30 Jul 2021 12:21:00 GMT</pubDate>
+            <guid>7e62b58895ed6f83559766b168761ccc</guid>
+            <pubDate>Sat, 31 Jul 2021 06:50:00 GMT</pubDate>
             <description><![CDATA[<strong>Sat 31 Jul</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
 Sunny<br>
@@ -119,8 +119,8 @@ Max: 38°C<br>
         <item>
             <title><![CDATA[Zlatibor]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>a9fd332b8fb63a1228f2471bdb9cb2a9</guid>
-            <pubDate>Fri, 30 Jul 2021 12:21:00 GMT</pubDate>
+            <guid>7557a8be5847a43331bc68133854b5e5</guid>
+            <pubDate>Sat, 31 Jul 2021 06:50:00 GMT</pubDate>
             <description><![CDATA[<strong>Sat 31 Jul</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-6.png" alt="Possible rain showers" /><br>
 Possible rain showers<br>
@@ -136,8 +136,8 @@ Max: 32°C<br>
         <item>
             <title><![CDATA[Kraljevo]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>47490ec29822523660d5e46fdbfa562d</guid>
-            <pubDate>Fri, 30 Jul 2021 12:21:00 GMT</pubDate>
+            <guid>6057ed288c385dbc1554d89e468a57ca</guid>
+            <pubDate>Sat, 31 Jul 2021 06:50:00 GMT</pubDate>
             <description><![CDATA[<strong>Sat 31 Jul</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
 Sunny<br>
@@ -153,8 +153,8 @@ Max: 38°C<br>
         <item>
             <title><![CDATA[Priština]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>02b00bf7c2bc4b50ab0eea011e10e59a</guid>
-            <pubDate>Fri, 30 Jul 2021 12:21:00 GMT</pubDate>
+            <guid>9d76d8f6580914d7e4674e1ef34e7fe0</guid>
+            <pubDate>Sat, 31 Jul 2021 06:50:00 GMT</pubDate>
             <description><![CDATA[<strong>Sat 31 Jul</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
 Sunny<br>
@@ -170,8 +170,8 @@ Max: 38°C<br>
         <item>
             <title><![CDATA[Niš]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>7d193b173a87e89e571e2c38865edab8</guid>
-            <pubDate>Fri, 30 Jul 2021 12:21:00 GMT</pubDate>
+            <guid>988af8aec47e128338ebb55abe6f005d</guid>
+            <pubDate>Sat, 31 Jul 2021 06:50:00 GMT</pubDate>
             <description><![CDATA[<strong>Sat 31 Jul</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
 Sunny<br>
