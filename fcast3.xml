@@ -4,7 +4,7 @@
         <title>RHMZ</title>
         <link>https://data.dvuckovic.com/fcast3.xml</link>
         <description>Weather Forecast for Serbia</description>
-        <lastBuildDate>Sat, 31 Jul 2021 06:50:00 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 31 Jul 2021 09:30:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>fcast</generator>
         <language>en</language>
@@ -17,12 +17,12 @@
         <item>
             <title><![CDATA[Palić]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>e5a419d0db6e2f82575c3498ec9a37b2</guid>
-            <pubDate>Sat, 31 Jul 2021 06:50:00 GMT</pubDate>
+            <guid>e0fb94e04e9cb5abbc8feb133ff436a5</guid>
+            <pubDate>Sat, 31 Jul 2021 09:30:00 GMT</pubDate>
             <description><![CDATA[<strong>Sat 31 Jul</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-6.png" alt="Possible rain showers" /><br>
 Possible rain showers<br>
-Max: 35°C<br>
+Max: 34°C<br>
 <br>
 <strong>Sun 1 Aug</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-6.png" alt="Possible rain showers" /><br>
@@ -34,11 +34,11 @@ Max: 36°C<br>
         <item>
             <title><![CDATA[Novi Sad]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>708c2bf91eb49f90cac0ef01729442dd</guid>
-            <pubDate>Sat, 31 Jul 2021 06:50:00 GMT</pubDate>
+            <guid>9c5d93e7020c17b70a66084939ed13bf</guid>
+            <pubDate>Sat, 31 Jul 2021 09:30:00 GMT</pubDate>
             <description><![CDATA[<strong>Sat 31 Jul</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
-Mostly sunny<br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
+Sunny<br>
 Max: 35°C<br>
 <br>
 <strong>Sun 1 Aug</strong><br>
@@ -51,11 +51,11 @@ Max: 36°C<br>
         <item>
             <title><![CDATA[Loznica]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>46c643a9c6656cf4ce3e74a5f7071a0b</guid>
-            <pubDate>Sat, 31 Jul 2021 06:50:00 GMT</pubDate>
+            <guid>6ae61a4cfbe33b5a560e1b9c90291da8</guid>
+            <pubDate>Sat, 31 Jul 2021 09:30:00 GMT</pubDate>
             <description><![CDATA[<strong>Sat 31 Jul</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
-Sunny<br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-5.png" alt="After noon rain showers" /><br>
+After noon rain showers<br>
 Max: 36°C<br>
 <br>
 <strong>Sun 1 Aug</strong><br>
@@ -68,8 +68,8 @@ Max: 37°C<br>
         <item>
             <title><![CDATA[Belgrade]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>575157995ee7c7cf9d0b6981e15a3b00</guid>
-            <pubDate>Sat, 31 Jul 2021 06:50:00 GMT</pubDate>
+            <guid>17f7fb5e209c901e93ad11f4ca3d023a</guid>
+            <pubDate>Sat, 31 Jul 2021 09:30:00 GMT</pubDate>
             <description><![CDATA[<strong>Sat 31 Jul</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
 Sunny<br>
@@ -85,11 +85,11 @@ Max: 37°C<br>
         <item>
             <title><![CDATA[Kragujevac]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>d916443f09f361cc8b59db5769a43e39</guid>
-            <pubDate>Sat, 31 Jul 2021 06:50:00 GMT</pubDate>
+            <guid>89e7849fe9e7e6ee25dbb958cd2002ce</guid>
+            <pubDate>Sat, 31 Jul 2021 09:30:00 GMT</pubDate>
             <description><![CDATA[<strong>Sat 31 Jul</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
-Sunny<br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
+Mostly sunny<br>
 Max: 36°C<br>
 <br>
 <strong>Sun 1 Aug</strong><br>
@@ -102,8 +102,8 @@ Max: 37°C<br>
         <item>
             <title><![CDATA[Negotin]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>7e62b58895ed6f83559766b168761ccc</guid>
-            <pubDate>Sat, 31 Jul 2021 06:50:00 GMT</pubDate>
+            <guid>752ffbc6ea778199d28972a7a213eb4a</guid>
+            <pubDate>Sat, 31 Jul 2021 09:30:00 GMT</pubDate>
             <description><![CDATA[<strong>Sat 31 Jul</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
 Sunny<br>
@@ -119,11 +119,11 @@ Max: 38°C<br>
         <item>
             <title><![CDATA[Zlatibor]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>7557a8be5847a43331bc68133854b5e5</guid>
-            <pubDate>Sat, 31 Jul 2021 06:50:00 GMT</pubDate>
+            <guid>a9dc7d94f03a3cd595ad0802d4913001</guid>
+            <pubDate>Sat, 31 Jul 2021 09:30:00 GMT</pubDate>
             <description><![CDATA[<strong>Sat 31 Jul</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-6.png" alt="Possible rain showers" /><br>
-Possible rain showers<br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-5.png" alt="After noon rain showers" /><br>
+After noon rain showers<br>
 Max: 31°C<br>
 <br>
 <strong>Sun 1 Aug</strong><br>
@@ -136,11 +136,11 @@ Max: 32°C<br>
         <item>
             <title><![CDATA[Kraljevo]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>6057ed288c385dbc1554d89e468a57ca</guid>
-            <pubDate>Sat, 31 Jul 2021 06:50:00 GMT</pubDate>
+            <guid>32b5ed15b3acb157eb3942ae30a8eef5</guid>
+            <pubDate>Sat, 31 Jul 2021 09:30:00 GMT</pubDate>
             <description><![CDATA[<strong>Sat 31 Jul</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
-Sunny<br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-6.png" alt="Possible rain showers" /><br>
+Possible rain showers<br>
 Max: 36°C<br>
 <br>
 <strong>Sun 1 Aug</strong><br>
@@ -153,11 +153,11 @@ Max: 38°C<br>
         <item>
             <title><![CDATA[Priština]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>9d76d8f6580914d7e4674e1ef34e7fe0</guid>
-            <pubDate>Sat, 31 Jul 2021 06:50:00 GMT</pubDate>
+            <guid>71fb2f57feea2f3ae6590b619a8543a0</guid>
+            <pubDate>Sat, 31 Jul 2021 09:30:00 GMT</pubDate>
             <description><![CDATA[<strong>Sat 31 Jul</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
-Sunny<br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
+Mostly sunny<br>
 Max: 38°C<br>
 <br>
 <strong>Sun 1 Aug</strong><br>
@@ -170,11 +170,11 @@ Max: 38°C<br>
         <item>
             <title><![CDATA[Niš]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>988af8aec47e128338ebb55abe6f005d</guid>
-            <pubDate>Sat, 31 Jul 2021 06:50:00 GMT</pubDate>
+            <guid>54c6b934a46021df8fb84965b78b48d6</guid>
+            <pubDate>Sat, 31 Jul 2021 09:30:00 GMT</pubDate>
             <description><![CDATA[<strong>Sat 31 Jul</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
-Sunny<br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-6.png" alt="Possible rain showers" /><br>
+Possible rain showers<br>
 Max: 38°C<br>
 <br>
 <strong>Sun 1 Aug</strong><br>
