@@ -4,7 +4,7 @@
         <title>RHMZ</title>
         <link>https://data.dvuckovic.com/fcast3.xml</link>
         <description>Weather Forecast for Serbia</description>
-        <lastBuildDate>Wed, 04 Aug 2021 05:15:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 Aug 2021 10:30:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>fcast</generator>
         <language>en</language>
@@ -17,8 +17,8 @@
         <item>
             <title><![CDATA[Palić]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>f768ba8fc01653360b62d9aece6b317c</guid>
-            <pubDate>Wed, 04 Aug 2021 05:15:00 GMT</pubDate>
+            <guid>fb79602ebf0284b8bd57c977de25dd88</guid>
+            <pubDate>Wed, 04 Aug 2021 10:30:00 GMT</pubDate>
             <description><![CDATA[<strong>Wed 4 Aug</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-4.png" alt="Partly cloudy" /><br>
 Partly cloudy<br>
@@ -34,8 +34,8 @@ Max: 31°C<br>
         <item>
             <title><![CDATA[Novi Sad]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>bd3f734c58a378fc86930497758bb7d2</guid>
-            <pubDate>Wed, 04 Aug 2021 05:15:00 GMT</pubDate>
+            <guid>dfb407b631121077be3c8cfdaf245d9d</guid>
+            <pubDate>Wed, 04 Aug 2021 10:30:00 GMT</pubDate>
             <description><![CDATA[<strong>Wed 4 Aug</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
 Mostly sunny<br>
@@ -51,8 +51,8 @@ Max: 29°C<br>
         <item>
             <title><![CDATA[Loznica]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>b26aae42d4cc7168e13bb31d56e899f3</guid>
-            <pubDate>Wed, 04 Aug 2021 05:15:00 GMT</pubDate>
+            <guid>85e2e89e94e861a887e94744904c9ac0</guid>
+            <pubDate>Wed, 04 Aug 2021 10:30:00 GMT</pubDate>
             <description><![CDATA[<strong>Wed 4 Aug</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
 Mostly sunny<br>
@@ -68,8 +68,8 @@ Max: 27°C<br>
         <item>
             <title><![CDATA[Belgrade]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>5a67d720e2fe2ebb169ea221bf618dee</guid>
-            <pubDate>Wed, 04 Aug 2021 05:15:00 GMT</pubDate>
+            <guid>5d1b8a3caeb510a7bf90f7dc35d49dd2</guid>
+            <pubDate>Wed, 04 Aug 2021 10:30:00 GMT</pubDate>
             <description><![CDATA[<strong>Wed 4 Aug</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
 Mostly sunny<br>
@@ -85,12 +85,12 @@ Max: 31°C<br>
         <item>
             <title><![CDATA[Kragujevac]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>9cd08bf54ec39616c11eaafdcda44817</guid>
-            <pubDate>Wed, 04 Aug 2021 05:15:00 GMT</pubDate>
+            <guid>77927a26437d101ec9d6a28cbed3a74f</guid>
+            <pubDate>Wed, 04 Aug 2021 10:30:00 GMT</pubDate>
             <description><![CDATA[<strong>Wed 4 Aug</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
 Mostly sunny<br>
-Max: 33°C<br>
+Max: 34°C<br>
 <br>
 <strong>Thu 5 Aug</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-5.png" alt="After noon rain showers" /><br>
@@ -102,8 +102,8 @@ Max: 34°C<br>
         <item>
             <title><![CDATA[Negotin]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>41df2d391348f431bdc333808d5f747a</guid>
-            <pubDate>Wed, 04 Aug 2021 05:15:00 GMT</pubDate>
+            <guid>e43347a2eb9e65e14a14cd9a62dfe58f</guid>
+            <pubDate>Wed, 04 Aug 2021 10:30:00 GMT</pubDate>
             <description><![CDATA[<strong>Wed 4 Aug</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
 Mostly sunny<br>
@@ -119,8 +119,8 @@ Max: 36°C<br>
         <item>
             <title><![CDATA[Zlatibor]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>232621d9e39e6f6cae9afe1b88b4a80d</guid>
-            <pubDate>Wed, 04 Aug 2021 05:15:00 GMT</pubDate>
+            <guid>924dd89f4a061d1b2cbc30004febcc9a</guid>
+            <pubDate>Wed, 04 Aug 2021 10:30:00 GMT</pubDate>
             <description><![CDATA[<strong>Wed 4 Aug</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
 Mostly sunny<br>
@@ -136,8 +136,8 @@ Max: 27°C<br>
         <item>
             <title><![CDATA[Kraljevo]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>cf7f521aa60a0dba853ab32ccd831c3e</guid>
-            <pubDate>Wed, 04 Aug 2021 05:15:00 GMT</pubDate>
+            <guid>4fdf6c402abd33e46673667efe0bfd7b</guid>
+            <pubDate>Wed, 04 Aug 2021 10:30:00 GMT</pubDate>
             <description><![CDATA[<strong>Wed 4 Aug</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
 Mostly sunny<br>
@@ -153,8 +153,8 @@ Max: 35°C<br>
         <item>
             <title><![CDATA[Priština]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>5edee7f392650cf641f39b35aa33e58c</guid>
-            <pubDate>Wed, 04 Aug 2021 05:15:00 GMT</pubDate>
+            <guid>f5febf515f897837756ab2459f6d5bec</guid>
+            <pubDate>Wed, 04 Aug 2021 10:30:00 GMT</pubDate>
             <description><![CDATA[<strong>Wed 4 Aug</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
 Mostly sunny<br>
@@ -170,8 +170,8 @@ Max: 36°C<br>
         <item>
             <title><![CDATA[Niš]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>9161e2ef1558a9b0750240317b6706e1</guid>
-            <pubDate>Wed, 04 Aug 2021 05:15:00 GMT</pubDate>
+            <guid>0c70a1e61bc4c3547e22cf9ebd0ba471</guid>
+            <pubDate>Wed, 04 Aug 2021 10:30:00 GMT</pubDate>
             <description><![CDATA[<strong>Wed 4 Aug</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
 Mostly sunny<br>
