@@ -4,7 +4,7 @@
         <title>RHMZ</title>
         <link>https://data.dvuckovic.com/fcast3.xml</link>
         <description>Weather Forecast for Serbia</description>
-        <lastBuildDate>Wed, 04 Aug 2021 12:51:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Aug 2021 10:35:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>fcast</generator>
         <language>en</language>
@@ -17,8 +17,8 @@
         <item>
             <title><![CDATA[Palić]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>bed1c155ba5a5742b007cad6d5bfced7</guid>
-            <pubDate>Wed, 04 Aug 2021 12:51:00 GMT</pubDate>
+            <guid>736446dca63497cf992d4d34b8a10856</guid>
+            <pubDate>Thu, 05 Aug 2021 10:35:00 GMT</pubDate>
             <description><![CDATA[<strong>Thu 5 Aug</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-5.png" alt="After noon rain showers" /><br>
 After noon rain showers<br>
@@ -34,8 +34,8 @@ Max: 27°C<br>
         <item>
             <title><![CDATA[Novi Sad]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>e254afa0c9b4a86a5d73e1410476764a</guid>
-            <pubDate>Wed, 04 Aug 2021 12:51:00 GMT</pubDate>
+            <guid>5310c91281543858addc6cbe0764d67f</guid>
+            <pubDate>Thu, 05 Aug 2021 10:35:00 GMT</pubDate>
             <description><![CDATA[<strong>Thu 5 Aug</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-5.png" alt="After noon rain showers" /><br>
 After noon rain showers<br>
@@ -51,12 +51,12 @@ Max: 26°C<br>
         <item>
             <title><![CDATA[Loznica]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>73722be60f25f0c2decc7cac194d8860</guid>
-            <pubDate>Wed, 04 Aug 2021 12:51:00 GMT</pubDate>
+            <guid>3e3e27e1195a4069b95d909831169350</guid>
+            <pubDate>Thu, 05 Aug 2021 10:35:00 GMT</pubDate>
             <description><![CDATA[<strong>Thu 5 Aug</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-5.png" alt="After noon rain showers" /><br>
 After noon rain showers<br>
-Max: 27°C<br>
+Max: 28°C<br>
 <br>
 <strong>Fri 6 Aug</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-10.png" alt="Mostly cloudy" /><br>
@@ -68,8 +68,8 @@ Max: 28°C<br>
         <item>
             <title><![CDATA[Belgrade]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>3f60c22f14c6b86fa6f29b684e156d66</guid>
-            <pubDate>Wed, 04 Aug 2021 12:51:00 GMT</pubDate>
+            <guid>a152cb8b79029562dff7ff5da900441e</guid>
+            <pubDate>Thu, 05 Aug 2021 10:35:00 GMT</pubDate>
             <description><![CDATA[<strong>Thu 5 Aug</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-5.png" alt="After noon rain showers" /><br>
 After noon rain showers<br>
@@ -85,8 +85,8 @@ Max: 27°C<br>
         <item>
             <title><![CDATA[Kragujevac]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>a98756f8a3cda51b435e7fc8b73aff98</guid>
-            <pubDate>Wed, 04 Aug 2021 12:51:00 GMT</pubDate>
+            <guid>b09c69516c402dcc4c2f554e2306371a</guid>
+            <pubDate>Thu, 05 Aug 2021 10:35:00 GMT</pubDate>
             <description><![CDATA[<strong>Thu 5 Aug</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-5.png" alt="After noon rain showers" /><br>
 After noon rain showers<br>
@@ -102,8 +102,8 @@ Max: 26°C<br>
         <item>
             <title><![CDATA[Negotin]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>5d5ab8f729579516622cae81ab50fc25</guid>
-            <pubDate>Wed, 04 Aug 2021 12:51:00 GMT</pubDate>
+            <guid>e661dee418def54b814ff3763afcfdf9</guid>
+            <pubDate>Thu, 05 Aug 2021 10:35:00 GMT</pubDate>
             <description><![CDATA[<strong>Thu 5 Aug</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-4.png" alt="Partly cloudy" /><br>
 Partly cloudy<br>
@@ -119,12 +119,12 @@ Max: 29°C<br>
         <item>
             <title><![CDATA[Zlatibor]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>263f68649d30a00aaf576c389bf0f783</guid>
-            <pubDate>Wed, 04 Aug 2021 12:51:00 GMT</pubDate>
+            <guid>591dca4e038f8314f9f732456e29eca6</guid>
+            <pubDate>Thu, 05 Aug 2021 10:35:00 GMT</pubDate>
             <description><![CDATA[<strong>Thu 5 Aug</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-5.png" alt="After noon rain showers" /><br>
-After noon rain showers<br>
-Max: 26°C<br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-18.png" alt="Wind gusts" /><br>
+Wind gusts<br>
+Max: 29°C<br>
 <br>
 <strong>Fri 6 Aug</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-5.png" alt="After noon rain showers" /><br>
@@ -136,8 +136,8 @@ Max: 21°C<br>
         <item>
             <title><![CDATA[Kraljevo]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>31272d2b3883ea1435898a780e87241d</guid>
-            <pubDate>Wed, 04 Aug 2021 12:51:00 GMT</pubDate>
+            <guid>dbc4c2ff51c22e879cb29e83b3280e08</guid>
+            <pubDate>Thu, 05 Aug 2021 10:35:00 GMT</pubDate>
             <description><![CDATA[<strong>Thu 5 Aug</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-5.png" alt="After noon rain showers" /><br>
 After noon rain showers<br>
@@ -153,11 +153,11 @@ Max: 27°C<br>
         <item>
             <title><![CDATA[Priština]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>37ded8287ea26bda1b9e8ee599f738f2</guid>
-            <pubDate>Wed, 04 Aug 2021 12:51:00 GMT</pubDate>
+            <guid>969d8dea14ec06e2aff7ae3643b08bd3</guid>
+            <pubDate>Thu, 05 Aug 2021 10:35:00 GMT</pubDate>
             <description><![CDATA[<strong>Thu 5 Aug</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-10.png" alt="Mostly cloudy" /><br>
-Mostly cloudy<br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-4.png" alt="Partly cloudy" /><br>
+Partly cloudy<br>
 Max: 36°C<br>
 <br>
 <strong>Fri 6 Aug</strong><br>
@@ -170,8 +170,8 @@ Max: 26°C<br>
         <item>
             <title><![CDATA[Niš]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>8cfca64be40a0ba6990611b431e4b82e</guid>
-            <pubDate>Wed, 04 Aug 2021 12:51:00 GMT</pubDate>
+            <guid>f5e8371b2a84d83ff81b0015fc8fad35</guid>
+            <pubDate>Thu, 05 Aug 2021 10:35:00 GMT</pubDate>
             <description><![CDATA[<strong>Thu 5 Aug</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-4.png" alt="Partly cloudy" /><br>
 Partly cloudy<br>
