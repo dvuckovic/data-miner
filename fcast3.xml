@@ -4,7 +4,7 @@
         <title>RHMZ</title>
         <link>https://data.dvuckovic.com/fcast3.xml</link>
         <description>Weather Forecast for Serbia</description>
-        <lastBuildDate>Sun, 08 Aug 2021 09:15:00 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 Aug 2021 12:39:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>fcast</generator>
         <language>en</language>
@@ -17,42 +17,54 @@
         <item>
             <title><![CDATA[Palić]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>f47e8537dc36eb80538be8d16563a0f5</guid>
-            <pubDate>Sun, 08 Aug 2021 09:15:00 GMT</pubDate>
+            <guid>7377b7d1ec551cc6e500b216c25f8ad7</guid>
+            <pubDate>Sun, 08 Aug 2021 12:39:00 GMT</pubDate>
             <description><![CDATA[<strong>Sun 8 Aug</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-6.png" alt="Possible rain showers" /><br>
 Possible rain showers<br>
 Max: 35°C<br>
 <br>
 <strong>Mon 9 Aug</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
-Sunny<br>
-Min: 19°C<br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
+Mostly sunny<br>
+Min: 21°C<br>
 Max: 32°C<br>
+<br>
+<strong>Tue 10 Aug</strong><br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
+Mostly sunny<br>
+Min: 16°C<br>
+Max: 31°C<br>
 ]]></description>
         </item>
         <item>
             <title><![CDATA[Novi Sad]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>f2163d5662a7b113a689b07db834f1f4</guid>
-            <pubDate>Sun, 08 Aug 2021 09:15:00 GMT</pubDate>
+            <guid>6e45cb81c946e513bb7b41425a8ef2a7</guid>
+            <pubDate>Sun, 08 Aug 2021 12:39:00 GMT</pubDate>
             <description><![CDATA[<strong>Sun 8 Aug</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-4.png" alt="Partly cloudy" /><br>
 Partly cloudy<br>
 Max: 35°C<br>
 <br>
 <strong>Mon 9 Aug</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
-Sunny<br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
+Mostly sunny<br>
 Min: 19°C<br>
+Max: 32°C<br>
+<br>
+<strong>Tue 10 Aug</strong><br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
+Mostly sunny<br>
+Min: 17°C<br>
 Max: 32°C<br>
 ]]></description>
         </item>
         <item>
             <title><![CDATA[Loznica]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>9cad40e667cf33798e7f84e2859e31d5</guid>
-            <pubDate>Sun, 08 Aug 2021 09:15:00 GMT</pubDate>
+            <guid>b1bfef15ba06854c07ebe54ba6935933</guid>
+            <pubDate>Sun, 08 Aug 2021 12:39:00 GMT</pubDate>
             <description><![CDATA[<strong>Sun 8 Aug</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
 Sunny<br>
@@ -63,64 +75,88 @@ Max: 36°C<br>
 Mostly sunny<br>
 Min: 20°C<br>
 Max: 33°C<br>
+<br>
+<strong>Tue 10 Aug</strong><br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
+Mostly sunny<br>
+Min: 19°C<br>
+Max: 33°C<br>
 ]]></description>
         </item>
         <item>
             <title><![CDATA[Belgrade]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>19288af02a412ff437c99a48399f4944</guid>
-            <pubDate>Sun, 08 Aug 2021 09:15:00 GMT</pubDate>
+            <guid>848383badb7c25d88953ad12c07baeb7</guid>
+            <pubDate>Sun, 08 Aug 2021 12:39:00 GMT</pubDate>
             <description><![CDATA[<strong>Sun 8 Aug</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
 Sunny<br>
 Max: 36°C<br>
 <br>
 <strong>Mon 9 Aug</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
-Sunny<br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
+Mostly sunny<br>
 Min: 22°C<br>
 Max: 33°C<br>
+<br>
+<strong>Tue 10 Aug</strong><br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
+Mostly sunny<br>
+Min: 22°C<br>
+Max: 32°C<br>
 ]]></description>
         </item>
         <item>
             <title><![CDATA[Kragujevac]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>a4884c1ed2f9ffd1c12e47797ad0833c</guid>
-            <pubDate>Sun, 08 Aug 2021 09:15:00 GMT</pubDate>
+            <guid>1a44b0b721da8fd2e9f7391b8c177720</guid>
+            <pubDate>Sun, 08 Aug 2021 12:39:00 GMT</pubDate>
             <description><![CDATA[<strong>Sun 8 Aug</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
 Sunny<br>
 Max: 36°C<br>
 <br>
 <strong>Mon 9 Aug</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
-Sunny<br>
-Min: 18°C<br>
-Max: 35°C<br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
+Mostly sunny<br>
+Min: 19°C<br>
+Max: 34°C<br>
+<br>
+<strong>Tue 10 Aug</strong><br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
+Mostly sunny<br>
+Min: 19°C<br>
+Max: 34°C<br>
 ]]></description>
         </item>
         <item>
             <title><![CDATA[Negotin]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>6426c852c6fc530a378cbfa8bae548eb</guid>
-            <pubDate>Sun, 08 Aug 2021 09:15:00 GMT</pubDate>
+            <guid>a1399d8a3a52c6c0ed09a9e2dd56a7d5</guid>
+            <pubDate>Sun, 08 Aug 2021 12:39:00 GMT</pubDate>
             <description><![CDATA[<strong>Sun 8 Aug</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
 Sunny<br>
 Max: 35°C<br>
 <br>
 <strong>Mon 9 Aug</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
-Sunny<br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
+Mostly sunny<br>
 Min: 18°C<br>
 Max: 37°C<br>
+<br>
+<strong>Tue 10 Aug</strong><br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
+Mostly sunny<br>
+Min: 20°C<br>
+Max: 36°C<br>
 ]]></description>
         </item>
         <item>
             <title><![CDATA[Zlatibor]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>d86e3bb62c362dd8fdf8f1064172a925</guid>
-            <pubDate>Sun, 08 Aug 2021 09:15:00 GMT</pubDate>
+            <guid>3c8550e852f49e337ad6f94ea99e3318</guid>
+            <pubDate>Sun, 08 Aug 2021 12:39:00 GMT</pubDate>
             <description><![CDATA[<strong>Sun 8 Aug</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
 Sunny<br>
@@ -131,13 +167,19 @@ Max: 32°C<br>
 Possible rain showers<br>
 Min: 18°C<br>
 Max: 30°C<br>
+<br>
+<strong>Tue 10 Aug</strong><br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-5.png" alt="After noon rain showers" /><br>
+After noon rain showers<br>
+Min: 17°C<br>
+Max: 29°C<br>
 ]]></description>
         </item>
         <item>
             <title><![CDATA[Kraljevo]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>4c600ae57b2d7c3bc17de44c3e3dffbd</guid>
-            <pubDate>Sun, 08 Aug 2021 09:15:00 GMT</pubDate>
+            <guid>c6ae7f79b94fe5fd0474ab06079e4b99</guid>
+            <pubDate>Sun, 08 Aug 2021 12:39:00 GMT</pubDate>
             <description><![CDATA[<strong>Sun 8 Aug</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
 Sunny<br>
@@ -147,14 +189,20 @@ Max: 36°C<br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
 Mostly sunny<br>
 Min: 18°C<br>
+Max: 33°C<br>
+<br>
+<strong>Tue 10 Aug</strong><br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-4.png" alt="Partly cloudy" /><br>
+Partly cloudy<br>
+Min: 19°C<br>
 Max: 34°C<br>
 ]]></description>
         </item>
         <item>
             <title><![CDATA[Priština]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>5591d8c8a08201e2796a893fd27d4fca</guid>
-            <pubDate>Sun, 08 Aug 2021 09:15:00 GMT</pubDate>
+            <guid>825031483a84c3320748ae323989650a</guid>
+            <pubDate>Sun, 08 Aug 2021 12:39:00 GMT</pubDate>
             <description><![CDATA[<strong>Sun 8 Aug</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
 Sunny<br>
@@ -165,23 +213,35 @@ Max: 36°C<br>
 Mostly sunny<br>
 Min: 17°C<br>
 Max: 37°C<br>
+<br>
+<strong>Tue 10 Aug</strong><br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-4.png" alt="Partly cloudy" /><br>
+Partly cloudy<br>
+Min: 17°C<br>
+Max: 36°C<br>
 ]]></description>
         </item>
         <item>
             <title><![CDATA[Niš]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>e8004f0bccc49020fa2ccce52b815502</guid>
-            <pubDate>Sun, 08 Aug 2021 09:15:00 GMT</pubDate>
+            <guid>a5f2c63306e85e8f6fb9850deafc4e72</guid>
+            <pubDate>Sun, 08 Aug 2021 12:39:00 GMT</pubDate>
             <description><![CDATA[<strong>Sun 8 Aug</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
 Sunny<br>
 Max: 37°C<br>
 <br>
 <strong>Mon 9 Aug</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
-Sunny<br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
+Mostly sunny<br>
 Min: 19°C<br>
 Max: 37°C<br>
+<br>
+<strong>Tue 10 Aug</strong><br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-4.png" alt="Partly cloudy" /><br>
+Partly cloudy<br>
+Min: 19°C<br>
+Max: 36°C<br>
 ]]></description>
         </item>
     </channel>
