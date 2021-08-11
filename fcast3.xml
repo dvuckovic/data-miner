@@ -4,7 +4,7 @@
         <title>RHMZ</title>
         <link>https://data.dvuckovic.com/fcast3.xml</link>
         <description>Weather Forecast for Serbia</description>
-        <lastBuildDate>Tue, 10 Aug 2021 12:12:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Aug 2021 10:15:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>fcast</generator>
         <language>en</language>
@@ -17,11 +17,11 @@
         <item>
             <title><![CDATA[Palić]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>c5d60737cb7ca257a0a134cf848ab915</guid>
-            <pubDate>Tue, 10 Aug 2021 12:12:00 GMT</pubDate>
+            <guid>2d8f73c36fd31777563db9c6a847799d</guid>
+            <pubDate>Wed, 11 Aug 2021 10:15:00 GMT</pubDate>
             <description><![CDATA[<strong>Wed 11 Aug</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
-Mostly sunny<br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
+Sunny<br>
 Max: 34°C<br>
 <br>
 <strong>Thu 12 Aug</strong><br>
@@ -34,11 +34,11 @@ Max: 32°C<br>
         <item>
             <title><![CDATA[Novi Sad]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>6f7932eca94ce25adae02b5e4ad120be</guid>
-            <pubDate>Tue, 10 Aug 2021 12:12:00 GMT</pubDate>
+            <guid>8ea067aca0e38cf5d8383e656695a41d</guid>
+            <pubDate>Wed, 11 Aug 2021 10:15:00 GMT</pubDate>
             <description><![CDATA[<strong>Wed 11 Aug</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
-Mostly sunny<br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
+Sunny<br>
 Max: 34°C<br>
 <br>
 <strong>Thu 12 Aug</strong><br>
@@ -51,11 +51,11 @@ Max: 32°C<br>
         <item>
             <title><![CDATA[Loznica]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>ad573fd97a240e612622080409a91a05</guid>
-            <pubDate>Tue, 10 Aug 2021 12:12:00 GMT</pubDate>
+            <guid>0cd92ab1cc5524ce110113f5d59017d6</guid>
+            <pubDate>Wed, 11 Aug 2021 10:15:00 GMT</pubDate>
             <description><![CDATA[<strong>Wed 11 Aug</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-4.png" alt="Partly cloudy" /><br>
-Partly cloudy<br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
+Mostly sunny<br>
 Max: 33°C<br>
 <br>
 <strong>Thu 12 Aug</strong><br>
@@ -68,11 +68,11 @@ Max: 32°C<br>
         <item>
             <title><![CDATA[Belgrade]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>cc3ce6e7af856acf26ce3b1732d3600e</guid>
-            <pubDate>Tue, 10 Aug 2021 12:12:00 GMT</pubDate>
+            <guid>06b9ea674c58ce3dea3bcfcbbdc14029</guid>
+            <pubDate>Wed, 11 Aug 2021 10:15:00 GMT</pubDate>
             <description><![CDATA[<strong>Wed 11 Aug</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
-Mostly sunny<br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
+Sunny<br>
 Max: 34°C<br>
 <br>
 <strong>Thu 12 Aug</strong><br>
@@ -85,11 +85,11 @@ Max: 32°C<br>
         <item>
             <title><![CDATA[Kragujevac]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>b106f2a18e2513bacff68cd8d6c22f84</guid>
-            <pubDate>Tue, 10 Aug 2021 12:12:00 GMT</pubDate>
+            <guid>0a26c375c05c7ff36493cbd8b01ad818</guid>
+            <pubDate>Wed, 11 Aug 2021 10:15:00 GMT</pubDate>
             <description><![CDATA[<strong>Wed 11 Aug</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-6.png" alt="Possible rain showers" /><br>
-Possible rain showers<br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
+Mostly sunny<br>
 Max: 33°C<br>
 <br>
 <strong>Thu 12 Aug</strong><br>
@@ -102,11 +102,11 @@ Max: 32°C<br>
         <item>
             <title><![CDATA[Negotin]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>98a1a7699c91acc51ab1326f71ba1bfb</guid>
-            <pubDate>Tue, 10 Aug 2021 12:12:00 GMT</pubDate>
+            <guid>a6f5804bb4a892631cb7a8cc112df69e</guid>
+            <pubDate>Wed, 11 Aug 2021 10:15:00 GMT</pubDate>
             <description><![CDATA[<strong>Wed 11 Aug</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
-Mostly sunny<br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
+Sunny<br>
 Max: 34°C<br>
 <br>
 <strong>Thu 12 Aug</strong><br>
@@ -119,8 +119,8 @@ Max: 34°C<br>
         <item>
             <title><![CDATA[Zlatibor]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>0ca0cd3c2adf815336dc9bc07004fd21</guid>
-            <pubDate>Tue, 10 Aug 2021 12:12:00 GMT</pubDate>
+            <guid>952e78fce4d3bc8a55b7d3d41d5dcc44</guid>
+            <pubDate>Wed, 11 Aug 2021 10:15:00 GMT</pubDate>
             <description><![CDATA[<strong>Wed 11 Aug</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-5.png" alt="After noon rain showers" /><br>
 After noon rain showers<br>
@@ -136,8 +136,8 @@ Max: 27°C<br>
         <item>
             <title><![CDATA[Kraljevo]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>c9b32276e274f8bf8166ae39d1df5336</guid>
-            <pubDate>Tue, 10 Aug 2021 12:12:00 GMT</pubDate>
+            <guid>93c744e93e9e88d9592bde4504845ae6</guid>
+            <pubDate>Wed, 11 Aug 2021 10:15:00 GMT</pubDate>
             <description><![CDATA[<strong>Wed 11 Aug</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-6.png" alt="Possible rain showers" /><br>
 Possible rain showers<br>
@@ -153,8 +153,8 @@ Max: 33°C<br>
         <item>
             <title><![CDATA[Priština]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>0516c45e5afe916e82c8e6108dd37e8a</guid>
-            <pubDate>Tue, 10 Aug 2021 12:12:00 GMT</pubDate>
+            <guid>b44a3b56f59e4e96a2c4ea9a7b7d9638</guid>
+            <pubDate>Wed, 11 Aug 2021 10:15:00 GMT</pubDate>
             <description><![CDATA[<strong>Wed 11 Aug</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-5.png" alt="After noon rain showers" /><br>
 After noon rain showers<br>
@@ -170,12 +170,12 @@ Max: 33°C<br>
         <item>
             <title><![CDATA[Niš]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>85f7381190236c385a98b0e63a3d2f9c</guid>
-            <pubDate>Tue, 10 Aug 2021 12:12:00 GMT</pubDate>
+            <guid>2108f6c7a1bbc7f2c4dab03ed09f4352</guid>
+            <pubDate>Wed, 11 Aug 2021 10:15:00 GMT</pubDate>
             <description><![CDATA[<strong>Wed 11 Aug</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-6.png" alt="Possible rain showers" /><br>
 Possible rain showers<br>
-Max: 34°C<br>
+Max: 33°C<br>
 <br>
 <strong>Thu 12 Aug</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
