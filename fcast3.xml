@@ -4,7 +4,7 @@
         <title>RHMZ</title>
         <link>https://data.dvuckovic.com/fcast3.xml</link>
         <description>Weather Forecast for Serbia</description>
-        <lastBuildDate>Fri, 13 Aug 2021 04:50:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Aug 2021 12:06:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>fcast</generator>
         <language>en</language>
@@ -17,42 +17,54 @@
         <item>
             <title><![CDATA[Palić]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>0e8f917667bf362fcc911f1e53019922</guid>
-            <pubDate>Fri, 13 Aug 2021 04:50:00 GMT</pubDate>
+            <guid>caedf732800e0ff470b98cf87cd9b1fe</guid>
+            <pubDate>Fri, 13 Aug 2021 12:06:00 GMT</pubDate>
             <description><![CDATA[<strong>Fri 13 Aug</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
 Mostly sunny<br>
 Max: 32°C<br>
 <br>
 <strong>Sat 14 Aug</strong><br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
+Mostly sunny<br>
+Min: 16°C<br>
+Max: 34°C<br>
+<br>
+<strong>Sun 15 Aug</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
 Sunny<br>
-Min: 17°C<br>
-Max: 33°C<br>
+Min: 16°C<br>
+Max: 35°C<br>
 ]]></description>
         </item>
         <item>
             <title><![CDATA[Novi Sad]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>485c3ac1bb228fb9eb720037578b0109</guid>
-            <pubDate>Fri, 13 Aug 2021 04:50:00 GMT</pubDate>
+            <guid>2c1d822fd1140e7ab1da6b33a5acbae2</guid>
+            <pubDate>Fri, 13 Aug 2021 12:06:00 GMT</pubDate>
             <description><![CDATA[<strong>Fri 13 Aug</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
 Mostly sunny<br>
 Max: 33°C<br>
 <br>
 <strong>Sat 14 Aug</strong><br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
+Mostly sunny<br>
+Min: 18°C<br>
+Max: 35°C<br>
+<br>
+<strong>Sun 15 Aug</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
 Sunny<br>
-Min: 17°C<br>
-Max: 34°C<br>
+Min: 19°C<br>
+Max: 35°C<br>
 ]]></description>
         </item>
         <item>
             <title><![CDATA[Loznica]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>c1f5a191d6940718c76286573e244b36</guid>
-            <pubDate>Fri, 13 Aug 2021 04:50:00 GMT</pubDate>
+            <guid>00172f0bc32721a6f8a42f66512dfbd0</guid>
+            <pubDate>Fri, 13 Aug 2021 12:06:00 GMT</pubDate>
             <description><![CDATA[<strong>Fri 13 Aug</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
 Sunny<br>
@@ -62,14 +74,20 @@ Max: 34°C<br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
 Sunny<br>
 Min: 17°C<br>
-Max: 34°C<br>
+Max: 35°C<br>
+<br>
+<strong>Sun 15 Aug</strong><br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
+Sunny<br>
+Min: 19°C<br>
+Max: 36°C<br>
 ]]></description>
         </item>
         <item>
             <title><![CDATA[Belgrade]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>86a7f0802e7aac18383a1710883b8d4a</guid>
-            <pubDate>Fri, 13 Aug 2021 04:50:00 GMT</pubDate>
+            <guid>2bd3f7a4f280729a52dcb814f888f6ee</guid>
+            <pubDate>Fri, 13 Aug 2021 12:06:00 GMT</pubDate>
             <description><![CDATA[<strong>Fri 13 Aug</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
 Mostly sunny<br>
@@ -80,13 +98,19 @@ Max: 33°C<br>
 Sunny<br>
 Min: 20°C<br>
 Max: 34°C<br>
+<br>
+<strong>Sun 15 Aug</strong><br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
+Sunny<br>
+Min: 22°C<br>
+Max: 36°C<br>
 ]]></description>
         </item>
         <item>
             <title><![CDATA[Kragujevac]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>ed0b63ebaa0358d80701eb9895fa5ca9</guid>
-            <pubDate>Fri, 13 Aug 2021 04:50:00 GMT</pubDate>
+            <guid>179574846946ad30a82ac9ad03a224da</guid>
+            <pubDate>Fri, 13 Aug 2021 12:06:00 GMT</pubDate>
             <description><![CDATA[<strong>Fri 13 Aug</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
 Sunny<br>
@@ -95,15 +119,21 @@ Max: 33°C<br>
 <strong>Sat 14 Aug</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
 Sunny<br>
-Min: 14°C<br>
+Min: 15°C<br>
 Max: 34°C<br>
+<br>
+<strong>Sun 15 Aug</strong><br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
+Sunny<br>
+Min: 17°C<br>
+Max: 36°C<br>
 ]]></description>
         </item>
         <item>
             <title><![CDATA[Negotin]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>ae3bac6a1749e624ed66f807258d4fa3</guid>
-            <pubDate>Fri, 13 Aug 2021 04:50:00 GMT</pubDate>
+            <guid>1450435d88731c9343d7ca1f2f1506ca</guid>
+            <pubDate>Fri, 13 Aug 2021 12:06:00 GMT</pubDate>
             <description><![CDATA[<strong>Fri 13 Aug</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
 Mostly sunny<br>
@@ -112,15 +142,21 @@ Max: 33°C<br>
 <strong>Sat 14 Aug</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
 Sunny<br>
-Min: 16°C<br>
-Max: 34°C<br>
+Min: 17°C<br>
+Max: 35°C<br>
+<br>
+<strong>Sun 15 Aug</strong><br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
+Sunny<br>
+Min: 17°C<br>
+Max: 36°C<br>
 ]]></description>
         </item>
         <item>
             <title><![CDATA[Zlatibor]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>92c5b605932481fbb32d7db3e03698de</guid>
-            <pubDate>Fri, 13 Aug 2021 04:50:00 GMT</pubDate>
+            <guid>dc3ac5cb7cf6bbed7cd70f92d109fa46</guid>
+            <pubDate>Fri, 13 Aug 2021 12:06:00 GMT</pubDate>
             <description><![CDATA[<strong>Fri 13 Aug</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
 Sunny<br>
@@ -131,13 +167,19 @@ Max: 28°C<br>
 Sunny<br>
 Min: 15°C<br>
 Max: 29°C<br>
+<br>
+<strong>Sun 15 Aug</strong><br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
+Sunny<br>
+Min: 16°C<br>
+Max: 30°C<br>
 ]]></description>
         </item>
         <item>
             <title><![CDATA[Kraljevo]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>d04f51e7664dc87027af91319106407a</guid>
-            <pubDate>Fri, 13 Aug 2021 04:50:00 GMT</pubDate>
+            <guid>2a7530b51b556340a24b2d257d3b83e9</guid>
+            <pubDate>Fri, 13 Aug 2021 12:06:00 GMT</pubDate>
             <description><![CDATA[<strong>Fri 13 Aug</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
 Sunny<br>
@@ -148,13 +190,19 @@ Max: 33°C<br>
 Sunny<br>
 Min: 15°C<br>
 Max: 34°C<br>
+<br>
+<strong>Sun 15 Aug</strong><br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
+Sunny<br>
+Min: 16°C<br>
+Max: 36°C<br>
 ]]></description>
         </item>
         <item>
             <title><![CDATA[Priština]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>689d8adfc5441893025daa0de022943e</guid>
-            <pubDate>Fri, 13 Aug 2021 04:50:00 GMT</pubDate>
+            <guid>72ae7c66a41f70c92517fb86b250c46d</guid>
+            <pubDate>Fri, 13 Aug 2021 12:06:00 GMT</pubDate>
             <description><![CDATA[<strong>Fri 13 Aug</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
 Sunny<br>
@@ -163,15 +211,21 @@ Max: 33°C<br>
 <strong>Sat 14 Aug</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
 Sunny<br>
+Min: 16°C<br>
+Max: 34°C<br>
+<br>
+<strong>Sun 15 Aug</strong><br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
+Sunny<br>
 Min: 15°C<br>
-Max: 33°C<br>
+Max: 35°C<br>
 ]]></description>
         </item>
         <item>
             <title><![CDATA[Niš]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>5a04ef85fd9e20bd7aa524f9a26201c5</guid>
-            <pubDate>Fri, 13 Aug 2021 04:50:00 GMT</pubDate>
+            <guid>7e08e79aef899ae314f66ee3e6b974c9</guid>
+            <pubDate>Fri, 13 Aug 2021 12:06:00 GMT</pubDate>
             <description><![CDATA[<strong>Fri 13 Aug</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
 Mostly sunny<br>
@@ -182,6 +236,12 @@ Max: 33°C<br>
 Sunny<br>
 Min: 16°C<br>
 Max: 35°C<br>
+<br>
+<strong>Sun 15 Aug</strong><br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
+Sunny<br>
+Min: 17°C<br>
+Max: 37°C<br>
 ]]></description>
         </item>
     </channel>
