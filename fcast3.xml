@@ -4,7 +4,7 @@
         <title>RHMZ</title>
         <link>https://data.dvuckovic.com/fcast3.xml</link>
         <description>Weather Forecast for Serbia</description>
-        <lastBuildDate>Tue, 24 Aug 2021 05:10:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Aug 2021 10:40:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>fcast</generator>
         <language>en</language>
@@ -17,12 +17,12 @@
         <item>
             <title><![CDATA[Palić]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>14c6d5e0ec9df0437596b36cf0ad0203</guid>
-            <pubDate>Tue, 24 Aug 2021 05:10:00 GMT</pubDate>
+            <guid>6f5e955fa105ed84cfcf3bf54b6e51c8</guid>
+            <pubDate>Tue, 24 Aug 2021 10:40:00 GMT</pubDate>
             <description><![CDATA[<strong>Tue 24 Aug</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-8.png" alt="Possible rain" /><br>
-Possible rain<br>
-Max: 22°C<br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
+Mostly sunny<br>
+Max: 24°C<br>
 <br>
 <strong>Wed 25 Aug</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-8.png" alt="Possible rain" /><br>
@@ -34,11 +34,11 @@ Max: 21°C<br>
         <item>
             <title><![CDATA[Novi Sad]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>de632ba97d446c32ee2177f40a8b4fb4</guid>
-            <pubDate>Tue, 24 Aug 2021 05:10:00 GMT</pubDate>
+            <guid>13d1d1abcb60a339504da8fd175af7da</guid>
+            <pubDate>Tue, 24 Aug 2021 10:40:00 GMT</pubDate>
             <description><![CDATA[<strong>Tue 24 Aug</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-8.png" alt="Possible rain" /><br>
-Possible rain<br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-6.png" alt="Possible rain showers" /><br>
+Possible rain showers<br>
 Max: 24°C<br>
 <br>
 <strong>Wed 25 Aug</strong><br>
@@ -51,11 +51,11 @@ Max: 22°C<br>
         <item>
             <title><![CDATA[Loznica]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>97ccb37a9c25221b3f01a1d2fc65a1c1</guid>
-            <pubDate>Tue, 24 Aug 2021 05:10:00 GMT</pubDate>
+            <guid>f06a052d2e02e8331e8a19a39d51e0b8</guid>
+            <pubDate>Tue, 24 Aug 2021 10:40:00 GMT</pubDate>
             <description><![CDATA[<strong>Tue 24 Aug</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-9.png" alt="Rain" /><br>
-Rain<br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-6.png" alt="Possible rain showers" /><br>
+Possible rain showers<br>
 Max: 23°C<br>
 <br>
 <strong>Wed 25 Aug</strong><br>
@@ -68,11 +68,11 @@ Max: 20°C<br>
         <item>
             <title><![CDATA[Belgrade]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>f6fb44a2c4c6799fd3e528d99c0daf4d</guid>
-            <pubDate>Tue, 24 Aug 2021 05:10:00 GMT</pubDate>
+            <guid>93bf9e81e6e847a79a7640c061368518</guid>
+            <pubDate>Tue, 24 Aug 2021 10:40:00 GMT</pubDate>
             <description><![CDATA[<strong>Tue 24 Aug</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-9.png" alt="Rain" /><br>
-Rain<br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-10.png" alt="Mostly cloudy" /><br>
+Mostly cloudy<br>
 Max: 23°C<br>
 <br>
 <strong>Wed 25 Aug</strong><br>
@@ -85,11 +85,11 @@ Max: 22°C<br>
         <item>
             <title><![CDATA[Kragujevac]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>94c748ffa1f6a2dd195718db7611c023</guid>
-            <pubDate>Tue, 24 Aug 2021 05:10:00 GMT</pubDate>
+            <guid>7ccc0cc274140677af8cbca32f7fe649</guid>
+            <pubDate>Tue, 24 Aug 2021 10:40:00 GMT</pubDate>
             <description><![CDATA[<strong>Tue 24 Aug</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-6.png" alt="Possible rain showers" /><br>
-Possible rain showers<br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-10.png" alt="Mostly cloudy" /><br>
+Mostly cloudy<br>
 Max: 24°C<br>
 <br>
 <strong>Wed 25 Aug</strong><br>
@@ -102,11 +102,11 @@ Max: 23°C<br>
         <item>
             <title><![CDATA[Negotin]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>1c92ce50f43d025d971c663802e1571d</guid>
-            <pubDate>Tue, 24 Aug 2021 05:10:00 GMT</pubDate>
+            <guid>cffa6b3383c77f600a6657add0fc6eb2</guid>
+            <pubDate>Tue, 24 Aug 2021 10:40:00 GMT</pubDate>
             <description><![CDATA[<strong>Tue 24 Aug</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-6.png" alt="Possible rain showers" /><br>
-Possible rain showers<br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
+Mostly sunny<br>
 Max: 31°C<br>
 <br>
 <strong>Wed 25 Aug</strong><br>
@@ -119,8 +119,8 @@ Max: 26°C<br>
         <item>
             <title><![CDATA[Zlatibor]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>cfba69b581cf121e54896dc120850b6c</guid>
-            <pubDate>Tue, 24 Aug 2021 05:10:00 GMT</pubDate>
+            <guid>b87b05369b4870ef9e4a60b4cb3c3874</guid>
+            <pubDate>Tue, 24 Aug 2021 10:40:00 GMT</pubDate>
             <description><![CDATA[<strong>Tue 24 Aug</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-5.png" alt="After noon rain showers" /><br>
 After noon rain showers<br>
@@ -136,11 +136,11 @@ Max: 18°C<br>
         <item>
             <title><![CDATA[Kraljevo]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>d186045441a64d37146929ce71d330cd</guid>
-            <pubDate>Tue, 24 Aug 2021 05:10:00 GMT</pubDate>
+            <guid>715c3c7b4ffc53dbb4ef14d76a3a132e</guid>
+            <pubDate>Tue, 24 Aug 2021 10:40:00 GMT</pubDate>
             <description><![CDATA[<strong>Tue 24 Aug</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-5.png" alt="After noon rain showers" /><br>
-After noon rain showers<br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-10.png" alt="Mostly cloudy" /><br>
+Mostly cloudy<br>
 Max: 25°C<br>
 <br>
 <strong>Wed 25 Aug</strong><br>
@@ -153,11 +153,11 @@ Max: 24°C<br>
         <item>
             <title><![CDATA[Priština]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>5813ff43b375f0ba80922b2d18782416</guid>
-            <pubDate>Tue, 24 Aug 2021 05:10:00 GMT</pubDate>
+            <guid>5dce0ee977d4af9599e81163d62ca8ec</guid>
+            <pubDate>Tue, 24 Aug 2021 10:40:00 GMT</pubDate>
             <description><![CDATA[<strong>Tue 24 Aug</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-4.png" alt="Partly cloudy" /><br>
-Partly cloudy<br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
+Mostly sunny<br>
 Max: 30°C<br>
 <br>
 <strong>Wed 25 Aug</strong><br>
@@ -170,8 +170,8 @@ Max: 26°C<br>
         <item>
             <title><![CDATA[Niš]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>98839c82a9fdf0c32dd2ac893e658847</guid>
-            <pubDate>Tue, 24 Aug 2021 05:10:00 GMT</pubDate>
+            <guid>d9f8e0322d3a5ce2b86e17de6691e8ae</guid>
+            <pubDate>Tue, 24 Aug 2021 10:40:00 GMT</pubDate>
             <description><![CDATA[<strong>Tue 24 Aug</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
 Mostly sunny<br>
