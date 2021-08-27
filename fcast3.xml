@@ -4,7 +4,7 @@
         <title>RHMZ</title>
         <link>https://data.dvuckovic.com/fcast3.xml</link>
         <description>Weather Forecast for Serbia</description>
-        <lastBuildDate>Fri, 27 Aug 2021 05:35:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Aug 2021 11:30:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>fcast</generator>
         <language>en</language>
@@ -17,12 +17,12 @@
         <item>
             <title><![CDATA[Palić]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>a9759f9f6f2f08babb7005db881ac188</guid>
-            <pubDate>Fri, 27 Aug 2021 05:35:00 GMT</pubDate>
+            <guid>f37cebc9fd5a99206826732d58848273</guid>
+            <pubDate>Fri, 27 Aug 2021 11:30:00 GMT</pubDate>
             <description><![CDATA[<strong>Fri 27 Aug</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-9.png" alt="Rain" /><br>
 Rain<br>
-Max: 20°C<br>
+Max: 16°C<br>
 <br>
 <strong>Sat 28 Aug</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-8.png" alt="Possible rain" /><br>
@@ -34,8 +34,8 @@ Max: 17°C<br>
         <item>
             <title><![CDATA[Novi Sad]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>e05344367cd28d3ac45307ba6fcb324b</guid>
-            <pubDate>Fri, 27 Aug 2021 05:35:00 GMT</pubDate>
+            <guid>19e5ef6fac00e23e2593f944e2e5c60f</guid>
+            <pubDate>Fri, 27 Aug 2021 11:30:00 GMT</pubDate>
             <description><![CDATA[<strong>Fri 27 Aug</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-9.png" alt="Rain" /><br>
 Rain<br>
@@ -51,8 +51,8 @@ Max: 19°C<br>
         <item>
             <title><![CDATA[Loznica]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>0f7d78e0b3a6054b706769d7b11fd44a</guid>
-            <pubDate>Fri, 27 Aug 2021 05:35:00 GMT</pubDate>
+            <guid>c7277c127434c3a00fcd8553f56e35bc</guid>
+            <pubDate>Fri, 27 Aug 2021 11:30:00 GMT</pubDate>
             <description><![CDATA[<strong>Fri 27 Aug</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-9.png" alt="Rain" /><br>
 Rain<br>
@@ -68,8 +68,8 @@ Max: 17°C<br>
         <item>
             <title><![CDATA[Belgrade]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>4ede55377bfb672765de2e35273c76b8</guid>
-            <pubDate>Fri, 27 Aug 2021 05:35:00 GMT</pubDate>
+            <guid>335fdd4006f0d16d0170083dafe46a97</guid>
+            <pubDate>Fri, 27 Aug 2021 11:30:00 GMT</pubDate>
             <description><![CDATA[<strong>Fri 27 Aug</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-8.png" alt="Possible rain" /><br>
 Possible rain<br>
@@ -85,8 +85,8 @@ Max: 20°C<br>
         <item>
             <title><![CDATA[Kragujevac]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>5dff96c8c24cb147d90611d38879d377</guid>
-            <pubDate>Fri, 27 Aug 2021 05:35:00 GMT</pubDate>
+            <guid>b96383ffa9bc3883a734ed6f95b7784a</guid>
+            <pubDate>Fri, 27 Aug 2021 11:30:00 GMT</pubDate>
             <description><![CDATA[<strong>Fri 27 Aug</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-10.png" alt="Mostly cloudy" /><br>
 Mostly cloudy<br>
@@ -102,8 +102,8 @@ Max: 23°C<br>
         <item>
             <title><![CDATA[Negotin]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>9c07dbec03920a2c4635123494712594</guid>
-            <pubDate>Fri, 27 Aug 2021 05:35:00 GMT</pubDate>
+            <guid>df9791f04abf112e083713d1b06d55ed</guid>
+            <pubDate>Fri, 27 Aug 2021 11:30:00 GMT</pubDate>
             <description><![CDATA[<strong>Fri 27 Aug</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-4.png" alt="Partly cloudy" /><br>
 Partly cloudy<br>
@@ -119,8 +119,8 @@ Max: 26°C<br>
         <item>
             <title><![CDATA[Zlatibor]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>07c52dd23d98bee63fc6760438e51c3e</guid>
-            <pubDate>Fri, 27 Aug 2021 05:35:00 GMT</pubDate>
+            <guid>61c1095570684ec9c9c1e96b35cd9c8f</guid>
+            <pubDate>Fri, 27 Aug 2021 11:30:00 GMT</pubDate>
             <description><![CDATA[<strong>Fri 27 Aug</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-6.png" alt="Possible rain showers" /><br>
 Possible rain showers<br>
@@ -136,8 +136,8 @@ Max: 17°C<br>
         <item>
             <title><![CDATA[Kraljevo]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>0a3b202b4093e177b58baf6c1d717105</guid>
-            <pubDate>Fri, 27 Aug 2021 05:35:00 GMT</pubDate>
+            <guid>b6c93c2c17748a640a7e6babbb028e72</guid>
+            <pubDate>Fri, 27 Aug 2021 11:30:00 GMT</pubDate>
             <description><![CDATA[<strong>Fri 27 Aug</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-4.png" alt="Partly cloudy" /><br>
 Partly cloudy<br>
@@ -153,8 +153,8 @@ Max: 24°C<br>
         <item>
             <title><![CDATA[Priština]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>93ef8e12234f53682a97f121b3bf46fa</guid>
-            <pubDate>Fri, 27 Aug 2021 05:35:00 GMT</pubDate>
+            <guid>40b5858a29b4e13cec1dc79acbbb99eb</guid>
+            <pubDate>Fri, 27 Aug 2021 11:30:00 GMT</pubDate>
             <description><![CDATA[<strong>Fri 27 Aug</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
 Mostly sunny<br>
@@ -170,8 +170,8 @@ Max: 27°C<br>
         <item>
             <title><![CDATA[Niš]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>b36e5c236a8b14501068c51baa0a083f</guid>
-            <pubDate>Fri, 27 Aug 2021 05:35:00 GMT</pubDate>
+            <guid>04d09f956b956e106a26455907e02f55</guid>
+            <pubDate>Fri, 27 Aug 2021 11:30:00 GMT</pubDate>
             <description><![CDATA[<strong>Fri 27 Aug</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
 Mostly sunny<br>
