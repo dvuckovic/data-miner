@@ -4,7 +4,7 @@
         <title>RHMZ</title>
         <link>https://data.dvuckovic.com/fcast3.xml</link>
         <description>Weather Forecast for Serbia</description>
-        <lastBuildDate>Sat, 28 Aug 2021 06:30:00 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 Aug 2021 10:10:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>fcast</generator>
         <language>en</language>
@@ -17,8 +17,8 @@
         <item>
             <title><![CDATA[Palić]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>fc6e7fc84126d4bb1cac343e1a113f98</guid>
-            <pubDate>Sat, 28 Aug 2021 06:30:00 GMT</pubDate>
+            <guid>8133a6a7a575b9b6f774bbc70473fcc5</guid>
+            <pubDate>Sat, 28 Aug 2021 10:10:00 GMT</pubDate>
             <description><![CDATA[<strong>Sat 28 Aug</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-9.png" alt="Rain" /><br>
 Rain<br>
@@ -34,12 +34,12 @@ Max: 20°C<br>
         <item>
             <title><![CDATA[Novi Sad]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>f4082cf900ec5f9d164aa67a0cee5574</guid>
-            <pubDate>Sat, 28 Aug 2021 06:30:00 GMT</pubDate>
+            <guid>3703852932aa27c58fdab0dfb059f6b8</guid>
+            <pubDate>Sat, 28 Aug 2021 10:10:00 GMT</pubDate>
             <description><![CDATA[<strong>Sat 28 Aug</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-9.png" alt="Rain" /><br>
 Rain<br>
-Max: 19°C<br>
+Max: 18°C<br>
 <br>
 <strong>Sun 29 Aug</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-6.png" alt="Possible rain showers" /><br>
@@ -51,8 +51,8 @@ Max: 20°C<br>
         <item>
             <title><![CDATA[Loznica]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>0e88613aaf080a5092b5abdc7a3d5777</guid>
-            <pubDate>Sat, 28 Aug 2021 06:30:00 GMT</pubDate>
+            <guid>9b87816da14e8420de68aa7520b4725c</guid>
+            <pubDate>Sat, 28 Aug 2021 10:10:00 GMT</pubDate>
             <description><![CDATA[<strong>Sat 28 Aug</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-9.png" alt="Rain" /><br>
 Rain<br>
@@ -68,8 +68,8 @@ Max: 18°C<br>
         <item>
             <title><![CDATA[Belgrade]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>a87bbe0abce662a7ca60f5ad8c5b6110</guid>
-            <pubDate>Sat, 28 Aug 2021 06:30:00 GMT</pubDate>
+            <guid>ef81ede92e8dc63955e170ce4bb32812</guid>
+            <pubDate>Sat, 28 Aug 2021 10:10:00 GMT</pubDate>
             <description><![CDATA[<strong>Sat 28 Aug</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-8.png" alt="Possible rain" /><br>
 Possible rain<br>
@@ -85,12 +85,12 @@ Max: 19°C<br>
         <item>
             <title><![CDATA[Kragujevac]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>35be41eea2770a0950738101b9fffc2a</guid>
-            <pubDate>Sat, 28 Aug 2021 06:30:00 GMT</pubDate>
+            <guid>042d23d7695985f4114fbdb8bc9c8986</guid>
+            <pubDate>Sat, 28 Aug 2021 10:10:00 GMT</pubDate>
             <description><![CDATA[<strong>Sat 28 Aug</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-6.png" alt="Possible rain showers" /><br>
 Possible rain showers<br>
-Max: 23°C<br>
+Max: 21°C<br>
 <br>
 <strong>Sun 29 Aug</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-6.png" alt="Possible rain showers" /><br>
@@ -102,8 +102,8 @@ Max: 18°C<br>
         <item>
             <title><![CDATA[Negotin]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>d906b00070d6c210abbb8aa89c107fbe</guid>
-            <pubDate>Sat, 28 Aug 2021 06:30:00 GMT</pubDate>
+            <guid>79e902ff7223dc8bb23ea9cb3567aa1d</guid>
+            <pubDate>Sat, 28 Aug 2021 10:10:00 GMT</pubDate>
             <description><![CDATA[<strong>Sat 28 Aug</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-6.png" alt="Possible rain showers" /><br>
 Possible rain showers<br>
@@ -119,8 +119,8 @@ Max: 22°C<br>
         <item>
             <title><![CDATA[Zlatibor]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>bedf5093e79e620c39746361b04d53fb</guid>
-            <pubDate>Sat, 28 Aug 2021 06:30:00 GMT</pubDate>
+            <guid>46d7ad33f5ec9d5ed9b3bdf452629d47</guid>
+            <pubDate>Sat, 28 Aug 2021 10:10:00 GMT</pubDate>
             <description><![CDATA[<strong>Sat 28 Aug</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-9.png" alt="Rain" /><br>
 Rain<br>
@@ -136,8 +136,8 @@ Max: 13°C<br>
         <item>
             <title><![CDATA[Kraljevo]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>f7dfe86b9a0b0d23c8425557cf657d4d</guid>
-            <pubDate>Sat, 28 Aug 2021 06:30:00 GMT</pubDate>
+            <guid>204fb7d13815caccac6e469860cbf598</guid>
+            <pubDate>Sat, 28 Aug 2021 10:10:00 GMT</pubDate>
             <description><![CDATA[<strong>Sat 28 Aug</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-6.png" alt="Possible rain showers" /><br>
 Possible rain showers<br>
@@ -153,8 +153,8 @@ Max: 18°C<br>
         <item>
             <title><![CDATA[Priština]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>02733538c9c4a72733209b5656de3e06</guid>
-            <pubDate>Sat, 28 Aug 2021 06:30:00 GMT</pubDate>
+            <guid>22302c0b84c3162956c4b400c3386aec</guid>
+            <pubDate>Sat, 28 Aug 2021 10:10:00 GMT</pubDate>
             <description><![CDATA[<strong>Sat 28 Aug</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-6.png" alt="Possible rain showers" /><br>
 Possible rain showers<br>
@@ -170,8 +170,8 @@ Max: 21°C<br>
         <item>
             <title><![CDATA[Niš]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>47da84b42589ec951c2a5f8420d4dde1</guid>
-            <pubDate>Sat, 28 Aug 2021 06:30:00 GMT</pubDate>
+            <guid>cbfa0cbee3b35dd443a6b982a22da77b</guid>
+            <pubDate>Sat, 28 Aug 2021 10:10:00 GMT</pubDate>
             <description><![CDATA[<strong>Sat 28 Aug</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-6.png" alt="Possible rain showers" /><br>
 Possible rain showers<br>
