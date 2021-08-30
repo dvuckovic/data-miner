@@ -4,7 +4,7 @@
         <title>RHMZ</title>
         <link>https://data.dvuckovic.com/fcast3.xml</link>
         <description>Weather Forecast for Serbia</description>
-        <lastBuildDate>Sun, 29 Aug 2021 11:21:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 Aug 2021 05:50:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>fcast</generator>
         <language>en</language>
@@ -17,8 +17,8 @@
         <item>
             <title><![CDATA[Palić]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>b1ee69012eb1e31f8cf2094c729ed78c</guid>
-            <pubDate>Sun, 29 Aug 2021 11:21:00 GMT</pubDate>
+            <guid>d1c95c8f70ff8392ff29a64520b2ccfd</guid>
+            <pubDate>Mon, 30 Aug 2021 05:50:00 GMT</pubDate>
             <description><![CDATA[<strong>Mon 30 Aug</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
 Mostly sunny<br>
@@ -34,8 +34,8 @@ Max: 23°C<br>
         <item>
             <title><![CDATA[Novi Sad]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>12dbf8dd9355801e6837d9e4a7a76388</guid>
-            <pubDate>Sun, 29 Aug 2021 11:21:00 GMT</pubDate>
+            <guid>504730864fd0217809f3fc858681d737</guid>
+            <pubDate>Mon, 30 Aug 2021 05:50:00 GMT</pubDate>
             <description><![CDATA[<strong>Mon 30 Aug</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
 Mostly sunny<br>
@@ -51,8 +51,8 @@ Max: 24°C<br>
         <item>
             <title><![CDATA[Loznica]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>536d6d9f0a5d4fea5000f97f57b8c217</guid>
-            <pubDate>Sun, 29 Aug 2021 11:21:00 GMT</pubDate>
+            <guid>a8c5f86af6a52c5e9c0b3b09d609d1db</guid>
+            <pubDate>Mon, 30 Aug 2021 05:50:00 GMT</pubDate>
             <description><![CDATA[<strong>Mon 30 Aug</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
 Mostly sunny<br>
@@ -68,8 +68,8 @@ Max: 24°C<br>
         <item>
             <title><![CDATA[Belgrade]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>ae919f9e035f56104ccb9bde4fd0e0c8</guid>
-            <pubDate>Sun, 29 Aug 2021 11:21:00 GMT</pubDate>
+            <guid>79ea9a10e64b1a4353ef0054f6191ae4</guid>
+            <pubDate>Mon, 30 Aug 2021 05:50:00 GMT</pubDate>
             <description><![CDATA[<strong>Mon 30 Aug</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
 Mostly sunny<br>
@@ -85,8 +85,8 @@ Max: 24°C<br>
         <item>
             <title><![CDATA[Kragujevac]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>afd22f42de1f59893220725d4b3a5ff9</guid>
-            <pubDate>Sun, 29 Aug 2021 11:21:00 GMT</pubDate>
+            <guid>7594de29d6e80f16177bc0f692304142</guid>
+            <pubDate>Mon, 30 Aug 2021 05:50:00 GMT</pubDate>
             <description><![CDATA[<strong>Mon 30 Aug</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
 Mostly sunny<br>
@@ -102,8 +102,8 @@ Max: 25°C<br>
         <item>
             <title><![CDATA[Negotin]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>d532073158fc177c09b36b6cffc4a1a4</guid>
-            <pubDate>Sun, 29 Aug 2021 11:21:00 GMT</pubDate>
+            <guid>12eb788f2a86dbfc868fcd820a811824</guid>
+            <pubDate>Mon, 30 Aug 2021 05:50:00 GMT</pubDate>
             <description><![CDATA[<strong>Mon 30 Aug</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-4.png" alt="Partly cloudy" /><br>
 Partly cloudy<br>
@@ -119,8 +119,8 @@ Max: 27°C<br>
         <item>
             <title><![CDATA[Zlatibor]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>2185256f0dc56f00954c7bca0f717ccf</guid>
-            <pubDate>Sun, 29 Aug 2021 11:21:00 GMT</pubDate>
+            <guid>20983e69df6db4ca9be950f9f226a307</guid>
+            <pubDate>Mon, 30 Aug 2021 05:50:00 GMT</pubDate>
             <description><![CDATA[<strong>Mon 30 Aug</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-4.png" alt="Partly cloudy" /><br>
 Partly cloudy<br>
@@ -136,8 +136,8 @@ Max: 21°C<br>
         <item>
             <title><![CDATA[Kraljevo]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>c72c9e7d04c2a7f0c94abf4850960ea6</guid>
-            <pubDate>Sun, 29 Aug 2021 11:21:00 GMT</pubDate>
+            <guid>475a39a70da5a1237aeca47e557768a1</guid>
+            <pubDate>Mon, 30 Aug 2021 05:50:00 GMT</pubDate>
             <description><![CDATA[<strong>Mon 30 Aug</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-4.png" alt="Partly cloudy" /><br>
 Partly cloudy<br>
@@ -153,8 +153,8 @@ Max: 25°C<br>
         <item>
             <title><![CDATA[Priština]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>681933e3cbc8256f537097aa3f0029b0</guid>
-            <pubDate>Sun, 29 Aug 2021 11:21:00 GMT</pubDate>
+            <guid>524e6b6841e46c5b43e0a01fd09f86ce</guid>
+            <pubDate>Mon, 30 Aug 2021 05:50:00 GMT</pubDate>
             <description><![CDATA[<strong>Mon 30 Aug</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-10.png" alt="Mostly cloudy" /><br>
 Mostly cloudy<br>
@@ -170,8 +170,8 @@ Max: 27°C<br>
         <item>
             <title><![CDATA[Niš]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>480dd70308a26938fad4c62bad4e6c9b</guid>
-            <pubDate>Sun, 29 Aug 2021 11:21:00 GMT</pubDate>
+            <guid>8e2206276bc98a72ddbf5e58971cfca2</guid>
+            <pubDate>Mon, 30 Aug 2021 05:50:00 GMT</pubDate>
             <description><![CDATA[<strong>Mon 30 Aug</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-4.png" alt="Partly cloudy" /><br>
 Partly cloudy<br>
