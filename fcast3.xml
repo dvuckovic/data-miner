@@ -4,7 +4,7 @@
         <title>RHMZ</title>
         <link>https://data.dvuckovic.com/fcast3.xml</link>
         <description>Weather Forecast for Serbia</description>
-        <lastBuildDate>Thu, 02 Sep 2021 11:54:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Sep 2021 05:15:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>fcast</generator>
         <language>en</language>
@@ -17,17 +17,11 @@
         <item>
             <title><![CDATA[Palić]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>1f3c125ab3984abfc6cb52286efcd417</guid>
-            <pubDate>Thu, 02 Sep 2021 11:54:00 GMT</pubDate>
-            <description><![CDATA[<strong>Thu 2 Sep</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-4.png" alt="Partly cloudy" /><br>
-Partly cloudy<br>
-Max: 22°C<br>
-<br>
-<strong>Fri 3 Sep</strong><br>
+            <guid>617e05b6f1641500736270135a90fcf4</guid>
+            <pubDate>Fri, 03 Sep 2021 05:15:00 GMT</pubDate>
+            <description><![CDATA[<strong>Fri 3 Sep</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
 Mostly sunny<br>
-Min: 11°C<br>
 Max: 24°C<br>
 <br>
 <strong>Sat 4 Sep</strong><br>
@@ -40,17 +34,11 @@ Max: 25°C<br>
         <item>
             <title><![CDATA[Novi Sad]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>6cddf61de646c7bf40e373bd3ebb0782</guid>
-            <pubDate>Thu, 02 Sep 2021 11:54:00 GMT</pubDate>
-            <description><![CDATA[<strong>Thu 2 Sep</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-4.png" alt="Partly cloudy" /><br>
-Partly cloudy<br>
-Max: 23°C<br>
-<br>
-<strong>Fri 3 Sep</strong><br>
+            <guid>159ee93f216df0f0b701e1865f22439b</guid>
+            <pubDate>Fri, 03 Sep 2021 05:15:00 GMT</pubDate>
+            <description><![CDATA[<strong>Fri 3 Sep</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
 Mostly sunny<br>
-Min: 11°C<br>
 Max: 25°C<br>
 <br>
 <strong>Sat 4 Sep</strong><br>
@@ -63,17 +51,11 @@ Max: 26°C<br>
         <item>
             <title><![CDATA[Loznica]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>2219cce8fc9bc53edaf18b99c736af43</guid>
-            <pubDate>Thu, 02 Sep 2021 11:54:00 GMT</pubDate>
-            <description><![CDATA[<strong>Thu 2 Sep</strong><br>
+            <guid>109a5b3210ed0272040f8b6294b284f8</guid>
+            <pubDate>Fri, 03 Sep 2021 05:15:00 GMT</pubDate>
+            <description><![CDATA[<strong>Fri 3 Sep</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
 Mostly sunny<br>
-Max: 23°C<br>
-<br>
-<strong>Fri 3 Sep</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
-Mostly sunny<br>
-Min: 11°C<br>
 Max: 24°C<br>
 <br>
 <strong>Sat 4 Sep</strong><br>
@@ -86,18 +68,12 @@ Max: 25°C<br>
         <item>
             <title><![CDATA[Belgrade]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>6db09511851e95fe919c4f87f9915da4</guid>
-            <pubDate>Thu, 02 Sep 2021 11:54:00 GMT</pubDate>
-            <description><![CDATA[<strong>Thu 2 Sep</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-4.png" alt="Partly cloudy" /><br>
-Partly cloudy<br>
-Max: 22°C<br>
-<br>
-<strong>Fri 3 Sep</strong><br>
+            <guid>bfe8f77f78d476a7dfc51a33c4c88c51</guid>
+            <pubDate>Fri, 03 Sep 2021 05:15:00 GMT</pubDate>
+            <description><![CDATA[<strong>Fri 3 Sep</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
 Mostly sunny<br>
-Min: 13°C<br>
-Max: 24°C<br>
+Max: 25°C<br>
 <br>
 <strong>Sat 4 Sep</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
@@ -109,17 +85,11 @@ Max: 26°C<br>
         <item>
             <title><![CDATA[Kragujevac]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>0b7a2e29cf541e7a6d55ec66bd6e88cb</guid>
-            <pubDate>Thu, 02 Sep 2021 11:54:00 GMT</pubDate>
-            <description><![CDATA[<strong>Thu 2 Sep</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-4.png" alt="Partly cloudy" /><br>
-Partly cloudy<br>
-Max: 22°C<br>
-<br>
-<strong>Fri 3 Sep</strong><br>
+            <guid>7a9264d71c0862c4e8d5710004c729f5</guid>
+            <pubDate>Fri, 03 Sep 2021 05:15:00 GMT</pubDate>
+            <description><![CDATA[<strong>Fri 3 Sep</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
 Mostly sunny<br>
-Min: 10°C<br>
 Max: 24°C<br>
 <br>
 <strong>Sat 4 Sep</strong><br>
@@ -132,17 +102,11 @@ Max: 25°C<br>
         <item>
             <title><![CDATA[Negotin]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>141573ee4462e6bb2c740c2dbf311209</guid>
-            <pubDate>Thu, 02 Sep 2021 11:54:00 GMT</pubDate>
-            <description><![CDATA[<strong>Thu 2 Sep</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-4.png" alt="Partly cloudy" /><br>
-Partly cloudy<br>
-Max: 25°C<br>
-<br>
-<strong>Fri 3 Sep</strong><br>
+            <guid>0dd86ea618ffe8b94ef2939e9fca9760</guid>
+            <pubDate>Fri, 03 Sep 2021 05:15:00 GMT</pubDate>
+            <description><![CDATA[<strong>Fri 3 Sep</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
 Mostly sunny<br>
-Min: 11°C<br>
 Max: 25°C<br>
 <br>
 <strong>Sat 4 Sep</strong><br>
@@ -155,17 +119,11 @@ Max: 27°C<br>
         <item>
             <title><![CDATA[Zlatibor]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>2fa296e4ba8dfd5333b1bcb7990418c1</guid>
-            <pubDate>Thu, 02 Sep 2021 11:54:00 GMT</pubDate>
-            <description><![CDATA[<strong>Thu 2 Sep</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-10.png" alt="Mostly cloudy" /><br>
-Mostly cloudy<br>
-Max: 17°C<br>
-<br>
-<strong>Fri 3 Sep</strong><br>
+            <guid>c5fa7d0df667f1cae2c23f48fbd207d5</guid>
+            <pubDate>Fri, 03 Sep 2021 05:15:00 GMT</pubDate>
+            <description><![CDATA[<strong>Fri 3 Sep</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
 Mostly sunny<br>
-Min: 8°C<br>
 Max: 19°C<br>
 <br>
 <strong>Sat 4 Sep</strong><br>
@@ -178,17 +136,11 @@ Max: 19°C<br>
         <item>
             <title><![CDATA[Kraljevo]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>5310c87a66e404d49701356ba2bb7a4f</guid>
-            <pubDate>Thu, 02 Sep 2021 11:54:00 GMT</pubDate>
-            <description><![CDATA[<strong>Thu 2 Sep</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-4.png" alt="Partly cloudy" /><br>
-Partly cloudy<br>
-Max: 22°C<br>
-<br>
-<strong>Fri 3 Sep</strong><br>
+            <guid>df64b8891a217e475d2cd7b671eef460</guid>
+            <pubDate>Fri, 03 Sep 2021 05:15:00 GMT</pubDate>
+            <description><![CDATA[<strong>Fri 3 Sep</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
 Mostly sunny<br>
-Min: 10°C<br>
 Max: 24°C<br>
 <br>
 <strong>Sat 4 Sep</strong><br>
@@ -201,17 +153,11 @@ Max: 25°C<br>
         <item>
             <title><![CDATA[Priština]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>ab9bae7877cfc461c25863df062fcbac</guid>
-            <pubDate>Thu, 02 Sep 2021 11:54:00 GMT</pubDate>
-            <description><![CDATA[<strong>Thu 2 Sep</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-4.png" alt="Partly cloudy" /><br>
-Partly cloudy<br>
-Max: 22°C<br>
-<br>
-<strong>Fri 3 Sep</strong><br>
+            <guid>b26ef9aba850392c95b1fbaba4385c12</guid>
+            <pubDate>Fri, 03 Sep 2021 05:15:00 GMT</pubDate>
+            <description><![CDATA[<strong>Fri 3 Sep</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
 Mostly sunny<br>
-Min: 9°C<br>
 Max: 24°C<br>
 <br>
 <strong>Sat 4 Sep</strong><br>
@@ -224,18 +170,12 @@ Max: 26°C<br>
         <item>
             <title><![CDATA[Niš]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>b529c00043c35d685489fd9e7dadf773</guid>
-            <pubDate>Thu, 02 Sep 2021 11:54:00 GMT</pubDate>
-            <description><![CDATA[<strong>Thu 2 Sep</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-4.png" alt="Partly cloudy" /><br>
-Partly cloudy<br>
-Max: 23°C<br>
-<br>
-<strong>Fri 3 Sep</strong><br>
+            <guid>d99e0640dc5ec245156489e1adf42f59</guid>
+            <pubDate>Fri, 03 Sep 2021 05:15:00 GMT</pubDate>
+            <description><![CDATA[<strong>Fri 3 Sep</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
 Mostly sunny<br>
-Min: 9°C<br>
-Max: 25°C<br>
+Max: 23°C<br>
 <br>
 <strong>Sat 4 Sep</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
