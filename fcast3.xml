@@ -4,7 +4,7 @@
         <title>RHMZ</title>
         <link>https://data.dvuckovic.com/fcast3.xml</link>
         <description>Weather Forecast for Serbia</description>
-        <lastBuildDate>Thu, 09 Sep 2021 04:55:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Sep 2021 09:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>fcast</generator>
         <language>en</language>
@@ -17,8 +17,8 @@
         <item>
             <title><![CDATA[Palić]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>fc2212d1e2fd71729ca8696e36e866a9</guid>
-            <pubDate>Thu, 09 Sep 2021 04:55:00 GMT</pubDate>
+            <guid>cdd7ce7bc4c8350f52c5070da325d25d</guid>
+            <pubDate>Thu, 09 Sep 2021 09:00:00 GMT</pubDate>
             <description><![CDATA[<strong>Thu 9 Sep</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
 Mostly sunny<br>
@@ -34,8 +34,8 @@ Max: 26°C<br>
         <item>
             <title><![CDATA[Novi Sad]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>8fb1f864efd7c532bc62281857407f06</guid>
-            <pubDate>Thu, 09 Sep 2021 04:55:00 GMT</pubDate>
+            <guid>7801237733acf31ad469dd4303d5b174</guid>
+            <pubDate>Thu, 09 Sep 2021 09:00:00 GMT</pubDate>
             <description><![CDATA[<strong>Thu 9 Sep</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
 Mostly sunny<br>
@@ -51,8 +51,8 @@ Max: 27°C<br>
         <item>
             <title><![CDATA[Loznica]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>7e9e6c152d6b589cb145bfb14738b497</guid>
-            <pubDate>Thu, 09 Sep 2021 04:55:00 GMT</pubDate>
+            <guid>ec6875d1f8b3c0018159fac807ba36cc</guid>
+            <pubDate>Thu, 09 Sep 2021 09:00:00 GMT</pubDate>
             <description><![CDATA[<strong>Thu 9 Sep</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-4.png" alt="Partly cloudy" /><br>
 Partly cloudy<br>
@@ -68,8 +68,8 @@ Max: 27°C<br>
         <item>
             <title><![CDATA[Belgrade]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>cfd4bb9dc72a7b3d92123e0c484c3846</guid>
-            <pubDate>Thu, 09 Sep 2021 04:55:00 GMT</pubDate>
+            <guid>9de6625a59441e9fa45b000eea99b4b9</guid>
+            <pubDate>Thu, 09 Sep 2021 09:00:00 GMT</pubDate>
             <description><![CDATA[<strong>Thu 9 Sep</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
 Mostly sunny<br>
@@ -85,8 +85,8 @@ Max: 27°C<br>
         <item>
             <title><![CDATA[Kragujevac]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>b4d5c9f0d2b651f645df9cd36a2281eb</guid>
-            <pubDate>Thu, 09 Sep 2021 04:55:00 GMT</pubDate>
+            <guid>4e295e86ea124db5f76842e19a0299b6</guid>
+            <pubDate>Thu, 09 Sep 2021 09:00:00 GMT</pubDate>
             <description><![CDATA[<strong>Thu 9 Sep</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-4.png" alt="Partly cloudy" /><br>
 Partly cloudy<br>
@@ -102,8 +102,8 @@ Max: 26°C<br>
         <item>
             <title><![CDATA[Negotin]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>51eb9ca8b463267b08d75b2fcbd5c680</guid>
-            <pubDate>Thu, 09 Sep 2021 04:55:00 GMT</pubDate>
+            <guid>4ed360b09747f762a74024cac8a8316c</guid>
+            <pubDate>Thu, 09 Sep 2021 09:00:00 GMT</pubDate>
             <description><![CDATA[<strong>Thu 9 Sep</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-4.png" alt="Partly cloudy" /><br>
 Partly cloudy<br>
@@ -119,8 +119,8 @@ Max: 26°C<br>
         <item>
             <title><![CDATA[Zlatibor]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>236a892d0ac4279b6664e53094ef3be7</guid>
-            <pubDate>Thu, 09 Sep 2021 04:55:00 GMT</pubDate>
+            <guid>e932b2c9ecd37b3d01a64cd61da8fb57</guid>
+            <pubDate>Thu, 09 Sep 2021 09:00:00 GMT</pubDate>
             <description><![CDATA[<strong>Thu 9 Sep</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-10.png" alt="Mostly cloudy" /><br>
 Mostly cloudy<br>
@@ -136,11 +136,11 @@ Max: 21°C<br>
         <item>
             <title><![CDATA[Kraljevo]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>195f4c6fc71bbb291519b661eb4bfb78</guid>
-            <pubDate>Thu, 09 Sep 2021 04:55:00 GMT</pubDate>
+            <guid>b51948c2eec6fab53e462a1345f8210f</guid>
+            <pubDate>Thu, 09 Sep 2021 09:00:00 GMT</pubDate>
             <description><![CDATA[<strong>Thu 9 Sep</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-4.png" alt="Partly cloudy" /><br>
-Partly cloudy<br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-10.png" alt="Mostly cloudy" /><br>
+Mostly cloudy<br>
 Max: 24°C<br>
 <br>
 <strong>Fri 10 Sep</strong><br>
@@ -153,11 +153,11 @@ Max: 26°C<br>
         <item>
             <title><![CDATA[Priština]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>e48d9f446b5520b4ce49a49a2e8b40ed</guid>
-            <pubDate>Thu, 09 Sep 2021 04:55:00 GMT</pubDate>
+            <guid>71451e3c2b82d14d7ae89eebdce19b7d</guid>
+            <pubDate>Thu, 09 Sep 2021 09:00:00 GMT</pubDate>
             <description><![CDATA[<strong>Thu 9 Sep</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-7.png" alt="Cloudy" /><br>
-Cloudy<br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-8.png" alt="Possible rain" /><br>
+Possible rain<br>
 Max: 22°C<br>
 <br>
 <strong>Fri 10 Sep</strong><br>
@@ -170,8 +170,8 @@ Max: 25°C<br>
         <item>
             <title><![CDATA[Niš]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>8fd5f68d4e7c89d94b8d61d59fece49a</guid>
-            <pubDate>Thu, 09 Sep 2021 04:55:00 GMT</pubDate>
+            <guid>fed2baa7ad1d96b1e570470180b230e0</guid>
+            <pubDate>Thu, 09 Sep 2021 09:00:00 GMT</pubDate>
             <description><![CDATA[<strong>Thu 9 Sep</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-7.png" alt="Cloudy" /><br>
 Cloudy<br>
