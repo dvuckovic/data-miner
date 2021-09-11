@@ -4,7 +4,7 @@
         <title>RHMZ</title>
         <link>https://data.dvuckovic.com/fcast3.xml</link>
         <description>Weather Forecast for Serbia</description>
-        <lastBuildDate>Fri, 10 Sep 2021 11:03:00 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Sep 2021 05:25:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>fcast</generator>
         <language>en</language>
@@ -17,17 +17,11 @@
         <item>
             <title><![CDATA[Palić]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>6eb3e1a4543accdf25097ae0bb41167e</guid>
-            <pubDate>Fri, 10 Sep 2021 11:03:00 GMT</pubDate>
-            <description><![CDATA[<strong>Fri 10 Sep</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
-Sunny<br>
-Max: 27°C<br>
-<br>
-<strong>Sat 11 Sep</strong><br>
+            <guid>7680853488137c7b3b7b7851af3e66ed</guid>
+            <pubDate>Sat, 11 Sep 2021 05:25:00 GMT</pubDate>
+            <description><![CDATA[<strong>Sat 11 Sep</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
 Mostly sunny<br>
-Min: 10°C<br>
 Max: 27°C<br>
 <br>
 <strong>Sun 12 Sep</strong><br>
@@ -40,17 +34,11 @@ Max: 28°C<br>
         <item>
             <title><![CDATA[Novi Sad]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>b1480aa42ea7859057cb49c819d8059d</guid>
-            <pubDate>Fri, 10 Sep 2021 11:03:00 GMT</pubDate>
-            <description><![CDATA[<strong>Fri 10 Sep</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
-Sunny<br>
-Max: 27°C<br>
-<br>
-<strong>Sat 11 Sep</strong><br>
+            <guid>8e2eb0561292fed36b8af9341ec744a3</guid>
+            <pubDate>Sat, 11 Sep 2021 05:25:00 GMT</pubDate>
+            <description><![CDATA[<strong>Sat 11 Sep</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
 Mostly sunny<br>
-Min: 12°C<br>
 Max: 28°C<br>
 <br>
 <strong>Sun 12 Sep</strong><br>
@@ -63,17 +51,11 @@ Max: 28°C<br>
         <item>
             <title><![CDATA[Loznica]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>ced75bd94690462f86c7024708a89b0c</guid>
-            <pubDate>Fri, 10 Sep 2021 11:03:00 GMT</pubDate>
-            <description><![CDATA[<strong>Fri 10 Sep</strong><br>
+            <guid>7fba21891515e3f3e7599641b21a382f</guid>
+            <pubDate>Sat, 11 Sep 2021 05:25:00 GMT</pubDate>
+            <description><![CDATA[<strong>Sat 11 Sep</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
 Mostly sunny<br>
-Max: 27°C<br>
-<br>
-<strong>Sat 11 Sep</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
-Mostly sunny<br>
-Min: 12°C<br>
 Max: 27°C<br>
 <br>
 <strong>Sun 12 Sep</strong><br>
@@ -86,17 +68,11 @@ Max: 28°C<br>
         <item>
             <title><![CDATA[Belgrade]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>46f7e5f6ec5df6362ad9357e359355a2</guid>
-            <pubDate>Fri, 10 Sep 2021 11:03:00 GMT</pubDate>
-            <description><![CDATA[<strong>Fri 10 Sep</strong><br>
+            <guid>4912a0ccbed286a6bb0158bc48be1d62</guid>
+            <pubDate>Sat, 11 Sep 2021 05:25:00 GMT</pubDate>
+            <description><![CDATA[<strong>Sat 11 Sep</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
 Mostly sunny<br>
-Max: 27°C<br>
-<br>
-<strong>Sat 11 Sep</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
-Mostly sunny<br>
-Min: 15°C<br>
 Max: 28°C<br>
 <br>
 <strong>Sun 12 Sep</strong><br>
@@ -109,17 +85,11 @@ Max: 28°C<br>
         <item>
             <title><![CDATA[Kragujevac]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>d9c7725c6da1a9c1bbafd63cce1edccb</guid>
-            <pubDate>Fri, 10 Sep 2021 11:03:00 GMT</pubDate>
-            <description><![CDATA[<strong>Fri 10 Sep</strong><br>
+            <guid>11db6f0c25b40624b332ca1d210bb969</guid>
+            <pubDate>Sat, 11 Sep 2021 05:25:00 GMT</pubDate>
+            <description><![CDATA[<strong>Sat 11 Sep</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
 Mostly sunny<br>
-Max: 27°C<br>
-<br>
-<strong>Sat 11 Sep</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
-Mostly sunny<br>
-Min: 10°C<br>
 Max: 28°C<br>
 <br>
 <strong>Sun 12 Sep</strong><br>
@@ -132,17 +102,11 @@ Max: 27°C<br>
         <item>
             <title><![CDATA[Negotin]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>a685afc2b3d4b4183feb6c57f1554ebd</guid>
-            <pubDate>Fri, 10 Sep 2021 11:03:00 GMT</pubDate>
-            <description><![CDATA[<strong>Fri 10 Sep</strong><br>
+            <guid>ca3673449939e7e3b6f2bd4523fd367e</guid>
+            <pubDate>Sat, 11 Sep 2021 05:25:00 GMT</pubDate>
+            <description><![CDATA[<strong>Sat 11 Sep</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
 Mostly sunny<br>
-Max: 26°C<br>
-<br>
-<strong>Sat 11 Sep</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
-Mostly sunny<br>
-Min: 9°C<br>
 Max: 29°C<br>
 <br>
 <strong>Sun 12 Sep</strong><br>
@@ -155,17 +119,11 @@ Max: 29°C<br>
         <item>
             <title><![CDATA[Zlatibor]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>d36148efd68d177d2a0a22564215861e</guid>
-            <pubDate>Fri, 10 Sep 2021 11:03:00 GMT</pubDate>
-            <description><![CDATA[<strong>Fri 10 Sep</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-4.png" alt="Partly cloudy" /><br>
-Partly cloudy<br>
-Max: 22°C<br>
-<br>
-<strong>Sat 11 Sep</strong><br>
+            <guid>d53356932d57aa0d160f516b0a1e0429</guid>
+            <pubDate>Sat, 11 Sep 2021 05:25:00 GMT</pubDate>
+            <description><![CDATA[<strong>Sat 11 Sep</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
 Mostly sunny<br>
-Min: 10°C<br>
 Max: 22°C<br>
 <br>
 <strong>Sun 12 Sep</strong><br>
@@ -178,17 +136,11 @@ Max: 21°C<br>
         <item>
             <title><![CDATA[Kraljevo]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>2c12aecc8ae2cc4041a1a37df375682e</guid>
-            <pubDate>Fri, 10 Sep 2021 11:03:00 GMT</pubDate>
-            <description><![CDATA[<strong>Fri 10 Sep</strong><br>
+            <guid>e1612023a5435573f5af26929f21bc7d</guid>
+            <pubDate>Sat, 11 Sep 2021 05:25:00 GMT</pubDate>
+            <description><![CDATA[<strong>Sat 11 Sep</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
 Mostly sunny<br>
-Max: 27°C<br>
-<br>
-<strong>Sat 11 Sep</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
-Mostly sunny<br>
-Min: 11°C<br>
 Max: 28°C<br>
 <br>
 <strong>Sun 12 Sep</strong><br>
@@ -201,17 +153,11 @@ Max: 28°C<br>
         <item>
             <title><![CDATA[Priština]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>ff6ff7e65834d27ff126d97632856091</guid>
-            <pubDate>Fri, 10 Sep 2021 11:03:00 GMT</pubDate>
-            <description><![CDATA[<strong>Fri 10 Sep</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-10.png" alt="Mostly cloudy" /><br>
-Mostly cloudy<br>
-Max: 24°C<br>
-<br>
-<strong>Sat 11 Sep</strong><br>
+            <guid>7d7171980190f8bd91c48994ab426f67</guid>
+            <pubDate>Sat, 11 Sep 2021 05:25:00 GMT</pubDate>
+            <description><![CDATA[<strong>Sat 11 Sep</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-4.png" alt="Partly cloudy" /><br>
 Partly cloudy<br>
-Min: 10°C<br>
 Max: 27°C<br>
 <br>
 <strong>Sun 12 Sep</strong><br>
@@ -224,17 +170,11 @@ Max: 26°C<br>
         <item>
             <title><![CDATA[Niš]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>86f6fb78e061d6948a7073c8d3f5244e</guid>
-            <pubDate>Fri, 10 Sep 2021 11:03:00 GMT</pubDate>
-            <description><![CDATA[<strong>Fri 10 Sep</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-4.png" alt="Partly cloudy" /><br>
-Partly cloudy<br>
-Max: 26°C<br>
-<br>
-<strong>Sat 11 Sep</strong><br>
+            <guid>f47a187f547992a0ced55529418e4687</guid>
+            <pubDate>Sat, 11 Sep 2021 05:25:00 GMT</pubDate>
+            <description><![CDATA[<strong>Sat 11 Sep</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
 Mostly sunny<br>
-Min: 12°C<br>
 Max: 29°C<br>
 <br>
 <strong>Sun 12 Sep</strong><br>
