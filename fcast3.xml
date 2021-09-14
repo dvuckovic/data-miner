@@ -4,7 +4,7 @@
         <title>RHMZ</title>
         <link>https://data.dvuckovic.com/fcast3.xml</link>
         <description>Weather Forecast for Serbia</description>
-        <lastBuildDate>Tue, 14 Sep 2021 04:45:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Sep 2021 12:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>fcast</generator>
         <language>en</language>
@@ -17,99 +17,135 @@
         <item>
             <title><![CDATA[Palić]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>89e4864c6a4c0d483db36077f47e5b8d</guid>
-            <pubDate>Tue, 14 Sep 2021 04:45:00 GMT</pubDate>
+            <guid>5547025ae0197c24cb9f4556819bb819</guid>
+            <pubDate>Tue, 14 Sep 2021 12:00:00 GMT</pubDate>
             <description><![CDATA[<strong>Tue 14 Sep</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
 Sunny<br>
 Max: 30°C<br>
 <br>
 <strong>Wed 15 Sep</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
-Mostly sunny<br>
-Min: 13°C<br>
-Max: 30°C<br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
+Sunny<br>
+Min: 14°C<br>
+Max: 31°C<br>
+<br>
+<strong>Thu 16 Sep</strong><br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-10.png" alt="Mostly cloudy" /><br>
+Mostly cloudy<br>
+Min: 16°C<br>
+Max: 31°C<br>
 ]]></description>
         </item>
         <item>
             <title><![CDATA[Novi Sad]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>e3635e3bfd29a91e904000d0b35eac5f</guid>
-            <pubDate>Tue, 14 Sep 2021 04:45:00 GMT</pubDate>
+            <guid>048ab276d35aaa31838dec04a56ebf9e</guid>
+            <pubDate>Tue, 14 Sep 2021 12:00:00 GMT</pubDate>
             <description><![CDATA[<strong>Tue 14 Sep</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
 Sunny<br>
 Max: 30°C<br>
 <br>
 <strong>Wed 15 Sep</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
-Mostly sunny<br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
+Sunny<br>
 Min: 14°C<br>
+Max: 32°C<br>
+<br>
+<strong>Thu 16 Sep</strong><br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-10.png" alt="Mostly cloudy" /><br>
+Mostly cloudy<br>
+Min: 16°C<br>
 Max: 31°C<br>
 ]]></description>
         </item>
         <item>
             <title><![CDATA[Loznica]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>793b0bf7ba75eb0fff4e242c43ffaf4c</guid>
-            <pubDate>Tue, 14 Sep 2021 04:45:00 GMT</pubDate>
+            <guid>264bd6b520025363cb9c045444b388b8</guid>
+            <pubDate>Tue, 14 Sep 2021 12:00:00 GMT</pubDate>
             <description><![CDATA[<strong>Tue 14 Sep</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
 Sunny<br>
 Max: 30°C<br>
 <br>
 <strong>Wed 15 Sep</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
-Mostly sunny<br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
+Sunny<br>
 Min: 14°C<br>
-Max: 31°C<br>
+Max: 32°C<br>
+<br>
+<strong>Thu 16 Sep</strong><br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-10.png" alt="Mostly cloudy" /><br>
+Mostly cloudy<br>
+Min: 16°C<br>
+Max: 32°C<br>
 ]]></description>
         </item>
         <item>
             <title><![CDATA[Belgrade]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>2b63d158ef28e6e37b0889fb51431a43</guid>
-            <pubDate>Tue, 14 Sep 2021 04:45:00 GMT</pubDate>
+            <guid>5197ae6378d1a0a6acd497a8082b02fa</guid>
+            <pubDate>Tue, 14 Sep 2021 12:00:00 GMT</pubDate>
             <description><![CDATA[<strong>Tue 14 Sep</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
 Sunny<br>
 Max: 30°C<br>
 <br>
 <strong>Wed 15 Sep</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
-Mostly sunny<br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
+Sunny<br>
 Min: 17°C<br>
+Max: 31°C<br>
+<br>
+<strong>Thu 16 Sep</strong><br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-10.png" alt="Mostly cloudy" /><br>
+Mostly cloudy<br>
+Min: 19°C<br>
 Max: 31°C<br>
 ]]></description>
         </item>
         <item>
             <title><![CDATA[Kragujevac]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>fcf16c8129ade91ac011766f0138c9e1</guid>
-            <pubDate>Tue, 14 Sep 2021 04:45:00 GMT</pubDate>
+            <guid>bc2cbf7d9b51c3d2a58dc86a7b4b5fc4</guid>
+            <pubDate>Tue, 14 Sep 2021 12:00:00 GMT</pubDate>
             <description><![CDATA[<strong>Tue 14 Sep</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
 Sunny<br>
 Max: 30°C<br>
 <br>
 <strong>Wed 15 Sep</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
-Mostly sunny<br>
-Min: 12°C<br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
+Sunny<br>
+Min: 13°C<br>
+Max: 31°C<br>
+<br>
+<strong>Thu 16 Sep</strong><br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-4.png" alt="Partly cloudy" /><br>
+Partly cloudy<br>
+Min: 14°C<br>
 Max: 31°C<br>
 ]]></description>
         </item>
         <item>
             <title><![CDATA[Negotin]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>9a225b658327df0e00f3c899632fa7d6</guid>
-            <pubDate>Tue, 14 Sep 2021 04:45:00 GMT</pubDate>
+            <guid>0db3521b3a7daf9dd1584b17407c4793</guid>
+            <pubDate>Tue, 14 Sep 2021 12:00:00 GMT</pubDate>
             <description><![CDATA[<strong>Tue 14 Sep</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
 Sunny<br>
 Max: 31°C<br>
 <br>
 <strong>Wed 15 Sep</strong><br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
+Sunny<br>
+Min: 14°C<br>
+Max: 30°C<br>
+<br>
+<strong>Thu 16 Sep</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
 Mostly sunny<br>
 Min: 14°C<br>
@@ -119,69 +155,93 @@ Max: 30°C<br>
         <item>
             <title><![CDATA[Zlatibor]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>57e43de572a545b9e4c95809887ff497</guid>
-            <pubDate>Tue, 14 Sep 2021 04:45:00 GMT</pubDate>
+            <guid>1cb46a59846a11ebcd89ed3bc54d8f33</guid>
+            <pubDate>Tue, 14 Sep 2021 12:00:00 GMT</pubDate>
             <description><![CDATA[<strong>Tue 14 Sep</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
 Sunny<br>
 Max: 24°C<br>
 <br>
 <strong>Wed 15 Sep</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
-Mostly sunny<br>
-Min: 11°C<br>
-Max: 25°C<br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
+Sunny<br>
+Min: 12°C<br>
+Max: 26°C<br>
+<br>
+<strong>Thu 16 Sep</strong><br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-10.png" alt="Mostly cloudy" /><br>
+Mostly cloudy<br>
+Min: 14°C<br>
+Max: 26°C<br>
 ]]></description>
         </item>
         <item>
             <title><![CDATA[Kraljevo]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>60f7b312dde00658a7a65b47006033b2</guid>
-            <pubDate>Tue, 14 Sep 2021 04:45:00 GMT</pubDate>
+            <guid>0ccbaf431b3715454bc89e268296c9b5</guid>
+            <pubDate>Tue, 14 Sep 2021 12:00:00 GMT</pubDate>
             <description><![CDATA[<strong>Tue 14 Sep</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
 Sunny<br>
 Max: 30°C<br>
 <br>
 <strong>Wed 15 Sep</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
-Mostly sunny<br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
+Sunny<br>
 Min: 12°C<br>
+Max: 31°C<br>
+<br>
+<strong>Thu 16 Sep</strong><br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-4.png" alt="Partly cloudy" /><br>
+Partly cloudy<br>
+Min: 13°C<br>
 Max: 31°C<br>
 ]]></description>
         </item>
         <item>
             <title><![CDATA[Priština]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>7f5573ec6ab85a8ef4de998c5d9f8f48</guid>
-            <pubDate>Tue, 14 Sep 2021 04:45:00 GMT</pubDate>
+            <guid>e4edc37c71574a144db369a27cb5d6ae</guid>
+            <pubDate>Tue, 14 Sep 2021 12:00:00 GMT</pubDate>
             <description><![CDATA[<strong>Tue 14 Sep</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
 Sunny<br>
 Max: 29°C<br>
 <br>
 <strong>Wed 15 Sep</strong><br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
+Sunny<br>
+Min: 11°C<br>
+Max: 30°C<br>
+<br>
+<strong>Thu 16 Sep</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
 Mostly sunny<br>
-Min: 10°C<br>
+Min: 11°C<br>
 Max: 30°C<br>
 ]]></description>
         </item>
         <item>
             <title><![CDATA[Niš]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>1e64af076f6b8b42d0e153cfb68d89b7</guid>
-            <pubDate>Tue, 14 Sep 2021 04:45:00 GMT</pubDate>
+            <guid>578d96a04db397f7b5fd581dbfdc9923</guid>
+            <pubDate>Tue, 14 Sep 2021 12:00:00 GMT</pubDate>
             <description><![CDATA[<strong>Tue 14 Sep</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
 Sunny<br>
 Max: 31°C<br>
 <br>
 <strong>Wed 15 Sep</strong><br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
+Sunny<br>
+Min: 11°C<br>
+Max: 31°C<br>
+<br>
+<strong>Thu 16 Sep</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
 Mostly sunny<br>
-Min: 12°C<br>
-Max: 31°C<br>
+Min: 13°C<br>
+Max: 32°C<br>
 ]]></description>
         </item>
     </channel>
