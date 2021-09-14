@@ -4,7 +4,7 @@
         <title>RHMZ</title>
         <link>https://data.dvuckovic.com/fcast3.xml</link>
         <description>Weather Forecast for Serbia</description>
-        <lastBuildDate>Mon, 13 Sep 2021 12:33:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Sep 2021 04:45:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>fcast</generator>
         <language>en</language>
@@ -17,17 +17,11 @@
         <item>
             <title><![CDATA[Palić]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>11bce51dc2986169ce0bb4b5f95d7244</guid>
-            <pubDate>Mon, 13 Sep 2021 12:33:00 GMT</pubDate>
-            <description><![CDATA[<strong>Mon 13 Sep</strong><br>
+            <guid>89e4864c6a4c0d483db36077f47e5b8d</guid>
+            <pubDate>Tue, 14 Sep 2021 04:45:00 GMT</pubDate>
+            <description><![CDATA[<strong>Tue 14 Sep</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
 Sunny<br>
-Max: 29°C<br>
-<br>
-<strong>Tue 14 Sep</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
-Sunny<br>
-Min: 12°C<br>
 Max: 30°C<br>
 <br>
 <strong>Wed 15 Sep</strong><br>
@@ -40,17 +34,11 @@ Max: 30°C<br>
         <item>
             <title><![CDATA[Novi Sad]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>17b35690881b6aa4980f6594fb6e1a48</guid>
-            <pubDate>Mon, 13 Sep 2021 12:33:00 GMT</pubDate>
-            <description><![CDATA[<strong>Mon 13 Sep</strong><br>
+            <guid>e3635e3bfd29a91e904000d0b35eac5f</guid>
+            <pubDate>Tue, 14 Sep 2021 04:45:00 GMT</pubDate>
+            <description><![CDATA[<strong>Tue 14 Sep</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
 Sunny<br>
-Max: 30°C<br>
-<br>
-<strong>Tue 14 Sep</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
-Sunny<br>
-Min: 13°C<br>
 Max: 30°C<br>
 <br>
 <strong>Wed 15 Sep</strong><br>
@@ -63,17 +51,11 @@ Max: 31°C<br>
         <item>
             <title><![CDATA[Loznica]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>4f090d2b7fdb8104c994e24e7158754e</guid>
-            <pubDate>Mon, 13 Sep 2021 12:33:00 GMT</pubDate>
-            <description><![CDATA[<strong>Mon 13 Sep</strong><br>
+            <guid>793b0bf7ba75eb0fff4e242c43ffaf4c</guid>
+            <pubDate>Tue, 14 Sep 2021 04:45:00 GMT</pubDate>
+            <description><![CDATA[<strong>Tue 14 Sep</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
 Sunny<br>
-Max: 29°C<br>
-<br>
-<strong>Tue 14 Sep</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
-Sunny<br>
-Min: 13°C<br>
 Max: 30°C<br>
 <br>
 <strong>Wed 15 Sep</strong><br>
@@ -86,17 +68,11 @@ Max: 31°C<br>
         <item>
             <title><![CDATA[Belgrade]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>f9283c004f96809acd51916fcdde556d</guid>
-            <pubDate>Mon, 13 Sep 2021 12:33:00 GMT</pubDate>
-            <description><![CDATA[<strong>Mon 13 Sep</strong><br>
+            <guid>2b63d158ef28e6e37b0889fb51431a43</guid>
+            <pubDate>Tue, 14 Sep 2021 04:45:00 GMT</pubDate>
+            <description><![CDATA[<strong>Tue 14 Sep</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
 Sunny<br>
-Max: 30°C<br>
-<br>
-<strong>Tue 14 Sep</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
-Sunny<br>
-Min: 14°C<br>
 Max: 30°C<br>
 <br>
 <strong>Wed 15 Sep</strong><br>
@@ -109,17 +85,11 @@ Max: 31°C<br>
         <item>
             <title><![CDATA[Kragujevac]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>888252574ca82b70d7d36854e4cb3f51</guid>
-            <pubDate>Mon, 13 Sep 2021 12:33:00 GMT</pubDate>
-            <description><![CDATA[<strong>Mon 13 Sep</strong><br>
+            <guid>fcf16c8129ade91ac011766f0138c9e1</guid>
+            <pubDate>Tue, 14 Sep 2021 04:45:00 GMT</pubDate>
+            <description><![CDATA[<strong>Tue 14 Sep</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
 Sunny<br>
-Max: 30°C<br>
-<br>
-<strong>Tue 14 Sep</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
-Sunny<br>
-Min: 10°C<br>
 Max: 30°C<br>
 <br>
 <strong>Wed 15 Sep</strong><br>
@@ -132,17 +102,11 @@ Max: 31°C<br>
         <item>
             <title><![CDATA[Negotin]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>ae1d279688e23b4b5f2da4d5fe1ae424</guid>
-            <pubDate>Mon, 13 Sep 2021 12:33:00 GMT</pubDate>
-            <description><![CDATA[<strong>Mon 13 Sep</strong><br>
+            <guid>9a225b658327df0e00f3c899632fa7d6</guid>
+            <pubDate>Tue, 14 Sep 2021 04:45:00 GMT</pubDate>
+            <description><![CDATA[<strong>Tue 14 Sep</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
 Sunny<br>
-Max: 31°C<br>
-<br>
-<strong>Tue 14 Sep</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
-Sunny<br>
-Min: 14°C<br>
 Max: 31°C<br>
 <br>
 <strong>Wed 15 Sep</strong><br>
@@ -155,17 +119,11 @@ Max: 30°C<br>
         <item>
             <title><![CDATA[Zlatibor]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>59391c7ba8347fa86324332114afc28c</guid>
-            <pubDate>Mon, 13 Sep 2021 12:33:00 GMT</pubDate>
-            <description><![CDATA[<strong>Mon 13 Sep</strong><br>
+            <guid>57e43de572a545b9e4c95809887ff497</guid>
+            <pubDate>Tue, 14 Sep 2021 04:45:00 GMT</pubDate>
+            <description><![CDATA[<strong>Tue 14 Sep</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
 Sunny<br>
-Max: 23°C<br>
-<br>
-<strong>Tue 14 Sep</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
-Sunny<br>
-Min: 11°C<br>
 Max: 24°C<br>
 <br>
 <strong>Wed 15 Sep</strong><br>
@@ -178,17 +136,11 @@ Max: 25°C<br>
         <item>
             <title><![CDATA[Kraljevo]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>9ba00b7027cbeefccab781ae7a78a2f7</guid>
-            <pubDate>Mon, 13 Sep 2021 12:33:00 GMT</pubDate>
-            <description><![CDATA[<strong>Mon 13 Sep</strong><br>
+            <guid>60f7b312dde00658a7a65b47006033b2</guid>
+            <pubDate>Tue, 14 Sep 2021 04:45:00 GMT</pubDate>
+            <description><![CDATA[<strong>Tue 14 Sep</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
 Sunny<br>
-Max: 30°C<br>
-<br>
-<strong>Tue 14 Sep</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
-Sunny<br>
-Min: 11°C<br>
 Max: 30°C<br>
 <br>
 <strong>Wed 15 Sep</strong><br>
@@ -201,17 +153,11 @@ Max: 31°C<br>
         <item>
             <title><![CDATA[Priština]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>2c32b846603f7d4dece26c6fc7ff2e9e</guid>
-            <pubDate>Mon, 13 Sep 2021 12:33:00 GMT</pubDate>
-            <description><![CDATA[<strong>Mon 13 Sep</strong><br>
+            <guid>7f5573ec6ab85a8ef4de998c5d9f8f48</guid>
+            <pubDate>Tue, 14 Sep 2021 04:45:00 GMT</pubDate>
+            <description><![CDATA[<strong>Tue 14 Sep</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
 Sunny<br>
-Max: 28°C<br>
-<br>
-<strong>Tue 14 Sep</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
-Sunny<br>
-Min: 10°C<br>
 Max: 29°C<br>
 <br>
 <strong>Wed 15 Sep</strong><br>
@@ -224,17 +170,11 @@ Max: 30°C<br>
         <item>
             <title><![CDATA[Niš]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>7817753910b037fefe252a31b508cd9b</guid>
-            <pubDate>Mon, 13 Sep 2021 12:33:00 GMT</pubDate>
-            <description><![CDATA[<strong>Mon 13 Sep</strong><br>
+            <guid>1e64af076f6b8b42d0e153cfb68d89b7</guid>
+            <pubDate>Tue, 14 Sep 2021 04:45:00 GMT</pubDate>
+            <description><![CDATA[<strong>Tue 14 Sep</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
 Sunny<br>
-Max: 30°C<br>
-<br>
-<strong>Tue 14 Sep</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
-Sunny<br>
-Min: 11°C<br>
 Max: 31°C<br>
 <br>
 <strong>Wed 15 Sep</strong><br>
