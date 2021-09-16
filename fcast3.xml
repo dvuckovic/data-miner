@@ -4,7 +4,7 @@
         <title>RHMZ</title>
         <link>https://data.dvuckovic.com/fcast3.xml</link>
         <description>Weather Forecast for Serbia</description>
-        <lastBuildDate>Thu, 16 Sep 2021 05:25:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Sep 2021 09:40:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>fcast</generator>
         <language>en</language>
@@ -17,11 +17,11 @@
         <item>
             <title><![CDATA[Palić]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>10d82e473952c0f28a1ed4fc7c458d52</guid>
-            <pubDate>Thu, 16 Sep 2021 05:25:00 GMT</pubDate>
+            <guid>dbb43f6dca70cd5dd61de46419990215</guid>
+            <pubDate>Thu, 16 Sep 2021 09:40:00 GMT</pubDate>
             <description><![CDATA[<strong>Thu 16 Sep</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-10.png" alt="Mostly cloudy" /><br>
-Mostly cloudy<br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-6.png" alt="Possible rain showers" /><br>
+Possible rain showers<br>
 Max: 30°C<br>
 <br>
 <strong>Fri 17 Sep</strong><br>
@@ -34,8 +34,8 @@ Max: 25°C<br>
         <item>
             <title><![CDATA[Novi Sad]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>3779f3e40df0fd39e255a095ea7fca1b</guid>
-            <pubDate>Thu, 16 Sep 2021 05:25:00 GMT</pubDate>
+            <guid>680277a0be68abb10e0b9deee5636119</guid>
+            <pubDate>Thu, 16 Sep 2021 09:40:00 GMT</pubDate>
             <description><![CDATA[<strong>Thu 16 Sep</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-10.png" alt="Mostly cloudy" /><br>
 Mostly cloudy<br>
@@ -51,8 +51,8 @@ Max: 26°C<br>
         <item>
             <title><![CDATA[Loznica]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>2b2556b6fd1ebda71d63ee017e4d705d</guid>
-            <pubDate>Thu, 16 Sep 2021 05:25:00 GMT</pubDate>
+            <guid>b9de605911378fade716bf929534880e</guid>
+            <pubDate>Thu, 16 Sep 2021 09:40:00 GMT</pubDate>
             <description><![CDATA[<strong>Thu 16 Sep</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-10.png" alt="Mostly cloudy" /><br>
 Mostly cloudy<br>
@@ -68,8 +68,8 @@ Max: 28°C<br>
         <item>
             <title><![CDATA[Belgrade]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>6369e02b03de7d3d52eb4256fa034b61</guid>
-            <pubDate>Thu, 16 Sep 2021 05:25:00 GMT</pubDate>
+            <guid>49beeddc721a39449f5028c4c097fdda</guid>
+            <pubDate>Thu, 16 Sep 2021 09:40:00 GMT</pubDate>
             <description><![CDATA[<strong>Thu 16 Sep</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-10.png" alt="Mostly cloudy" /><br>
 Mostly cloudy<br>
@@ -85,8 +85,8 @@ Max: 28°C<br>
         <item>
             <title><![CDATA[Kragujevac]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>c10bb7b65d10fa2265310090e2ab6e99</guid>
-            <pubDate>Thu, 16 Sep 2021 05:25:00 GMT</pubDate>
+            <guid>2a0cfce9540aaf56128b5a071e553579</guid>
+            <pubDate>Thu, 16 Sep 2021 09:40:00 GMT</pubDate>
             <description><![CDATA[<strong>Thu 16 Sep</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-10.png" alt="Mostly cloudy" /><br>
 Mostly cloudy<br>
@@ -102,8 +102,8 @@ Max: 30°C<br>
         <item>
             <title><![CDATA[Negotin]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>86f8caae817c42b73e77022ada8ce32c</guid>
-            <pubDate>Thu, 16 Sep 2021 05:25:00 GMT</pubDate>
+            <guid>ac3c6041665a1aa63b0f064b85a18054</guid>
+            <pubDate>Thu, 16 Sep 2021 09:40:00 GMT</pubDate>
             <description><![CDATA[<strong>Thu 16 Sep</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-4.png" alt="Partly cloudy" /><br>
 Partly cloudy<br>
@@ -119,8 +119,8 @@ Max: 29°C<br>
         <item>
             <title><![CDATA[Zlatibor]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>dae1e8c64d966da1d0de84c61d2fdd89</guid>
-            <pubDate>Thu, 16 Sep 2021 05:25:00 GMT</pubDate>
+            <guid>2dd6ce9d719e0e4038b6c531c8129a5f</guid>
+            <pubDate>Thu, 16 Sep 2021 09:40:00 GMT</pubDate>
             <description><![CDATA[<strong>Thu 16 Sep</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-10.png" alt="Mostly cloudy" /><br>
 Mostly cloudy<br>
@@ -136,11 +136,11 @@ Max: 24°C<br>
         <item>
             <title><![CDATA[Kraljevo]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>96f0609a3afeb19b9c5e081a990baf31</guid>
-            <pubDate>Thu, 16 Sep 2021 05:25:00 GMT</pubDate>
+            <guid>f3c852c470f9853d4fc7640ba8517697</guid>
+            <pubDate>Thu, 16 Sep 2021 09:40:00 GMT</pubDate>
             <description><![CDATA[<strong>Thu 16 Sep</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-10.png" alt="Mostly cloudy" /><br>
-Mostly cloudy<br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-6.png" alt="Possible rain showers" /><br>
+Possible rain showers<br>
 Max: 30°C<br>
 <br>
 <strong>Fri 17 Sep</strong><br>
@@ -153,8 +153,8 @@ Max: 30°C<br>
         <item>
             <title><![CDATA[Priština]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>0e67096bf8e643c0878f3884b287b090</guid>
-            <pubDate>Thu, 16 Sep 2021 05:25:00 GMT</pubDate>
+            <guid>e770fa81d37e926af2d34eb78b6c1d0a</guid>
+            <pubDate>Thu, 16 Sep 2021 09:40:00 GMT</pubDate>
             <description><![CDATA[<strong>Thu 16 Sep</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-10.png" alt="Mostly cloudy" /><br>
 Mostly cloudy<br>
@@ -170,8 +170,8 @@ Max: 30°C<br>
         <item>
             <title><![CDATA[Niš]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>9314bb18af71e2d6225c1842a35efd6c</guid>
-            <pubDate>Thu, 16 Sep 2021 05:25:00 GMT</pubDate>
+            <guid>25d8b61a9f99575de1b3103b5bf58df5</guid>
+            <pubDate>Thu, 16 Sep 2021 09:40:00 GMT</pubDate>
             <description><![CDATA[<strong>Thu 16 Sep</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-10.png" alt="Mostly cloudy" /><br>
 Mostly cloudy<br>
