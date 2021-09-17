@@ -4,7 +4,7 @@
         <title>RHMZ</title>
         <link>https://data.dvuckovic.com/fcast3.xml</link>
         <description>Weather Forecast for Serbia</description>
-        <lastBuildDate>Fri, 17 Sep 2021 05:20:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Sep 2021 11:35:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>fcast</generator>
         <language>en</language>
@@ -17,8 +17,8 @@
         <item>
             <title><![CDATA[Palić]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>3b0efb2775da912cec825201ce4b3abe</guid>
-            <pubDate>Fri, 17 Sep 2021 05:20:00 GMT</pubDate>
+            <guid>c6dafd0388620dcfc029398e9d20b402</guid>
+            <pubDate>Fri, 17 Sep 2021 11:35:00 GMT</pubDate>
             <description><![CDATA[<strong>Fri 17 Sep</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-5.png" alt="After noon rain showers" /><br>
 After noon rain showers<br>
@@ -34,12 +34,12 @@ Max: 23°C<br>
         <item>
             <title><![CDATA[Novi Sad]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>457acfc51ebe66a46278977418a7b24b</guid>
-            <pubDate>Fri, 17 Sep 2021 05:20:00 GMT</pubDate>
+            <guid>0690bbc60debc62a15241300c09d3493</guid>
+            <pubDate>Fri, 17 Sep 2021 11:35:00 GMT</pubDate>
             <description><![CDATA[<strong>Fri 17 Sep</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-5.png" alt="After noon rain showers" /><br>
 After noon rain showers<br>
-Max: 26°C<br>
+Max: 27°C<br>
 <br>
 <strong>Sat 18 Sep</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-4.png" alt="Partly cloudy" /><br>
@@ -51,12 +51,12 @@ Max: 24°C<br>
         <item>
             <title><![CDATA[Loznica]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>bdaf1b7af46d50a5676198cd4f3ee735</guid>
-            <pubDate>Fri, 17 Sep 2021 05:20:00 GMT</pubDate>
+            <guid>066f576fc8ce79b747708d30822b603b</guid>
+            <pubDate>Fri, 17 Sep 2021 11:35:00 GMT</pubDate>
             <description><![CDATA[<strong>Fri 17 Sep</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-5.png" alt="After noon rain showers" /><br>
 After noon rain showers<br>
-Max: 28°C<br>
+Max: 27°C<br>
 <br>
 <strong>Sat 18 Sep</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-6.png" alt="Possible rain showers" /><br>
@@ -68,12 +68,12 @@ Max: 25°C<br>
         <item>
             <title><![CDATA[Belgrade]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>32ac5bc5e5748dc101cc8555e204f9fd</guid>
-            <pubDate>Fri, 17 Sep 2021 05:20:00 GMT</pubDate>
+            <guid>30d700a51f5461cbd699f5fbffc0b94b</guid>
+            <pubDate>Fri, 17 Sep 2021 11:35:00 GMT</pubDate>
             <description><![CDATA[<strong>Fri 17 Sep</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-5.png" alt="After noon rain showers" /><br>
 After noon rain showers<br>
-Max: 28°C<br>
+Max: 29°C<br>
 <br>
 <strong>Sat 18 Sep</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-4.png" alt="Partly cloudy" /><br>
@@ -85,12 +85,12 @@ Max: 24°C<br>
         <item>
             <title><![CDATA[Kragujevac]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>bf5ac469caa84251a3e54f3299d796b8</guid>
-            <pubDate>Fri, 17 Sep 2021 05:20:00 GMT</pubDate>
+            <guid>97ecffc5194dc99071bfee69a7c19ec5</guid>
+            <pubDate>Fri, 17 Sep 2021 11:35:00 GMT</pubDate>
             <description><![CDATA[<strong>Fri 17 Sep</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-5.png" alt="After noon rain showers" /><br>
 After noon rain showers<br>
-Max: 30°C<br>
+Max: 31°C<br>
 <br>
 <strong>Sat 18 Sep</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-6.png" alt="Possible rain showers" /><br>
@@ -102,12 +102,12 @@ Max: 24°C<br>
         <item>
             <title><![CDATA[Negotin]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>3064aa9f9fb135df638005f3966c58f4</guid>
-            <pubDate>Fri, 17 Sep 2021 05:20:00 GMT</pubDate>
+            <guid>875116b8903fd76bbc2785582c71bdbd</guid>
+            <pubDate>Fri, 17 Sep 2021 11:35:00 GMT</pubDate>
             <description><![CDATA[<strong>Fri 17 Sep</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-5.png" alt="After noon rain showers" /><br>
 After noon rain showers<br>
-Max: 29°C<br>
+Max: 31°C<br>
 <br>
 <strong>Sat 18 Sep</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-6.png" alt="Possible rain showers" /><br>
@@ -119,8 +119,8 @@ Max: 26°C<br>
         <item>
             <title><![CDATA[Zlatibor]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>37ee9cfa6aee2dfdb4d88dced9c2b12f</guid>
-            <pubDate>Fri, 17 Sep 2021 05:20:00 GMT</pubDate>
+            <guid>895e8231d3483c3d3a275f28969e1e55</guid>
+            <pubDate>Fri, 17 Sep 2021 11:35:00 GMT</pubDate>
             <description><![CDATA[<strong>Fri 17 Sep</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-5.png" alt="After noon rain showers" /><br>
 After noon rain showers<br>
@@ -136,12 +136,12 @@ Max: 20°C<br>
         <item>
             <title><![CDATA[Kraljevo]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>b503590f38654104ebbe89fe5d7a3b0a</guid>
-            <pubDate>Fri, 17 Sep 2021 05:20:00 GMT</pubDate>
+            <guid>b2f40835bde20c9552b5881a2abf644e</guid>
+            <pubDate>Fri, 17 Sep 2021 11:35:00 GMT</pubDate>
             <description><![CDATA[<strong>Fri 17 Sep</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-5.png" alt="After noon rain showers" /><br>
 After noon rain showers<br>
-Max: 29°C<br>
+Max: 30°C<br>
 <br>
 <strong>Sat 18 Sep</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-6.png" alt="Possible rain showers" /><br>
@@ -153,12 +153,12 @@ Max: 23°C<br>
         <item>
             <title><![CDATA[Priština]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>a9ff2cfdf111d20faadcf9598607b8ed</guid>
-            <pubDate>Fri, 17 Sep 2021 05:20:00 GMT</pubDate>
+            <guid>5656ba88539fd5008d620495914d948c</guid>
+            <pubDate>Fri, 17 Sep 2021 11:35:00 GMT</pubDate>
             <description><![CDATA[<strong>Fri 17 Sep</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-5.png" alt="After noon rain showers" /><br>
 After noon rain showers<br>
-Max: 30°C<br>
+Max: 31°C<br>
 <br>
 <strong>Sat 18 Sep</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-5.png" alt="After noon rain showers" /><br>
@@ -170,8 +170,8 @@ Max: 25°C<br>
         <item>
             <title><![CDATA[Niš]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>64d1dd87339c46cb32a895361641b975</guid>
-            <pubDate>Fri, 17 Sep 2021 05:20:00 GMT</pubDate>
+            <guid>4eb1f15185b9cdcdfbfc583fd03c7668</guid>
+            <pubDate>Fri, 17 Sep 2021 11:35:00 GMT</pubDate>
             <description><![CDATA[<strong>Fri 17 Sep</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-5.png" alt="After noon rain showers" /><br>
 After noon rain showers<br>
