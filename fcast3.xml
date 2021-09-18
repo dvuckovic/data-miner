@@ -4,7 +4,7 @@
         <title>RHMZ</title>
         <link>https://data.dvuckovic.com/fcast3.xml</link>
         <description>Weather Forecast for Serbia</description>
-        <lastBuildDate>Sat, 18 Sep 2021 05:20:00 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Sep 2021 11:10:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>fcast</generator>
         <language>en</language>
@@ -17,12 +17,12 @@
         <item>
             <title><![CDATA[Palić]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>cbd2a15e8e7fced7b9931417673270d9</guid>
-            <pubDate>Sat, 18 Sep 2021 05:20:00 GMT</pubDate>
+            <guid>9ea27608bad5cd05098c17818de27cf2</guid>
+            <pubDate>Sat, 18 Sep 2021 11:10:00 GMT</pubDate>
             <description><![CDATA[<strong>Sat 18 Sep</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-4.png" alt="Partly cloudy" /><br>
 Partly cloudy<br>
-Max: 23°C<br>
+Max: 25°C<br>
 <br>
 <strong>Sun 19 Sep</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-6.png" alt="Possible rain showers" /><br>
@@ -34,11 +34,11 @@ Max: 24°C<br>
         <item>
             <title><![CDATA[Novi Sad]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>3d31dcecfe303faea6dcfbdaf9679137</guid>
-            <pubDate>Sat, 18 Sep 2021 05:20:00 GMT</pubDate>
+            <guid>95c76c8a038285fa7d30a5499adabfad</guid>
+            <pubDate>Sat, 18 Sep 2021 11:10:00 GMT</pubDate>
             <description><![CDATA[<strong>Sat 18 Sep</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-4.png" alt="Partly cloudy" /><br>
-Partly cloudy<br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
+Mostly sunny<br>
 Max: 24°C<br>
 <br>
 <strong>Sun 19 Sep</strong><br>
@@ -51,11 +51,11 @@ Max: 24°C<br>
         <item>
             <title><![CDATA[Loznica]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>9d6a96d816908c1ea03a69d98d5b355f</guid>
-            <pubDate>Sat, 18 Sep 2021 05:20:00 GMT</pubDate>
+            <guid>dfe20f460460e80fd2591a5f99b1a20b</guid>
+            <pubDate>Sat, 18 Sep 2021 11:10:00 GMT</pubDate>
             <description><![CDATA[<strong>Sat 18 Sep</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-10.png" alt="Mostly cloudy" /><br>
-Mostly cloudy<br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-4.png" alt="Partly cloudy" /><br>
+Partly cloudy<br>
 Max: 24°C<br>
 <br>
 <strong>Sun 19 Sep</strong><br>
@@ -68,8 +68,8 @@ Max: 25°C<br>
         <item>
             <title><![CDATA[Belgrade]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>22302c5d278c2b98dc499cc737d654d3</guid>
-            <pubDate>Sat, 18 Sep 2021 05:20:00 GMT</pubDate>
+            <guid>7567efec88680365fd97bcaec4b03b7f</guid>
+            <pubDate>Sat, 18 Sep 2021 11:10:00 GMT</pubDate>
             <description><![CDATA[<strong>Sat 18 Sep</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-4.png" alt="Partly cloudy" /><br>
 Partly cloudy<br>
@@ -85,12 +85,12 @@ Max: 24°C<br>
         <item>
             <title><![CDATA[Kragujevac]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>92927dc9ccd407d95fab296ac85ced53</guid>
-            <pubDate>Sat, 18 Sep 2021 05:20:00 GMT</pubDate>
+            <guid>a834ee82a7465b263ba3e840ae5c85b5</guid>
+            <pubDate>Sat, 18 Sep 2021 11:10:00 GMT</pubDate>
             <description><![CDATA[<strong>Sat 18 Sep</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-6.png" alt="Possible rain showers" /><br>
-Possible rain showers<br>
-Max: 23°C<br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-10.png" alt="Mostly cloudy" /><br>
+Mostly cloudy<br>
+Max: 22°C<br>
 <br>
 <strong>Sun 19 Sep</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-5.png" alt="After noon rain showers" /><br>
@@ -102,11 +102,11 @@ Max: 25°C<br>
         <item>
             <title><![CDATA[Negotin]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>f2a6d2e9942c731abb284f1b9791bc5a</guid>
-            <pubDate>Sat, 18 Sep 2021 05:20:00 GMT</pubDate>
+            <guid>e077a6bb7fd0c6e6839a4d74d6dd4fa8</guid>
+            <pubDate>Sat, 18 Sep 2021 11:10:00 GMT</pubDate>
             <description><![CDATA[<strong>Sat 18 Sep</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-4.png" alt="Partly cloudy" /><br>
-Partly cloudy<br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-10.png" alt="Mostly cloudy" /><br>
+Mostly cloudy<br>
 Max: 25°C<br>
 <br>
 <strong>Sun 19 Sep</strong><br>
@@ -119,11 +119,11 @@ Max: 27°C<br>
         <item>
             <title><![CDATA[Zlatibor]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>17cf1d35ba97363acbdb1f2f2aea580f</guid>
-            <pubDate>Sat, 18 Sep 2021 05:20:00 GMT</pubDate>
+            <guid>ba6969a393d29b5ba45b614a967041fc</guid>
+            <pubDate>Sat, 18 Sep 2021 11:10:00 GMT</pubDate>
             <description><![CDATA[<strong>Sat 18 Sep</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-5.png" alt="After noon rain showers" /><br>
-After noon rain showers<br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-8.png" alt="Possible rain" /><br>
+Possible rain<br>
 Max: 17°C<br>
 <br>
 <strong>Sun 19 Sep</strong><br>
@@ -136,12 +136,12 @@ Max: 19°C<br>
         <item>
             <title><![CDATA[Kraljevo]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>79ef150e275448f2f697ae2f1e607f5c</guid>
-            <pubDate>Sat, 18 Sep 2021 05:20:00 GMT</pubDate>
+            <guid>05e2cb34936d70489d7450f47a09f669</guid>
+            <pubDate>Sat, 18 Sep 2021 11:10:00 GMT</pubDate>
             <description><![CDATA[<strong>Sat 18 Sep</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-6.png" alt="Possible rain showers" /><br>
-Possible rain showers<br>
-Max: 23°C<br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-10.png" alt="Mostly cloudy" /><br>
+Mostly cloudy<br>
+Max: 21°C<br>
 <br>
 <strong>Sun 19 Sep</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-5.png" alt="After noon rain showers" /><br>
@@ -153,12 +153,12 @@ Max: 24°C<br>
         <item>
             <title><![CDATA[Priština]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>3584d4a2286518ca1dedb136f42ee717</guid>
-            <pubDate>Sat, 18 Sep 2021 05:20:00 GMT</pubDate>
+            <guid>a5b146cb0b7c15d11abb6dec14ec9caf</guid>
+            <pubDate>Sat, 18 Sep 2021 11:10:00 GMT</pubDate>
             <description><![CDATA[<strong>Sat 18 Sep</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-5.png" alt="After noon rain showers" /><br>
 After noon rain showers<br>
-Max: 22°C<br>
+Max: 20°C<br>
 <br>
 <strong>Sun 19 Sep</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-5.png" alt="After noon rain showers" /><br>
@@ -170,12 +170,12 @@ Max: 24°C<br>
         <item>
             <title><![CDATA[Niš]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>e15cedf8365bfc374f8bb22594cf1c74</guid>
-            <pubDate>Sat, 18 Sep 2021 05:20:00 GMT</pubDate>
+            <guid>ad5496f6c015c0d261872dfc16aec623</guid>
+            <pubDate>Sat, 18 Sep 2021 11:10:00 GMT</pubDate>
             <description><![CDATA[<strong>Sat 18 Sep</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-5.png" alt="After noon rain showers" /><br>
-After noon rain showers<br>
-Max: 23°C<br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-8.png" alt="Possible rain" /><br>
+Possible rain<br>
+Max: 21°C<br>
 <br>
 <strong>Sun 19 Sep</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-5.png" alt="After noon rain showers" /><br>
