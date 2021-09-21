@@ -4,7 +4,7 @@
         <title>RHMZ</title>
         <link>https://data.dvuckovic.com/fcast3.xml</link>
         <description>Weather Forecast for Serbia</description>
-        <lastBuildDate>Tue, 21 Sep 2021 05:25:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Sep 2021 11:09:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>fcast</generator>
         <language>en</language>
@@ -17,93 +17,123 @@
         <item>
             <title><![CDATA[Palić]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>10db55f2e6c83b52e643149d68ee207d</guid>
-            <pubDate>Tue, 21 Sep 2021 05:25:00 GMT</pubDate>
+            <guid>8ba9cf892b9430f161cc969f42075d06</guid>
+            <pubDate>Tue, 21 Sep 2021 11:09:00 GMT</pubDate>
             <description><![CDATA[<strong>Tue 21 Sep</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-4.png" alt="Partly cloudy" /><br>
 Partly cloudy<br>
 Max: 17°C<br>
 <br>
 <strong>Wed 22 Sep</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-9.png" alt="Rain" /><br>
-Rain<br>
-Min: 10°C<br>
-Max: 15°C<br>
-]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Novi Sad]]></title>
-            <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>eb69844e9cb31eb47cd9a6eb90ef2718</guid>
-            <pubDate>Tue, 21 Sep 2021 05:25:00 GMT</pubDate>
-            <description><![CDATA[<strong>Tue 21 Sep</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-10.png" alt="Mostly cloudy" /><br>
-Mostly cloudy<br>
-Max: 18°C<br>
-<br>
-<strong>Wed 22 Sep</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-9.png" alt="Rain" /><br>
-Rain<br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-8.png" alt="Possible rain" /><br>
+Possible rain<br>
 Min: 8°C<br>
-Max: 16°C<br>
-]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Loznica]]></title>
-            <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>6cfe7006c19dcb1dedb9b2b5c5918934</guid>
-            <pubDate>Tue, 21 Sep 2021 05:25:00 GMT</pubDate>
-            <description><![CDATA[<strong>Tue 21 Sep</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-8.png" alt="Possible rain" /><br>
-Possible rain<br>
-Max: 18°C<br>
+Max: 14°C<br>
 <br>
-<strong>Wed 22 Sep</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-9.png" alt="Rain" /><br>
-Rain<br>
-Min: 10°C<br>
-Max: 17°C<br>
-]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Belgrade]]></title>
-            <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>d36dc101f3be3f58e08a74c2ac14ac26</guid>
-            <pubDate>Tue, 21 Sep 2021 05:25:00 GMT</pubDate>
-            <description><![CDATA[<strong>Tue 21 Sep</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-10.png" alt="Mostly cloudy" /><br>
-Mostly cloudy<br>
-Max: 18°C<br>
-<br>
-<strong>Wed 22 Sep</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-9.png" alt="Rain" /><br>
-Rain<br>
-Min: 10°C<br>
-Max: 16°C<br>
-]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Kragujevac]]></title>
-            <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>c6277257afd85558ec521ae13aaa2ace</guid>
-            <pubDate>Tue, 21 Sep 2021 05:25:00 GMT</pubDate>
-            <description><![CDATA[<strong>Tue 21 Sep</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-8.png" alt="Possible rain" /><br>
-Possible rain<br>
-Max: 18°C<br>
-<br>
-<strong>Wed 22 Sep</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-9.png" alt="Rain" /><br>
-Rain<br>
+<strong>Thu 23 Sep</strong><br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-6.png" alt="Possible rain showers" /><br>
+Possible rain showers<br>
 Min: 7°C<br>
 Max: 17°C<br>
 ]]></description>
         </item>
         <item>
+            <title><![CDATA[Novi Sad]]></title>
+            <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
+            <guid>b3ed1a7c018c56f72b97dddb6d7e0f85</guid>
+            <pubDate>Tue, 21 Sep 2021 11:09:00 GMT</pubDate>
+            <description><![CDATA[<strong>Tue 21 Sep</strong><br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-10.png" alt="Mostly cloudy" /><br>
+Mostly cloudy<br>
+Max: 18°C<br>
+<br>
+<strong>Wed 22 Sep</strong><br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-8.png" alt="Possible rain" /><br>
+Possible rain<br>
+Min: 9°C<br>
+Max: 14°C<br>
+<br>
+<strong>Thu 23 Sep</strong><br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-6.png" alt="Possible rain showers" /><br>
+Possible rain showers<br>
+Min: 8°C<br>
+Max: 20°C<br>
+]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Loznica]]></title>
+            <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
+            <guid>96aa52291f229ea029e8c8e06f1755d7</guid>
+            <pubDate>Tue, 21 Sep 2021 11:09:00 GMT</pubDate>
+            <description><![CDATA[<strong>Tue 21 Sep</strong><br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-8.png" alt="Possible rain" /><br>
+Possible rain<br>
+Max: 18°C<br>
+<br>
+<strong>Wed 22 Sep</strong><br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-8.png" alt="Possible rain" /><br>
+Possible rain<br>
+Min: 9°C<br>
+Max: 16°C<br>
+<br>
+<strong>Thu 23 Sep</strong><br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-6.png" alt="Possible rain showers" /><br>
+Possible rain showers<br>
+Min: 10°C<br>
+Max: 19°C<br>
+]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Belgrade]]></title>
+            <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
+            <guid>cebc6e17757f8e30e6459bdce9e8ae6c</guid>
+            <pubDate>Tue, 21 Sep 2021 11:09:00 GMT</pubDate>
+            <description><![CDATA[<strong>Tue 21 Sep</strong><br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-10.png" alt="Mostly cloudy" /><br>
+Mostly cloudy<br>
+Max: 18°C<br>
+<br>
+<strong>Wed 22 Sep</strong><br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-8.png" alt="Possible rain" /><br>
+Possible rain<br>
+Min: 11°C<br>
+Max: 15°C<br>
+<br>
+<strong>Thu 23 Sep</strong><br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-6.png" alt="Possible rain showers" /><br>
+Possible rain showers<br>
+Min: 9°C<br>
+Max: 18°C<br>
+]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Kragujevac]]></title>
+            <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
+            <guid>37c9ce474ee14a3b7b0c20dfda817dee</guid>
+            <pubDate>Tue, 21 Sep 2021 11:09:00 GMT</pubDate>
+            <description><![CDATA[<strong>Tue 21 Sep</strong><br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-8.png" alt="Possible rain" /><br>
+Possible rain<br>
+Max: 18°C<br>
+<br>
+<strong>Wed 22 Sep</strong><br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-8.png" alt="Possible rain" /><br>
+Possible rain<br>
+Min: 9°C<br>
+Max: 15°C<br>
+<br>
+<strong>Thu 23 Sep</strong><br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-4.png" alt="Partly cloudy" /><br>
+Partly cloudy<br>
+Min: 7°C<br>
+Max: 19°C<br>
+]]></description>
+        </item>
+        <item>
             <title><![CDATA[Negotin]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>69de465ab33a510a073aba2a262982ba</guid>
-            <pubDate>Tue, 21 Sep 2021 05:25:00 GMT</pubDate>
+            <guid>5aee4b5b6f146d9daa654355a002b919</guid>
+            <pubDate>Tue, 21 Sep 2021 11:09:00 GMT</pubDate>
             <description><![CDATA[<strong>Tue 21 Sep</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
 Mostly sunny<br>
@@ -114,47 +144,65 @@ Max: 22°C<br>
 Possible rain<br>
 Min: 10°C<br>
 Max: 17°C<br>
+<br>
+<strong>Thu 23 Sep</strong><br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-4.png" alt="Partly cloudy" /><br>
+Partly cloudy<br>
+Min: 11°C<br>
+Max: 20°C<br>
 ]]></description>
         </item>
         <item>
             <title><![CDATA[Zlatibor]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>5324e1cd29ed073468b6b95e95cc7689</guid>
-            <pubDate>Tue, 21 Sep 2021 05:25:00 GMT</pubDate>
+            <guid>3400a7f6f560e41b72f7153b40dce012</guid>
+            <pubDate>Tue, 21 Sep 2021 11:09:00 GMT</pubDate>
             <description><![CDATA[<strong>Tue 21 Sep</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-8.png" alt="Possible rain" /><br>
 Possible rain<br>
 Max: 11°C<br>
 <br>
 <strong>Wed 22 Sep</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-9.png" alt="Rain" /><br>
-Rain<br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-8.png" alt="Possible rain" /><br>
+Possible rain<br>
 Min: 5°C<br>
 Max: 10°C<br>
+<br>
+<strong>Thu 23 Sep</strong><br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-4.png" alt="Partly cloudy" /><br>
+Partly cloudy<br>
+Min: 4°C<br>
+Max: 14°C<br>
 ]]></description>
         </item>
         <item>
             <title><![CDATA[Kraljevo]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>13ed56360c56f7f90327255959df41f5</guid>
-            <pubDate>Tue, 21 Sep 2021 05:25:00 GMT</pubDate>
+            <guid>983b46a5a9443bd5e1be6904007d47d7</guid>
+            <pubDate>Tue, 21 Sep 2021 11:09:00 GMT</pubDate>
             <description><![CDATA[<strong>Tue 21 Sep</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-8.png" alt="Possible rain" /><br>
 Possible rain<br>
 Max: 18°C<br>
 <br>
 <strong>Wed 22 Sep</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-9.png" alt="Rain" /><br>
-Rain<br>
-Min: 8°C<br>
-Max: 16°C<br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-8.png" alt="Possible rain" /><br>
+Possible rain<br>
+Min: 10°C<br>
+Max: 15°C<br>
+<br>
+<strong>Thu 23 Sep</strong><br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-4.png" alt="Partly cloudy" /><br>
+Partly cloudy<br>
+Min: 9°C<br>
+Max: 18°C<br>
 ]]></description>
         </item>
         <item>
             <title><![CDATA[Priština]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>50207ef4ae335446ac5d4fea1368cc7e</guid>
-            <pubDate>Tue, 21 Sep 2021 05:25:00 GMT</pubDate>
+            <guid>9a6792f9c3231da8fc9fe65c3f67d150</guid>
+            <pubDate>Tue, 21 Sep 2021 11:09:00 GMT</pubDate>
             <description><![CDATA[<strong>Tue 21 Sep</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-10.png" alt="Mostly cloudy" /><br>
 Mostly cloudy<br>
@@ -164,14 +212,20 @@ Max: 19°C<br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-8.png" alt="Possible rain" /><br>
 Possible rain<br>
 Min: 9°C<br>
-Max: 18°C<br>
+Max: 15°C<br>
+<br>
+<strong>Thu 23 Sep</strong><br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-4.png" alt="Partly cloudy" /><br>
+Partly cloudy<br>
+Min: 7°C<br>
+Max: 19°C<br>
 ]]></description>
         </item>
         <item>
             <title><![CDATA[Niš]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>358c3bc22948666161960e7b4b6abde4</guid>
-            <pubDate>Tue, 21 Sep 2021 05:25:00 GMT</pubDate>
+            <guid>3a39cccd9bb85e51659d1f83947d07e5</guid>
+            <pubDate>Tue, 21 Sep 2021 11:09:00 GMT</pubDate>
             <description><![CDATA[<strong>Tue 21 Sep</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-10.png" alt="Mostly cloudy" /><br>
 Mostly cloudy<br>
@@ -180,8 +234,14 @@ Max: 20°C<br>
 <strong>Wed 22 Sep</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-8.png" alt="Possible rain" /><br>
 Possible rain<br>
-Min: 8°C<br>
-Max: 17°C<br>
+Min: 10°C<br>
+Max: 15°C<br>
+<br>
+<strong>Thu 23 Sep</strong><br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-4.png" alt="Partly cloudy" /><br>
+Partly cloudy<br>
+Min: 6°C<br>
+Max: 20°C<br>
 ]]></description>
         </item>
     </channel>
