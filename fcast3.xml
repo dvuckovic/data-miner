@@ -4,7 +4,7 @@
         <title>RHMZ</title>
         <link>https://data.dvuckovic.com/fcast3.xml</link>
         <description>Weather Forecast for Serbia</description>
-        <lastBuildDate>Fri, 24 Sep 2021 11:36:00 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Sep 2021 04:40:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>fcast</generator>
         <language>en</language>
@@ -17,17 +17,11 @@
         <item>
             <title><![CDATA[Palić]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>923e43685824260b0b28a9816e51f279</guid>
-            <pubDate>Fri, 24 Sep 2021 11:36:00 GMT</pubDate>
-            <description><![CDATA[<strong>Fri 24 Sep</strong><br>
+            <guid>7482a79333bb31286a24e080fd884ab4</guid>
+            <pubDate>Sat, 25 Sep 2021 04:40:00 GMT</pubDate>
+            <description><![CDATA[<strong>Sat 25 Sep</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
 Mostly sunny<br>
-Max: 24°C<br>
-<br>
-<strong>Sat 25 Sep</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
-Mostly sunny<br>
-Min: 9°C<br>
 Max: 27°C<br>
 <br>
 <strong>Sun 26 Sep</strong><br>
@@ -40,17 +34,11 @@ Max: 28°C<br>
         <item>
             <title><![CDATA[Novi Sad]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>4f80a25a6c96f1662ec61b9f9d24918a</guid>
-            <pubDate>Fri, 24 Sep 2021 11:36:00 GMT</pubDate>
-            <description><![CDATA[<strong>Fri 24 Sep</strong><br>
+            <guid>1c1b5df3007e563a5fed99c0573f4626</guid>
+            <pubDate>Sat, 25 Sep 2021 04:40:00 GMT</pubDate>
+            <description><![CDATA[<strong>Sat 25 Sep</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
 Mostly sunny<br>
-Max: 24°C<br>
-<br>
-<strong>Sat 25 Sep</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
-Mostly sunny<br>
-Min: 11°C<br>
 Max: 27°C<br>
 <br>
 <strong>Sun 26 Sep</strong><br>
@@ -63,17 +51,11 @@ Max: 29°C<br>
         <item>
             <title><![CDATA[Loznica]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>6c3d74c0cfbea32ebd509b81192b6d09</guid>
-            <pubDate>Fri, 24 Sep 2021 11:36:00 GMT</pubDate>
-            <description><![CDATA[<strong>Fri 24 Sep</strong><br>
+            <guid>17daeef2d1da4725ca7fde1092342eb2</guid>
+            <pubDate>Sat, 25 Sep 2021 04:40:00 GMT</pubDate>
+            <description><![CDATA[<strong>Sat 25 Sep</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
 Mostly sunny<br>
-Max: 26°C<br>
-<br>
-<strong>Sat 25 Sep</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
-Mostly sunny<br>
-Min: 10°C<br>
 Max: 28°C<br>
 <br>
 <strong>Sun 26 Sep</strong><br>
@@ -86,17 +68,11 @@ Max: 30°C<br>
         <item>
             <title><![CDATA[Belgrade]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>2e85f29d8a3642b6be12b0e9d578aeb7</guid>
-            <pubDate>Fri, 24 Sep 2021 11:36:00 GMT</pubDate>
-            <description><![CDATA[<strong>Fri 24 Sep</strong><br>
+            <guid>89787c789cbe7c1ef32427970c14a502</guid>
+            <pubDate>Sat, 25 Sep 2021 04:40:00 GMT</pubDate>
+            <description><![CDATA[<strong>Sat 25 Sep</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
 Mostly sunny<br>
-Max: 25°C<br>
-<br>
-<strong>Sat 25 Sep</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
-Mostly sunny<br>
-Min: 13°C<br>
 Max: 27°C<br>
 <br>
 <strong>Sun 26 Sep</strong><br>
@@ -109,17 +85,11 @@ Max: 29°C<br>
         <item>
             <title><![CDATA[Kragujevac]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>4bd394583735d4d73fc4e293ad2e788e</guid>
-            <pubDate>Fri, 24 Sep 2021 11:36:00 GMT</pubDate>
-            <description><![CDATA[<strong>Fri 24 Sep</strong><br>
+            <guid>3c495e3934ecb98023e270970c377417</guid>
+            <pubDate>Sat, 25 Sep 2021 04:40:00 GMT</pubDate>
+            <description><![CDATA[<strong>Sat 25 Sep</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
 Mostly sunny<br>
-Max: 26°C<br>
-<br>
-<strong>Sat 25 Sep</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
-Mostly sunny<br>
-Min: 8°C<br>
 Max: 27°C<br>
 <br>
 <strong>Sun 26 Sep</strong><br>
@@ -132,17 +102,11 @@ Max: 30°C<br>
         <item>
             <title><![CDATA[Negotin]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>78b6a048599f5171e594fc4cc592cc80</guid>
-            <pubDate>Fri, 24 Sep 2021 11:36:00 GMT</pubDate>
-            <description><![CDATA[<strong>Fri 24 Sep</strong><br>
+            <guid>e7880e7bf265771cc5564009872b4dd8</guid>
+            <pubDate>Sat, 25 Sep 2021 04:40:00 GMT</pubDate>
+            <description><![CDATA[<strong>Sat 25 Sep</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
 Mostly sunny<br>
-Max: 26°C<br>
-<br>
-<strong>Sat 25 Sep</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
-Mostly sunny<br>
-Min: 15°C<br>
 Max: 29°C<br>
 <br>
 <strong>Sun 26 Sep</strong><br>
@@ -155,17 +119,11 @@ Max: 30°C<br>
         <item>
             <title><![CDATA[Zlatibor]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>7a2a09f8305ffaf447768f9527462f60</guid>
-            <pubDate>Fri, 24 Sep 2021 11:36:00 GMT</pubDate>
-            <description><![CDATA[<strong>Fri 24 Sep</strong><br>
+            <guid>831be6ebef5d412f501d7ba6ba7b0579</guid>
+            <pubDate>Sat, 25 Sep 2021 04:40:00 GMT</pubDate>
+            <description><![CDATA[<strong>Sat 25 Sep</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
 Mostly sunny<br>
-Max: 20°C<br>
-<br>
-<strong>Sat 25 Sep</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
-Mostly sunny<br>
-Min: 6°C<br>
 Max: 22°C<br>
 <br>
 <strong>Sun 26 Sep</strong><br>
@@ -178,17 +136,11 @@ Max: 25°C<br>
         <item>
             <title><![CDATA[Kraljevo]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>ce7a0a8fb85c21e6335de373b3b00b14</guid>
-            <pubDate>Fri, 24 Sep 2021 11:36:00 GMT</pubDate>
-            <description><![CDATA[<strong>Fri 24 Sep</strong><br>
+            <guid>8de5171ff30fd7dcb2be2278c2acb4cc</guid>
+            <pubDate>Sat, 25 Sep 2021 04:40:00 GMT</pubDate>
+            <description><![CDATA[<strong>Sat 25 Sep</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
 Mostly sunny<br>
-Max: 25°C<br>
-<br>
-<strong>Sat 25 Sep</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
-Mostly sunny<br>
-Min: 6°C<br>
 Max: 26°C<br>
 <br>
 <strong>Sun 26 Sep</strong><br>
@@ -201,17 +153,11 @@ Max: 29°C<br>
         <item>
             <title><![CDATA[Priština]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>ec0a646b44ce4556c3ef8de107eb0e1d</guid>
-            <pubDate>Fri, 24 Sep 2021 11:36:00 GMT</pubDate>
-            <description><![CDATA[<strong>Fri 24 Sep</strong><br>
+            <guid>ce5df0fbb45c42e8e9f0f21eb2f7da2d</guid>
+            <pubDate>Sat, 25 Sep 2021 04:40:00 GMT</pubDate>
+            <description><![CDATA[<strong>Sat 25 Sep</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
 Mostly sunny<br>
-Max: 24°C<br>
-<br>
-<strong>Sat 25 Sep</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
-Mostly sunny<br>
-Min: 4°C<br>
 Max: 25°C<br>
 <br>
 <strong>Sun 26 Sep</strong><br>
@@ -224,17 +170,11 @@ Max: 28°C<br>
         <item>
             <title><![CDATA[Niš]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>ba9e91bf3fda8a4c7e65681f3f9319a6</guid>
-            <pubDate>Fri, 24 Sep 2021 11:36:00 GMT</pubDate>
-            <description><![CDATA[<strong>Fri 24 Sep</strong><br>
+            <guid>45f41d450eac63b9003201472b177c4a</guid>
+            <pubDate>Sat, 25 Sep 2021 04:40:00 GMT</pubDate>
+            <description><![CDATA[<strong>Sat 25 Sep</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
 Mostly sunny<br>
-Max: 24°C<br>
-<br>
-<strong>Sat 25 Sep</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
-Mostly sunny<br>
-Min: 7°C<br>
 Max: 27°C<br>
 <br>
 <strong>Sun 26 Sep</strong><br>
