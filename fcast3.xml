@@ -4,7 +4,7 @@
         <title>RHMZ</title>
         <link>https://data.dvuckovic.com/fcast3.xml</link>
         <description>Weather Forecast for Serbia</description>
-        <lastBuildDate>Mon, 27 Sep 2021 05:15:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Sep 2021 10:45:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>fcast</generator>
         <language>en</language>
@@ -17,12 +17,12 @@
         <item>
             <title><![CDATA[Palić]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>a6cae03559befd4f6113c01623e57567</guid>
-            <pubDate>Mon, 27 Sep 2021 05:15:00 GMT</pubDate>
+            <guid>053d521e5592bd1c8c9f43e0494da405</guid>
+            <pubDate>Mon, 27 Sep 2021 10:45:00 GMT</pubDate>
             <description><![CDATA[<strong>Mon 27 Sep</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-6.png" alt="Possible rain showers" /><br>
 Possible rain showers<br>
-Max: 26°C<br>
+Max: 24°C<br>
 <br>
 <strong>Tue 28 Sep</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-8.png" alt="Possible rain" /><br>
@@ -34,8 +34,8 @@ Max: 23°C<br>
         <item>
             <title><![CDATA[Novi Sad]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>26c8b6a5295a372f438f9a511250523c</guid>
-            <pubDate>Mon, 27 Sep 2021 05:15:00 GMT</pubDate>
+            <guid>c72264fed68cece30fba9d23b60c3943</guid>
+            <pubDate>Mon, 27 Sep 2021 10:45:00 GMT</pubDate>
             <description><![CDATA[<strong>Mon 27 Sep</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-6.png" alt="Possible rain showers" /><br>
 Possible rain showers<br>
@@ -51,8 +51,8 @@ Max: 22°C<br>
         <item>
             <title><![CDATA[Loznica]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>7b727bbce23908ef8aa4108016f253a3</guid>
-            <pubDate>Mon, 27 Sep 2021 05:15:00 GMT</pubDate>
+            <guid>e8edbb4f84b0a1f9189f09a99d2f5e56</guid>
+            <pubDate>Mon, 27 Sep 2021 10:45:00 GMT</pubDate>
             <description><![CDATA[<strong>Mon 27 Sep</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-6.png" alt="Possible rain showers" /><br>
 Possible rain showers<br>
@@ -68,8 +68,8 @@ Max: 22°C<br>
         <item>
             <title><![CDATA[Belgrade]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>3adf5f714365bae85865a9296bce67cf</guid>
-            <pubDate>Mon, 27 Sep 2021 05:15:00 GMT</pubDate>
+            <guid>4dfef475fa36c892a3cfea8cb40b9a44</guid>
+            <pubDate>Mon, 27 Sep 2021 10:45:00 GMT</pubDate>
             <description><![CDATA[<strong>Mon 27 Sep</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-6.png" alt="Possible rain showers" /><br>
 Possible rain showers<br>
@@ -85,8 +85,8 @@ Max: 22°C<br>
         <item>
             <title><![CDATA[Kragujevac]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>dbe2370208e378084fe1dff884304cf5</guid>
-            <pubDate>Mon, 27 Sep 2021 05:15:00 GMT</pubDate>
+            <guid>16ff22892aefc366cec265432ddbbaf4</guid>
+            <pubDate>Mon, 27 Sep 2021 10:45:00 GMT</pubDate>
             <description><![CDATA[<strong>Mon 27 Sep</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-10.png" alt="Mostly cloudy" /><br>
 Mostly cloudy<br>
@@ -102,8 +102,8 @@ Max: 21°C<br>
         <item>
             <title><![CDATA[Negotin]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>a4c9c5bea1b6619398d4092b5f093c45</guid>
-            <pubDate>Mon, 27 Sep 2021 05:15:00 GMT</pubDate>
+            <guid>5023e3e3f1526d1e3cf3761898a7a69a</guid>
+            <pubDate>Mon, 27 Sep 2021 10:45:00 GMT</pubDate>
             <description><![CDATA[<strong>Mon 27 Sep</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-4.png" alt="Partly cloudy" /><br>
 Partly cloudy<br>
@@ -119,8 +119,8 @@ Max: 20°C<br>
         <item>
             <title><![CDATA[Zlatibor]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>2fbc6d4b58ecdf0ded5e0eb9e80069eb</guid>
-            <pubDate>Mon, 27 Sep 2021 05:15:00 GMT</pubDate>
+            <guid>0910d06ee131ff683b19eae024bce008</guid>
+            <pubDate>Mon, 27 Sep 2021 10:45:00 GMT</pubDate>
             <description><![CDATA[<strong>Mon 27 Sep</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-5.png" alt="After noon rain showers" /><br>
 After noon rain showers<br>
@@ -136,8 +136,8 @@ Max: 17°C<br>
         <item>
             <title><![CDATA[Kraljevo]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>66ff2bd735cc88e482d1d9b8aaac2dda</guid>
-            <pubDate>Mon, 27 Sep 2021 05:15:00 GMT</pubDate>
+            <guid>41859119d5db498942bb6f5b1e22396a</guid>
+            <pubDate>Mon, 27 Sep 2021 10:45:00 GMT</pubDate>
             <description><![CDATA[<strong>Mon 27 Sep</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-6.png" alt="Possible rain showers" /><br>
 Possible rain showers<br>
@@ -153,8 +153,8 @@ Max: 21°C<br>
         <item>
             <title><![CDATA[Priština]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>3ddab919f2e7d0ffbf0278098d6d1d2a</guid>
-            <pubDate>Mon, 27 Sep 2021 05:15:00 GMT</pubDate>
+            <guid>add91b8c9964d1bbc2a85933e247a1f6</guid>
+            <pubDate>Mon, 27 Sep 2021 10:45:00 GMT</pubDate>
             <description><![CDATA[<strong>Mon 27 Sep</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-4.png" alt="Partly cloudy" /><br>
 Partly cloudy<br>
@@ -170,8 +170,8 @@ Max: 24°C<br>
         <item>
             <title><![CDATA[Niš]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>911ec37e768fc0a906b776c2d963ef02</guid>
-            <pubDate>Mon, 27 Sep 2021 05:15:00 GMT</pubDate>
+            <guid>1c0ac67ef46e273f411880840800a28b</guid>
+            <pubDate>Mon, 27 Sep 2021 10:45:00 GMT</pubDate>
             <description><![CDATA[<strong>Mon 27 Sep</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-4.png" alt="Partly cloudy" /><br>
 Partly cloudy<br>
