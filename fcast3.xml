@@ -4,7 +4,7 @@
         <title>RHMZ</title>
         <link>https://data.dvuckovic.com/fcast3.xml</link>
         <description>Weather Forecast for Serbia</description>
-        <lastBuildDate>Tue, 05 Oct 2021 11:51:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Oct 2021 04:50:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>fcast</generator>
         <language>en</language>
@@ -17,17 +17,11 @@
         <item>
             <title><![CDATA[Palić]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>862598778bdbc65ee58211b234430d74</guid>
-            <pubDate>Tue, 05 Oct 2021 11:51:00 GMT</pubDate>
-            <description><![CDATA[<strong>Tue 5 Oct</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
-Sunny<br>
-Max: 25°C<br>
-<br>
-<strong>Wed 6 Oct</strong><br>
+            <guid>243472c199d135a5ca08da01f14f0351</guid>
+            <pubDate>Wed, 06 Oct 2021 04:50:00 GMT</pubDate>
+            <description><![CDATA[<strong>Wed 6 Oct</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-8.png" alt="Possible rain" /><br>
 Possible rain<br>
-Min: 12°C<br>
 Max: 18°C<br>
 <br>
 <strong>Thu 7 Oct</strong><br>
@@ -40,17 +34,11 @@ Max: 15°C<br>
         <item>
             <title><![CDATA[Novi Sad]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>22896320745d71e21f7ae641160cd7da</guid>
-            <pubDate>Tue, 05 Oct 2021 11:51:00 GMT</pubDate>
-            <description><![CDATA[<strong>Tue 5 Oct</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
-Sunny<br>
-Max: 26°C<br>
-<br>
-<strong>Wed 6 Oct</strong><br>
+            <guid>b1ee65294a90941c0928f5a4e7e9da54</guid>
+            <pubDate>Wed, 06 Oct 2021 04:50:00 GMT</pubDate>
+            <description><![CDATA[<strong>Wed 6 Oct</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-6.png" alt="Possible rain showers" /><br>
 Possible rain showers<br>
-Min: 14°C<br>
 Max: 18°C<br>
 <br>
 <strong>Thu 7 Oct</strong><br>
@@ -63,17 +51,11 @@ Max: 15°C<br>
         <item>
             <title><![CDATA[Loznica]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>7596a30850fe4cde49e466fd62a47a67</guid>
-            <pubDate>Tue, 05 Oct 2021 11:51:00 GMT</pubDate>
-            <description><![CDATA[<strong>Tue 5 Oct</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
-Sunny<br>
-Max: 29°C<br>
-<br>
-<strong>Wed 6 Oct</strong><br>
+            <guid>869394ef51dce34583f15f6cc96dc2fb</guid>
+            <pubDate>Wed, 06 Oct 2021 04:50:00 GMT</pubDate>
+            <description><![CDATA[<strong>Wed 6 Oct</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-6.png" alt="Possible rain showers" /><br>
 Possible rain showers<br>
-Min: 12°C<br>
 Max: 21°C<br>
 <br>
 <strong>Thu 7 Oct</strong><br>
@@ -86,17 +68,11 @@ Max: 14°C<br>
         <item>
             <title><![CDATA[Belgrade]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>1aea5ee812202ddb74d6426e99b116da</guid>
-            <pubDate>Tue, 05 Oct 2021 11:51:00 GMT</pubDate>
-            <description><![CDATA[<strong>Tue 5 Oct</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
-Sunny<br>
-Max: 26°C<br>
-<br>
-<strong>Wed 6 Oct</strong><br>
+            <guid>b3827a46a60ae2c108b8179cf67217c1</guid>
+            <pubDate>Wed, 06 Oct 2021 04:50:00 GMT</pubDate>
+            <description><![CDATA[<strong>Wed 6 Oct</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-6.png" alt="Possible rain showers" /><br>
 Possible rain showers<br>
-Min: 14°C<br>
 Max: 19°C<br>
 <br>
 <strong>Thu 7 Oct</strong><br>
@@ -109,17 +85,11 @@ Max: 15°C<br>
         <item>
             <title><![CDATA[Kragujevac]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>9371a2b25f3a2054890585e580199ac7</guid>
-            <pubDate>Tue, 05 Oct 2021 11:51:00 GMT</pubDate>
-            <description><![CDATA[<strong>Tue 5 Oct</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
-Sunny<br>
-Max: 26°C<br>
-<br>
-<strong>Wed 6 Oct</strong><br>
+            <guid>be473bcc47a841b5539c414727bf499d</guid>
+            <pubDate>Wed, 06 Oct 2021 04:50:00 GMT</pubDate>
+            <description><![CDATA[<strong>Wed 6 Oct</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-6.png" alt="Possible rain showers" /><br>
 Possible rain showers<br>
-Min: 12°C<br>
 Max: 20°C<br>
 <br>
 <strong>Thu 7 Oct</strong><br>
@@ -132,17 +102,11 @@ Max: 15°C<br>
         <item>
             <title><![CDATA[Negotin]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>620943b959510f64ed08f6bcdcb0fc73</guid>
-            <pubDate>Tue, 05 Oct 2021 11:51:00 GMT</pubDate>
-            <description><![CDATA[<strong>Tue 5 Oct</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
-Sunny<br>
-Max: 21°C<br>
-<br>
-<strong>Wed 6 Oct</strong><br>
+            <guid>6ba82b5b4975421a3cc071d9b3d1d3f7</guid>
+            <pubDate>Wed, 06 Oct 2021 04:50:00 GMT</pubDate>
+            <description><![CDATA[<strong>Wed 6 Oct</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-10.png" alt="Mostly cloudy" /><br>
 Mostly cloudy<br>
-Min: 8°C<br>
 Max: 17°C<br>
 <br>
 <strong>Thu 7 Oct</strong><br>
@@ -155,17 +119,11 @@ Max: 14°C<br>
         <item>
             <title><![CDATA[Zlatibor]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>640599aa170fea235d2d14b000fc379d</guid>
-            <pubDate>Tue, 05 Oct 2021 11:51:00 GMT</pubDate>
-            <description><![CDATA[<strong>Tue 5 Oct</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
-Sunny<br>
-Max: 23°C<br>
-<br>
-<strong>Wed 6 Oct</strong><br>
+            <guid>fd3c76a1055c8b8ac0a1ad1070404d3a</guid>
+            <pubDate>Wed, 06 Oct 2021 04:50:00 GMT</pubDate>
+            <description><![CDATA[<strong>Wed 6 Oct</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-6.png" alt="Possible rain showers" /><br>
 Possible rain showers<br>
-Min: 11°C<br>
 Max: 18°C<br>
 <br>
 <strong>Thu 7 Oct</strong><br>
@@ -178,17 +136,11 @@ Max: 10°C<br>
         <item>
             <title><![CDATA[Kraljevo]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>c794b6571b6ff8e4564015127c9d28c7</guid>
-            <pubDate>Tue, 05 Oct 2021 11:51:00 GMT</pubDate>
-            <description><![CDATA[<strong>Tue 5 Oct</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
-Sunny<br>
-Max: 25°C<br>
-<br>
-<strong>Wed 6 Oct</strong><br>
+            <guid>fdf8dab62e2cae5a55bff63f29b0a87d</guid>
+            <pubDate>Wed, 06 Oct 2021 04:50:00 GMT</pubDate>
+            <description><![CDATA[<strong>Wed 6 Oct</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-6.png" alt="Possible rain showers" /><br>
 Possible rain showers<br>
-Min: 11°C<br>
 Max: 20°C<br>
 <br>
 <strong>Thu 7 Oct</strong><br>
@@ -201,17 +153,11 @@ Max: 15°C<br>
         <item>
             <title><![CDATA[Priština]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>ad00e6054f05d923171003f65558aa13</guid>
-            <pubDate>Tue, 05 Oct 2021 11:51:00 GMT</pubDate>
-            <description><![CDATA[<strong>Tue 5 Oct</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
-Sunny<br>
-Max: 24°C<br>
-<br>
-<strong>Wed 6 Oct</strong><br>
+            <guid>3ca7d580a79560e12c928d2bc4b12994</guid>
+            <pubDate>Wed, 06 Oct 2021 04:50:00 GMT</pubDate>
+            <description><![CDATA[<strong>Wed 6 Oct</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-8.png" alt="Possible rain" /><br>
 Possible rain<br>
-Min: 8°C<br>
 Max: 19°C<br>
 <br>
 <strong>Thu 7 Oct</strong><br>
@@ -224,17 +170,11 @@ Max: 14°C<br>
         <item>
             <title><![CDATA[Niš]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>b287e945e623fdd4f7c9d9270c928c68</guid>
-            <pubDate>Tue, 05 Oct 2021 11:51:00 GMT</pubDate>
-            <description><![CDATA[<strong>Tue 5 Oct</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
-Sunny<br>
-Max: 26°C<br>
-<br>
-<strong>Wed 6 Oct</strong><br>
+            <guid>4cfbc5ed35383e2759797e5c20450e4c</guid>
+            <pubDate>Wed, 06 Oct 2021 04:50:00 GMT</pubDate>
+            <description><![CDATA[<strong>Wed 6 Oct</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-10.png" alt="Mostly cloudy" /><br>
 Mostly cloudy<br>
-Min: 12°C<br>
 Max: 21°C<br>
 <br>
 <strong>Thu 7 Oct</strong><br>
