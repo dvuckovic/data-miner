@@ -4,7 +4,7 @@
         <title>RHMZ</title>
         <link>https://data.dvuckovic.com/fcast3.xml</link>
         <description>Weather Forecast for Serbia</description>
-        <lastBuildDate>Fri, 08 Oct 2021 10:15:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Oct 2021 13:27:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>fcast</generator>
         <language>en</language>
@@ -17,25 +17,31 @@
         <item>
             <title><![CDATA[Palić]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>d3f56eaf089e7f502fad0200347a1c25</guid>
-            <pubDate>Fri, 08 Oct 2021 10:15:00 GMT</pubDate>
+            <guid>7a4eb54c5f60d09868ad2b0a70d93a1a</guid>
+            <pubDate>Fri, 08 Oct 2021 13:27:00 GMT</pubDate>
             <description><![CDATA[<strong>Fri 8 Oct</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-8.png" alt="Possible rain" /><br>
 Possible rain<br>
 Max: 13°C<br>
 <br>
 <strong>Sat 9 Oct</strong><br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-8.png" alt="Possible rain" /><br>
+Possible rain<br>
+Min: 7°C<br>
+Max: 11°C<br>
+<br>
+<strong>Sun 10 Oct</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-9.png" alt="Rain" /><br>
 Rain<br>
 Min: 7°C<br>
-Max: 11°C<br>
+Max: 8°C<br>
 ]]></description>
         </item>
         <item>
             <title><![CDATA[Novi Sad]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>d42845e79f7b2d04e449a35a1ed07cb5</guid>
-            <pubDate>Fri, 08 Oct 2021 10:15:00 GMT</pubDate>
+            <guid>f2b88953ac7c93fce7a1a66cc3b9714e</guid>
+            <pubDate>Fri, 08 Oct 2021 13:27:00 GMT</pubDate>
             <description><![CDATA[<strong>Fri 8 Oct</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-8.png" alt="Possible rain" /><br>
 Possible rain<br>
@@ -44,15 +50,21 @@ Max: 14°C<br>
 <strong>Sat 9 Oct</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-9.png" alt="Rain" /><br>
 Rain<br>
-Min: 8°C<br>
-Max: 11°C<br>
+Min: 7°C<br>
+Max: 9°C<br>
+<br>
+<strong>Sun 10 Oct</strong><br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-9.png" alt="Rain" /><br>
+Rain<br>
+Min: 7°C<br>
+Max: 9°C<br>
 ]]></description>
         </item>
         <item>
             <title><![CDATA[Loznica]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>0bad9299edfa7e931d6a963fea35b986</guid>
-            <pubDate>Fri, 08 Oct 2021 10:15:00 GMT</pubDate>
+            <guid>42626ea9852682469e2b137bd37e4666</guid>
+            <pubDate>Fri, 08 Oct 2021 13:27:00 GMT</pubDate>
             <description><![CDATA[<strong>Fri 8 Oct</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-8.png" alt="Possible rain" /><br>
 Possible rain<br>
@@ -61,15 +73,21 @@ Max: 11°C<br>
 <strong>Sat 9 Oct</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-9.png" alt="Rain" /><br>
 Rain<br>
-Min: 8°C<br>
-Max: 10°C<br>
+Min: 7°C<br>
+Max: 9°C<br>
+<br>
+<strong>Sun 10 Oct</strong><br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-9.png" alt="Rain" /><br>
+Rain<br>
+Min: 7°C<br>
+Max: 9°C<br>
 ]]></description>
         </item>
         <item>
             <title><![CDATA[Belgrade]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>1a2272e3d598f3e5f312bdb4bd394202</guid>
-            <pubDate>Fri, 08 Oct 2021 10:15:00 GMT</pubDate>
+            <guid>24b4ca31e1af0f078f6862d00dd56782</guid>
+            <pubDate>Fri, 08 Oct 2021 13:27:00 GMT</pubDate>
             <description><![CDATA[<strong>Fri 8 Oct</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-8.png" alt="Possible rain" /><br>
 Possible rain<br>
@@ -80,13 +98,19 @@ Max: 12°C<br>
 Rain<br>
 Min: 8°C<br>
 Max: 10°C<br>
+<br>
+<strong>Sun 10 Oct</strong><br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-11.png" alt="Rain showers" /><br>
+Rain showers<br>
+Min: 7°C<br>
+Max: 9°C<br>
 ]]></description>
         </item>
         <item>
             <title><![CDATA[Kragujevac]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>67fed859b2bbf7e8fa02c0d4548a0416</guid>
-            <pubDate>Fri, 08 Oct 2021 10:15:00 GMT</pubDate>
+            <guid>3c08de4aaffba6bf088a79fbb50d02ff</guid>
+            <pubDate>Fri, 08 Oct 2021 13:27:00 GMT</pubDate>
             <description><![CDATA[<strong>Fri 8 Oct</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-9.png" alt="Rain" /><br>
 Rain<br>
@@ -95,15 +119,21 @@ Max: 12°C<br>
 <strong>Sat 9 Oct</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-9.png" alt="Rain" /><br>
 Rain<br>
-Min: 6°C<br>
+Min: 8°C<br>
+Max: 10°C<br>
+<br>
+<strong>Sun 10 Oct</strong><br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-9.png" alt="Rain" /><br>
+Rain<br>
+Min: 7°C<br>
 Max: 9°C<br>
 ]]></description>
         </item>
         <item>
             <title><![CDATA[Negotin]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>5f0f3b697b7155981d1bc1d84af87514</guid>
-            <pubDate>Fri, 08 Oct 2021 10:15:00 GMT</pubDate>
+            <guid>977f636dded5a6cb5630772c15447732</guid>
+            <pubDate>Fri, 08 Oct 2021 13:27:00 GMT</pubDate>
             <description><![CDATA[<strong>Fri 8 Oct</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-8.png" alt="Possible rain" /><br>
 Possible rain<br>
@@ -113,31 +143,43 @@ Max: 12°C<br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-9.png" alt="Rain" /><br>
 Rain<br>
 Min: 7°C<br>
-Max: 10°C<br>
+Max: 9°C<br>
+<br>
+<strong>Sun 10 Oct</strong><br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-11.png" alt="Rain showers" /><br>
+Rain showers<br>
+Min: 7°C<br>
+Max: 8°C<br>
 ]]></description>
         </item>
         <item>
             <title><![CDATA[Zlatibor]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>ccb48156a0fe261d055eb686a19a1429</guid>
-            <pubDate>Fri, 08 Oct 2021 10:15:00 GMT</pubDate>
+            <guid>1574fe2af8cdd41248c9077d87575516</guid>
+            <pubDate>Fri, 08 Oct 2021 13:27:00 GMT</pubDate>
             <description><![CDATA[<strong>Fri 8 Oct</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-9.png" alt="Rain" /><br>
 Rain<br>
 Max: 7°C<br>
 <br>
 <strong>Sat 9 Oct</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-13.png" alt="Rain and snow mixed" /><br>
-Rain and snow mixed<br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-9.png" alt="Rain" /><br>
+Rain<br>
 Min: 2°C<br>
-Max: 4°C<br>
+Max: 3°C<br>
+<br>
+<strong>Sun 10 Oct</strong><br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-9.png" alt="Rain" /><br>
+Rain<br>
+Min: 1°C<br>
+Max: 3°C<br>
 ]]></description>
         </item>
         <item>
             <title><![CDATA[Kraljevo]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>1ac92e2799c9ec2d60188dd849dc18ac</guid>
-            <pubDate>Fri, 08 Oct 2021 10:15:00 GMT</pubDate>
+            <guid>ff49eb938ee65e94a1f39857969f340f</guid>
+            <pubDate>Fri, 08 Oct 2021 13:27:00 GMT</pubDate>
             <description><![CDATA[<strong>Fri 8 Oct</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-9.png" alt="Rain" /><br>
 Rain<br>
@@ -146,32 +188,44 @@ Max: 11°C<br>
 <strong>Sat 9 Oct</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-9.png" alt="Rain" /><br>
 Rain<br>
-Min: 8°C<br>
+Min: 7°C<br>
+Max: 9°C<br>
+<br>
+<strong>Sun 10 Oct</strong><br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-9.png" alt="Rain" /><br>
+Rain<br>
+Min: 7°C<br>
 Max: 9°C<br>
 ]]></description>
         </item>
         <item>
             <title><![CDATA[Priština]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>248b2559503c0b9fc45d671baf87af62</guid>
-            <pubDate>Fri, 08 Oct 2021 10:15:00 GMT</pubDate>
+            <guid>052830d624cf67c63c0b3c0ddb50d60b</guid>
+            <pubDate>Fri, 08 Oct 2021 13:27:00 GMT</pubDate>
             <description><![CDATA[<strong>Fri 8 Oct</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-8.png" alt="Possible rain" /><br>
 Possible rain<br>
 Max: 12°C<br>
 <br>
 <strong>Sat 9 Oct</strong><br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-8.png" alt="Possible rain" /><br>
+Possible rain<br>
+Min: 9°C<br>
+Max: 11°C<br>
+<br>
+<strong>Sun 10 Oct</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-9.png" alt="Rain" /><br>
 Rain<br>
-Min: 8°C<br>
-Max: 12°C<br>
+Min: 7°C<br>
+Max: 11°C<br>
 ]]></description>
         </item>
         <item>
             <title><![CDATA[Niš]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>31c3106c73ec88441291eb8b11420090</guid>
-            <pubDate>Fri, 08 Oct 2021 10:15:00 GMT</pubDate>
+            <guid>cead5e63bb49cf4d42fc13a035b05bdf</guid>
+            <pubDate>Fri, 08 Oct 2021 13:27:00 GMT</pubDate>
             <description><![CDATA[<strong>Fri 8 Oct</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-8.png" alt="Possible rain" /><br>
 Possible rain<br>
@@ -180,7 +234,13 @@ Max: 13°C<br>
 <strong>Sat 9 Oct</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-9.png" alt="Rain" /><br>
 Rain<br>
-Min: 9°C<br>
+Min: 8°C<br>
+Max: 11°C<br>
+<br>
+<strong>Sun 10 Oct</strong><br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-8.png" alt="Possible rain" /><br>
+Possible rain<br>
+Min: 8°C<br>
 Max: 11°C<br>
 ]]></description>
         </item>
