@@ -4,7 +4,7 @@
         <title>RHMZ</title>
         <link>https://data.dvuckovic.com/fcast3.xml</link>
         <description>Weather Forecast for Serbia</description>
-        <lastBuildDate>Mon, 11 Oct 2021 13:55:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Oct 2021 05:10:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>fcast</generator>
         <language>en</language>
@@ -17,17 +17,11 @@
         <item>
             <title><![CDATA[Palić]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>5fa4ffe6b0ffff06da156cb2e977881f</guid>
-            <pubDate>Mon, 11 Oct 2021 13:55:00 GMT</pubDate>
-            <description><![CDATA[<strong>Mon 11 Oct</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-8.png" alt="Possible rain" /><br>
-Possible rain<br>
-Max: 10°C<br>
-<br>
-<strong>Tue 12 Oct</strong><br>
+            <guid>d68ca51b902dc89a8c22d3039826844a</guid>
+            <pubDate>Tue, 12 Oct 2021 05:10:00 GMT</pubDate>
+            <description><![CDATA[<strong>Tue 12 Oct</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-7.png" alt="Cloudy" /><br>
 Cloudy<br>
-Min: 7°C<br>
 Max: 14°C<br>
 <br>
 <strong>Wed 13 Oct</strong><br>
@@ -40,18 +34,12 @@ Max: 13°C<br>
         <item>
             <title><![CDATA[Novi Sad]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>0b37c555b2f80982d8f293a174f7857f</guid>
-            <pubDate>Mon, 11 Oct 2021 13:55:00 GMT</pubDate>
-            <description><![CDATA[<strong>Mon 11 Oct</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-9.png" alt="Rain" /><br>
-Rain<br>
-Max: 11°C<br>
-<br>
-<strong>Tue 12 Oct</strong><br>
+            <guid>24cce27b793e0d1e4726bccb0b04a327</guid>
+            <pubDate>Tue, 12 Oct 2021 05:10:00 GMT</pubDate>
+            <description><![CDATA[<strong>Tue 12 Oct</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-8.png" alt="Possible rain" /><br>
 Possible rain<br>
-Min: 8°C<br>
-Max: 12°C<br>
+Max: 14°C<br>
 <br>
 <strong>Wed 13 Oct</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-8.png" alt="Possible rain" /><br>
@@ -63,18 +51,12 @@ Max: 13°C<br>
         <item>
             <title><![CDATA[Loznica]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>424d285ab660211deeb429eee9d82f09</guid>
-            <pubDate>Mon, 11 Oct 2021 13:55:00 GMT</pubDate>
-            <description><![CDATA[<strong>Mon 11 Oct</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-9.png" alt="Rain" /><br>
-Rain<br>
-Max: 9°C<br>
-<br>
-<strong>Tue 12 Oct</strong><br>
+            <guid>e4bd21f6c11c1c8a27ac4e465c72ec9a</guid>
+            <pubDate>Tue, 12 Oct 2021 05:10:00 GMT</pubDate>
+            <description><![CDATA[<strong>Tue 12 Oct</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-8.png" alt="Possible rain" /><br>
 Possible rain<br>
-Min: 8°C<br>
-Max: 13°C<br>
+Max: 14°C<br>
 <br>
 <strong>Wed 13 Oct</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-8.png" alt="Possible rain" /><br>
@@ -86,17 +68,11 @@ Max: 12°C<br>
         <item>
             <title><![CDATA[Belgrade]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>cd907da12da51ab014c32a00c932804b</guid>
-            <pubDate>Mon, 11 Oct 2021 13:55:00 GMT</pubDate>
-            <description><![CDATA[<strong>Mon 11 Oct</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-9.png" alt="Rain" /><br>
-Rain<br>
-Max: 10°C<br>
-<br>
-<strong>Tue 12 Oct</strong><br>
+            <guid>3e6917e87d890451cba8497c965a27c8</guid>
+            <pubDate>Tue, 12 Oct 2021 05:10:00 GMT</pubDate>
+            <description><![CDATA[<strong>Tue 12 Oct</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-8.png" alt="Possible rain" /><br>
 Possible rain<br>
-Min: 8°C<br>
 Max: 12°C<br>
 <br>
 <strong>Wed 13 Oct</strong><br>
@@ -109,17 +85,11 @@ Max: 13°C<br>
         <item>
             <title><![CDATA[Kragujevac]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>df6c44ae2e4833721b26b8e49ea33f10</guid>
-            <pubDate>Mon, 11 Oct 2021 13:55:00 GMT</pubDate>
-            <description><![CDATA[<strong>Mon 11 Oct</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-9.png" alt="Rain" /><br>
-Rain<br>
-Max: 10°C<br>
-<br>
-<strong>Tue 12 Oct</strong><br>
+            <guid>4d67e5ed99fea6aa35b8a1f0b167184c</guid>
+            <pubDate>Tue, 12 Oct 2021 05:10:00 GMT</pubDate>
+            <description><![CDATA[<strong>Tue 12 Oct</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-8.png" alt="Possible rain" /><br>
 Possible rain<br>
-Min: 7°C<br>
 Max: 12°C<br>
 <br>
 <strong>Wed 13 Oct</strong><br>
@@ -132,18 +102,12 @@ Max: 14°C<br>
         <item>
             <title><![CDATA[Negotin]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>13c8a537cc46e45e96a567c25821965a</guid>
-            <pubDate>Mon, 11 Oct 2021 13:55:00 GMT</pubDate>
-            <description><![CDATA[<strong>Mon 11 Oct</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-9.png" alt="Rain" /><br>
-Rain<br>
-Max: 10°C<br>
-<br>
-<strong>Tue 12 Oct</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-7.png" alt="Cloudy" /><br>
-Cloudy<br>
-Min: 8°C<br>
-Max: 13°C<br>
+            <guid>910268f8784aa661d6316aab31bb8b7a</guid>
+            <pubDate>Tue, 12 Oct 2021 05:10:00 GMT</pubDate>
+            <description><![CDATA[<strong>Tue 12 Oct</strong><br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-8.png" alt="Possible rain" /><br>
+Possible rain<br>
+Max: 12°C<br>
 <br>
 <strong>Wed 13 Oct</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-7.png" alt="Cloudy" /><br>
@@ -155,17 +119,11 @@ Max: 15°C<br>
         <item>
             <title><![CDATA[Zlatibor]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>f98d2d6cf3b99209abe56a1d2de92676</guid>
-            <pubDate>Mon, 11 Oct 2021 13:55:00 GMT</pubDate>
-            <description><![CDATA[<strong>Mon 11 Oct</strong><br>
+            <guid>da0a3e6b1f15e3c9ef1cf833ea5f0f37</guid>
+            <pubDate>Tue, 12 Oct 2021 05:10:00 GMT</pubDate>
+            <description><![CDATA[<strong>Tue 12 Oct</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-8.png" alt="Possible rain" /><br>
 Possible rain<br>
-Max: 5°C<br>
-<br>
-<strong>Tue 12 Oct</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-8.png" alt="Possible rain" /><br>
-Possible rain<br>
-Min: 2°C<br>
 Max: 7°C<br>
 <br>
 <strong>Wed 13 Oct</strong><br>
@@ -178,17 +136,11 @@ Max: 7°C<br>
         <item>
             <title><![CDATA[Kraljevo]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>c1c9f2447da9fbd0df9eb0992dcf1f6a</guid>
-            <pubDate>Mon, 11 Oct 2021 13:55:00 GMT</pubDate>
-            <description><![CDATA[<strong>Mon 11 Oct</strong><br>
+            <guid>90e2391d96b2f00002f8eb36e12f465d</guid>
+            <pubDate>Tue, 12 Oct 2021 05:10:00 GMT</pubDate>
+            <description><![CDATA[<strong>Tue 12 Oct</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-8.png" alt="Possible rain" /><br>
 Possible rain<br>
-Max: 10°C<br>
-<br>
-<strong>Tue 12 Oct</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-8.png" alt="Possible rain" /><br>
-Possible rain<br>
-Min: 7°C<br>
 Max: 11°C<br>
 <br>
 <strong>Wed 13 Oct</strong><br>
@@ -201,17 +153,11 @@ Max: 13°C<br>
         <item>
             <title><![CDATA[Priština]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>20f0e532f274c80652be824eca9b2927</guid>
-            <pubDate>Mon, 11 Oct 2021 13:55:00 GMT</pubDate>
-            <description><![CDATA[<strong>Mon 11 Oct</strong><br>
+            <guid>fa992e99e48ddca23a845bbe65211f5e</guid>
+            <pubDate>Tue, 12 Oct 2021 05:10:00 GMT</pubDate>
+            <description><![CDATA[<strong>Tue 12 Oct</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-8.png" alt="Possible rain" /><br>
 Possible rain<br>
-Max: 13°C<br>
-<br>
-<strong>Tue 12 Oct</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-8.png" alt="Possible rain" /><br>
-Possible rain<br>
-Min: 7°C<br>
 Max: 11°C<br>
 <br>
 <strong>Wed 13 Oct</strong><br>
@@ -224,17 +170,11 @@ Max: 11°C<br>
         <item>
             <title><![CDATA[Niš]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>5517831b4ce37b19ed759e70acdab1c6</guid>
-            <pubDate>Mon, 11 Oct 2021 13:55:00 GMT</pubDate>
-            <description><![CDATA[<strong>Mon 11 Oct</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-9.png" alt="Rain" /><br>
-Rain<br>
-Max: 13°C<br>
-<br>
-<strong>Tue 12 Oct</strong><br>
+            <guid>ded890f63b789416d968b7c2155076f1</guid>
+            <pubDate>Tue, 12 Oct 2021 05:10:00 GMT</pubDate>
+            <description><![CDATA[<strong>Tue 12 Oct</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-8.png" alt="Possible rain" /><br>
 Possible rain<br>
-Min: 8°C<br>
 Max: 11°C<br>
 <br>
 <strong>Wed 13 Oct</strong><br>
