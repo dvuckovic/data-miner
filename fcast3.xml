@@ -4,7 +4,7 @@
         <title>RHMZ</title>
         <link>https://data.dvuckovic.com/fcast3.xml</link>
         <description>Weather Forecast for Serbia</description>
-        <lastBuildDate>Sun, 17 Oct 2021 12:33:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Oct 2021 05:25:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>fcast</generator>
         <language>en</language>
@@ -17,18 +17,12 @@
         <item>
             <title><![CDATA[Palić]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>d50f600d216b837ff17965afb04b0fa7</guid>
-            <pubDate>Sun, 17 Oct 2021 12:33:00 GMT</pubDate>
-            <description><![CDATA[<strong>Sun 17 Oct</strong><br>
+            <guid>c7b824008bbe37d08e8d5e631bcc7bb4</guid>
+            <pubDate>Mon, 18 Oct 2021 05:25:00 GMT</pubDate>
+            <description><![CDATA[<strong>Mon 18 Oct</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
 Mostly sunny<br>
 Max: 17°C<br>
-<br>
-<strong>Mon 18 Oct</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
-Mostly sunny<br>
-Min: 4°C<br>
-Max: 16°C<br>
 <br>
 <strong>Tue 19 Oct</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
@@ -40,18 +34,12 @@ Max: 16°C<br>
         <item>
             <title><![CDATA[Novi Sad]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>1e7aca732a0d39483211d5e3a805bbe7</guid>
-            <pubDate>Sun, 17 Oct 2021 12:33:00 GMT</pubDate>
-            <description><![CDATA[<strong>Sun 17 Oct</strong><br>
+            <guid>c7d0b6f7f06f8a8c6d07d9f5bd1d683a</guid>
+            <pubDate>Mon, 18 Oct 2021 05:25:00 GMT</pubDate>
+            <description><![CDATA[<strong>Mon 18 Oct</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
 Mostly sunny<br>
-Max: 16°C<br>
-<br>
-<strong>Mon 18 Oct</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
-Mostly sunny<br>
-Min: 3°C<br>
-Max: 16°C<br>
+Max: 17°C<br>
 <br>
 <strong>Tue 19 Oct</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
@@ -63,18 +51,12 @@ Max: 17°C<br>
         <item>
             <title><![CDATA[Loznica]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>bc3ff3710697ad2d7d31e568055508a3</guid>
-            <pubDate>Sun, 17 Oct 2021 12:33:00 GMT</pubDate>
-            <description><![CDATA[<strong>Sun 17 Oct</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-4.png" alt="Partly cloudy" /><br>
-Partly cloudy<br>
-Max: 16°C<br>
-<br>
-<strong>Mon 18 Oct</strong><br>
+            <guid>e710450200c7a8fcce9b0995c0b89036</guid>
+            <pubDate>Mon, 18 Oct 2021 05:25:00 GMT</pubDate>
+            <description><![CDATA[<strong>Mon 18 Oct</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
 Mostly sunny<br>
-Min: 4°C<br>
-Max: 16°C<br>
+Max: 17°C<br>
 <br>
 <strong>Tue 19 Oct</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
@@ -86,18 +68,12 @@ Max: 18°C<br>
         <item>
             <title><![CDATA[Belgrade]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>f011481eae1b2f13472fd1ffd6aa9f2f</guid>
-            <pubDate>Sun, 17 Oct 2021 12:33:00 GMT</pubDate>
-            <description><![CDATA[<strong>Sun 17 Oct</strong><br>
+            <guid>ffcd74a612c1f1f07984eb3a2da69223</guid>
+            <pubDate>Mon, 18 Oct 2021 05:25:00 GMT</pubDate>
+            <description><![CDATA[<strong>Mon 18 Oct</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
 Mostly sunny<br>
-Max: 16°C<br>
-<br>
-<strong>Mon 18 Oct</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
-Mostly sunny<br>
-Min: 6°C<br>
-Max: 16°C<br>
+Max: 17°C<br>
 <br>
 <strong>Tue 19 Oct</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
@@ -109,17 +85,11 @@ Max: 17°C<br>
         <item>
             <title><![CDATA[Kragujevac]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>71c6cf9973b89f430c8a1599e071389a</guid>
-            <pubDate>Sun, 17 Oct 2021 12:33:00 GMT</pubDate>
-            <description><![CDATA[<strong>Sun 17 Oct</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-10.png" alt="Mostly cloudy" /><br>
-Mostly cloudy<br>
-Max: 16°C<br>
-<br>
-<strong>Mon 18 Oct</strong><br>
+            <guid>7725d6d91cebd2733d85c7421f28278c</guid>
+            <pubDate>Mon, 18 Oct 2021 05:25:00 GMT</pubDate>
+            <description><![CDATA[<strong>Mon 18 Oct</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
 Mostly sunny<br>
-Min: 2°C<br>
 Max: 17°C<br>
 <br>
 <strong>Tue 19 Oct</strong><br>
@@ -132,17 +102,11 @@ Max: 17°C<br>
         <item>
             <title><![CDATA[Negotin]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>828635bcaff0ff6c8637ea1676aa64cb</guid>
-            <pubDate>Sun, 17 Oct 2021 12:33:00 GMT</pubDate>
-            <description><![CDATA[<strong>Sun 17 Oct</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-7.png" alt="Cloudy" /><br>
-Cloudy<br>
-Max: 16°C<br>
-<br>
-<strong>Mon 18 Oct</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
-Mostly sunny<br>
-Min: 5°C<br>
+            <guid>f46c53adcf00ab44a3eafda2ea66f455</guid>
+            <pubDate>Mon, 18 Oct 2021 05:25:00 GMT</pubDate>
+            <description><![CDATA[<strong>Mon 18 Oct</strong><br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-4.png" alt="Partly cloudy" /><br>
+Partly cloudy<br>
 Max: 18°C<br>
 <br>
 <strong>Tue 19 Oct</strong><br>
@@ -155,17 +119,11 @@ Max: 18°C<br>
         <item>
             <title><![CDATA[Zlatibor]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>1402207b11b2f55e1dbb16ea8a8b5182</guid>
-            <pubDate>Sun, 17 Oct 2021 12:33:00 GMT</pubDate>
-            <description><![CDATA[<strong>Sun 17 Oct</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-10.png" alt="Mostly cloudy" /><br>
-Mostly cloudy<br>
-Max: 10°C<br>
-<br>
-<strong>Mon 18 Oct</strong><br>
+            <guid>48a039a847f0d156a133b08fe2a66efc</guid>
+            <pubDate>Mon, 18 Oct 2021 05:25:00 GMT</pubDate>
+            <description><![CDATA[<strong>Mon 18 Oct</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-4.png" alt="Partly cloudy" /><br>
 Partly cloudy<br>
-Min: 2°C<br>
 Max: 12°C<br>
 <br>
 <strong>Tue 19 Oct</strong><br>
@@ -178,17 +136,11 @@ Max: 12°C<br>
         <item>
             <title><![CDATA[Kraljevo]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>0665ea62570826f3cdbe40fe757cb40b</guid>
-            <pubDate>Sun, 17 Oct 2021 12:33:00 GMT</pubDate>
-            <description><![CDATA[<strong>Sun 17 Oct</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-10.png" alt="Mostly cloudy" /><br>
-Mostly cloudy<br>
-Max: 15°C<br>
-<br>
-<strong>Mon 18 Oct</strong><br>
+            <guid>b6ea1ab029521b875efeb82e9c19d9fd</guid>
+            <pubDate>Mon, 18 Oct 2021 05:25:00 GMT</pubDate>
+            <description><![CDATA[<strong>Mon 18 Oct</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
 Mostly sunny<br>
-Min: 3°C<br>
 Max: 17°C<br>
 <br>
 <strong>Tue 19 Oct</strong><br>
@@ -201,18 +153,12 @@ Max: 17°C<br>
         <item>
             <title><![CDATA[Priština]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>ed29fd79fbc102033bdfbbe57634a78c</guid>
-            <pubDate>Sun, 17 Oct 2021 12:33:00 GMT</pubDate>
-            <description><![CDATA[<strong>Sun 17 Oct</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-10.png" alt="Mostly cloudy" /><br>
-Mostly cloudy<br>
-Max: 15°C<br>
-<br>
-<strong>Mon 18 Oct</strong><br>
+            <guid>fc5ad9fb4204b48cb935af28f9697180</guid>
+            <pubDate>Mon, 18 Oct 2021 05:25:00 GMT</pubDate>
+            <description><![CDATA[<strong>Mon 18 Oct</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
 Mostly sunny<br>
-Min: 2°C<br>
-Max: 14°C<br>
+Max: 15°C<br>
 <br>
 <strong>Tue 19 Oct</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
@@ -224,17 +170,11 @@ Max: 17°C<br>
         <item>
             <title><![CDATA[Niš]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>dfe48e7169581c7a3a9a91f239f7636f</guid>
-            <pubDate>Sun, 17 Oct 2021 12:33:00 GMT</pubDate>
-            <description><![CDATA[<strong>Sun 17 Oct</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-10.png" alt="Mostly cloudy" /><br>
-Mostly cloudy<br>
-Max: 15°C<br>
-<br>
-<strong>Mon 18 Oct</strong><br>
+            <guid>ca7b0b00c61dba6a78ff149cb2106b39</guid>
+            <pubDate>Mon, 18 Oct 2021 05:25:00 GMT</pubDate>
+            <description><![CDATA[<strong>Mon 18 Oct</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
 Mostly sunny<br>
-Min: 5°C<br>
 Max: 17°C<br>
 <br>
 <strong>Tue 19 Oct</strong><br>
