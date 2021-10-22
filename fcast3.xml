@@ -4,7 +4,7 @@
         <title>RHMZ</title>
         <link>https://data.dvuckovic.com/fcast3.xml</link>
         <description>Weather Forecast for Serbia</description>
-        <lastBuildDate>Thu, 21 Oct 2021 12:39:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Oct 2021 04:55:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>fcast</generator>
         <language>en</language>
@@ -17,17 +17,11 @@
         <item>
             <title><![CDATA[Palić]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>fdc89d4af713f08f7e281e939250f021</guid>
-            <pubDate>Thu, 21 Oct 2021 12:39:00 GMT</pubDate>
-            <description><![CDATA[<strong>Thu 21 Oct</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
-Mostly sunny<br>
-Max: 22°C<br>
-<br>
-<strong>Fri 22 Oct</strong><br>
+            <guid>e940795e9bdd1226a2c464077ef58590</guid>
+            <pubDate>Fri, 22 Oct 2021 04:55:00 GMT</pubDate>
+            <description><![CDATA[<strong>Fri 22 Oct</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-9.png" alt="Rain" /><br>
 Rain<br>
-Min: 11°C<br>
 Max: 13°C<br>
 <br>
 <strong>Sat 23 Oct</strong><br>
@@ -40,17 +34,11 @@ Max: 12°C<br>
         <item>
             <title><![CDATA[Novi Sad]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>50a5377b4f080be8fb3a298a5cd707f4</guid>
-            <pubDate>Thu, 21 Oct 2021 12:39:00 GMT</pubDate>
-            <description><![CDATA[<strong>Thu 21 Oct</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
-Mostly sunny<br>
-Max: 23°C<br>
-<br>
-<strong>Fri 22 Oct</strong><br>
+            <guid>8d83ec30a31f1aef4d064c2ffb19c387</guid>
+            <pubDate>Fri, 22 Oct 2021 04:55:00 GMT</pubDate>
+            <description><![CDATA[<strong>Fri 22 Oct</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-9.png" alt="Rain" /><br>
 Rain<br>
-Min: 11°C<br>
 Max: 14°C<br>
 <br>
 <strong>Sat 23 Oct</strong><br>
@@ -63,17 +51,11 @@ Max: 13°C<br>
         <item>
             <title><![CDATA[Loznica]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>a19e598f806b74e59cf6f3cf7bc0d80e</guid>
-            <pubDate>Thu, 21 Oct 2021 12:39:00 GMT</pubDate>
-            <description><![CDATA[<strong>Thu 21 Oct</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
-Mostly sunny<br>
-Max: 24°C<br>
-<br>
-<strong>Fri 22 Oct</strong><br>
+            <guid>a7bd3b8a12d1b9dde29f5a1017790fde</guid>
+            <pubDate>Fri, 22 Oct 2021 04:55:00 GMT</pubDate>
+            <description><![CDATA[<strong>Fri 22 Oct</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-8.png" alt="Possible rain" /><br>
 Possible rain<br>
-Min: 11°C<br>
 Max: 15°C<br>
 <br>
 <strong>Sat 23 Oct</strong><br>
@@ -86,17 +68,11 @@ Max: 12°C<br>
         <item>
             <title><![CDATA[Belgrade]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>f66e0264153c66cb96800086e5a206f2</guid>
-            <pubDate>Thu, 21 Oct 2021 12:39:00 GMT</pubDate>
-            <description><![CDATA[<strong>Thu 21 Oct</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
-Mostly sunny<br>
-Max: 24°C<br>
-<br>
-<strong>Fri 22 Oct</strong><br>
+            <guid>d6b8d75c60fae242a2744bd79d1e92d7</guid>
+            <pubDate>Fri, 22 Oct 2021 04:55:00 GMT</pubDate>
+            <description><![CDATA[<strong>Fri 22 Oct</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-9.png" alt="Rain" /><br>
 Rain<br>
-Min: 13°C<br>
 Max: 16°C<br>
 <br>
 <strong>Sat 23 Oct</strong><br>
@@ -109,17 +85,11 @@ Max: 12°C<br>
         <item>
             <title><![CDATA[Kragujevac]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>c993ecbec3e4ea5e1fa1ef879bbccde1</guid>
-            <pubDate>Thu, 21 Oct 2021 12:39:00 GMT</pubDate>
-            <description><![CDATA[<strong>Thu 21 Oct</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
-Mostly sunny<br>
-Max: 23°C<br>
-<br>
-<strong>Fri 22 Oct</strong><br>
+            <guid>3a9ad356a7cddf6010255f975ee222fc</guid>
+            <pubDate>Fri, 22 Oct 2021 04:55:00 GMT</pubDate>
+            <description><![CDATA[<strong>Fri 22 Oct</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-8.png" alt="Possible rain" /><br>
 Possible rain<br>
-Min: 10°C<br>
 Max: 21°C<br>
 <br>
 <strong>Sat 23 Oct</strong><br>
@@ -132,17 +102,11 @@ Max: 13°C<br>
         <item>
             <title><![CDATA[Negotin]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>035131a9527db2333ae3e7cbb909024a</guid>
-            <pubDate>Thu, 21 Oct 2021 12:39:00 GMT</pubDate>
-            <description><![CDATA[<strong>Thu 21 Oct</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
-Mostly sunny<br>
-Max: 18°C<br>
-<br>
-<strong>Fri 22 Oct</strong><br>
+            <guid>f91b4beec5b39b7d4f11dbe8e5acf772</guid>
+            <pubDate>Fri, 22 Oct 2021 04:55:00 GMT</pubDate>
+            <description><![CDATA[<strong>Fri 22 Oct</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-10.png" alt="Mostly cloudy" /><br>
 Mostly cloudy<br>
-Min: 7°C<br>
 Max: 21°C<br>
 <br>
 <strong>Sat 23 Oct</strong><br>
@@ -155,17 +119,11 @@ Max: 16°C<br>
         <item>
             <title><![CDATA[Zlatibor]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>1d45b1fe505fd0d56c6a05b000559ad2</guid>
-            <pubDate>Thu, 21 Oct 2021 12:39:00 GMT</pubDate>
-            <description><![CDATA[<strong>Thu 21 Oct</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
-Mostly sunny<br>
-Max: 17°C<br>
-<br>
-<strong>Fri 22 Oct</strong><br>
+            <guid>8dbd7df6c36b0ddbda5e9d24eb7b4fed</guid>
+            <pubDate>Fri, 22 Oct 2021 04:55:00 GMT</pubDate>
+            <description><![CDATA[<strong>Fri 22 Oct</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-8.png" alt="Possible rain" /><br>
 Possible rain<br>
-Min: 7°C<br>
 Max: 16°C<br>
 <br>
 <strong>Sat 23 Oct</strong><br>
@@ -178,17 +136,11 @@ Max: 8°C<br>
         <item>
             <title><![CDATA[Kraljevo]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>0e75b8db392f385c4d298631cd6f2d58</guid>
-            <pubDate>Thu, 21 Oct 2021 12:39:00 GMT</pubDate>
-            <description><![CDATA[<strong>Thu 21 Oct</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
-Mostly sunny<br>
-Max: 23°C<br>
-<br>
-<strong>Fri 22 Oct</strong><br>
+            <guid>aa05699465c5a5764064ca1ddd24aee2</guid>
+            <pubDate>Fri, 22 Oct 2021 04:55:00 GMT</pubDate>
+            <description><![CDATA[<strong>Fri 22 Oct</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-8.png" alt="Possible rain" /><br>
 Possible rain<br>
-Min: 8°C<br>
 Max: 20°C<br>
 <br>
 <strong>Sat 23 Oct</strong><br>
@@ -201,17 +153,11 @@ Max: 12°C<br>
         <item>
             <title><![CDATA[Priština]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>4f32ab4defcf1da5948a436be663965d</guid>
-            <pubDate>Thu, 21 Oct 2021 12:39:00 GMT</pubDate>
-            <description><![CDATA[<strong>Thu 21 Oct</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
-Mostly sunny<br>
-Max: 19°C<br>
-<br>
-<strong>Fri 22 Oct</strong><br>
+            <guid>357c8e921d94e0da2e8a64e8c8cda2aa</guid>
+            <pubDate>Fri, 22 Oct 2021 04:55:00 GMT</pubDate>
+            <description><![CDATA[<strong>Fri 22 Oct</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-10.png" alt="Mostly cloudy" /><br>
 Mostly cloudy<br>
-Min: 4°C<br>
 Max: 19°C<br>
 <br>
 <strong>Sat 23 Oct</strong><br>
@@ -224,17 +170,11 @@ Max: 13°C<br>
         <item>
             <title><![CDATA[Niš]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>5f2b6480cdd7c4dbe1bc004a6fdecf9c</guid>
-            <pubDate>Thu, 21 Oct 2021 12:39:00 GMT</pubDate>
-            <description><![CDATA[<strong>Thu 21 Oct</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
-Mostly sunny<br>
-Max: 23°C<br>
-<br>
-<strong>Fri 22 Oct</strong><br>
+            <guid>4e725732829fd33503409b0042e66cf0</guid>
+            <pubDate>Fri, 22 Oct 2021 04:55:00 GMT</pubDate>
+            <description><![CDATA[<strong>Fri 22 Oct</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-10.png" alt="Mostly cloudy" /><br>
 Mostly cloudy<br>
-Min: 8°C<br>
 Max: 22°C<br>
 <br>
 <strong>Sat 23 Oct</strong><br>
