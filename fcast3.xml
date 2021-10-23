@@ -4,7 +4,7 @@
         <title>RHMZ</title>
         <link>https://data.dvuckovic.com/fcast3.xml</link>
         <description>Weather Forecast for Serbia</description>
-        <lastBuildDate>Sat, 23 Oct 2021 05:35:00 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Oct 2021 06:25:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>fcast</generator>
         <language>en</language>
@@ -17,8 +17,8 @@
         <item>
             <title><![CDATA[Palić]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>86efa6298d03d2cbe9ec163aedc06a6a</guid>
-            <pubDate>Sat, 23 Oct 2021 05:35:00 GMT</pubDate>
+            <guid>b17746bf9d6fbde691e256e0446a447f</guid>
+            <pubDate>Sat, 23 Oct 2021 06:25:00 GMT</pubDate>
             <description><![CDATA[<strong>Sat 23 Oct</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-10.png" alt="Mostly cloudy" /><br>
 Mostly cloudy<br>
@@ -34,8 +34,8 @@ Max: 12°C<br>
         <item>
             <title><![CDATA[Novi Sad]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>37a285d6b02983ff21fea3d37e9e2086</guid>
-            <pubDate>Sat, 23 Oct 2021 05:35:00 GMT</pubDate>
+            <guid>556f5509d8f4a43813a5557bc365f762</guid>
+            <pubDate>Sat, 23 Oct 2021 06:25:00 GMT</pubDate>
             <description><![CDATA[<strong>Sat 23 Oct</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-8.png" alt="Possible rain" /><br>
 Possible rain<br>
@@ -51,12 +51,12 @@ Max: 13°C<br>
         <item>
             <title><![CDATA[Loznica]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>e19e4d39484ec97c7693163ad4ec0144</guid>
-            <pubDate>Sat, 23 Oct 2021 05:35:00 GMT</pubDate>
+            <guid>4a8f159236e979a688f9bcbc7ead3dbe</guid>
+            <pubDate>Sat, 23 Oct 2021 06:25:00 GMT</pubDate>
             <description><![CDATA[<strong>Sat 23 Oct</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-8.png" alt="Possible rain" /><br>
 Possible rain<br>
-Max: 12°C<br>
+Max: 11°C<br>
 <br>
 <strong>Sun 24 Oct</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-4.png" alt="Partly cloudy" /><br>
@@ -68,12 +68,12 @@ Max: 14°C<br>
         <item>
             <title><![CDATA[Belgrade]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>9269b388884068d211fa866ce952353e</guid>
-            <pubDate>Sat, 23 Oct 2021 05:35:00 GMT</pubDate>
+            <guid>73f9b8d5ef1f02fe4db14ded21f2f0a3</guid>
+            <pubDate>Sat, 23 Oct 2021 06:25:00 GMT</pubDate>
             <description><![CDATA[<strong>Sat 23 Oct</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-8.png" alt="Possible rain" /><br>
 Possible rain<br>
-Max: 13°C<br>
+Max: 12°C<br>
 <br>
 <strong>Sun 24 Oct</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
@@ -85,8 +85,8 @@ Max: 13°C<br>
         <item>
             <title><![CDATA[Kragujevac]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>bd074a2dae01828619124077e814c17b</guid>
-            <pubDate>Sat, 23 Oct 2021 05:35:00 GMT</pubDate>
+            <guid>24cfde100c97a968c116b94d85842ed4</guid>
+            <pubDate>Sat, 23 Oct 2021 06:25:00 GMT</pubDate>
             <description><![CDATA[<strong>Sat 23 Oct</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-8.png" alt="Possible rain" /><br>
 Possible rain<br>
@@ -102,8 +102,8 @@ Max: 14°C<br>
         <item>
             <title><![CDATA[Negotin]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>6e4fc5e3134bb6380236e44db2a691dc</guid>
-            <pubDate>Sat, 23 Oct 2021 05:35:00 GMT</pubDate>
+            <guid>d16f24cf1bfd4db2caf780a405585163</guid>
+            <pubDate>Sat, 23 Oct 2021 06:25:00 GMT</pubDate>
             <description><![CDATA[<strong>Sat 23 Oct</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-8.png" alt="Possible rain" /><br>
 Possible rain<br>
@@ -119,8 +119,8 @@ Max: 17°C<br>
         <item>
             <title><![CDATA[Zlatibor]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>4080915521201f1c6f56a6ea6b700e01</guid>
-            <pubDate>Sat, 23 Oct 2021 05:35:00 GMT</pubDate>
+            <guid>79190bf7d605af972c9c08964e257c21</guid>
+            <pubDate>Sat, 23 Oct 2021 06:25:00 GMT</pubDate>
             <description><![CDATA[<strong>Sat 23 Oct</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-9.png" alt="Rain" /><br>
 Rain<br>
@@ -136,8 +136,8 @@ Max: 6°C<br>
         <item>
             <title><![CDATA[Kraljevo]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>4427c50c474a33aa43dd58b1a4fb89dd</guid>
-            <pubDate>Sat, 23 Oct 2021 05:35:00 GMT</pubDate>
+            <guid>30e9ef706d77152e5badf8e9619d8672</guid>
+            <pubDate>Sat, 23 Oct 2021 06:25:00 GMT</pubDate>
             <description><![CDATA[<strong>Sat 23 Oct</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-9.png" alt="Rain" /><br>
 Rain<br>
@@ -153,8 +153,8 @@ Max: 14°C<br>
         <item>
             <title><![CDATA[Priština]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>0841ede5b2580e90e939703d715c4249</guid>
-            <pubDate>Sat, 23 Oct 2021 05:35:00 GMT</pubDate>
+            <guid>64940705778aed2633c189c92d202317</guid>
+            <pubDate>Sat, 23 Oct 2021 06:25:00 GMT</pubDate>
             <description><![CDATA[<strong>Sat 23 Oct</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-9.png" alt="Rain" /><br>
 Rain<br>
@@ -170,8 +170,8 @@ Max: 12°C<br>
         <item>
             <title><![CDATA[Niš]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>ac2da3b0fc1522f5127685e2b3cf634e</guid>
-            <pubDate>Sat, 23 Oct 2021 05:35:00 GMT</pubDate>
+            <guid>e448218a25b101bb5cfa6150e1b0573e</guid>
+            <pubDate>Sat, 23 Oct 2021 06:25:00 GMT</pubDate>
             <description><![CDATA[<strong>Sat 23 Oct</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-9.png" alt="Rain" /><br>
 Rain<br>
