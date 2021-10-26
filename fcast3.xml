@@ -4,7 +4,7 @@
         <title>RHMZ</title>
         <link>https://data.dvuckovic.com/fcast3.xml</link>
         <description>Weather Forecast for Serbia</description>
-        <lastBuildDate>Tue, 26 Oct 2021 05:10:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Oct 2021 12:30:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>fcast</generator>
         <language>en</language>
@@ -17,25 +17,31 @@
         <item>
             <title><![CDATA[Palić]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>1bb70ede2c93e0e4df1be581e419b536</guid>
-            <pubDate>Tue, 26 Oct 2021 05:10:00 GMT</pubDate>
+            <guid>979f42c0a0d41cd0229d32ba497d0a74</guid>
+            <pubDate>Tue, 26 Oct 2021 12:30:00 GMT</pubDate>
             <description><![CDATA[<strong>Tue 26 Oct</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
 Sunny<br>
 Max: 14°C<br>
 <br>
 <strong>Wed 27 Oct</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-4.png" alt="Partly cloudy" /><br>
-Partly cloudy<br>
-Min: 3°C<br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
+Mostly sunny<br>
+Min: 2°C<br>
 Max: 13°C<br>
+<br>
+<strong>Thu 28 Oct</strong><br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
+Mostly sunny<br>
+Min: 2°C<br>
+Max: 15°C<br>
 ]]></description>
         </item>
         <item>
             <title><![CDATA[Novi Sad]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>9a00b8abb48b8f5332174f29baf951ce</guid>
-            <pubDate>Tue, 26 Oct 2021 05:10:00 GMT</pubDate>
+            <guid>88c0dd49fa62ef98d72c8c3213a4407e</guid>
+            <pubDate>Tue, 26 Oct 2021 12:30:00 GMT</pubDate>
             <description><![CDATA[<strong>Tue 26 Oct</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
 Sunny<br>
@@ -44,32 +50,44 @@ Max: 15°C<br>
 <strong>Wed 27 Oct</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-4.png" alt="Partly cloudy" /><br>
 Partly cloudy<br>
-Min: 2°C<br>
+Min: 1°C<br>
 Max: 14°C<br>
+<br>
+<strong>Thu 28 Oct</strong><br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
+Mostly sunny<br>
+Min: 1°C<br>
+Max: 15°C<br>
 ]]></description>
         </item>
         <item>
             <title><![CDATA[Loznica]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>b5b51c6a287a369c7f7ca87af1257fe2</guid>
-            <pubDate>Tue, 26 Oct 2021 05:10:00 GMT</pubDate>
+            <guid>6bb365dea3b9f83e58065d385ee3d484</guid>
+            <pubDate>Tue, 26 Oct 2021 12:30:00 GMT</pubDate>
             <description><![CDATA[<strong>Tue 26 Oct</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
 Mostly sunny<br>
 Max: 14°C<br>
 <br>
 <strong>Wed 27 Oct</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-4.png" alt="Partly cloudy" /><br>
-Partly cloudy<br>
-Min: 5°C<br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-7.png" alt="Cloudy" /><br>
+Cloudy<br>
+Min: 4°C<br>
+Max: 13°C<br>
+<br>
+<strong>Thu 28 Oct</strong><br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
+Mostly sunny<br>
+Min: 3°C<br>
 Max: 14°C<br>
 ]]></description>
         </item>
         <item>
             <title><![CDATA[Belgrade]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>6923014186e695639768e4e48fd2e7c1</guid>
-            <pubDate>Tue, 26 Oct 2021 05:10:00 GMT</pubDate>
+            <guid>8b57b23a038678b8344a1fbc3f7dbc63</guid>
+            <pubDate>Tue, 26 Oct 2021 12:30:00 GMT</pubDate>
             <description><![CDATA[<strong>Tue 26 Oct</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
 Sunny<br>
@@ -80,47 +98,65 @@ Max: 15°C<br>
 Partly cloudy<br>
 Min: 4°C<br>
 Max: 13°C<br>
+<br>
+<strong>Thu 28 Oct</strong><br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
+Mostly sunny<br>
+Min: 4°C<br>
+Max: 14°C<br>
 ]]></description>
         </item>
         <item>
             <title><![CDATA[Kragujevac]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>74e32895f4b586db3b5c9f9561d3042f</guid>
-            <pubDate>Tue, 26 Oct 2021 05:10:00 GMT</pubDate>
+            <guid>a5ba11a683a64128a793ce81ac150f18</guid>
+            <pubDate>Tue, 26 Oct 2021 12:30:00 GMT</pubDate>
             <description><![CDATA[<strong>Tue 26 Oct</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
 Sunny<br>
 Max: 15°C<br>
 <br>
 <strong>Wed 27 Oct</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-4.png" alt="Partly cloudy" /><br>
-Partly cloudy<br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-10.png" alt="Mostly cloudy" /><br>
+Mostly cloudy<br>
 Min: -1°C<br>
 Max: 13°C<br>
+<br>
+<strong>Thu 28 Oct</strong><br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
+Mostly sunny<br>
+Min: -1°C<br>
+Max: 15°C<br>
 ]]></description>
         </item>
         <item>
             <title><![CDATA[Negotin]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>a384b17acf4b155e3de7d6b9e47864b6</guid>
-            <pubDate>Tue, 26 Oct 2021 05:10:00 GMT</pubDate>
+            <guid>9418482c28af4348b5d08893bf433ff1</guid>
+            <pubDate>Tue, 26 Oct 2021 12:30:00 GMT</pubDate>
             <description><![CDATA[<strong>Tue 26 Oct</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
 Mostly sunny<br>
 Max: 12°C<br>
 <br>
 <strong>Wed 27 Oct</strong><br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
+Mostly sunny<br>
+Min: 0°C<br>
+Max: 15°C<br>
+<br>
+<strong>Thu 28 Oct</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-4.png" alt="Partly cloudy" /><br>
 Partly cloudy<br>
-Min: 1°C<br>
+Min: 0°C<br>
 Max: 14°C<br>
 ]]></description>
         </item>
         <item>
             <title><![CDATA[Zlatibor]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>2516900d7ccc33a05f678ff5b763f9aa</guid>
-            <pubDate>Tue, 26 Oct 2021 05:10:00 GMT</pubDate>
+            <guid>0f96126bd0f0926f8f0725451004a8c9</guid>
+            <pubDate>Tue, 26 Oct 2021 12:30:00 GMT</pubDate>
             <description><![CDATA[<strong>Tue 26 Oct</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
 Mostly sunny<br>
@@ -131,30 +167,42 @@ Max: 11°C<br>
 Mostly cloudy<br>
 Min: 1°C<br>
 Max: 7°C<br>
+<br>
+<strong>Thu 28 Oct</strong><br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-4.png" alt="Partly cloudy" /><br>
+Partly cloudy<br>
+Min: 1°C<br>
+Max: 8°C<br>
 ]]></description>
         </item>
         <item>
             <title><![CDATA[Kraljevo]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>3be37beba4ae3b1cb240a4ac49706c24</guid>
-            <pubDate>Tue, 26 Oct 2021 05:10:00 GMT</pubDate>
+            <guid>66fe25092e32303b31de5b3ce5ae4132</guid>
+            <pubDate>Tue, 26 Oct 2021 12:30:00 GMT</pubDate>
             <description><![CDATA[<strong>Tue 26 Oct</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
 Mostly sunny<br>
 Max: 14°C<br>
 <br>
 <strong>Wed 27 Oct</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-4.png" alt="Partly cloudy" /><br>
-Partly cloudy<br>
-Min: 1°C<br>
-Max: 12°C<br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-7.png" alt="Cloudy" /><br>
+Cloudy<br>
+Min: 0°C<br>
+Max: 11°C<br>
+<br>
+<strong>Thu 28 Oct</strong><br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
+Mostly sunny<br>
+Min: 0°C<br>
+Max: 14°C<br>
 ]]></description>
         </item>
         <item>
             <title><![CDATA[Priština]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>13f79a8ce75f3df855130ff07135223a</guid>
-            <pubDate>Tue, 26 Oct 2021 05:10:00 GMT</pubDate>
+            <guid>23d3a10bac9de246787cd2a93ac08e3d</guid>
+            <pubDate>Tue, 26 Oct 2021 12:30:00 GMT</pubDate>
             <description><![CDATA[<strong>Tue 26 Oct</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
 Mostly sunny<br>
@@ -163,25 +211,37 @@ Max: 13°C<br>
 <strong>Wed 27 Oct</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-4.png" alt="Partly cloudy" /><br>
 Partly cloudy<br>
-Min: 0°C<br>
+Min: -1°C<br>
 Max: 13°C<br>
+<br>
+<strong>Thu 28 Oct</strong><br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
+Mostly sunny<br>
+Min: 1°C<br>
+Max: 14°C<br>
 ]]></description>
         </item>
         <item>
             <title><![CDATA[Niš]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>31102e0f8e7c69ffcd12901d653052f9</guid>
-            <pubDate>Tue, 26 Oct 2021 05:10:00 GMT</pubDate>
+            <guid>a1b1ab51e2ead3c97d2f53176a453ab3</guid>
+            <pubDate>Tue, 26 Oct 2021 12:30:00 GMT</pubDate>
             <description><![CDATA[<strong>Tue 26 Oct</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
 Mostly sunny<br>
 Max: 17°C<br>
 <br>
 <strong>Wed 27 Oct</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-4.png" alt="Partly cloudy" /><br>
-Partly cloudy<br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
+Mostly sunny<br>
 Min: 1°C<br>
-Max: 14°C<br>
+Max: 15°C<br>
+<br>
+<strong>Thu 28 Oct</strong><br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
+Mostly sunny<br>
+Min: 0°C<br>
+Max: 15°C<br>
 ]]></description>
         </item>
     </channel>
