@@ -4,7 +4,7 @@
         <title>RHMZ</title>
         <link>https://data.dvuckovic.com/fcast3.xml</link>
         <description>Weather Forecast for Serbia</description>
-        <lastBuildDate>Thu, 28 Oct 2021 05:30:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Oct 2021 09:35:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>fcast</generator>
         <language>en</language>
@@ -17,8 +17,8 @@
         <item>
             <title><![CDATA[Palić]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>c7f97e5d1526207d9ffd221b153b4fb3</guid>
-            <pubDate>Thu, 28 Oct 2021 05:30:00 GMT</pubDate>
+            <guid>71b64ea506249dc9990fd6740583719a</guid>
+            <pubDate>Thu, 28 Oct 2021 09:35:00 GMT</pubDate>
             <description><![CDATA[<strong>Thu 28 Oct</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
 Mostly sunny<br>
@@ -34,8 +34,8 @@ Max: 17°C<br>
         <item>
             <title><![CDATA[Novi Sad]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>27ecfa9a538e396ba2fe2053f169293a</guid>
-            <pubDate>Thu, 28 Oct 2021 05:30:00 GMT</pubDate>
+            <guid>6120a78689999095b6218d45060017b4</guid>
+            <pubDate>Thu, 28 Oct 2021 09:35:00 GMT</pubDate>
             <description><![CDATA[<strong>Thu 28 Oct</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
 Mostly sunny<br>
@@ -51,8 +51,8 @@ Max: 16°C<br>
         <item>
             <title><![CDATA[Loznica]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>1b13f3fc9ced6797cd3d609777ee78ec</guid>
-            <pubDate>Thu, 28 Oct 2021 05:30:00 GMT</pubDate>
+            <guid>dbf674fb6e17f5a253aa7b0b55758cd0</guid>
+            <pubDate>Thu, 28 Oct 2021 09:35:00 GMT</pubDate>
             <description><![CDATA[<strong>Thu 28 Oct</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
 Mostly sunny<br>
@@ -68,8 +68,8 @@ Max: 15°C<br>
         <item>
             <title><![CDATA[Belgrade]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>2b9275b0b2a1ac22c147a8a73eae531e</guid>
-            <pubDate>Thu, 28 Oct 2021 05:30:00 GMT</pubDate>
+            <guid>15822f56aeb87d410355a9964a21212d</guid>
+            <pubDate>Thu, 28 Oct 2021 09:35:00 GMT</pubDate>
             <description><![CDATA[<strong>Thu 28 Oct</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
 Mostly sunny<br>
@@ -85,8 +85,8 @@ Max: 17°C<br>
         <item>
             <title><![CDATA[Kragujevac]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>9fbcf70685813a9aae7485664d94ac7b</guid>
-            <pubDate>Thu, 28 Oct 2021 05:30:00 GMT</pubDate>
+            <guid>2c46bc3422ec2b5587b9d22e44b677e9</guid>
+            <pubDate>Thu, 28 Oct 2021 09:35:00 GMT</pubDate>
             <description><![CDATA[<strong>Thu 28 Oct</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
 Mostly sunny<br>
@@ -102,8 +102,8 @@ Max: 18°C<br>
         <item>
             <title><![CDATA[Negotin]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>b9fc5642266825443bf2d9b09d166973</guid>
-            <pubDate>Thu, 28 Oct 2021 05:30:00 GMT</pubDate>
+            <guid>eb1edd8d71fbe3ea937165449588a8d6</guid>
+            <pubDate>Thu, 28 Oct 2021 09:35:00 GMT</pubDate>
             <description><![CDATA[<strong>Thu 28 Oct</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
 Mostly sunny<br>
@@ -119,8 +119,8 @@ Max: 15°C<br>
         <item>
             <title><![CDATA[Zlatibor]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>72fcff3793cea183e3c3f2864543f9c7</guid>
-            <pubDate>Thu, 28 Oct 2021 05:30:00 GMT</pubDate>
+            <guid>bfa94ab1bd1cb3599e58d85027a4b34f</guid>
+            <pubDate>Thu, 28 Oct 2021 09:35:00 GMT</pubDate>
             <description><![CDATA[<strong>Thu 28 Oct</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
 Mostly sunny<br>
@@ -136,8 +136,8 @@ Max: 12°C<br>
         <item>
             <title><![CDATA[Kraljevo]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>eb6e7744dcf609ba35197aed7119bd9d</guid>
-            <pubDate>Thu, 28 Oct 2021 05:30:00 GMT</pubDate>
+            <guid>6044930d4955fbcf6da3f2c7ca11aecb</guid>
+            <pubDate>Thu, 28 Oct 2021 09:35:00 GMT</pubDate>
             <description><![CDATA[<strong>Thu 28 Oct</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
 Mostly sunny<br>
@@ -153,11 +153,11 @@ Max: 16°C<br>
         <item>
             <title><![CDATA[Priština]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>4367eca867ce09a87f6de3eabc1d7313</guid>
-            <pubDate>Thu, 28 Oct 2021 05:30:00 GMT</pubDate>
+            <guid>ce82ba59169530e76e64799bce5e2072</guid>
+            <pubDate>Thu, 28 Oct 2021 09:35:00 GMT</pubDate>
             <description><![CDATA[<strong>Thu 28 Oct</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
-Sunny<br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
+Mostly sunny<br>
 Max: 13°C<br>
 <br>
 <strong>Fri 29 Oct</strong><br>
@@ -170,12 +170,12 @@ Max: 16°C<br>
         <item>
             <title><![CDATA[Niš]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>fb7ddc72013d579029c124e33c9ce035</guid>
-            <pubDate>Thu, 28 Oct 2021 05:30:00 GMT</pubDate>
+            <guid>3825c7162b488906868e31a61792c416</guid>
+            <pubDate>Thu, 28 Oct 2021 09:35:00 GMT</pubDate>
             <description><![CDATA[<strong>Thu 28 Oct</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
 Mostly sunny<br>
-Max: 17°C<br>
+Max: 16°C<br>
 <br>
 <strong>Fri 29 Oct</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
