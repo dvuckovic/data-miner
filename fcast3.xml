@@ -4,7 +4,7 @@
         <title>RHMZ</title>
         <link>https://data.dvuckovic.com/fcast3.xml</link>
         <description>Weather Forecast for Serbia</description>
-        <lastBuildDate>Sat, 30 Oct 2021 05:20:00 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Oct 2021 10:05:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>fcast</generator>
         <language>en</language>
@@ -17,8 +17,8 @@
         <item>
             <title><![CDATA[Palić]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>9b4887057be2bd580c76c142aebe12e8</guid>
-            <pubDate>Sat, 30 Oct 2021 05:20:00 GMT</pubDate>
+            <guid>f7c972a64156e68b4cb0a8a292c14efc</guid>
+            <pubDate>Sat, 30 Oct 2021 10:05:00 GMT</pubDate>
             <description><![CDATA[<strong>Sat 30 Oct</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
 Sunny<br>
@@ -34,8 +34,8 @@ Max: 17°C<br>
         <item>
             <title><![CDATA[Novi Sad]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>19e5cbad65bc8056ec02da771f161c8f</guid>
-            <pubDate>Sat, 30 Oct 2021 05:20:00 GMT</pubDate>
+            <guid>56b0fcd9c301779479b4ef709d4bfeea</guid>
+            <pubDate>Sat, 30 Oct 2021 10:05:00 GMT</pubDate>
             <description><![CDATA[<strong>Sat 30 Oct</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
 Sunny<br>
@@ -51,8 +51,8 @@ Max: 18°C<br>
         <item>
             <title><![CDATA[Loznica]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>b1ef3b62aa7a908b9a67003242bf5312</guid>
-            <pubDate>Sat, 30 Oct 2021 05:20:00 GMT</pubDate>
+            <guid>397c2b08b959cc29e3a26944fd43298b</guid>
+            <pubDate>Sat, 30 Oct 2021 10:05:00 GMT</pubDate>
             <description><![CDATA[<strong>Sat 30 Oct</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
 Mostly sunny<br>
@@ -68,8 +68,8 @@ Max: 18°C<br>
         <item>
             <title><![CDATA[Belgrade]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>56e3c83d040e4e344b5eec50863416f1</guid>
-            <pubDate>Sat, 30 Oct 2021 05:20:00 GMT</pubDate>
+            <guid>dd64c4241b95a14dd095cdc10ee0f5cb</guid>
+            <pubDate>Sat, 30 Oct 2021 10:05:00 GMT</pubDate>
             <description><![CDATA[<strong>Sat 30 Oct</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
 Sunny<br>
@@ -85,8 +85,8 @@ Max: 18°C<br>
         <item>
             <title><![CDATA[Kragujevac]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>35e2afd18a924997cde32efee416beaf</guid>
-            <pubDate>Sat, 30 Oct 2021 05:20:00 GMT</pubDate>
+            <guid>d67e77ca1f137973529aeae60742fd28</guid>
+            <pubDate>Sat, 30 Oct 2021 10:05:00 GMT</pubDate>
             <description><![CDATA[<strong>Sat 30 Oct</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
 Sunny<br>
@@ -102,8 +102,8 @@ Max: 18°C<br>
         <item>
             <title><![CDATA[Negotin]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>e4a7cacae46364fd8ed909a0ed053392</guid>
-            <pubDate>Sat, 30 Oct 2021 05:20:00 GMT</pubDate>
+            <guid>625cc0905e3a649e299d41b8014b1243</guid>
+            <pubDate>Sat, 30 Oct 2021 10:05:00 GMT</pubDate>
             <description><![CDATA[<strong>Sat 30 Oct</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-7.png" alt="Cloudy" /><br>
 Cloudy<br>
@@ -119,8 +119,8 @@ Max: 13°C<br>
         <item>
             <title><![CDATA[Zlatibor]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>cbe803269eb9e0eb177a39e52ee1800b</guid>
-            <pubDate>Sat, 30 Oct 2021 05:20:00 GMT</pubDate>
+            <guid>4112e363712961353c761d5fe9c306b5</guid>
+            <pubDate>Sat, 30 Oct 2021 10:05:00 GMT</pubDate>
             <description><![CDATA[<strong>Sat 30 Oct</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
 Sunny<br>
@@ -136,8 +136,8 @@ Max: 15°C<br>
         <item>
             <title><![CDATA[Kraljevo]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>b364535c5ffca7fa9eaec533bd6b6748</guid>
-            <pubDate>Sat, 30 Oct 2021 05:20:00 GMT</pubDate>
+            <guid>1e8d7b7cb928706675958a13c077437f</guid>
+            <pubDate>Sat, 30 Oct 2021 10:05:00 GMT</pubDate>
             <description><![CDATA[<strong>Sat 30 Oct</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
 Mostly sunny<br>
@@ -153,8 +153,8 @@ Max: 17°C<br>
         <item>
             <title><![CDATA[Priština]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>23094eb11e0a3fa4e6ac2f7124de9d36</guid>
-            <pubDate>Sat, 30 Oct 2021 05:20:00 GMT</pubDate>
+            <guid>01219578d07ed7465e2c50eb1e7310c7</guid>
+            <pubDate>Sat, 30 Oct 2021 10:05:00 GMT</pubDate>
             <description><![CDATA[<strong>Sat 30 Oct</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
 Sunny<br>
@@ -170,8 +170,8 @@ Max: 17°C<br>
         <item>
             <title><![CDATA[Niš]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>c6c6c8a518f6c0ada493383c103b1c4d</guid>
-            <pubDate>Sat, 30 Oct 2021 05:20:00 GMT</pubDate>
+            <guid>c057b677aebaab79c8a3766a8e12fe04</guid>
+            <pubDate>Sat, 30 Oct 2021 10:05:00 GMT</pubDate>
             <description><![CDATA[<strong>Sat 30 Oct</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
 Sunny<br>
