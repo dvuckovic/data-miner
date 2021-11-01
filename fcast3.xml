@@ -4,7 +4,7 @@
         <title>RHMZ</title>
         <link>https://data.dvuckovic.com/fcast3.xml</link>
         <description>Weather Forecast for Serbia</description>
-        <lastBuildDate>Sun, 31 Oct 2021 12:06:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Nov 2021 05:35:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>fcast</generator>
         <language>en</language>
@@ -17,11 +17,11 @@
         <item>
             <title><![CDATA[Palić]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>4c01e906dbfa103e29fb3e8d2fb37e3e</guid>
-            <pubDate>Sun, 31 Oct 2021 12:06:00 GMT</pubDate>
+            <guid>43d2a745095d2f1f211db56654091a0e</guid>
+            <pubDate>Mon, 01 Nov 2021 05:35:00 GMT</pubDate>
             <description><![CDATA[<strong>Mon 1 Nov</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
-Mostly sunny<br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
+Sunny<br>
 Max: 17°C<br>
 <br>
 <strong>Tue 2 Nov</strong><br>
@@ -34,12 +34,12 @@ Max: 16°C<br>
         <item>
             <title><![CDATA[Novi Sad]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>4eebcdba84895f7821e426a31be84cb7</guid>
-            <pubDate>Sun, 31 Oct 2021 12:06:00 GMT</pubDate>
+            <guid>fbdf43f1e74f24d68521aa69dbc777a0</guid>
+            <pubDate>Mon, 01 Nov 2021 05:35:00 GMT</pubDate>
             <description><![CDATA[<strong>Mon 1 Nov</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
-Mostly sunny<br>
-Max: 17°C<br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
+Sunny<br>
+Max: 18°C<br>
 <br>
 <strong>Tue 2 Nov</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-6.png" alt="Possible rain showers" /><br>
@@ -51,11 +51,11 @@ Max: 15°C<br>
         <item>
             <title><![CDATA[Loznica]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>acc8c8d941080693d74cd141410a8c2a</guid>
-            <pubDate>Sun, 31 Oct 2021 12:06:00 GMT</pubDate>
+            <guid>4f2d3ed5590994554c139bc600581405</guid>
+            <pubDate>Mon, 01 Nov 2021 05:35:00 GMT</pubDate>
             <description><![CDATA[<strong>Mon 1 Nov</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
-Mostly sunny<br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
+Sunny<br>
 Max: 19°C<br>
 <br>
 <strong>Tue 2 Nov</strong><br>
@@ -68,11 +68,11 @@ Max: 17°C<br>
         <item>
             <title><![CDATA[Belgrade]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>44bf2aecdc12d44d362e2f3a0caf868a</guid>
-            <pubDate>Sun, 31 Oct 2021 12:06:00 GMT</pubDate>
+            <guid>79f6e2a177b7ceacf6e7c76e826e779d</guid>
+            <pubDate>Mon, 01 Nov 2021 05:35:00 GMT</pubDate>
             <description><![CDATA[<strong>Mon 1 Nov</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
-Mostly sunny<br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
+Sunny<br>
 Max: 19°C<br>
 <br>
 <strong>Tue 2 Nov</strong><br>
@@ -85,11 +85,11 @@ Max: 16°C<br>
         <item>
             <title><![CDATA[Kragujevac]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>995ee67b5e9c7e4233b4c01c1c6df8b4</guid>
-            <pubDate>Sun, 31 Oct 2021 12:06:00 GMT</pubDate>
+            <guid>afa21903c2f6c00c4d431b8242fa26a2</guid>
+            <pubDate>Mon, 01 Nov 2021 05:35:00 GMT</pubDate>
             <description><![CDATA[<strong>Mon 1 Nov</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
-Mostly sunny<br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
+Sunny<br>
 Max: 18°C<br>
 <br>
 <strong>Tue 2 Nov</strong><br>
@@ -102,8 +102,8 @@ Max: 16°C<br>
         <item>
             <title><![CDATA[Negotin]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>5edbc4aee273de19012a7a9c2b5cbc99</guid>
-            <pubDate>Sun, 31 Oct 2021 12:06:00 GMT</pubDate>
+            <guid>7c7509db0c0a351b720076814bb22061</guid>
+            <pubDate>Mon, 01 Nov 2021 05:35:00 GMT</pubDate>
             <description><![CDATA[<strong>Mon 1 Nov</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-10.png" alt="Mostly cloudy" /><br>
 Mostly cloudy<br>
@@ -119,11 +119,11 @@ Max: 10°C<br>
         <item>
             <title><![CDATA[Zlatibor]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>5bce6a50d16be00182b3a7b369fc5da1</guid>
-            <pubDate>Sun, 31 Oct 2021 12:06:00 GMT</pubDate>
+            <guid>08f584f788b88781bedca104fb0297c8</guid>
+            <pubDate>Mon, 01 Nov 2021 05:35:00 GMT</pubDate>
             <description><![CDATA[<strong>Mon 1 Nov</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
-Mostly sunny<br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
+Sunny<br>
 Max: 15°C<br>
 <br>
 <strong>Tue 2 Nov</strong><br>
@@ -136,11 +136,11 @@ Max: 13°C<br>
         <item>
             <title><![CDATA[Kraljevo]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>a831e9c92eb6408f3627b3bad7a9ee16</guid>
-            <pubDate>Sun, 31 Oct 2021 12:06:00 GMT</pubDate>
+            <guid>2f9cad56728948203902155a90c5d3db</guid>
+            <pubDate>Mon, 01 Nov 2021 05:35:00 GMT</pubDate>
             <description><![CDATA[<strong>Mon 1 Nov</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
-Mostly sunny<br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
+Sunny<br>
 Max: 17°C<br>
 <br>
 <strong>Tue 2 Nov</strong><br>
@@ -153,11 +153,11 @@ Max: 17°C<br>
         <item>
             <title><![CDATA[Priština]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>a3f02f9ae27ec1c786a980c5836d56ec</guid>
-            <pubDate>Sun, 31 Oct 2021 12:06:00 GMT</pubDate>
+            <guid>1b1cc4cb1dbac93bd5a18ee8c8b349d6</guid>
+            <pubDate>Mon, 01 Nov 2021 05:35:00 GMT</pubDate>
             <description><![CDATA[<strong>Mon 1 Nov</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
-Mostly sunny<br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
+Sunny<br>
 Max: 17°C<br>
 <br>
 <strong>Tue 2 Nov</strong><br>
@@ -170,11 +170,11 @@ Max: 17°C<br>
         <item>
             <title><![CDATA[Niš]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>7327255ef13430f77a97ccff13d412cb</guid>
-            <pubDate>Sun, 31 Oct 2021 12:06:00 GMT</pubDate>
+            <guid>edbccbdef307fb70c4d2459531b26575</guid>
+            <pubDate>Mon, 01 Nov 2021 05:35:00 GMT</pubDate>
             <description><![CDATA[<strong>Mon 1 Nov</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
-Mostly sunny<br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
+Sunny<br>
 Max: 18°C<br>
 <br>
 <strong>Tue 2 Nov</strong><br>
