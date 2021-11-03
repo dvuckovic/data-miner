@@ -4,7 +4,7 @@
         <title>RHMZ</title>
         <link>https://data.dvuckovic.com/fcast3.xml</link>
         <description>Weather Forecast for Serbia</description>
-        <lastBuildDate>Tue, 02 Nov 2021 11:42:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Nov 2021 00:25:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>fcast</generator>
         <language>en</language>
@@ -17,17 +17,11 @@
         <item>
             <title><![CDATA[Palić]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>d4aefb8e30ae48718e7ca6bc7741469b</guid>
-            <pubDate>Tue, 02 Nov 2021 11:42:00 GMT</pubDate>
-            <description><![CDATA[<strong>Tue 2 Nov</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-6.png" alt="Possible rain showers" /><br>
-Possible rain showers<br>
-Max: 17°C<br>
-<br>
-<strong>Wed 3 Nov</strong><br>
+            <guid>7d408a41d4b45a4916b561e9fe63807d</guid>
+            <pubDate>Wed, 03 Nov 2021 00:25:00 GMT</pubDate>
+            <description><![CDATA[<strong>Wed 3 Nov</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-8.png" alt="Possible rain" /><br>
 Possible rain<br>
-Min: 5°C<br>
 Max: 16°C<br>
 <br>
 <strong>Thu 4 Nov</strong><br>
@@ -40,17 +34,11 @@ Max: 22°C<br>
         <item>
             <title><![CDATA[Novi Sad]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>b6942dbc5be202584ffa21f537867385</guid>
-            <pubDate>Tue, 02 Nov 2021 11:42:00 GMT</pubDate>
-            <description><![CDATA[<strong>Tue 2 Nov</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-6.png" alt="Possible rain showers" /><br>
-Possible rain showers<br>
-Max: 18°C<br>
-<br>
-<strong>Wed 3 Nov</strong><br>
+            <guid>b3f55b02b838ea6aef4806b64e979b1b</guid>
+            <pubDate>Wed, 03 Nov 2021 00:25:00 GMT</pubDate>
+            <description><![CDATA[<strong>Wed 3 Nov</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-8.png" alt="Possible rain" /><br>
 Possible rain<br>
-Min: 5°C<br>
 Max: 18°C<br>
 <br>
 <strong>Thu 4 Nov</strong><br>
@@ -63,18 +51,12 @@ Max: 23°C<br>
         <item>
             <title><![CDATA[Loznica]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>c1b80ab12fc3ca617ce3c134aa903171</guid>
-            <pubDate>Tue, 02 Nov 2021 11:42:00 GMT</pubDate>
-            <description><![CDATA[<strong>Tue 2 Nov</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-6.png" alt="Possible rain showers" /><br>
-Possible rain showers<br>
-Max: 20°C<br>
-<br>
-<strong>Wed 3 Nov</strong><br>
+            <guid>8a5fd9c9ccaa1b956884073db7f81d68</guid>
+            <pubDate>Wed, 03 Nov 2021 00:25:00 GMT</pubDate>
+            <description><![CDATA[<strong>Wed 3 Nov</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-8.png" alt="Possible rain" /><br>
 Possible rain<br>
-Min: 5°C<br>
-Max: 20°C<br>
+Max: 19°C<br>
 <br>
 <strong>Thu 4 Nov</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-5.png" alt="After noon rain showers" /><br>
@@ -86,17 +68,11 @@ Max: 25°C<br>
         <item>
             <title><![CDATA[Belgrade]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>9c828deaaf98bab709975793597193ad</guid>
-            <pubDate>Tue, 02 Nov 2021 11:42:00 GMT</pubDate>
-            <description><![CDATA[<strong>Tue 2 Nov</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-6.png" alt="Possible rain showers" /><br>
-Possible rain showers<br>
-Max: 17°C<br>
-<br>
-<strong>Wed 3 Nov</strong><br>
+            <guid>0712817006ae2e2b30f38fb3dbb5c5bc</guid>
+            <pubDate>Wed, 03 Nov 2021 00:25:00 GMT</pubDate>
+            <description><![CDATA[<strong>Wed 3 Nov</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-8.png" alt="Possible rain" /><br>
 Possible rain<br>
-Min: 8°C<br>
 Max: 19°C<br>
 <br>
 <strong>Thu 4 Nov</strong><br>
@@ -109,17 +85,11 @@ Max: 23°C<br>
         <item>
             <title><![CDATA[Kragujevac]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>7e42719bc51611f2e5cc546adc335358</guid>
-            <pubDate>Tue, 02 Nov 2021 11:42:00 GMT</pubDate>
-            <description><![CDATA[<strong>Tue 2 Nov</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-6.png" alt="Possible rain showers" /><br>
-Possible rain showers<br>
-Max: 17°C<br>
-<br>
-<strong>Wed 3 Nov</strong><br>
+            <guid>01dec248c71b564c4e42ef94cb59ef57</guid>
+            <pubDate>Wed, 03 Nov 2021 00:25:00 GMT</pubDate>
+            <description><![CDATA[<strong>Wed 3 Nov</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-8.png" alt="Possible rain" /><br>
 Possible rain<br>
-Min: 5°C<br>
 Max: 19°C<br>
 <br>
 <strong>Thu 4 Nov</strong><br>
@@ -132,17 +102,11 @@ Max: 25°C<br>
         <item>
             <title><![CDATA[Negotin]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>7154dc2fe5f1071ee2f284ef11066aea</guid>
-            <pubDate>Tue, 02 Nov 2021 11:42:00 GMT</pubDate>
-            <description><![CDATA[<strong>Tue 2 Nov</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-8.png" alt="Possible rain" /><br>
-Possible rain<br>
-Max: 9°C<br>
-<br>
-<strong>Wed 3 Nov</strong><br>
+            <guid>cc2bb9ae2e7acb70e3283db629949a49</guid>
+            <pubDate>Wed, 03 Nov 2021 00:25:00 GMT</pubDate>
+            <description><![CDATA[<strong>Wed 3 Nov</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-7.png" alt="Cloudy" /><br>
 Cloudy<br>
-Min: 4°C<br>
 Max: 15°C<br>
 <br>
 <strong>Thu 4 Nov</strong><br>
@@ -155,17 +119,11 @@ Max: 16°C<br>
         <item>
             <title><![CDATA[Zlatibor]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>bbc1cb4eb573ba71e502839ea9487091</guid>
-            <pubDate>Tue, 02 Nov 2021 11:42:00 GMT</pubDate>
-            <description><![CDATA[<strong>Tue 2 Nov</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-6.png" alt="Possible rain showers" /><br>
-Possible rain showers<br>
-Max: 14°C<br>
-<br>
-<strong>Wed 3 Nov</strong><br>
+            <guid>0f41db76893f3e06152bc7aaa1d76850</guid>
+            <pubDate>Wed, 03 Nov 2021 00:25:00 GMT</pubDate>
+            <description><![CDATA[<strong>Wed 3 Nov</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-8.png" alt="Possible rain" /><br>
 Possible rain<br>
-Min: 5°C<br>
 Max: 15°C<br>
 <br>
 <strong>Thu 4 Nov</strong><br>
@@ -178,18 +136,12 @@ Max: 16°C<br>
         <item>
             <title><![CDATA[Kraljevo]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>c20759ee6d8449b33c0fe30c5b4ce913</guid>
-            <pubDate>Tue, 02 Nov 2021 11:42:00 GMT</pubDate>
-            <description><![CDATA[<strong>Tue 2 Nov</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-6.png" alt="Possible rain showers" /><br>
-Possible rain showers<br>
-Max: 19°C<br>
-<br>
-<strong>Wed 3 Nov</strong><br>
+            <guid>c22ee61e30885b6dec4220292ec6777b</guid>
+            <pubDate>Wed, 03 Nov 2021 00:25:00 GMT</pubDate>
+            <description><![CDATA[<strong>Wed 3 Nov</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-8.png" alt="Possible rain" /><br>
 Possible rain<br>
-Min: 6°C<br>
-Max: 18°C<br>
+Max: 19°C<br>
 <br>
 <strong>Thu 4 Nov</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-10.png" alt="Mostly cloudy" /><br>
@@ -201,17 +153,11 @@ Max: 25°C<br>
         <item>
             <title><![CDATA[Priština]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>132bbba8e0cbf585c3e5a8b4505bd568</guid>
-            <pubDate>Tue, 02 Nov 2021 11:42:00 GMT</pubDate>
-            <description><![CDATA[<strong>Tue 2 Nov</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-6.png" alt="Possible rain showers" /><br>
-Possible rain showers<br>
-Max: 16°C<br>
-<br>
-<strong>Wed 3 Nov</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-7.png" alt="Cloudy" /><br>
-Cloudy<br>
-Min: 4°C<br>
+            <guid>3a00c5fc3546968f122d099766dbd4c7</guid>
+            <pubDate>Wed, 03 Nov 2021 00:25:00 GMT</pubDate>
+            <description><![CDATA[<strong>Wed 3 Nov</strong><br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-10.png" alt="Mostly cloudy" /><br>
+Mostly cloudy<br>
 Max: 16°C<br>
 <br>
 <strong>Thu 4 Nov</strong><br>
@@ -224,17 +170,11 @@ Max: 21°C<br>
         <item>
             <title><![CDATA[Niš]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>4dfa0b5b3388da324149a81fde3f1cdb</guid>
-            <pubDate>Tue, 02 Nov 2021 11:42:00 GMT</pubDate>
-            <description><![CDATA[<strong>Tue 2 Nov</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-6.png" alt="Possible rain showers" /><br>
-Possible rain showers<br>
-Max: 16°C<br>
-<br>
-<strong>Wed 3 Nov</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-7.png" alt="Cloudy" /><br>
-Cloudy<br>
-Min: 5°C<br>
+            <guid>8118e9fa3d016606607bb54e647d0177</guid>
+            <pubDate>Wed, 03 Nov 2021 00:25:00 GMT</pubDate>
+            <description><![CDATA[<strong>Wed 3 Nov</strong><br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-10.png" alt="Mostly cloudy" /><br>
+Mostly cloudy<br>
 Max: 20°C<br>
 <br>
 <strong>Thu 4 Nov</strong><br>
