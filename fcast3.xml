@@ -4,7 +4,7 @@
         <title>RHMZ</title>
         <link>https://data.dvuckovic.com/fcast3.xml</link>
         <description>Weather Forecast for Serbia</description>
-        <lastBuildDate>Sat, 13 Nov 2021 09:30:00 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 Nov 2021 11:33:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>fcast</generator>
         <language>en</language>
@@ -17,42 +17,54 @@
         <item>
             <title><![CDATA[Palić]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>175b172b834387158c54b489186f7d20</guid>
-            <pubDate>Sat, 13 Nov 2021 09:30:00 GMT</pubDate>
+            <guid>19a0525d8af1d465f12cb037e6491e76</guid>
+            <pubDate>Sat, 13 Nov 2021 11:33:00 GMT</pubDate>
             <description><![CDATA[<strong>Sat 13 Nov</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-7.png" alt="Cloudy" /><br>
 Cloudy<br>
 Max: 9°C<br>
 <br>
 <strong>Sun 14 Nov</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-10.png" alt="Mostly cloudy" /><br>
-Mostly cloudy<br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-4.png" alt="Partly cloudy" /><br>
+Partly cloudy<br>
 Min: 0°C<br>
+Max: 12°C<br>
+<br>
+<strong>Mon 15 Nov</strong><br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-4.png" alt="Partly cloudy" /><br>
+Partly cloudy<br>
+Min: 2°C<br>
 Max: 12°C<br>
 ]]></description>
         </item>
         <item>
             <title><![CDATA[Novi Sad]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>4196e8c3c711c91018cd1f5fbd5182cb</guid>
-            <pubDate>Sat, 13 Nov 2021 09:30:00 GMT</pubDate>
+            <guid>5918f5635726d89fc6d2bd18109d7956</guid>
+            <pubDate>Sat, 13 Nov 2021 11:33:00 GMT</pubDate>
             <description><![CDATA[<strong>Sat 13 Nov</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-10.png" alt="Mostly cloudy" /><br>
 Mostly cloudy<br>
 Max: 11°C<br>
 <br>
 <strong>Sun 14 Nov</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-10.png" alt="Mostly cloudy" /><br>
-Mostly cloudy<br>
-Min: 5°C<br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-4.png" alt="Partly cloudy" /><br>
+Partly cloudy<br>
+Min: 4°C<br>
 Max: 13°C<br>
+<br>
+<strong>Mon 15 Nov</strong><br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-4.png" alt="Partly cloudy" /><br>
+Partly cloudy<br>
+Min: 4°C<br>
+Max: 11°C<br>
 ]]></description>
         </item>
         <item>
             <title><![CDATA[Loznica]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>e6890e292cef7a174faf59111a879985</guid>
-            <pubDate>Sat, 13 Nov 2021 09:30:00 GMT</pubDate>
+            <guid>51789b0a75788d7935d83d71472989c0</guid>
+            <pubDate>Sat, 13 Nov 2021 11:33:00 GMT</pubDate>
             <description><![CDATA[<strong>Sat 13 Nov</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-4.png" alt="Partly cloudy" /><br>
 Partly cloudy<br>
@@ -62,56 +74,80 @@ Max: 10°C<br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-8.png" alt="Possible rain" /><br>
 Possible rain<br>
 Min: 6°C<br>
-Max: 12°C<br>
+Max: 11°C<br>
+<br>
+<strong>Mon 15 Nov</strong><br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-4.png" alt="Partly cloudy" /><br>
+Partly cloudy<br>
+Min: 5°C<br>
+Max: 10°C<br>
 ]]></description>
         </item>
         <item>
             <title><![CDATA[Belgrade]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>5d1127a3799a3be7e0c5eb55027d07b3</guid>
-            <pubDate>Sat, 13 Nov 2021 09:30:00 GMT</pubDate>
+            <guid>779f42f1c7353e4b4075fa0a6f046242</guid>
+            <pubDate>Sat, 13 Nov 2021 11:33:00 GMT</pubDate>
             <description><![CDATA[<strong>Sat 13 Nov</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
 Mostly sunny<br>
 Max: 13°C<br>
 <br>
 <strong>Sun 14 Nov</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-10.png" alt="Mostly cloudy" /><br>
-Mostly cloudy<br>
-Min: 7°C<br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-4.png" alt="Partly cloudy" /><br>
+Partly cloudy<br>
+Min: 6°C<br>
 Max: 13°C<br>
+<br>
+<strong>Mon 15 Nov</strong><br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-4.png" alt="Partly cloudy" /><br>
+Partly cloudy<br>
+Min: 6°C<br>
+Max: 12°C<br>
 ]]></description>
         </item>
         <item>
             <title><![CDATA[Kragujevac]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>015919be149be74739ed1a19af583b25</guid>
-            <pubDate>Sat, 13 Nov 2021 09:30:00 GMT</pubDate>
+            <guid>bc64c05a1674b1183971cac181b2b698</guid>
+            <pubDate>Sat, 13 Nov 2021 11:33:00 GMT</pubDate>
             <description><![CDATA[<strong>Sat 13 Nov</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
 Mostly sunny<br>
 Max: 15°C<br>
 <br>
 <strong>Sun 14 Nov</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-10.png" alt="Mostly cloudy" /><br>
-Mostly cloudy<br>
-Min: 4°C<br>
-Max: 14°C<br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-4.png" alt="Partly cloudy" /><br>
+Partly cloudy<br>
+Min: 3°C<br>
+Max: 13°C<br>
+<br>
+<strong>Mon 15 Nov</strong><br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-4.png" alt="Partly cloudy" /><br>
+Partly cloudy<br>
+Min: 2°C<br>
+Max: 12°C<br>
 ]]></description>
         </item>
         <item>
             <title><![CDATA[Negotin]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>a549c2bc6cc529bc3c4463ba0a2922c2</guid>
-            <pubDate>Sat, 13 Nov 2021 09:30:00 GMT</pubDate>
+            <guid>5b9876a3dce1641b660f0f93be6bd8e6</guid>
+            <pubDate>Sat, 13 Nov 2021 11:33:00 GMT</pubDate>
             <description><![CDATA[<strong>Sat 13 Nov</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-4.png" alt="Partly cloudy" /><br>
 Partly cloudy<br>
 Max: 10°C<br>
 <br>
 <strong>Sun 14 Nov</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-10.png" alt="Mostly cloudy" /><br>
-Mostly cloudy<br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-7.png" alt="Cloudy" /><br>
+Cloudy<br>
+Min: 2°C<br>
+Max: 9°C<br>
+<br>
+<strong>Mon 15 Nov</strong><br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-7.png" alt="Cloudy" /><br>
+Cloudy<br>
 Min: 3°C<br>
 Max: 9°C<br>
 ]]></description>
@@ -119,8 +155,8 @@ Max: 9°C<br>
         <item>
             <title><![CDATA[Zlatibor]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>4bd697718203369d90a2d4335eb46381</guid>
-            <pubDate>Sat, 13 Nov 2021 09:30:00 GMT</pubDate>
+            <guid>1a65c71109c3c4af53d45ec087b85612</guid>
+            <pubDate>Sat, 13 Nov 2021 11:33:00 GMT</pubDate>
             <description><![CDATA[<strong>Sat 13 Nov</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
 Mostly sunny<br>
@@ -130,31 +166,43 @@ Max: 11°C<br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-8.png" alt="Possible rain" /><br>
 Possible rain<br>
 Min: 5°C<br>
-Max: 11°C<br>
+Max: 12°C<br>
+<br>
+<strong>Mon 15 Nov</strong><br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-4.png" alt="Partly cloudy" /><br>
+Partly cloudy<br>
+Min: 3°C<br>
+Max: 6°C<br>
 ]]></description>
         </item>
         <item>
             <title><![CDATA[Kraljevo]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>4e2692713e85e95e95eca8e176f52ae2</guid>
-            <pubDate>Sat, 13 Nov 2021 09:30:00 GMT</pubDate>
+            <guid>13abc9d38e3121c74a82717731031617</guid>
+            <pubDate>Sat, 13 Nov 2021 11:33:00 GMT</pubDate>
             <description><![CDATA[<strong>Sat 13 Nov</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
 Mostly sunny<br>
 Max: 14°C<br>
 <br>
 <strong>Sun 14 Nov</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-8.png" alt="Possible rain" /><br>
-Possible rain<br>
-Min: 2°C<br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-10.png" alt="Mostly cloudy" /><br>
+Mostly cloudy<br>
+Min: 3°C<br>
 Max: 12°C<br>
+<br>
+<strong>Mon 15 Nov</strong><br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-4.png" alt="Partly cloudy" /><br>
+Partly cloudy<br>
+Min: 3°C<br>
+Max: 11°C<br>
 ]]></description>
         </item>
         <item>
             <title><![CDATA[Priština]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>1016d87cbf1aad0183d97713a0cb5f20</guid>
-            <pubDate>Sat, 13 Nov 2021 09:30:00 GMT</pubDate>
+            <guid>b728b6eb173bc5d0a5de6f8495de8ed6</guid>
+            <pubDate>Sat, 13 Nov 2021 11:33:00 GMT</pubDate>
             <description><![CDATA[<strong>Sat 13 Nov</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
 Mostly sunny<br>
@@ -163,15 +211,21 @@ Max: 13°C<br>
 <strong>Sun 14 Nov</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-10.png" alt="Mostly cloudy" /><br>
 Mostly cloudy<br>
+Min: -1°C<br>
+Max: 11°C<br>
+<br>
+<strong>Mon 15 Nov</strong><br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-4.png" alt="Partly cloudy" /><br>
+Partly cloudy<br>
 Min: 0°C<br>
-Max: 13°C<br>
+Max: 12°C<br>
 ]]></description>
         </item>
         <item>
             <title><![CDATA[Niš]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>85aec72cddd63187236ea30052ba2ffe</guid>
-            <pubDate>Sat, 13 Nov 2021 09:30:00 GMT</pubDate>
+            <guid>1a8bdabc7df97a5a1ca29e23e9f951c3</guid>
+            <pubDate>Sat, 13 Nov 2021 11:33:00 GMT</pubDate>
             <description><![CDATA[<strong>Sat 13 Nov</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
 Mostly sunny<br>
@@ -180,8 +234,14 @@ Max: 15°C<br>
 <strong>Sun 14 Nov</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-8.png" alt="Possible rain" /><br>
 Possible rain<br>
+Min: 3°C<br>
+Max: 14°C<br>
+<br>
+<strong>Mon 15 Nov</strong><br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-4.png" alt="Partly cloudy" /><br>
+Partly cloudy<br>
 Min: 4°C<br>
-Max: 15°C<br>
+Max: 13°C<br>
 ]]></description>
         </item>
     </channel>
