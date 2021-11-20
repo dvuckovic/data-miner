@@ -4,7 +4,7 @@
         <title>RHMZ</title>
         <link>https://data.dvuckovic.com/fcast3.xml</link>
         <description>Weather Forecast for Serbia</description>
-        <lastBuildDate>Sat, 20 Nov 2021 04:45:00 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Nov 2021 09:40:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>fcast</generator>
         <language>en</language>
@@ -17,11 +17,11 @@
         <item>
             <title><![CDATA[Palić]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>99d0491a3669e69a77fce718f6415375</guid>
-            <pubDate>Sat, 20 Nov 2021 04:45:00 GMT</pubDate>
+            <guid>5332d2249c8b166c35681fdd79b3b111</guid>
+            <pubDate>Sat, 20 Nov 2021 09:40:00 GMT</pubDate>
             <description><![CDATA[<strong>Sat 20 Nov</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-10.png" alt="Mostly cloudy" /><br>
-Mostly cloudy<br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
+Mostly sunny<br>
 Max: 14°C<br>
 <br>
 <strong>Sun 21 Nov</strong><br>
@@ -34,11 +34,11 @@ Max: 14°C<br>
         <item>
             <title><![CDATA[Novi Sad]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>0eeb1af5460470e1d252dbe0943d99fa</guid>
-            <pubDate>Sat, 20 Nov 2021 04:45:00 GMT</pubDate>
+            <guid>1e523ae84117af921ed306a612863fa0</guid>
+            <pubDate>Sat, 20 Nov 2021 09:40:00 GMT</pubDate>
             <description><![CDATA[<strong>Sat 20 Nov</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-10.png" alt="Mostly cloudy" /><br>
-Mostly cloudy<br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
+Mostly sunny<br>
 Max: 13°C<br>
 <br>
 <strong>Sun 21 Nov</strong><br>
@@ -51,8 +51,8 @@ Max: 13°C<br>
         <item>
             <title><![CDATA[Loznica]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>c9415d80482f68047d296bd3c43c9a76</guid>
-            <pubDate>Sat, 20 Nov 2021 04:45:00 GMT</pubDate>
+            <guid>56b3dc0e0e82e3c2ac4725f9ad4d8395</guid>
+            <pubDate>Sat, 20 Nov 2021 09:40:00 GMT</pubDate>
             <description><![CDATA[<strong>Sat 20 Nov</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
 Mostly sunny<br>
@@ -68,11 +68,11 @@ Max: 16°C<br>
         <item>
             <title><![CDATA[Belgrade]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>d396b0796cee4b4a9d5ba87337e7dd39</guid>
-            <pubDate>Sat, 20 Nov 2021 04:45:00 GMT</pubDate>
+            <guid>4f3317077f6527ce0aac97ad53862ecf</guid>
+            <pubDate>Sat, 20 Nov 2021 09:40:00 GMT</pubDate>
             <description><![CDATA[<strong>Sat 20 Nov</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-4.png" alt="Partly cloudy" /><br>
-Partly cloudy<br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
+Mostly sunny<br>
 Max: 14°C<br>
 <br>
 <strong>Sun 21 Nov</strong><br>
@@ -85,8 +85,8 @@ Max: 15°C<br>
         <item>
             <title><![CDATA[Kragujevac]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>6ac9e087a799dc55355c419198d2f5c7</guid>
-            <pubDate>Sat, 20 Nov 2021 04:45:00 GMT</pubDate>
+            <guid>98c0eb5f41c34922f522ee131dea0ffa</guid>
+            <pubDate>Sat, 20 Nov 2021 09:40:00 GMT</pubDate>
             <description><![CDATA[<strong>Sat 20 Nov</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-4.png" alt="Partly cloudy" /><br>
 Partly cloudy<br>
@@ -102,8 +102,8 @@ Max: 16°C<br>
         <item>
             <title><![CDATA[Negotin]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>cc655d82e56f599cb8536f182ca9e5c6</guid>
-            <pubDate>Sat, 20 Nov 2021 04:45:00 GMT</pubDate>
+            <guid>db285724009d1087f4eeb6112de5578a</guid>
+            <pubDate>Sat, 20 Nov 2021 09:40:00 GMT</pubDate>
             <description><![CDATA[<strong>Sat 20 Nov</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-4.png" alt="Partly cloudy" /><br>
 Partly cloudy<br>
@@ -119,8 +119,8 @@ Max: 13°C<br>
         <item>
             <title><![CDATA[Zlatibor]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>c4bb1fb85f82d4fbcad77278e7f865f8</guid>
-            <pubDate>Sat, 20 Nov 2021 04:45:00 GMT</pubDate>
+            <guid>03a9036ff5d924c13505de404836384f</guid>
+            <pubDate>Sat, 20 Nov 2021 09:40:00 GMT</pubDate>
             <description><![CDATA[<strong>Sat 20 Nov</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-4.png" alt="Partly cloudy" /><br>
 Partly cloudy<br>
@@ -136,8 +136,8 @@ Max: 13°C<br>
         <item>
             <title><![CDATA[Kraljevo]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>2cc848fed0385179e382bee253b7cad0</guid>
-            <pubDate>Sat, 20 Nov 2021 04:45:00 GMT</pubDate>
+            <guid>d916a6d09bf37a8e0be5a7f9f9cbb972</guid>
+            <pubDate>Sat, 20 Nov 2021 09:40:00 GMT</pubDate>
             <description><![CDATA[<strong>Sat 20 Nov</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-4.png" alt="Partly cloudy" /><br>
 Partly cloudy<br>
@@ -153,8 +153,8 @@ Max: 14°C<br>
         <item>
             <title><![CDATA[Priština]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>615a8c75ad0c8ff57234dabff56a6fb9</guid>
-            <pubDate>Sat, 20 Nov 2021 04:45:00 GMT</pubDate>
+            <guid>cc869ffcaed5e30b990172dbb076d70b</guid>
+            <pubDate>Sat, 20 Nov 2021 09:40:00 GMT</pubDate>
             <description><![CDATA[<strong>Sat 20 Nov</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-4.png" alt="Partly cloudy" /><br>
 Partly cloudy<br>
@@ -170,8 +170,8 @@ Max: 15°C<br>
         <item>
             <title><![CDATA[Niš]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>5db862b4899fd11adbfccdb27a389a1e</guid>
-            <pubDate>Sat, 20 Nov 2021 04:45:00 GMT</pubDate>
+            <guid>1cff9fd75bda0f51f94bcd0a4c850617</guid>
+            <pubDate>Sat, 20 Nov 2021 09:40:00 GMT</pubDate>
             <description><![CDATA[<strong>Sat 20 Nov</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-4.png" alt="Partly cloudy" /><br>
 Partly cloudy<br>
