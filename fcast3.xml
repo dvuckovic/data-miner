@@ -4,7 +4,7 @@
         <title>RHMZ</title>
         <link>https://data.dvuckovic.com/fcast3.xml</link>
         <description>Weather Forecast for Serbia</description>
-        <lastBuildDate>Mon, 22 Nov 2021 12:48:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Nov 2021 05:15:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>fcast</generator>
         <language>en</language>
@@ -17,12 +17,12 @@
         <item>
             <title><![CDATA[Palić]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>b153813606b3a912c9bee4674d82ae61</guid>
-            <pubDate>Mon, 22 Nov 2021 12:48:00 GMT</pubDate>
+            <guid>a46c4e83b6ebeb029d8748c99af6db30</guid>
+            <pubDate>Tue, 23 Nov 2021 05:15:00 GMT</pubDate>
             <description><![CDATA[<strong>Tue 23 Nov</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
 Mostly sunny<br>
-Max: 8°C<br>
+Max: 9°C<br>
 <br>
 <strong>Wed 24 Nov</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
@@ -34,8 +34,8 @@ Max: 5°C<br>
         <item>
             <title><![CDATA[Novi Sad]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>f51e8fb7c2baa2aadd85532da2ee713c</guid>
-            <pubDate>Mon, 22 Nov 2021 12:48:00 GMT</pubDate>
+            <guid>e1fd980e719174db44bbb02fa040f7a8</guid>
+            <pubDate>Tue, 23 Nov 2021 05:15:00 GMT</pubDate>
             <description><![CDATA[<strong>Tue 23 Nov</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-4.png" alt="Partly cloudy" /><br>
 Partly cloudy<br>
@@ -51,12 +51,12 @@ Max: 5°C<br>
         <item>
             <title><![CDATA[Loznica]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>a467e206dd1c37bdc478c818b0b8cac7</guid>
-            <pubDate>Mon, 22 Nov 2021 12:48:00 GMT</pubDate>
+            <guid>57548992cb349d458acfbacc320c48a9</guid>
+            <pubDate>Tue, 23 Nov 2021 05:15:00 GMT</pubDate>
             <description><![CDATA[<strong>Tue 23 Nov</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-6.png" alt="Possible rain showers" /><br>
 Possible rain showers<br>
-Max: 7°C<br>
+Max: 8°C<br>
 <br>
 <strong>Wed 24 Nov</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-4.png" alt="Partly cloudy" /><br>
@@ -68,8 +68,8 @@ Max: 7°C<br>
         <item>
             <title><![CDATA[Belgrade]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>089bcfc8805031fb43e3a2bc922681fe</guid>
-            <pubDate>Mon, 22 Nov 2021 12:48:00 GMT</pubDate>
+            <guid>b1f015a453ea9d145ea3b880afd0191d</guid>
+            <pubDate>Tue, 23 Nov 2021 05:15:00 GMT</pubDate>
             <description><![CDATA[<strong>Tue 23 Nov</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-6.png" alt="Possible rain showers" /><br>
 Possible rain showers<br>
@@ -85,8 +85,8 @@ Max: 6°C<br>
         <item>
             <title><![CDATA[Kragujevac]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>d1c351b94c41d9a1be11e63d0323db32</guid>
-            <pubDate>Mon, 22 Nov 2021 12:48:00 GMT</pubDate>
+            <guid>dd40ec5e62e2d3f4663c2562f19c4aad</guid>
+            <pubDate>Tue, 23 Nov 2021 05:15:00 GMT</pubDate>
             <description><![CDATA[<strong>Tue 23 Nov</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-8.png" alt="Possible rain" /><br>
 Possible rain<br>
@@ -102,8 +102,8 @@ Max: 6°C<br>
         <item>
             <title><![CDATA[Negotin]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>0f8291c4b5776c69175988a9aec736d1</guid>
-            <pubDate>Mon, 22 Nov 2021 12:48:00 GMT</pubDate>
+            <guid>04342c38d4575cdcba851791f4c56c58</guid>
+            <pubDate>Tue, 23 Nov 2021 05:15:00 GMT</pubDate>
             <description><![CDATA[<strong>Tue 23 Nov</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-7.png" alt="Cloudy" /><br>
 Cloudy<br>
@@ -119,8 +119,8 @@ Max: 8°C<br>
         <item>
             <title><![CDATA[Zlatibor]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>bc7f78315e59eb4d0d967a367ecef714</guid>
-            <pubDate>Mon, 22 Nov 2021 12:48:00 GMT</pubDate>
+            <guid>3e2c4abbf75990858e71840402826761</guid>
+            <pubDate>Tue, 23 Nov 2021 05:15:00 GMT</pubDate>
             <description><![CDATA[<strong>Tue 23 Nov</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-13.png" alt="Rain and snow mixed" /><br>
 Rain and snow mixed<br>
@@ -136,8 +136,8 @@ Max: 3°C<br>
         <item>
             <title><![CDATA[Kraljevo]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>dc2e3498b6bf13dbb1fda22dd1d67460</guid>
-            <pubDate>Mon, 22 Nov 2021 12:48:00 GMT</pubDate>
+            <guid>ce7f088bdd666c259ed08bfdd87fb8c9</guid>
+            <pubDate>Tue, 23 Nov 2021 05:15:00 GMT</pubDate>
             <description><![CDATA[<strong>Tue 23 Nov</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-8.png" alt="Possible rain" /><br>
 Possible rain<br>
@@ -153,8 +153,8 @@ Max: 6°C<br>
         <item>
             <title><![CDATA[Priština]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>80ff8fce4c17b20a248836ebcd8e960d</guid>
-            <pubDate>Mon, 22 Nov 2021 12:48:00 GMT</pubDate>
+            <guid>c2c7a4c0c701535ecc320ceabac03e41</guid>
+            <pubDate>Tue, 23 Nov 2021 05:15:00 GMT</pubDate>
             <description><![CDATA[<strong>Tue 23 Nov</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-8.png" alt="Possible rain" /><br>
 Possible rain<br>
@@ -170,8 +170,8 @@ Max: 7°C<br>
         <item>
             <title><![CDATA[Niš]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>9611942586bf622d5d711404e5a58887</guid>
-            <pubDate>Mon, 22 Nov 2021 12:48:00 GMT</pubDate>
+            <guid>dbf266df1137155e985184ca43b2ec37</guid>
+            <pubDate>Tue, 23 Nov 2021 05:15:00 GMT</pubDate>
             <description><![CDATA[<strong>Tue 23 Nov</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-8.png" alt="Possible rain" /><br>
 Possible rain<br>
