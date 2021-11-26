@@ -4,7 +4,7 @@
         <title>RHMZ</title>
         <link>https://data.dvuckovic.com/fcast3.xml</link>
         <description>Weather Forecast for Serbia</description>
-        <lastBuildDate>Fri, 26 Nov 2021 05:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Nov 2021 09:15:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>fcast</generator>
         <language>en</language>
@@ -17,8 +17,8 @@
         <item>
             <title><![CDATA[Palić]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>bc9295c3b425b1b4b22805dbcbb76662</guid>
-            <pubDate>Fri, 26 Nov 2021 05:00:00 GMT</pubDate>
+            <guid>d740fb092f95e7eceb30ee373b3d7911</guid>
+            <pubDate>Fri, 26 Nov 2021 09:15:00 GMT</pubDate>
             <description><![CDATA[<strong>Fri 26 Nov</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-8.png" alt="Possible rain" /><br>
 Possible rain<br>
@@ -34,11 +34,11 @@ Max: 10°C<br>
         <item>
             <title><![CDATA[Novi Sad]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>3918cdf90f9d1176539238551f1f3887</guid>
-            <pubDate>Fri, 26 Nov 2021 05:00:00 GMT</pubDate>
+            <guid>486c9338a81856020d65dde05b0a576d</guid>
+            <pubDate>Fri, 26 Nov 2021 09:15:00 GMT</pubDate>
             <description><![CDATA[<strong>Fri 26 Nov</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-9.png" alt="Rain" /><br>
-Rain<br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-6.png" alt="Possible rain showers" /><br>
+Possible rain showers<br>
 Max: 9°C<br>
 <br>
 <strong>Sat 27 Nov</strong><br>
@@ -51,11 +51,11 @@ Max: 10°C<br>
         <item>
             <title><![CDATA[Loznica]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>de338b3ca752423ad562168e6a0e8433</guid>
-            <pubDate>Fri, 26 Nov 2021 05:00:00 GMT</pubDate>
+            <guid>cccb23ed3e37fb53242eeb542cfabd40</guid>
+            <pubDate>Fri, 26 Nov 2021 09:15:00 GMT</pubDate>
             <description><![CDATA[<strong>Fri 26 Nov</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-9.png" alt="Rain" /><br>
-Rain<br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-6.png" alt="Possible rain showers" /><br>
+Possible rain showers<br>
 Max: 10°C<br>
 <br>
 <strong>Sat 27 Nov</strong><br>
@@ -68,11 +68,11 @@ Max: 11°C<br>
         <item>
             <title><![CDATA[Belgrade]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>73fc8d1bc6d980c08dd1577b2eefb457</guid>
-            <pubDate>Fri, 26 Nov 2021 05:00:00 GMT</pubDate>
+            <guid>1d5a8891e404f87382adbe3ae096e0cc</guid>
+            <pubDate>Fri, 26 Nov 2021 09:15:00 GMT</pubDate>
             <description><![CDATA[<strong>Fri 26 Nov</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-8.png" alt="Possible rain" /><br>
-Possible rain<br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-6.png" alt="Possible rain showers" /><br>
+Possible rain showers<br>
 Max: 10°C<br>
 <br>
 <strong>Sat 27 Nov</strong><br>
@@ -85,11 +85,11 @@ Max: 14°C<br>
         <item>
             <title><![CDATA[Kragujevac]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>7295b90b11c4da5aec277e894c2aa8fa</guid>
-            <pubDate>Fri, 26 Nov 2021 05:00:00 GMT</pubDate>
+            <guid>5f49e8332b049429039748dd13b1406a</guid>
+            <pubDate>Fri, 26 Nov 2021 09:15:00 GMT</pubDate>
             <description><![CDATA[<strong>Fri 26 Nov</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-8.png" alt="Possible rain" /><br>
-Possible rain<br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-6.png" alt="Possible rain showers" /><br>
+Possible rain showers<br>
 Max: 11°C<br>
 <br>
 <strong>Sat 27 Nov</strong><br>
@@ -102,8 +102,8 @@ Max: 16°C<br>
         <item>
             <title><![CDATA[Negotin]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>f64d8221908f4cfaab3c74b9e228aa29</guid>
-            <pubDate>Fri, 26 Nov 2021 05:00:00 GMT</pubDate>
+            <guid>a3847fe6545be18df206c2bf1720b7c6</guid>
+            <pubDate>Fri, 26 Nov 2021 09:15:00 GMT</pubDate>
             <description><![CDATA[<strong>Fri 26 Nov</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-8.png" alt="Possible rain" /><br>
 Possible rain<br>
@@ -119,8 +119,8 @@ Max: 5°C<br>
         <item>
             <title><![CDATA[Zlatibor]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>243a459284af79021334fec05928b4b4</guid>
-            <pubDate>Fri, 26 Nov 2021 05:00:00 GMT</pubDate>
+            <guid>3aa43b8b0f24887545ced1bdd7f55cf2</guid>
+            <pubDate>Fri, 26 Nov 2021 09:15:00 GMT</pubDate>
             <description><![CDATA[<strong>Fri 26 Nov</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-8.png" alt="Possible rain" /><br>
 Possible rain<br>
@@ -136,8 +136,8 @@ Max: 10°C<br>
         <item>
             <title><![CDATA[Kraljevo]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>0fdda342e7a4014765a2810ae2438689</guid>
-            <pubDate>Fri, 26 Nov 2021 05:00:00 GMT</pubDate>
+            <guid>206f7d3a4be569000c82bfa5f98dd5ce</guid>
+            <pubDate>Fri, 26 Nov 2021 09:15:00 GMT</pubDate>
             <description><![CDATA[<strong>Fri 26 Nov</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-8.png" alt="Possible rain" /><br>
 Possible rain<br>
@@ -153,8 +153,8 @@ Max: 14°C<br>
         <item>
             <title><![CDATA[Priština]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>2abbbfa246f2a84dc8bf6c4c6cbe558e</guid>
-            <pubDate>Fri, 26 Nov 2021 05:00:00 GMT</pubDate>
+            <guid>3a3e2574c121ba3b05bc15eed6bf69e8</guid>
+            <pubDate>Fri, 26 Nov 2021 09:15:00 GMT</pubDate>
             <description><![CDATA[<strong>Fri 26 Nov</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-9.png" alt="Rain" /><br>
 Rain<br>
@@ -170,8 +170,8 @@ Max: 15°C<br>
         <item>
             <title><![CDATA[Niš]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>aa16816e249dc42172a1868c0db5166b</guid>
-            <pubDate>Fri, 26 Nov 2021 05:00:00 GMT</pubDate>
+            <guid>d1889559fe552f203343b1738c5f717b</guid>
+            <pubDate>Fri, 26 Nov 2021 09:15:00 GMT</pubDate>
             <description><![CDATA[<strong>Fri 26 Nov</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-8.png" alt="Possible rain" /><br>
 Possible rain<br>
