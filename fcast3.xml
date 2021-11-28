@@ -4,7 +4,7 @@
         <title>RHMZ</title>
         <link>https://data.dvuckovic.com/fcast3.xml</link>
         <description>Weather Forecast for Serbia</description>
-        <lastBuildDate>Sat, 27 Nov 2021 17:57:00 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Nov 2021 05:10:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>fcast</generator>
         <language>en</language>
@@ -17,8 +17,8 @@
         <item>
             <title><![CDATA[Palić]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>6191b0460ab560bfb46fd4789d1b9e8b</guid>
-            <pubDate>Sat, 27 Nov 2021 17:57:00 GMT</pubDate>
+            <guid>f1b93b3df96e9ee7db6af363f2cbf31d</guid>
+            <pubDate>Sun, 28 Nov 2021 05:10:00 GMT</pubDate>
             <description><![CDATA[<strong>Sun 28 Nov</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-8.png" alt="Possible rain" /><br>
 Possible rain<br>
@@ -34,8 +34,8 @@ Max: 6°C<br>
         <item>
             <title><![CDATA[Novi Sad]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>96c546f1a3144d220aae45485c9ac654</guid>
-            <pubDate>Sat, 27 Nov 2021 17:57:00 GMT</pubDate>
+            <guid>b601c883451eef5065d15798a49cafe2</guid>
+            <pubDate>Sun, 28 Nov 2021 05:10:00 GMT</pubDate>
             <description><![CDATA[<strong>Sun 28 Nov</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-6.png" alt="Possible rain showers" /><br>
 Possible rain showers<br>
@@ -51,12 +51,12 @@ Max: 6°C<br>
         <item>
             <title><![CDATA[Loznica]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>90a7d2343b0992a985005f47795a4b71</guid>
-            <pubDate>Sat, 27 Nov 2021 17:57:00 GMT</pubDate>
+            <guid>59e4fe0d8221536763a13562245fad23</guid>
+            <pubDate>Sun, 28 Nov 2021 05:10:00 GMT</pubDate>
             <description><![CDATA[<strong>Sun 28 Nov</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-6.png" alt="Possible rain showers" /><br>
 Possible rain showers<br>
-Max: 15°C<br>
+Max: 17°C<br>
 <br>
 <strong>Mon 29 Nov</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-8.png" alt="Possible rain" /><br>
@@ -68,8 +68,8 @@ Max: 7°C<br>
         <item>
             <title><![CDATA[Belgrade]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>46570a954961d96440dd27e1c9a1b75e</guid>
-            <pubDate>Sat, 27 Nov 2021 17:57:00 GMT</pubDate>
+            <guid>1f99998c693bb1f65deacf69a452e655</guid>
+            <pubDate>Sun, 28 Nov 2021 05:10:00 GMT</pubDate>
             <description><![CDATA[<strong>Sun 28 Nov</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-6.png" alt="Possible rain showers" /><br>
 Possible rain showers<br>
@@ -85,8 +85,8 @@ Max: 8°C<br>
         <item>
             <title><![CDATA[Kragujevac]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>150c32dcf217189dc300bf8416b56c9e</guid>
-            <pubDate>Sat, 27 Nov 2021 17:57:00 GMT</pubDate>
+            <guid>dac6ec7bbb434bed5350d19d2dee056a</guid>
+            <pubDate>Sun, 28 Nov 2021 05:10:00 GMT</pubDate>
             <description><![CDATA[<strong>Sun 28 Nov</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-6.png" alt="Possible rain showers" /><br>
 Possible rain showers<br>
@@ -102,8 +102,8 @@ Max: 10°C<br>
         <item>
             <title><![CDATA[Negotin]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>ca4da3884bdca0db5d7592d0c2f264d8</guid>
-            <pubDate>Sat, 27 Nov 2021 17:57:00 GMT</pubDate>
+            <guid>a2128c225cb83468757aeea98bfa2525</guid>
+            <pubDate>Sun, 28 Nov 2021 05:10:00 GMT</pubDate>
             <description><![CDATA[<strong>Sun 28 Nov</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-8.png" alt="Possible rain" /><br>
 Possible rain<br>
@@ -119,8 +119,8 @@ Max: 11°C<br>
         <item>
             <title><![CDATA[Zlatibor]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>d003625ed238a539d5278f2049bf00f2</guid>
-            <pubDate>Sat, 27 Nov 2021 17:57:00 GMT</pubDate>
+            <guid>569545d8e230f359c78c4b90ca9eec8e</guid>
+            <pubDate>Sun, 28 Nov 2021 05:10:00 GMT</pubDate>
             <description><![CDATA[<strong>Sun 28 Nov</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-8.png" alt="Possible rain" /><br>
 Possible rain<br>
@@ -136,8 +136,8 @@ Max: 6°C<br>
         <item>
             <title><![CDATA[Kraljevo]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>9e5c6237b974405c895cbf6e14f70c73</guid>
-            <pubDate>Sat, 27 Nov 2021 17:57:00 GMT</pubDate>
+            <guid>b302bfc13d6e0326ec4c179800e7d694</guid>
+            <pubDate>Sun, 28 Nov 2021 05:10:00 GMT</pubDate>
             <description><![CDATA[<strong>Sun 28 Nov</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-6.png" alt="Possible rain showers" /><br>
 Possible rain showers<br>
@@ -153,8 +153,8 @@ Max: 9°C<br>
         <item>
             <title><![CDATA[Priština]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>cab138735416e598ce44761a15c4f17e</guid>
-            <pubDate>Sat, 27 Nov 2021 17:57:00 GMT</pubDate>
+            <guid>cca9e2066fce6eb60d12ee6aaab7f69d</guid>
+            <pubDate>Sun, 28 Nov 2021 05:10:00 GMT</pubDate>
             <description><![CDATA[<strong>Sun 28 Nov</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-8.png" alt="Possible rain" /><br>
 Possible rain<br>
@@ -170,8 +170,8 @@ Max: 10°C<br>
         <item>
             <title><![CDATA[Niš]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>d5a803d17583c52a1cdff1cc023ac324</guid>
-            <pubDate>Sat, 27 Nov 2021 17:57:00 GMT</pubDate>
+            <guid>4b2f99d2d8152dbc1f44de58cde5531c</guid>
+            <pubDate>Sun, 28 Nov 2021 05:10:00 GMT</pubDate>
             <description><![CDATA[<strong>Sun 28 Nov</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-6.png" alt="Possible rain showers" /><br>
 Possible rain showers<br>
