@@ -4,7 +4,7 @@
         <title>RHMZ</title>
         <link>https://data.dvuckovic.com/fcast3.xml</link>
         <description>Weather Forecast for Serbia</description>
-        <lastBuildDate>Mon, 29 Nov 2021 11:39:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Nov 2021 04:55:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>fcast</generator>
         <language>en</language>
@@ -17,8 +17,8 @@
         <item>
             <title><![CDATA[Palić]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>49a2674efd1a6cd9a669588cbc384287</guid>
-            <pubDate>Mon, 29 Nov 2021 11:39:00 GMT</pubDate>
+            <guid>31f555277fba4c1a9b179b2a06363038</guid>
+            <pubDate>Tue, 30 Nov 2021 04:55:00 GMT</pubDate>
             <description><![CDATA[<strong>Tue 30 Nov</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-4.png" alt="Partly cloudy" /><br>
 Partly cloudy<br>
@@ -34,8 +34,8 @@ Max: 11°C<br>
         <item>
             <title><![CDATA[Novi Sad]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>260900979710bce5baf4a0058dd4cdaa</guid>
-            <pubDate>Mon, 29 Nov 2021 11:39:00 GMT</pubDate>
+            <guid>b7e94631e004c131d86b5a709050a853</guid>
+            <pubDate>Tue, 30 Nov 2021 04:55:00 GMT</pubDate>
             <description><![CDATA[<strong>Tue 30 Nov</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-4.png" alt="Partly cloudy" /><br>
 Partly cloudy<br>
@@ -51,8 +51,8 @@ Max: 12°C<br>
         <item>
             <title><![CDATA[Loznica]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>a98ecef4ae93c086ce6d5189cdfdfcb4</guid>
-            <pubDate>Mon, 29 Nov 2021 11:39:00 GMT</pubDate>
+            <guid>60556e6cf79d1dbe6535ca2ecc133c38</guid>
+            <pubDate>Tue, 30 Nov 2021 04:55:00 GMT</pubDate>
             <description><![CDATA[<strong>Tue 30 Nov</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-7.png" alt="Cloudy" /><br>
 Cloudy<br>
@@ -68,8 +68,8 @@ Max: 16°C<br>
         <item>
             <title><![CDATA[Belgrade]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>d682d1c35aba2ed90c5cc20ad3947fc5</guid>
-            <pubDate>Mon, 29 Nov 2021 11:39:00 GMT</pubDate>
+            <guid>a2f96f7d6dce022a56fd9062cd761ca3</guid>
+            <pubDate>Tue, 30 Nov 2021 04:55:00 GMT</pubDate>
             <description><![CDATA[<strong>Tue 30 Nov</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-10.png" alt="Mostly cloudy" /><br>
 Mostly cloudy<br>
@@ -85,8 +85,8 @@ Max: 13°C<br>
         <item>
             <title><![CDATA[Kragujevac]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>46d2196374587751b0ee159b6a3f00d0</guid>
-            <pubDate>Mon, 29 Nov 2021 11:39:00 GMT</pubDate>
+            <guid>b5c56357dddbfab5803212010d73910c</guid>
+            <pubDate>Tue, 30 Nov 2021 04:55:00 GMT</pubDate>
             <description><![CDATA[<strong>Tue 30 Nov</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-7.png" alt="Cloudy" /><br>
 Cloudy<br>
@@ -102,8 +102,8 @@ Max: 14°C<br>
         <item>
             <title><![CDATA[Negotin]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>ff713b5341c19c537ea80b59989c88f7</guid>
-            <pubDate>Mon, 29 Nov 2021 11:39:00 GMT</pubDate>
+            <guid>ee2c2e9c98e132a49ee06a1d07630b7f</guid>
+            <pubDate>Tue, 30 Nov 2021 04:55:00 GMT</pubDate>
             <description><![CDATA[<strong>Tue 30 Nov</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-10.png" alt="Mostly cloudy" /><br>
 Mostly cloudy<br>
@@ -119,8 +119,8 @@ Max: 14°C<br>
         <item>
             <title><![CDATA[Zlatibor]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>191b0dcaf7916b2792775591dcffae9f</guid>
-            <pubDate>Mon, 29 Nov 2021 11:39:00 GMT</pubDate>
+            <guid>2098b40c4d3bb3fb6454f91a0d561b49</guid>
+            <pubDate>Tue, 30 Nov 2021 04:55:00 GMT</pubDate>
             <description><![CDATA[<strong>Tue 30 Nov</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-7.png" alt="Cloudy" /><br>
 Cloudy<br>
@@ -136,8 +136,8 @@ Max: 7°C<br>
         <item>
             <title><![CDATA[Kraljevo]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>5344e6a93d335b6c20c96a2ae88414b2</guid>
-            <pubDate>Mon, 29 Nov 2021 11:39:00 GMT</pubDate>
+            <guid>a8a6529246f09ada0cff28349d4052fb</guid>
+            <pubDate>Tue, 30 Nov 2021 04:55:00 GMT</pubDate>
             <description><![CDATA[<strong>Tue 30 Nov</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-7.png" alt="Cloudy" /><br>
 Cloudy<br>
@@ -153,8 +153,8 @@ Max: 12°C<br>
         <item>
             <title><![CDATA[Priština]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>a3881c0babd2091ef99cf09c7f5e181f</guid>
-            <pubDate>Mon, 29 Nov 2021 11:39:00 GMT</pubDate>
+            <guid>a1cc730d4fcac781812e329064d1c9e8</guid>
+            <pubDate>Tue, 30 Nov 2021 04:55:00 GMT</pubDate>
             <description><![CDATA[<strong>Tue 30 Nov</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-14.png" alt="Possible snow" /><br>
 Possible snow<br>
@@ -170,8 +170,8 @@ Max: 9°C<br>
         <item>
             <title><![CDATA[Niš]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>80eb11c3f1c0df1a2646148c9432318c</guid>
-            <pubDate>Mon, 29 Nov 2021 11:39:00 GMT</pubDate>
+            <guid>97b27440c65ee64e66afff341dc1c05e</guid>
+            <pubDate>Tue, 30 Nov 2021 04:55:00 GMT</pubDate>
             <description><![CDATA[<strong>Tue 30 Nov</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-13.png" alt="Rain and snow mixed" /><br>
 Rain and snow mixed<br>
