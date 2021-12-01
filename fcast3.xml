@@ -4,7 +4,7 @@
         <title>RHMZ</title>
         <link>https://data.dvuckovic.com/fcast3.xml</link>
         <description>Weather Forecast for Serbia</description>
-        <lastBuildDate>Tue, 30 Nov 2021 13:15:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Dec 2021 10:15:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>fcast</generator>
         <language>en</language>
@@ -17,8 +17,8 @@
         <item>
             <title><![CDATA[Palić]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>1c1016356546e79a7581fd264dab9da5</guid>
-            <pubDate>Tue, 30 Nov 2021 13:15:00 GMT</pubDate>
+            <guid>70a98373248f05a4d9d18eff55adc359</guid>
+            <pubDate>Wed, 01 Dec 2021 10:15:00 GMT</pubDate>
             <description><![CDATA[<strong>Wed 1 Dec</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-10.png" alt="Mostly cloudy" /><br>
 Mostly cloudy<br>
@@ -34,8 +34,8 @@ Max: 16°C<br>
         <item>
             <title><![CDATA[Novi Sad]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>0d0da6b01820d7913fcbc49f4ee52d45</guid>
-            <pubDate>Tue, 30 Nov 2021 13:15:00 GMT</pubDate>
+            <guid>85fae327e5f2d833bcf07f810b0e04ab</guid>
+            <pubDate>Wed, 01 Dec 2021 10:15:00 GMT</pubDate>
             <description><![CDATA[<strong>Wed 1 Dec</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-4.png" alt="Partly cloudy" /><br>
 Partly cloudy<br>
@@ -51,8 +51,8 @@ Max: 16°C<br>
         <item>
             <title><![CDATA[Loznica]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>ef00682e172b5bea28edc914353dc63a</guid>
-            <pubDate>Tue, 30 Nov 2021 13:15:00 GMT</pubDate>
+            <guid>b104218773f931d3d6ba56bfa237c30f</guid>
+            <pubDate>Wed, 01 Dec 2021 10:15:00 GMT</pubDate>
             <description><![CDATA[<strong>Wed 1 Dec</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
 Mostly sunny<br>
@@ -68,8 +68,8 @@ Max: 18°C<br>
         <item>
             <title><![CDATA[Belgrade]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>ef16248baaa096f8a05e5911da905d80</guid>
-            <pubDate>Tue, 30 Nov 2021 13:15:00 GMT</pubDate>
+            <guid>2a55df00efa805e90c1d56c4f2cda196</guid>
+            <pubDate>Wed, 01 Dec 2021 10:15:00 GMT</pubDate>
             <description><![CDATA[<strong>Wed 1 Dec</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-4.png" alt="Partly cloudy" /><br>
 Partly cloudy<br>
@@ -85,8 +85,8 @@ Max: 16°C<br>
         <item>
             <title><![CDATA[Kragujevac]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>8c98be23e0c3e3b97bb946171e0c07a5</guid>
-            <pubDate>Tue, 30 Nov 2021 13:15:00 GMT</pubDate>
+            <guid>102c5c949d35e182ed3a401ba1b7cb0d</guid>
+            <pubDate>Wed, 01 Dec 2021 10:15:00 GMT</pubDate>
             <description><![CDATA[<strong>Wed 1 Dec</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
 Mostly sunny<br>
@@ -102,8 +102,8 @@ Max: 15°C<br>
         <item>
             <title><![CDATA[Negotin]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>4acf95fb0fe17bfd82e2302c8b7279cc</guid>
-            <pubDate>Tue, 30 Nov 2021 13:15:00 GMT</pubDate>
+            <guid>d1b76859092f281ed20276317607795d</guid>
+            <pubDate>Wed, 01 Dec 2021 10:15:00 GMT</pubDate>
             <description><![CDATA[<strong>Wed 1 Dec</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-4.png" alt="Partly cloudy" /><br>
 Partly cloudy<br>
@@ -119,8 +119,8 @@ Max: 11°C<br>
         <item>
             <title><![CDATA[Zlatibor]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>ca00208dff89a36da3d07a0041f5c890</guid>
-            <pubDate>Tue, 30 Nov 2021 13:15:00 GMT</pubDate>
+            <guid>e8af10710d9ee1ee93eeb06bb92aa496</guid>
+            <pubDate>Wed, 01 Dec 2021 10:15:00 GMT</pubDate>
             <description><![CDATA[<strong>Wed 1 Dec</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
 Mostly sunny<br>
@@ -136,8 +136,8 @@ Max: 10°C<br>
         <item>
             <title><![CDATA[Kraljevo]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>01ed1c2f3f171de6a6ae0d658e1fc5db</guid>
-            <pubDate>Tue, 30 Nov 2021 13:15:00 GMT</pubDate>
+            <guid>63a7978580abc23fe3624bede449d3e6</guid>
+            <pubDate>Wed, 01 Dec 2021 10:15:00 GMT</pubDate>
             <description><![CDATA[<strong>Wed 1 Dec</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
 Mostly sunny<br>
@@ -153,8 +153,8 @@ Max: 15°C<br>
         <item>
             <title><![CDATA[Priština]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>3babb336accd4fbe8423c658a26804e9</guid>
-            <pubDate>Tue, 30 Nov 2021 13:15:00 GMT</pubDate>
+            <guid>49f0787a25cb1683691be00444ffa025</guid>
+            <pubDate>Wed, 01 Dec 2021 10:15:00 GMT</pubDate>
             <description><![CDATA[<strong>Wed 1 Dec</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
 Mostly sunny<br>
@@ -170,8 +170,8 @@ Max: 11°C<br>
         <item>
             <title><![CDATA[Niš]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>e775e09a48c0d2f59ab5d5264415140e</guid>
-            <pubDate>Tue, 30 Nov 2021 13:15:00 GMT</pubDate>
+            <guid>bb8a3812d155ace12373c38f49909da1</guid>
+            <pubDate>Wed, 01 Dec 2021 10:15:00 GMT</pubDate>
             <description><![CDATA[<strong>Wed 1 Dec</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
 Mostly sunny<br>
