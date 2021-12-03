@@ -4,7 +4,7 @@
         <title>RHMZ</title>
         <link>https://data.dvuckovic.com/fcast3.xml</link>
         <description>Weather Forecast for Serbia</description>
-        <lastBuildDate>Thu, 02 Dec 2021 13:10:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Dec 2021 08:25:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>fcast</generator>
         <language>en</language>
@@ -17,12 +17,12 @@
         <item>
             <title><![CDATA[Palić]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>86e7d9139c9e1ee46075aff2784d9348</guid>
-            <pubDate>Thu, 02 Dec 2021 13:10:00 GMT</pubDate>
+            <guid>c27cf06f683b274d552135910d66b3a3</guid>
+            <pubDate>Fri, 03 Dec 2021 08:25:00 GMT</pubDate>
             <description><![CDATA[<strong>Fri 3 Dec</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-10.png" alt="Mostly cloudy" /><br>
 Mostly cloudy<br>
-Max: 6°C<br>
+Max: 5°C<br>
 <br>
 <strong>Sat 4 Dec</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
@@ -34,12 +34,12 @@ Max: 5°C<br>
         <item>
             <title><![CDATA[Novi Sad]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>67503077b62ef096bf8e1265e2d0d732</guid>
-            <pubDate>Thu, 02 Dec 2021 13:10:00 GMT</pubDate>
+            <guid>2a6ad88b11358d64bd18b91b5bc6ae2e</guid>
+            <pubDate>Fri, 03 Dec 2021 08:25:00 GMT</pubDate>
             <description><![CDATA[<strong>Fri 3 Dec</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-6.png" alt="Possible rain showers" /><br>
 Possible rain showers<br>
-Max: 6°C<br>
+Max: 5°C<br>
 <br>
 <strong>Sat 4 Dec</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
@@ -51,12 +51,12 @@ Max: 5°C<br>
         <item>
             <title><![CDATA[Loznica]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>3f405b33a4c8a73a2b4897e30299c523</guid>
-            <pubDate>Thu, 02 Dec 2021 13:10:00 GMT</pubDate>
+            <guid>7e1c14db24e0119f8ed31c2d02ec6049</guid>
+            <pubDate>Fri, 03 Dec 2021 08:25:00 GMT</pubDate>
             <description><![CDATA[<strong>Fri 3 Dec</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-9.png" alt="Rain" /><br>
 Rain<br>
-Max: 8°C<br>
+Max: 3°C<br>
 <br>
 <strong>Sat 4 Dec</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-4.png" alt="Partly cloudy" /><br>
@@ -68,12 +68,12 @@ Max: 5°C<br>
         <item>
             <title><![CDATA[Belgrade]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>d640767f7b45362a4b4457d2a74d344b</guid>
-            <pubDate>Thu, 02 Dec 2021 13:10:00 GMT</pubDate>
+            <guid>6b918d8e2541ae1cf264904b03fd2911</guid>
+            <pubDate>Fri, 03 Dec 2021 08:25:00 GMT</pubDate>
             <description><![CDATA[<strong>Fri 3 Dec</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-9.png" alt="Rain" /><br>
 Rain<br>
-Max: 9°C<br>
+Max: 5°C<br>
 <br>
 <strong>Sat 4 Dec</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-4.png" alt="Partly cloudy" /><br>
@@ -85,12 +85,12 @@ Max: 6°C<br>
         <item>
             <title><![CDATA[Kragujevac]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>edebfa1898212c4552ec44f184552a10</guid>
-            <pubDate>Thu, 02 Dec 2021 13:10:00 GMT</pubDate>
+            <guid>601fcdd10baf7179f59f6b6bc78a1afc</guid>
+            <pubDate>Fri, 03 Dec 2021 08:25:00 GMT</pubDate>
             <description><![CDATA[<strong>Fri 3 Dec</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-9.png" alt="Rain" /><br>
 Rain<br>
-Max: 9°C<br>
+Max: 6°C<br>
 <br>
 <strong>Sat 4 Dec</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-10.png" alt="Mostly cloudy" /><br>
@@ -102,12 +102,12 @@ Max: 7°C<br>
         <item>
             <title><![CDATA[Negotin]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>8ee9f679c240a12334a7b13764335a1f</guid>
-            <pubDate>Thu, 02 Dec 2021 13:10:00 GMT</pubDate>
+            <guid>9a5c3aaf3595f28e4714ca9bd69b5c44</guid>
+            <pubDate>Fri, 03 Dec 2021 08:25:00 GMT</pubDate>
             <description><![CDATA[<strong>Fri 3 Dec</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-8.png" alt="Possible rain" /><br>
 Possible rain<br>
-Max: 8°C<br>
+Max: 5°C<br>
 <br>
 <strong>Sat 4 Dec</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-10.png" alt="Mostly cloudy" /><br>
@@ -119,12 +119,12 @@ Max: 7°C<br>
         <item>
             <title><![CDATA[Zlatibor]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>d3a96350ec84d745f63cacfb20f8f251</guid>
-            <pubDate>Thu, 02 Dec 2021 13:10:00 GMT</pubDate>
+            <guid>88cc3bfe433c0a79f013456773829acd</guid>
+            <pubDate>Fri, 03 Dec 2021 08:25:00 GMT</pubDate>
             <description><![CDATA[<strong>Fri 3 Dec</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-15.png" alt="Snow" /><br>
 Snow<br>
-Max: 3°C<br>
+Max: 0°C<br>
 <br>
 <strong>Sat 4 Dec</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-10.png" alt="Mostly cloudy" /><br>
@@ -136,12 +136,12 @@ Max: 2°C<br>
         <item>
             <title><![CDATA[Kraljevo]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>7bf989e5b769f0d5ac364a4af7ab79b9</guid>
-            <pubDate>Thu, 02 Dec 2021 13:10:00 GMT</pubDate>
+            <guid>c8f7304ee460d8761da936ea8e9271dc</guid>
+            <pubDate>Fri, 03 Dec 2021 08:25:00 GMT</pubDate>
             <description><![CDATA[<strong>Fri 3 Dec</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-9.png" alt="Rain" /><br>
 Rain<br>
-Max: 10°C<br>
+Max: 7°C<br>
 <br>
 <strong>Sat 4 Dec</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-10.png" alt="Mostly cloudy" /><br>
@@ -153,12 +153,12 @@ Max: 5°C<br>
         <item>
             <title><![CDATA[Priština]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>98531b982cd208ae3a6d7a5d10f2916b</guid>
-            <pubDate>Thu, 02 Dec 2021 13:10:00 GMT</pubDate>
+            <guid>cc29270a581d869de5219b20ef24082a</guid>
+            <pubDate>Fri, 03 Dec 2021 08:25:00 GMT</pubDate>
             <description><![CDATA[<strong>Fri 3 Dec</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-8.png" alt="Possible rain" /><br>
 Possible rain<br>
-Max: 11°C<br>
+Max: 8°C<br>
 <br>
 <strong>Sat 4 Dec</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-10.png" alt="Mostly cloudy" /><br>
@@ -170,12 +170,12 @@ Max: 4°C<br>
         <item>
             <title><![CDATA[Niš]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>dd2ff68bdf0791ea191e1a16f1664dae</guid>
-            <pubDate>Thu, 02 Dec 2021 13:10:00 GMT</pubDate>
+            <guid>5fa4e02c028da6cebaa5ee461410b1e4</guid>
+            <pubDate>Fri, 03 Dec 2021 08:25:00 GMT</pubDate>
             <description><![CDATA[<strong>Fri 3 Dec</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-9.png" alt="Rain" /><br>
 Rain<br>
-Max: 10°C<br>
+Max: 9°C<br>
 <br>
 <strong>Sat 4 Dec</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-10.png" alt="Mostly cloudy" /><br>
