@@ -4,7 +4,7 @@
         <title>RHMZ</title>
         <link>https://data.dvuckovic.com/fcast3.xml</link>
         <description>Weather Forecast for Serbia</description>
-        <lastBuildDate>Sat, 04 Dec 2021 05:40:00 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Dec 2021 09:05:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>fcast</generator>
         <language>en</language>
@@ -17,11 +17,11 @@
         <item>
             <title><![CDATA[Palić]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>447d9fb5c685200d469f2976bbcf18fc</guid>
-            <pubDate>Sat, 04 Dec 2021 05:40:00 GMT</pubDate>
+            <guid>30ed8a29475a2b7ace0303e648e3857b</guid>
+            <pubDate>Sat, 04 Dec 2021 09:05:00 GMT</pubDate>
             <description><![CDATA[<strong>Sat 4 Dec</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
-Mostly sunny<br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-4.png" alt="Partly cloudy" /><br>
+Partly cloudy<br>
 Max: 5°C<br>
 <br>
 <strong>Sun 5 Dec</strong><br>
@@ -34,11 +34,11 @@ Max: 5°C<br>
         <item>
             <title><![CDATA[Novi Sad]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>a65807fb06c7817ce772bf114145e5ca</guid>
-            <pubDate>Sat, 04 Dec 2021 05:40:00 GMT</pubDate>
+            <guid>649d615aac6b08a2c3359067fb2be946</guid>
+            <pubDate>Sat, 04 Dec 2021 09:05:00 GMT</pubDate>
             <description><![CDATA[<strong>Sat 4 Dec</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
-Mostly sunny<br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-4.png" alt="Partly cloudy" /><br>
+Partly cloudy<br>
 Max: 6°C<br>
 <br>
 <strong>Sun 5 Dec</strong><br>
@@ -51,8 +51,8 @@ Max: 6°C<br>
         <item>
             <title><![CDATA[Loznica]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>8337fe5eb589f15573acce13d70750be</guid>
-            <pubDate>Sat, 04 Dec 2021 05:40:00 GMT</pubDate>
+            <guid>55ff5c8ecb92a1ff7cc1f8e6511374d4</guid>
+            <pubDate>Sat, 04 Dec 2021 09:05:00 GMT</pubDate>
             <description><![CDATA[<strong>Sat 4 Dec</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-4.png" alt="Partly cloudy" /><br>
 Partly cloudy<br>
@@ -68,8 +68,8 @@ Max: 8°C<br>
         <item>
             <title><![CDATA[Belgrade]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>49c75754604b0443510345f8cee2658b</guid>
-            <pubDate>Sat, 04 Dec 2021 05:40:00 GMT</pubDate>
+            <guid>fb9da2a094dca1a166a22be4959be73c</guid>
+            <pubDate>Sat, 04 Dec 2021 09:05:00 GMT</pubDate>
             <description><![CDATA[<strong>Sat 4 Dec</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-4.png" alt="Partly cloudy" /><br>
 Partly cloudy<br>
@@ -85,8 +85,8 @@ Max: 9°C<br>
         <item>
             <title><![CDATA[Kragujevac]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>e02604e35cd4d3f5c42e9dc0182f01c7</guid>
-            <pubDate>Sat, 04 Dec 2021 05:40:00 GMT</pubDate>
+            <guid>14a86caa2507b1828eaaeb2e1757fb0f</guid>
+            <pubDate>Sat, 04 Dec 2021 09:05:00 GMT</pubDate>
             <description><![CDATA[<strong>Sat 4 Dec</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-4.png" alt="Partly cloudy" /><br>
 Partly cloudy<br>
@@ -102,8 +102,8 @@ Max: 9°C<br>
         <item>
             <title><![CDATA[Negotin]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>136aebeffd2d4dded557e7aba96da6a1</guid>
-            <pubDate>Sat, 04 Dec 2021 05:40:00 GMT</pubDate>
+            <guid>7cb1916ca895a3083f8b93282aa20790</guid>
+            <pubDate>Sat, 04 Dec 2021 09:05:00 GMT</pubDate>
             <description><![CDATA[<strong>Sat 4 Dec</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-7.png" alt="Cloudy" /><br>
 Cloudy<br>
@@ -119,8 +119,8 @@ Max: 5°C<br>
         <item>
             <title><![CDATA[Zlatibor]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>06eac3b2b816828f03745cd8cfdb6b58</guid>
-            <pubDate>Sat, 04 Dec 2021 05:40:00 GMT</pubDate>
+            <guid>543fef98046fd2d63143a7bb8e600191</guid>
+            <pubDate>Sat, 04 Dec 2021 09:05:00 GMT</pubDate>
             <description><![CDATA[<strong>Sat 4 Dec</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-4.png" alt="Partly cloudy" /><br>
 Partly cloudy<br>
@@ -136,8 +136,8 @@ Max: 5°C<br>
         <item>
             <title><![CDATA[Kraljevo]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>63a81ced98d1703a25e8ff735472c5d6</guid>
-            <pubDate>Sat, 04 Dec 2021 05:40:00 GMT</pubDate>
+            <guid>fc01e36383d6496ef1789f1ce52c4301</guid>
+            <pubDate>Sat, 04 Dec 2021 09:05:00 GMT</pubDate>
             <description><![CDATA[<strong>Sat 4 Dec</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-4.png" alt="Partly cloudy" /><br>
 Partly cloudy<br>
@@ -153,11 +153,11 @@ Max: 8°C<br>
         <item>
             <title><![CDATA[Priština]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>61ecfa2a20bb5dc9b81f012be0f3c2e8</guid>
-            <pubDate>Sat, 04 Dec 2021 05:40:00 GMT</pubDate>
+            <guid>6d6c09b519926fd9d4577ea877958600</guid>
+            <pubDate>Sat, 04 Dec 2021 09:05:00 GMT</pubDate>
             <description><![CDATA[<strong>Sat 4 Dec</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-10.png" alt="Mostly cloudy" /><br>
-Mostly cloudy<br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-4.png" alt="Partly cloudy" /><br>
+Partly cloudy<br>
 Max: 7°C<br>
 <br>
 <strong>Sun 5 Dec</strong><br>
@@ -170,11 +170,11 @@ Max: 10°C<br>
         <item>
             <title><![CDATA[Niš]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>1db7c916adabf34823f4cdcf6f34a225</guid>
-            <pubDate>Sat, 04 Dec 2021 05:40:00 GMT</pubDate>
+            <guid>8a8f9390c471776e0a0dc213f2906a15</guid>
+            <pubDate>Sat, 04 Dec 2021 09:05:00 GMT</pubDate>
             <description><![CDATA[<strong>Sat 4 Dec</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-10.png" alt="Mostly cloudy" /><br>
-Mostly cloudy<br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-4.png" alt="Partly cloudy" /><br>
+Partly cloudy<br>
 Max: 7°C<br>
 <br>
 <strong>Sun 5 Dec</strong><br>
