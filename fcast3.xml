@@ -4,7 +4,7 @@
         <title>RHMZ</title>
         <link>https://data.dvuckovic.com/fcast3.xml</link>
         <description>Weather Forecast for Serbia</description>
-        <lastBuildDate>Sat, 04 Dec 2021 09:05:00 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Dec 2021 12:21:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>fcast</generator>
         <language>en</language>
@@ -17,8 +17,8 @@
         <item>
             <title><![CDATA[Palić]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>30ed8a29475a2b7ace0303e648e3857b</guid>
-            <pubDate>Sat, 04 Dec 2021 09:05:00 GMT</pubDate>
+            <guid>b694b7e739e680bb5b58aea0778ee832</guid>
+            <pubDate>Sat, 04 Dec 2021 12:21:00 GMT</pubDate>
             <description><![CDATA[<strong>Sat 4 Dec</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-4.png" alt="Partly cloudy" /><br>
 Partly cloudy<br>
@@ -27,15 +27,21 @@ Max: 5°C<br>
 <strong>Sun 5 Dec</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-9.png" alt="Rain" /><br>
 Rain<br>
-Min: 1°C<br>
+Min: 0°C<br>
 Max: 5°C<br>
+<br>
+<strong>Mon 6 Dec</strong><br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-7.png" alt="Cloudy" /><br>
+Cloudy<br>
+Min: 2°C<br>
+Max: 4°C<br>
 ]]></description>
         </item>
         <item>
             <title><![CDATA[Novi Sad]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>649d615aac6b08a2c3359067fb2be946</guid>
-            <pubDate>Sat, 04 Dec 2021 09:05:00 GMT</pubDate>
+            <guid>5c296d595681dcd6d26194cc9166d44d</guid>
+            <pubDate>Sat, 04 Dec 2021 12:21:00 GMT</pubDate>
             <description><![CDATA[<strong>Sat 4 Dec</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-4.png" alt="Partly cloudy" /><br>
 Partly cloudy<br>
@@ -44,15 +50,21 @@ Max: 6°C<br>
 <strong>Sun 5 Dec</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-9.png" alt="Rain" /><br>
 Rain<br>
-Min: 1°C<br>
+Min: 0°C<br>
 Max: 6°C<br>
+<br>
+<strong>Mon 6 Dec</strong><br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-8.png" alt="Possible rain" /><br>
+Possible rain<br>
+Min: 2°C<br>
+Max: 4°C<br>
 ]]></description>
         </item>
         <item>
             <title><![CDATA[Loznica]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>55ff5c8ecb92a1ff7cc1f8e6511374d4</guid>
-            <pubDate>Sat, 04 Dec 2021 09:05:00 GMT</pubDate>
+            <guid>ddfc02d67f1f2bd37449a392a11704a2</guid>
+            <pubDate>Sat, 04 Dec 2021 12:21:00 GMT</pubDate>
             <description><![CDATA[<strong>Sat 4 Dec</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-4.png" alt="Partly cloudy" /><br>
 Partly cloudy<br>
@@ -61,15 +73,21 @@ Max: 7°C<br>
 <strong>Sun 5 Dec</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-9.png" alt="Rain" /><br>
 Rain<br>
-Min: 1°C<br>
-Max: 8°C<br>
+Min: 0°C<br>
+Max: 7°C<br>
+<br>
+<strong>Mon 6 Dec</strong><br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-8.png" alt="Possible rain" /><br>
+Possible rain<br>
+Min: 2°C<br>
+Max: 4°C<br>
 ]]></description>
         </item>
         <item>
             <title><![CDATA[Belgrade]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>fb9da2a094dca1a166a22be4959be73c</guid>
-            <pubDate>Sat, 04 Dec 2021 09:05:00 GMT</pubDate>
+            <guid>e696d91ad4696dd54340f5e2830422db</guid>
+            <pubDate>Sat, 04 Dec 2021 12:21:00 GMT</pubDate>
             <description><![CDATA[<strong>Sat 4 Dec</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-4.png" alt="Partly cloudy" /><br>
 Partly cloudy<br>
@@ -78,15 +96,21 @@ Max: 7°C<br>
 <strong>Sun 5 Dec</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-9.png" alt="Rain" /><br>
 Rain<br>
-Min: 4°C<br>
-Max: 9°C<br>
+Min: 3°C<br>
+Max: 8°C<br>
+<br>
+<strong>Mon 6 Dec</strong><br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-8.png" alt="Possible rain" /><br>
+Possible rain<br>
+Min: 3°C<br>
+Max: 5°C<br>
 ]]></description>
         </item>
         <item>
             <title><![CDATA[Kragujevac]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>14a86caa2507b1828eaaeb2e1757fb0f</guid>
-            <pubDate>Sat, 04 Dec 2021 09:05:00 GMT</pubDate>
+            <guid>6f658923eb88bcf4c378047d6e177dd7</guid>
+            <pubDate>Sat, 04 Dec 2021 12:21:00 GMT</pubDate>
             <description><![CDATA[<strong>Sat 4 Dec</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-4.png" alt="Partly cloudy" /><br>
 Partly cloudy<br>
@@ -96,14 +120,20 @@ Max: 8°C<br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-8.png" alt="Possible rain" /><br>
 Possible rain<br>
 Min: 1°C<br>
-Max: 9°C<br>
+Max: 10°C<br>
+<br>
+<strong>Mon 6 Dec</strong><br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-9.png" alt="Rain" /><br>
+Rain<br>
+Min: 4°C<br>
+Max: 6°C<br>
 ]]></description>
         </item>
         <item>
             <title><![CDATA[Negotin]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>7cb1916ca895a3083f8b93282aa20790</guid>
-            <pubDate>Sat, 04 Dec 2021 09:05:00 GMT</pubDate>
+            <guid>7e4ddb22a5ab4d6699684a88a1c08128</guid>
+            <pubDate>Sat, 04 Dec 2021 12:21:00 GMT</pubDate>
             <description><![CDATA[<strong>Sat 4 Dec</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-7.png" alt="Cloudy" /><br>
 Cloudy<br>
@@ -114,30 +144,42 @@ Max: 7°C<br>
 Possible rain<br>
 Min: 2°C<br>
 Max: 5°C<br>
+<br>
+<strong>Mon 6 Dec</strong><br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-9.png" alt="Rain" /><br>
+Rain<br>
+Min: 3°C<br>
+Max: 7°C<br>
 ]]></description>
         </item>
         <item>
             <title><![CDATA[Zlatibor]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>543fef98046fd2d63143a7bb8e600191</guid>
-            <pubDate>Sat, 04 Dec 2021 09:05:00 GMT</pubDate>
+            <guid>5d8f72b0d7887ad9564cf23f89f71986</guid>
+            <pubDate>Sat, 04 Dec 2021 12:21:00 GMT</pubDate>
             <description><![CDATA[<strong>Sat 4 Dec</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-4.png" alt="Partly cloudy" /><br>
 Partly cloudy<br>
 Max: 5°C<br>
 <br>
 <strong>Sun 5 Dec</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-9.png" alt="Rain" /><br>
-Rain<br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-13.png" alt="Rain and snow mixed" /><br>
+Rain and snow mixed<br>
 Min: -1°C<br>
-Max: 5°C<br>
+Max: 6°C<br>
+<br>
+<strong>Mon 6 Dec</strong><br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-15.png" alt="Snow" /><br>
+Snow<br>
+Min: -1°C<br>
+Max: 1°C<br>
 ]]></description>
         </item>
         <item>
             <title><![CDATA[Kraljevo]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>fc01e36383d6496ef1789f1ce52c4301</guid>
-            <pubDate>Sat, 04 Dec 2021 09:05:00 GMT</pubDate>
+            <guid>7840aed1aa31a740916fa5edbe64d81e</guid>
+            <pubDate>Sat, 04 Dec 2021 12:21:00 GMT</pubDate>
             <description><![CDATA[<strong>Sat 4 Dec</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-4.png" alt="Partly cloudy" /><br>
 Partly cloudy<br>
@@ -147,41 +189,59 @@ Max: 7°C<br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-8.png" alt="Possible rain" /><br>
 Possible rain<br>
 Min: -1°C<br>
-Max: 8°C<br>
+Max: 9°C<br>
+<br>
+<strong>Mon 6 Dec</strong><br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-9.png" alt="Rain" /><br>
+Rain<br>
+Min: 3°C<br>
+Max: 5°C<br>
 ]]></description>
         </item>
         <item>
             <title><![CDATA[Priština]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>6d6c09b519926fd9d4577ea877958600</guid>
-            <pubDate>Sat, 04 Dec 2021 09:05:00 GMT</pubDate>
+            <guid>c3c20ca1cd03f39fb933bc8732c8ac0e</guid>
+            <pubDate>Sat, 04 Dec 2021 12:21:00 GMT</pubDate>
             <description><![CDATA[<strong>Sat 4 Dec</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-4.png" alt="Partly cloudy" /><br>
 Partly cloudy<br>
 Max: 7°C<br>
 <br>
 <strong>Sun 5 Dec</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-6.png" alt="Possible rain showers" /><br>
-Possible rain showers<br>
-Min: 0°C<br>
-Max: 10°C<br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-8.png" alt="Possible rain" /><br>
+Possible rain<br>
+Min: -1°C<br>
+Max: 9°C<br>
+<br>
+<strong>Mon 6 Dec</strong><br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-9.png" alt="Rain" /><br>
+Rain<br>
+Min: 4°C<br>
+Max: 7°C<br>
 ]]></description>
         </item>
         <item>
             <title><![CDATA[Niš]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>8a8f9390c471776e0a0dc213f2906a15</guid>
-            <pubDate>Sat, 04 Dec 2021 09:05:00 GMT</pubDate>
+            <guid>b2c3169ff423a22bffd72d871fd5fcd0</guid>
+            <pubDate>Sat, 04 Dec 2021 12:21:00 GMT</pubDate>
             <description><![CDATA[<strong>Sat 4 Dec</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-4.png" alt="Partly cloudy" /><br>
 Partly cloudy<br>
 Max: 7°C<br>
 <br>
 <strong>Sun 5 Dec</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-6.png" alt="Possible rain showers" /><br>
-Possible rain showers<br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-8.png" alt="Possible rain" /><br>
+Possible rain<br>
 Min: 0°C<br>
 Max: 11°C<br>
+<br>
+<strong>Mon 6 Dec</strong><br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-9.png" alt="Rain" /><br>
+Rain<br>
+Min: 5°C<br>
+Max: 7°C<br>
 ]]></description>
         </item>
     </channel>
