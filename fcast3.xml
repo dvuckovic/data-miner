@@ -4,7 +4,7 @@
         <title>RHMZ</title>
         <link>https://data.dvuckovic.com/fcast3.xml</link>
         <description>Weather Forecast for Serbia</description>
-        <lastBuildDate>Sun, 05 Dec 2021 11:27:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Dec 2021 04:45:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>fcast</generator>
         <language>en</language>
@@ -17,8 +17,8 @@
         <item>
             <title><![CDATA[Palić]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>b893aeacbaf4ea3f86ec49bee52646d2</guid>
-            <pubDate>Sun, 05 Dec 2021 11:27:00 GMT</pubDate>
+            <guid>46ff3c929291ccf5ea3cc5802b0b5a8c</guid>
+            <pubDate>Mon, 06 Dec 2021 04:45:00 GMT</pubDate>
             <description><![CDATA[<strong>Mon 6 Dec</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-7.png" alt="Cloudy" /><br>
 Cloudy<br>
@@ -34,8 +34,8 @@ Max: 2°C<br>
         <item>
             <title><![CDATA[Novi Sad]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>760f6cbc12c6da2581a62b71bca5ee09</guid>
-            <pubDate>Sun, 05 Dec 2021 11:27:00 GMT</pubDate>
+            <guid>66180a838a64241063bbc70e7fd09d63</guid>
+            <pubDate>Mon, 06 Dec 2021 04:45:00 GMT</pubDate>
             <description><![CDATA[<strong>Mon 6 Dec</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-8.png" alt="Possible rain" /><br>
 Possible rain<br>
@@ -51,8 +51,8 @@ Max: 2°C<br>
         <item>
             <title><![CDATA[Loznica]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>0424bb5322ad697a987fb3fc10c1ae34</guid>
-            <pubDate>Sun, 05 Dec 2021 11:27:00 GMT</pubDate>
+            <guid>7a302b4fb1377f379a9b29f616b11ac0</guid>
+            <pubDate>Mon, 06 Dec 2021 04:45:00 GMT</pubDate>
             <description><![CDATA[<strong>Mon 6 Dec</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-9.png" alt="Rain" /><br>
 Rain<br>
@@ -68,8 +68,8 @@ Max: 3°C<br>
         <item>
             <title><![CDATA[Belgrade]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>2556fadc6baeb39aef8527fafbf3569a</guid>
-            <pubDate>Sun, 05 Dec 2021 11:27:00 GMT</pubDate>
+            <guid>2c6862f9ca92f162f89134d74ada76d7</guid>
+            <pubDate>Mon, 06 Dec 2021 04:45:00 GMT</pubDate>
             <description><![CDATA[<strong>Mon 6 Dec</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-8.png" alt="Possible rain" /><br>
 Possible rain<br>
@@ -85,8 +85,8 @@ Max: 2°C<br>
         <item>
             <title><![CDATA[Kragujevac]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>a70c95622512c45f1d075af9567d9a8f</guid>
-            <pubDate>Sun, 05 Dec 2021 11:27:00 GMT</pubDate>
+            <guid>b9f3df0e2dd6c304c190ce6e02e07467</guid>
+            <pubDate>Mon, 06 Dec 2021 04:45:00 GMT</pubDate>
             <description><![CDATA[<strong>Mon 6 Dec</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-9.png" alt="Rain" /><br>
 Rain<br>
@@ -102,8 +102,8 @@ Max: 2°C<br>
         <item>
             <title><![CDATA[Negotin]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>f078d2b18630744e0f1c368ffa6db03a</guid>
-            <pubDate>Sun, 05 Dec 2021 11:27:00 GMT</pubDate>
+            <guid>0ebc7309cde64fbd9ce2f7a4d61aba4a</guid>
+            <pubDate>Mon, 06 Dec 2021 04:45:00 GMT</pubDate>
             <description><![CDATA[<strong>Mon 6 Dec</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-9.png" alt="Rain" /><br>
 Rain<br>
@@ -119,8 +119,8 @@ Max: 5°C<br>
         <item>
             <title><![CDATA[Zlatibor]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>00598ab3d404953e1a5027abd9373c95</guid>
-            <pubDate>Sun, 05 Dec 2021 11:27:00 GMT</pubDate>
+            <guid>f530d3c44d446b4293944a9d0b80e44b</guid>
+            <pubDate>Mon, 06 Dec 2021 04:45:00 GMT</pubDate>
             <description><![CDATA[<strong>Mon 6 Dec</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-15.png" alt="Snow" /><br>
 Snow<br>
@@ -136,8 +136,8 @@ Max: -2°C<br>
         <item>
             <title><![CDATA[Kraljevo]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>3057b4915e0c390d8ec513d14306e962</guid>
-            <pubDate>Sun, 05 Dec 2021 11:27:00 GMT</pubDate>
+            <guid>80d1694965f6f87b741c6a1d6ac499e7</guid>
+            <pubDate>Mon, 06 Dec 2021 04:45:00 GMT</pubDate>
             <description><![CDATA[<strong>Mon 6 Dec</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-9.png" alt="Rain" /><br>
 Rain<br>
@@ -153,8 +153,8 @@ Max: 2°C<br>
         <item>
             <title><![CDATA[Priština]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>102d72d0ceb0bd6bd3e5c77475eb6570</guid>
-            <pubDate>Sun, 05 Dec 2021 11:27:00 GMT</pubDate>
+            <guid>6044d4c26efb3a9b2d88e85a1fbf33b0</guid>
+            <pubDate>Mon, 06 Dec 2021 04:45:00 GMT</pubDate>
             <description><![CDATA[<strong>Mon 6 Dec</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-9.png" alt="Rain" /><br>
 Rain<br>
@@ -170,8 +170,8 @@ Max: 2°C<br>
         <item>
             <title><![CDATA[Niš]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>71e397c63a407e6e0b0478f232a88441</guid>
-            <pubDate>Sun, 05 Dec 2021 11:27:00 GMT</pubDate>
+            <guid>816fd930331caaa96f10fd239413edef</guid>
+            <pubDate>Mon, 06 Dec 2021 04:45:00 GMT</pubDate>
             <description><![CDATA[<strong>Mon 6 Dec</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-9.png" alt="Rain" /><br>
 Rain<br>
