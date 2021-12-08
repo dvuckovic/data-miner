@@ -4,7 +4,7 @@
         <title>RHMZ</title>
         <link>https://data.dvuckovic.com/fcast3.xml</link>
         <description>Weather Forecast for Serbia</description>
-        <lastBuildDate>Wed, 08 Dec 2021 04:45:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Dec 2021 09:45:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>fcast</generator>
         <language>en</language>
@@ -17,11 +17,11 @@
         <item>
             <title><![CDATA[Palić]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>a91f8f4e0d85051ffa8723228e1a558b</guid>
-            <pubDate>Wed, 08 Dec 2021 04:45:00 GMT</pubDate>
+            <guid>f43526f8fff71293e6ca132acfde0d32</guid>
+            <pubDate>Wed, 08 Dec 2021 09:45:00 GMT</pubDate>
             <description><![CDATA[<strong>Wed 8 Dec</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-4.png" alt="Partly cloudy" /><br>
-Partly cloudy<br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
+Mostly sunny<br>
 Max: 4°C<br>
 <br>
 <strong>Thu 9 Dec</strong><br>
@@ -34,8 +34,8 @@ Max: 5°C<br>
         <item>
             <title><![CDATA[Novi Sad]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>1657d7cfd33ef1fe98f02f498aa19de5</guid>
-            <pubDate>Wed, 08 Dec 2021 04:45:00 GMT</pubDate>
+            <guid>6807a16ad102aa98f1449b9045151142</guid>
+            <pubDate>Wed, 08 Dec 2021 09:45:00 GMT</pubDate>
             <description><![CDATA[<strong>Wed 8 Dec</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
 Mostly sunny<br>
@@ -51,11 +51,11 @@ Max: 6°C<br>
         <item>
             <title><![CDATA[Loznica]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>0d631d334dd6862e18ae11b0dda7d8f5</guid>
-            <pubDate>Wed, 08 Dec 2021 04:45:00 GMT</pubDate>
+            <guid>7473478210a7efbd3f655cae0f6e8258</guid>
+            <pubDate>Wed, 08 Dec 2021 09:45:00 GMT</pubDate>
             <description><![CDATA[<strong>Wed 8 Dec</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-4.png" alt="Partly cloudy" /><br>
-Partly cloudy<br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
+Mostly sunny<br>
 Max: 7°C<br>
 <br>
 <strong>Thu 9 Dec</strong><br>
@@ -68,8 +68,8 @@ Max: 8°C<br>
         <item>
             <title><![CDATA[Belgrade]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>ce0fb655b4973e901bde4bf586ee2016</guid>
-            <pubDate>Wed, 08 Dec 2021 04:45:00 GMT</pubDate>
+            <guid>93d7bd9272b13d3b4c8974b433fe7372</guid>
+            <pubDate>Wed, 08 Dec 2021 09:45:00 GMT</pubDate>
             <description><![CDATA[<strong>Wed 8 Dec</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
 Mostly sunny<br>
@@ -85,11 +85,11 @@ Max: 7°C<br>
         <item>
             <title><![CDATA[Kragujevac]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>636aa088d7924be51e775565c0e688fa</guid>
-            <pubDate>Wed, 08 Dec 2021 04:45:00 GMT</pubDate>
+            <guid>f750095fb46c78613c954ec7e4facd09</guid>
+            <pubDate>Wed, 08 Dec 2021 09:45:00 GMT</pubDate>
             <description><![CDATA[<strong>Wed 8 Dec</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-4.png" alt="Partly cloudy" /><br>
-Partly cloudy<br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
+Mostly sunny<br>
 Max: 6°C<br>
 <br>
 <strong>Thu 9 Dec</strong><br>
@@ -102,11 +102,11 @@ Max: 10°C<br>
         <item>
             <title><![CDATA[Negotin]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>a1831b247608171cb09ef5b89e85a7a7</guid>
-            <pubDate>Wed, 08 Dec 2021 04:45:00 GMT</pubDate>
+            <guid>6370092bf4d9bdc533fea0ad2a341b46</guid>
+            <pubDate>Wed, 08 Dec 2021 09:45:00 GMT</pubDate>
             <description><![CDATA[<strong>Wed 8 Dec</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-6.png" alt="Possible rain showers" /><br>
-Possible rain showers<br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
+Mostly sunny<br>
 Max: 8°C<br>
 <br>
 <strong>Thu 9 Dec</strong><br>
@@ -119,11 +119,11 @@ Max: 4°C<br>
         <item>
             <title><![CDATA[Zlatibor]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>52ba73dded0030fa4dc47414b9108769</guid>
-            <pubDate>Wed, 08 Dec 2021 04:45:00 GMT</pubDate>
+            <guid>dfecd113f6bccdaeb1f81cc03cc4d1e3</guid>
+            <pubDate>Wed, 08 Dec 2021 09:45:00 GMT</pubDate>
             <description><![CDATA[<strong>Wed 8 Dec</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-10.png" alt="Mostly cloudy" /><br>
-Mostly cloudy<br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
+Mostly sunny<br>
 Max: 3°C<br>
 <br>
 <strong>Thu 9 Dec</strong><br>
@@ -136,11 +136,11 @@ Max: 6°C<br>
         <item>
             <title><![CDATA[Kraljevo]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>2824b36abd7af4e9f0b3c1906c6cb19e</guid>
-            <pubDate>Wed, 08 Dec 2021 04:45:00 GMT</pubDate>
+            <guid>fe0b8986dabfeab38212e796d322773e</guid>
+            <pubDate>Wed, 08 Dec 2021 09:45:00 GMT</pubDate>
             <description><![CDATA[<strong>Wed 8 Dec</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-4.png" alt="Partly cloudy" /><br>
-Partly cloudy<br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
+Mostly sunny<br>
 Max: 5°C<br>
 <br>
 <strong>Thu 9 Dec</strong><br>
@@ -153,11 +153,11 @@ Max: 8°C<br>
         <item>
             <title><![CDATA[Priština]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>840220db979ba11f0aac94152229d19d</guid>
-            <pubDate>Wed, 08 Dec 2021 04:45:00 GMT</pubDate>
+            <guid>cbbba646f2b0c1372b3b7c43deb85561</guid>
+            <pubDate>Wed, 08 Dec 2021 09:45:00 GMT</pubDate>
             <description><![CDATA[<strong>Wed 8 Dec</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-10.png" alt="Mostly cloudy" /><br>
-Mostly cloudy<br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
+Mostly sunny<br>
 Max: 4°C<br>
 <br>
 <strong>Thu 9 Dec</strong><br>
@@ -170,8 +170,8 @@ Max: 7°C<br>
         <item>
             <title><![CDATA[Niš]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>c560e7b1f61777bc8f81afe3055f9220</guid>
-            <pubDate>Wed, 08 Dec 2021 04:45:00 GMT</pubDate>
+            <guid>507f99c72e59f2904e1c80e35d9afde2</guid>
+            <pubDate>Wed, 08 Dec 2021 09:45:00 GMT</pubDate>
             <description><![CDATA[<strong>Wed 8 Dec</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-10.png" alt="Mostly cloudy" /><br>
 Mostly cloudy<br>
