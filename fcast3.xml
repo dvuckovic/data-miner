@@ -4,7 +4,7 @@
         <title>RHMZ</title>
         <link>https://data.dvuckovic.com/fcast3.xml</link>
         <description>Weather Forecast for Serbia</description>
-        <lastBuildDate>Sun, 12 Dec 2021 05:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Dec 2021 09:30:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>fcast</generator>
         <language>en</language>
@@ -17,12 +17,12 @@
         <item>
             <title><![CDATA[Palić]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>e1609a08f73753e9614f042b84af3927</guid>
-            <pubDate>Sun, 12 Dec 2021 05:00:00 GMT</pubDate>
+            <guid>06d2d02134d2c64cbfadff4605f95f40</guid>
+            <pubDate>Sun, 12 Dec 2021 09:30:00 GMT</pubDate>
             <description><![CDATA[<strong>Sun 12 Dec</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-14.png" alt="Possible snow" /><br>
 Possible snow<br>
-Max: 1°C<br>
+Max: 2°C<br>
 <br>
 <strong>Mon 13 Dec</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-7.png" alt="Cloudy" /><br>
@@ -34,12 +34,12 @@ Max: 2°C<br>
         <item>
             <title><![CDATA[Novi Sad]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>6c85424992d4e9978f5f147a9a3d1a61</guid>
-            <pubDate>Sun, 12 Dec 2021 05:00:00 GMT</pubDate>
+            <guid>29f9e9881a043dce7c3a0c5a93523ae5</guid>
+            <pubDate>Sun, 12 Dec 2021 09:30:00 GMT</pubDate>
             <description><![CDATA[<strong>Sun 12 Dec</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-15.png" alt="Snow" /><br>
 Snow<br>
-Max: 1°C<br>
+Max: 0°C<br>
 <br>
 <strong>Mon 13 Dec</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-7.png" alt="Cloudy" /><br>
@@ -51,8 +51,8 @@ Max: 2°C<br>
         <item>
             <title><![CDATA[Loznica]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>e5f12977ae24db4bdfee30af2f1cbf7e</guid>
-            <pubDate>Sun, 12 Dec 2021 05:00:00 GMT</pubDate>
+            <guid>4b3e988cf86d74be93461f295b965693</guid>
+            <pubDate>Sun, 12 Dec 2021 09:30:00 GMT</pubDate>
             <description><![CDATA[<strong>Sun 12 Dec</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-15.png" alt="Snow" /><br>
 Snow<br>
@@ -68,12 +68,12 @@ Max: 1°C<br>
         <item>
             <title><![CDATA[Belgrade]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>501167c634d099ad666cacb65622e78e</guid>
-            <pubDate>Sun, 12 Dec 2021 05:00:00 GMT</pubDate>
+            <guid>1a1a20fb166ca0185d0dc672acda5f08</guid>
+            <pubDate>Sun, 12 Dec 2021 09:30:00 GMT</pubDate>
             <description><![CDATA[<strong>Sun 12 Dec</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-15.png" alt="Snow" /><br>
 Snow<br>
-Max: 1°C<br>
+Max: 0°C<br>
 <br>
 <strong>Mon 13 Dec</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-14.png" alt="Possible snow" /><br>
@@ -85,12 +85,12 @@ Max: 2°C<br>
         <item>
             <title><![CDATA[Kragujevac]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>1d89552aa50a9264f8943899a5f38171</guid>
-            <pubDate>Sun, 12 Dec 2021 05:00:00 GMT</pubDate>
+            <guid>d845c0e25b755c750dd73e50e653b96e</guid>
+            <pubDate>Sun, 12 Dec 2021 09:30:00 GMT</pubDate>
             <description><![CDATA[<strong>Sun 12 Dec</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-15.png" alt="Snow" /><br>
 Snow<br>
-Max: 1°C<br>
+Max: 0°C<br>
 <br>
 <strong>Mon 13 Dec</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-14.png" alt="Possible snow" /><br>
@@ -102,12 +102,12 @@ Max: 2°C<br>
         <item>
             <title><![CDATA[Negotin]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>4a109390e4195b0692ab620282bec855</guid>
-            <pubDate>Sun, 12 Dec 2021 05:00:00 GMT</pubDate>
+            <guid>0a99645df45b2f02ffe6608159f47bc3</guid>
+            <pubDate>Sun, 12 Dec 2021 09:30:00 GMT</pubDate>
             <description><![CDATA[<strong>Sun 12 Dec</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-13.png" alt="Rain and snow mixed" /><br>
 Rain and snow mixed<br>
-Max: 4°C<br>
+Max: 5°C<br>
 <br>
 <strong>Mon 13 Dec</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-14.png" alt="Possible snow" /><br>
@@ -119,12 +119,12 @@ Max: 3°C<br>
         <item>
             <title><![CDATA[Zlatibor]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>d24aba3c8b8098c8dddf51404460fdb3</guid>
-            <pubDate>Sun, 12 Dec 2021 05:00:00 GMT</pubDate>
+            <guid>05c101615425868b9733db060536e566</guid>
+            <pubDate>Sun, 12 Dec 2021 09:30:00 GMT</pubDate>
             <description><![CDATA[<strong>Sun 12 Dec</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-15.png" alt="Snow" /><br>
 Snow<br>
-Max: -3°C<br>
+Max: -4°C<br>
 <br>
 <strong>Mon 13 Dec</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-14.png" alt="Possible snow" /><br>
@@ -136,12 +136,12 @@ Max: -2°C<br>
         <item>
             <title><![CDATA[Kraljevo]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>35ca3a5e7450bef8d9f9e4364a69143e</guid>
-            <pubDate>Sun, 12 Dec 2021 05:00:00 GMT</pubDate>
+            <guid>90432ab11b28b9b670fd38cc8dffeb3e</guid>
+            <pubDate>Sun, 12 Dec 2021 09:30:00 GMT</pubDate>
             <description><![CDATA[<strong>Sun 12 Dec</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-15.png" alt="Snow" /><br>
 Snow<br>
-Max: 2°C<br>
+Max: 0°C<br>
 <br>
 <strong>Mon 13 Dec</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-14.png" alt="Possible snow" /><br>
@@ -153,11 +153,11 @@ Max: 1°C<br>
         <item>
             <title><![CDATA[Priština]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>6979ed4fcf3509a4a2d71776870bc7e6</guid>
-            <pubDate>Sun, 12 Dec 2021 05:00:00 GMT</pubDate>
+            <guid>e5a6a2e03f4f13c35b856be58a45f749</guid>
+            <pubDate>Sun, 12 Dec 2021 09:30:00 GMT</pubDate>
             <description><![CDATA[<strong>Sun 12 Dec</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-14.png" alt="Possible snow" /><br>
-Possible snow<br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-15.png" alt="Snow" /><br>
+Snow<br>
 Max: 2°C<br>
 <br>
 <strong>Mon 13 Dec</strong><br>
@@ -170,11 +170,11 @@ Max: 1°C<br>
         <item>
             <title><![CDATA[Niš]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>b59f3d9c867892e43b02349fe0ebc4f5</guid>
-            <pubDate>Sun, 12 Dec 2021 05:00:00 GMT</pubDate>
+            <guid>b1bc3af38e1e88d1cd9f9e22d74f0ccf</guid>
+            <pubDate>Sun, 12 Dec 2021 09:30:00 GMT</pubDate>
             <description><![CDATA[<strong>Sun 12 Dec</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-13.png" alt="Rain and snow mixed" /><br>
-Rain and snow mixed<br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-15.png" alt="Snow" /><br>
+Snow<br>
 Max: 2°C<br>
 <br>
 <strong>Mon 13 Dec</strong><br>
