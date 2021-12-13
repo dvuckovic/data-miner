@@ -4,7 +4,7 @@
         <title>RHMZ</title>
         <link>https://data.dvuckovic.com/fcast3.xml</link>
         <description>Weather Forecast for Serbia</description>
-        <lastBuildDate>Mon, 13 Dec 2021 05:10:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Dec 2021 09:45:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>fcast</generator>
         <language>en</language>
@@ -17,8 +17,8 @@
         <item>
             <title><![CDATA[Palić]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>4593a865cb2e55afbee2cab82dcb70f3</guid>
-            <pubDate>Mon, 13 Dec 2021 05:10:00 GMT</pubDate>
+            <guid>f1d43c89f56a07f235ed2b8060f8f411</guid>
+            <pubDate>Mon, 13 Dec 2021 09:45:00 GMT</pubDate>
             <description><![CDATA[<strong>Mon 13 Dec</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-7.png" alt="Cloudy" /><br>
 Cloudy<br>
@@ -34,8 +34,8 @@ Max: 2°C<br>
         <item>
             <title><![CDATA[Novi Sad]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>979662521015f299099b1c958082061c</guid>
-            <pubDate>Mon, 13 Dec 2021 05:10:00 GMT</pubDate>
+            <guid>16aa2700cc8ee4481a2b2509cb521801</guid>
+            <pubDate>Mon, 13 Dec 2021 09:45:00 GMT</pubDate>
             <description><![CDATA[<strong>Mon 13 Dec</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-14.png" alt="Possible snow" /><br>
 Possible snow<br>
@@ -51,8 +51,8 @@ Max: 2°C<br>
         <item>
             <title><![CDATA[Loznica]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>4acdb230aa0b46fad5fa9c26747f585e</guid>
-            <pubDate>Mon, 13 Dec 2021 05:10:00 GMT</pubDate>
+            <guid>b0135297b7b46320cd35109f1d61fe4d</guid>
+            <pubDate>Mon, 13 Dec 2021 09:45:00 GMT</pubDate>
             <description><![CDATA[<strong>Mon 13 Dec</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-14.png" alt="Possible snow" /><br>
 Possible snow<br>
@@ -68,8 +68,8 @@ Max: 3°C<br>
         <item>
             <title><![CDATA[Belgrade]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>3b32c01e242e8af9b3c7d02543a7956d</guid>
-            <pubDate>Mon, 13 Dec 2021 05:10:00 GMT</pubDate>
+            <guid>81dcde8099d89c3f656f9ef127b1dae6</guid>
+            <pubDate>Mon, 13 Dec 2021 09:45:00 GMT</pubDate>
             <description><![CDATA[<strong>Mon 13 Dec</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-14.png" alt="Possible snow" /><br>
 Possible snow<br>
@@ -85,8 +85,8 @@ Max: 2°C<br>
         <item>
             <title><![CDATA[Kragujevac]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>0a51680efb35b5d80fed03981be1e601</guid>
-            <pubDate>Mon, 13 Dec 2021 05:10:00 GMT</pubDate>
+            <guid>ca89099f89f951a1824c65c3bea2ff3a</guid>
+            <pubDate>Mon, 13 Dec 2021 09:45:00 GMT</pubDate>
             <description><![CDATA[<strong>Mon 13 Dec</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-14.png" alt="Possible snow" /><br>
 Possible snow<br>
@@ -102,11 +102,11 @@ Max: 3°C<br>
         <item>
             <title><![CDATA[Negotin]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>2816c904d8540723fea75e8af2ba7fc9</guid>
-            <pubDate>Mon, 13 Dec 2021 05:10:00 GMT</pubDate>
+            <guid>7e03cb8aea801c62e576bd23ee66a07d</guid>
+            <pubDate>Mon, 13 Dec 2021 09:45:00 GMT</pubDate>
             <description><![CDATA[<strong>Mon 13 Dec</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-7.png" alt="Cloudy" /><br>
-Cloudy<br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-10.png" alt="Mostly cloudy" /><br>
+Mostly cloudy<br>
 Max: 5°C<br>
 <br>
 <strong>Tue 14 Dec</strong><br>
@@ -119,8 +119,8 @@ Max: 5°C<br>
         <item>
             <title><![CDATA[Zlatibor]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>d179330a88e5482b6537cbc74757b99a</guid>
-            <pubDate>Mon, 13 Dec 2021 05:10:00 GMT</pubDate>
+            <guid>f5563fcd92b6d6a145f8beb611b1d414</guid>
+            <pubDate>Mon, 13 Dec 2021 09:45:00 GMT</pubDate>
             <description><![CDATA[<strong>Mon 13 Dec</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-14.png" alt="Possible snow" /><br>
 Possible snow<br>
@@ -136,8 +136,8 @@ Max: -1°C<br>
         <item>
             <title><![CDATA[Kraljevo]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>9f4fa5a7a032a56229e9b18992fae6dd</guid>
-            <pubDate>Mon, 13 Dec 2021 05:10:00 GMT</pubDate>
+            <guid>564e0b772c2ae41d0d428821e06c7a18</guid>
+            <pubDate>Mon, 13 Dec 2021 09:45:00 GMT</pubDate>
             <description><![CDATA[<strong>Mon 13 Dec</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-14.png" alt="Possible snow" /><br>
 Possible snow<br>
@@ -153,8 +153,8 @@ Max: 3°C<br>
         <item>
             <title><![CDATA[Priština]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>33615f649d705640a3b945c9a16ed017</guid>
-            <pubDate>Mon, 13 Dec 2021 05:10:00 GMT</pubDate>
+            <guid>287e8762a9cdf22aa7fd3b0bdfdcc046</guid>
+            <pubDate>Mon, 13 Dec 2021 09:45:00 GMT</pubDate>
             <description><![CDATA[<strong>Mon 13 Dec</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-14.png" alt="Possible snow" /><br>
 Possible snow<br>
@@ -170,8 +170,8 @@ Max: 1°C<br>
         <item>
             <title><![CDATA[Niš]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>ba4de9d375254f469f9f5f6c01a1788a</guid>
-            <pubDate>Mon, 13 Dec 2021 05:10:00 GMT</pubDate>
+            <guid>0562b7b8bf880c7c91af085984655a11</guid>
+            <pubDate>Mon, 13 Dec 2021 09:45:00 GMT</pubDate>
             <description><![CDATA[<strong>Mon 13 Dec</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-14.png" alt="Possible snow" /><br>
 Possible snow<br>
