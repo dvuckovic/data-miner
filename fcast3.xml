@@ -4,7 +4,7 @@
         <title>RHMZ</title>
         <link>https://data.dvuckovic.com/fcast3.xml</link>
         <description>Weather Forecast for Serbia</description>
-        <lastBuildDate>Tue, 14 Dec 2021 04:40:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Dec 2021 10:20:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>fcast</generator>
         <language>en</language>
@@ -17,12 +17,12 @@
         <item>
             <title><![CDATA[Palić]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>f162fdb1c07be72cb53a30404752e4ea</guid>
-            <pubDate>Tue, 14 Dec 2021 04:40:00 GMT</pubDate>
+            <guid>3cc602c3da5f478ae50b055c856a93e0</guid>
+            <pubDate>Tue, 14 Dec 2021 10:20:00 GMT</pubDate>
             <description><![CDATA[<strong>Tue 14 Dec</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-7.png" alt="Cloudy" /><br>
 Cloudy<br>
-Max: 0°C<br>
+Max: 3°C<br>
 <br>
 <strong>Wed 15 Dec</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-7.png" alt="Cloudy" /><br>
@@ -34,8 +34,8 @@ Max: 2°C<br>
         <item>
             <title><![CDATA[Novi Sad]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>4c64077eaac2b571e68d19c329f50a71</guid>
-            <pubDate>Tue, 14 Dec 2021 04:40:00 GMT</pubDate>
+            <guid>d3bbd4ab5219250f5d8087f744241aa3</guid>
+            <pubDate>Tue, 14 Dec 2021 10:20:00 GMT</pubDate>
             <description><![CDATA[<strong>Tue 14 Dec</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-7.png" alt="Cloudy" /><br>
 Cloudy<br>
@@ -51,12 +51,12 @@ Max: 2°C<br>
         <item>
             <title><![CDATA[Loznica]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>c052b74355e508c53da0badf5b350d2b</guid>
-            <pubDate>Tue, 14 Dec 2021 04:40:00 GMT</pubDate>
+            <guid>d0bcbff5b1ce569e499dafbb3ccff5c3</guid>
+            <pubDate>Tue, 14 Dec 2021 10:20:00 GMT</pubDate>
             <description><![CDATA[<strong>Tue 14 Dec</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-7.png" alt="Cloudy" /><br>
-Cloudy<br>
-Max: 3°C<br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-10.png" alt="Mostly cloudy" /><br>
+Mostly cloudy<br>
+Max: 4°C<br>
 <br>
 <strong>Wed 15 Dec</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-7.png" alt="Cloudy" /><br>
@@ -68,8 +68,8 @@ Max: 4°C<br>
         <item>
             <title><![CDATA[Belgrade]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>a8921af9369d1356c504dba2dcc36e1a</guid>
-            <pubDate>Tue, 14 Dec 2021 04:40:00 GMT</pubDate>
+            <guid>154d432a2ee946273c1c8a731a863a95</guid>
+            <pubDate>Tue, 14 Dec 2021 10:20:00 GMT</pubDate>
             <description><![CDATA[<strong>Tue 14 Dec</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-7.png" alt="Cloudy" /><br>
 Cloudy<br>
@@ -85,8 +85,8 @@ Max: 2°C<br>
         <item>
             <title><![CDATA[Kragujevac]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>192d321b5461efdf99ee6ff9694c2c10</guid>
-            <pubDate>Tue, 14 Dec 2021 04:40:00 GMT</pubDate>
+            <guid>fa54b882ab53a085d838306459794163</guid>
+            <pubDate>Tue, 14 Dec 2021 10:20:00 GMT</pubDate>
             <description><![CDATA[<strong>Tue 14 Dec</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-7.png" alt="Cloudy" /><br>
 Cloudy<br>
@@ -102,8 +102,8 @@ Max: 3°C<br>
         <item>
             <title><![CDATA[Negotin]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>cfde1c910f93e70a6db35f11a7b5148d</guid>
-            <pubDate>Tue, 14 Dec 2021 04:40:00 GMT</pubDate>
+            <guid>54af2fa1a97a9258ea6af1b30655f487</guid>
+            <pubDate>Tue, 14 Dec 2021 10:20:00 GMT</pubDate>
             <description><![CDATA[<strong>Tue 14 Dec</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-7.png" alt="Cloudy" /><br>
 Cloudy<br>
@@ -119,8 +119,8 @@ Max: 7°C<br>
         <item>
             <title><![CDATA[Zlatibor]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>deec8f92fe6c67894ff6ad2353695197</guid>
-            <pubDate>Tue, 14 Dec 2021 04:40:00 GMT</pubDate>
+            <guid>c9ce42469378d5899e2ad42c5b04945f</guid>
+            <pubDate>Tue, 14 Dec 2021 10:20:00 GMT</pubDate>
             <description><![CDATA[<strong>Tue 14 Dec</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-7.png" alt="Cloudy" /><br>
 Cloudy<br>
@@ -136,8 +136,8 @@ Max: -2°C<br>
         <item>
             <title><![CDATA[Kraljevo]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>37f0dbfcd9edbaf97c2c9db2a7c766ab</guid>
-            <pubDate>Tue, 14 Dec 2021 04:40:00 GMT</pubDate>
+            <guid>37430f2c8e4db4c17e893088fff4a2fb</guid>
+            <pubDate>Tue, 14 Dec 2021 10:20:00 GMT</pubDate>
             <description><![CDATA[<strong>Tue 14 Dec</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-7.png" alt="Cloudy" /><br>
 Cloudy<br>
@@ -153,8 +153,8 @@ Max: 3°C<br>
         <item>
             <title><![CDATA[Priština]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>7ce85973eed9b19db1e5f4a642bf2a3a</guid>
-            <pubDate>Tue, 14 Dec 2021 04:40:00 GMT</pubDate>
+            <guid>9b324a20e2368180cda2340509e723d6</guid>
+            <pubDate>Tue, 14 Dec 2021 10:20:00 GMT</pubDate>
             <description><![CDATA[<strong>Tue 14 Dec</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-7.png" alt="Cloudy" /><br>
 Cloudy<br>
@@ -170,8 +170,8 @@ Max: 1°C<br>
         <item>
             <title><![CDATA[Niš]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>f83ef40f0dce0be10f9bdea59c917721</guid>
-            <pubDate>Tue, 14 Dec 2021 04:40:00 GMT</pubDate>
+            <guid>045ea59d7a3d587a41f4377b9a42d31c</guid>
+            <pubDate>Tue, 14 Dec 2021 10:20:00 GMT</pubDate>
             <description><![CDATA[<strong>Tue 14 Dec</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-7.png" alt="Cloudy" /><br>
 Cloudy<br>
