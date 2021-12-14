@@ -4,7 +4,7 @@
         <title>RHMZ</title>
         <link>https://data.dvuckovic.com/fcast3.xml</link>
         <description>Weather Forecast for Serbia</description>
-        <lastBuildDate>Tue, 14 Dec 2021 10:20:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Dec 2021 13:21:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>fcast</generator>
         <language>en</language>
@@ -17,8 +17,8 @@
         <item>
             <title><![CDATA[Palić]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>3cc602c3da5f478ae50b055c856a93e0</guid>
-            <pubDate>Tue, 14 Dec 2021 10:20:00 GMT</pubDate>
+            <guid>09bb5363685543d648055ddd941ba625</guid>
+            <pubDate>Tue, 14 Dec 2021 13:21:00 GMT</pubDate>
             <description><![CDATA[<strong>Tue 14 Dec</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-7.png" alt="Cloudy" /><br>
 Cloudy<br>
@@ -27,15 +27,21 @@ Max: 3°C<br>
 <strong>Wed 15 Dec</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-7.png" alt="Cloudy" /><br>
 Cloudy<br>
-Min: -3°C<br>
-Max: 2°C<br>
+Min: -4°C<br>
+Max: 3°C<br>
+<br>
+<strong>Thu 16 Dec</strong><br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-7.png" alt="Cloudy" /><br>
+Cloudy<br>
+Min: -1°C<br>
+Max: 3°C<br>
 ]]></description>
         </item>
         <item>
             <title><![CDATA[Novi Sad]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>d3bbd4ab5219250f5d8087f744241aa3</guid>
-            <pubDate>Tue, 14 Dec 2021 10:20:00 GMT</pubDate>
+            <guid>b439050c0670a8045d9d163362c86c1d</guid>
+            <pubDate>Tue, 14 Dec 2021 13:21:00 GMT</pubDate>
             <description><![CDATA[<strong>Tue 14 Dec</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-7.png" alt="Cloudy" /><br>
 Cloudy<br>
@@ -45,31 +51,43 @@ Max: 1°C<br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-7.png" alt="Cloudy" /><br>
 Cloudy<br>
 Min: -4°C<br>
-Max: 2°C<br>
+Max: 1°C<br>
+<br>
+<strong>Thu 16 Dec</strong><br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-8.png" alt="Possible rain" /><br>
+Possible rain<br>
+Min: -1°C<br>
+Max: 3°C<br>
 ]]></description>
         </item>
         <item>
             <title><![CDATA[Loznica]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>d0bcbff5b1ce569e499dafbb3ccff5c3</guid>
-            <pubDate>Tue, 14 Dec 2021 10:20:00 GMT</pubDate>
+            <guid>ba03054d918b46e82e9c175c435c3feb</guid>
+            <pubDate>Tue, 14 Dec 2021 13:21:00 GMT</pubDate>
             <description><![CDATA[<strong>Tue 14 Dec</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-10.png" alt="Mostly cloudy" /><br>
 Mostly cloudy<br>
 Max: 4°C<br>
 <br>
 <strong>Wed 15 Dec</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-7.png" alt="Cloudy" /><br>
-Cloudy<br>
-Min: -3°C<br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-10.png" alt="Mostly cloudy" /><br>
+Mostly cloudy<br>
+Min: 0°C<br>
 Max: 4°C<br>
+<br>
+<strong>Thu 16 Dec</strong><br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-8.png" alt="Possible rain" /><br>
+Possible rain<br>
+Min: 1°C<br>
+Max: 6°C<br>
 ]]></description>
         </item>
         <item>
             <title><![CDATA[Belgrade]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>154d432a2ee946273c1c8a731a863a95</guid>
-            <pubDate>Tue, 14 Dec 2021 10:20:00 GMT</pubDate>
+            <guid>6c319c8fd40c8a65b5aa0d36f3e8d5cb</guid>
+            <pubDate>Tue, 14 Dec 2021 13:21:00 GMT</pubDate>
             <description><![CDATA[<strong>Tue 14 Dec</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-7.png" alt="Cloudy" /><br>
 Cloudy<br>
@@ -80,13 +98,19 @@ Max: 2°C<br>
 Cloudy<br>
 Min: -1°C<br>
 Max: 2°C<br>
+<br>
+<strong>Thu 16 Dec</strong><br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-8.png" alt="Possible rain" /><br>
+Possible rain<br>
+Min: 1°C<br>
+Max: 4°C<br>
 ]]></description>
         </item>
         <item>
             <title><![CDATA[Kragujevac]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>fa54b882ab53a085d838306459794163</guid>
-            <pubDate>Tue, 14 Dec 2021 10:20:00 GMT</pubDate>
+            <guid>a789ef3fd81a0fbff723e557fe73dc10</guid>
+            <pubDate>Tue, 14 Dec 2021 13:21:00 GMT</pubDate>
             <description><![CDATA[<strong>Tue 14 Dec</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-7.png" alt="Cloudy" /><br>
 Cloudy<br>
@@ -95,15 +119,21 @@ Max: 3°C<br>
 <strong>Wed 15 Dec</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-7.png" alt="Cloudy" /><br>
 Cloudy<br>
-Min: -2°C<br>
-Max: 3°C<br>
+Min: -3°C<br>
+Max: 2°C<br>
+<br>
+<strong>Thu 16 Dec</strong><br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-8.png" alt="Possible rain" /><br>
+Possible rain<br>
+Min: -1°C<br>
+Max: 4°C<br>
 ]]></description>
         </item>
         <item>
             <title><![CDATA[Negotin]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>54af2fa1a97a9258ea6af1b30655f487</guid>
-            <pubDate>Tue, 14 Dec 2021 10:20:00 GMT</pubDate>
+            <guid>e3db6541505e58e67620cfb65d9f2f6b</guid>
+            <pubDate>Tue, 14 Dec 2021 13:21:00 GMT</pubDate>
             <description><![CDATA[<strong>Tue 14 Dec</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-7.png" alt="Cloudy" /><br>
 Cloudy<br>
@@ -113,14 +143,20 @@ Max: 6°C<br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-4.png" alt="Partly cloudy" /><br>
 Partly cloudy<br>
 Min: 2°C<br>
+Max: 6°C<br>
+<br>
+<strong>Thu 16 Dec</strong><br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-10.png" alt="Mostly cloudy" /><br>
+Mostly cloudy<br>
+Min: 2°C<br>
 Max: 7°C<br>
 ]]></description>
         </item>
         <item>
             <title><![CDATA[Zlatibor]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>c9ce42469378d5899e2ad42c5b04945f</guid>
-            <pubDate>Tue, 14 Dec 2021 10:20:00 GMT</pubDate>
+            <guid>8ed68b42dfa8c29e4914c7a05eacbd3b</guid>
+            <pubDate>Tue, 14 Dec 2021 13:21:00 GMT</pubDate>
             <description><![CDATA[<strong>Tue 14 Dec</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-7.png" alt="Cloudy" /><br>
 Cloudy<br>
@@ -129,15 +165,21 @@ Max: -1°C<br>
 <strong>Wed 15 Dec</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-14.png" alt="Possible snow" /><br>
 Possible snow<br>
-Min: -6°C<br>
-Max: -2°C<br>
+Min: -5°C<br>
+Max: -1°C<br>
+<br>
+<strong>Thu 16 Dec</strong><br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-14.png" alt="Possible snow" /><br>
+Possible snow<br>
+Min: -4°C<br>
+Max: 0°C<br>
 ]]></description>
         </item>
         <item>
             <title><![CDATA[Kraljevo]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>37430f2c8e4db4c17e893088fff4a2fb</guid>
-            <pubDate>Tue, 14 Dec 2021 10:20:00 GMT</pubDate>
+            <guid>9444f0db4db531637f77b1dde5084406</guid>
+            <pubDate>Tue, 14 Dec 2021 13:21:00 GMT</pubDate>
             <description><![CDATA[<strong>Tue 14 Dec</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-7.png" alt="Cloudy" /><br>
 Cloudy<br>
@@ -146,15 +188,21 @@ Max: 3°C<br>
 <strong>Wed 15 Dec</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-7.png" alt="Cloudy" /><br>
 Cloudy<br>
-Min: -2°C<br>
-Max: 3°C<br>
+Min: -1°C<br>
+Max: 2°C<br>
+<br>
+<strong>Thu 16 Dec</strong><br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-8.png" alt="Possible rain" /><br>
+Possible rain<br>
+Min: 0°C<br>
+Max: 4°C<br>
 ]]></description>
         </item>
         <item>
             <title><![CDATA[Priština]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>9b324a20e2368180cda2340509e723d6</guid>
-            <pubDate>Tue, 14 Dec 2021 10:20:00 GMT</pubDate>
+            <guid>de793dbd9ac567346945add85e7fe9d9</guid>
+            <pubDate>Tue, 14 Dec 2021 13:21:00 GMT</pubDate>
             <description><![CDATA[<strong>Tue 14 Dec</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-7.png" alt="Cloudy" /><br>
 Cloudy<br>
@@ -163,15 +211,21 @@ Max: 2°C<br>
 <strong>Wed 15 Dec</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-7.png" alt="Cloudy" /><br>
 Cloudy<br>
-Min: -1°C<br>
+Min: -2°C<br>
 Max: 1°C<br>
+<br>
+<strong>Thu 16 Dec</strong><br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-13.png" alt="Rain and snow mixed" /><br>
+Rain and snow mixed<br>
+Min: -2°C<br>
+Max: 2°C<br>
 ]]></description>
         </item>
         <item>
             <title><![CDATA[Niš]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>045ea59d7a3d587a41f4377b9a42d31c</guid>
-            <pubDate>Tue, 14 Dec 2021 10:20:00 GMT</pubDate>
+            <guid>97e3df8a528f79a4cc70071d25c85a29</guid>
+            <pubDate>Tue, 14 Dec 2021 13:21:00 GMT</pubDate>
             <description><![CDATA[<strong>Tue 14 Dec</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-7.png" alt="Cloudy" /><br>
 Cloudy<br>
@@ -182,6 +236,12 @@ Max: 2°C<br>
 Cloudy<br>
 Min: 0°C<br>
 Max: 2°C<br>
+<br>
+<strong>Thu 16 Dec</strong><br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-13.png" alt="Rain and snow mixed" /><br>
+Rain and snow mixed<br>
+Min: 0°C<br>
+Max: 3°C<br>
 ]]></description>
         </item>
     </channel>
