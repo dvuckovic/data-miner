@@ -4,7 +4,7 @@
         <title>RHMZ</title>
         <link>https://data.dvuckovic.com/fcast3.xml</link>
         <description>Weather Forecast for Serbia</description>
-        <lastBuildDate>Mon, 13 Dec 2021 11:36:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Dec 2021 04:40:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>fcast</generator>
         <language>en</language>
@@ -17,8 +17,8 @@
         <item>
             <title><![CDATA[Palić]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>7dd72ef152badd48e34fa59411970b80</guid>
-            <pubDate>Mon, 13 Dec 2021 11:36:00 GMT</pubDate>
+            <guid>f162fdb1c07be72cb53a30404752e4ea</guid>
+            <pubDate>Tue, 14 Dec 2021 04:40:00 GMT</pubDate>
             <description><![CDATA[<strong>Tue 14 Dec</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-7.png" alt="Cloudy" /><br>
 Cloudy<br>
@@ -34,8 +34,8 @@ Max: 2°C<br>
         <item>
             <title><![CDATA[Novi Sad]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>45fd7749c57d17e578b40d6989385d9c</guid>
-            <pubDate>Mon, 13 Dec 2021 11:36:00 GMT</pubDate>
+            <guid>4c64077eaac2b571e68d19c329f50a71</guid>
+            <pubDate>Tue, 14 Dec 2021 04:40:00 GMT</pubDate>
             <description><![CDATA[<strong>Tue 14 Dec</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-7.png" alt="Cloudy" /><br>
 Cloudy<br>
@@ -51,8 +51,8 @@ Max: 2°C<br>
         <item>
             <title><![CDATA[Loznica]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>17236463fd517f8ef6e41c78ccc5c920</guid>
-            <pubDate>Mon, 13 Dec 2021 11:36:00 GMT</pubDate>
+            <guid>c052b74355e508c53da0badf5b350d2b</guid>
+            <pubDate>Tue, 14 Dec 2021 04:40:00 GMT</pubDate>
             <description><![CDATA[<strong>Tue 14 Dec</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-7.png" alt="Cloudy" /><br>
 Cloudy<br>
@@ -68,8 +68,8 @@ Max: 4°C<br>
         <item>
             <title><![CDATA[Belgrade]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>9fd6210fca7dd8e84c4e29c310f75d73</guid>
-            <pubDate>Mon, 13 Dec 2021 11:36:00 GMT</pubDate>
+            <guid>a8921af9369d1356c504dba2dcc36e1a</guid>
+            <pubDate>Tue, 14 Dec 2021 04:40:00 GMT</pubDate>
             <description><![CDATA[<strong>Tue 14 Dec</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-7.png" alt="Cloudy" /><br>
 Cloudy<br>
@@ -85,8 +85,8 @@ Max: 2°C<br>
         <item>
             <title><![CDATA[Kragujevac]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>b654a47aa3a4912c5ce49749bceee3c2</guid>
-            <pubDate>Mon, 13 Dec 2021 11:36:00 GMT</pubDate>
+            <guid>192d321b5461efdf99ee6ff9694c2c10</guid>
+            <pubDate>Tue, 14 Dec 2021 04:40:00 GMT</pubDate>
             <description><![CDATA[<strong>Tue 14 Dec</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-7.png" alt="Cloudy" /><br>
 Cloudy<br>
@@ -102,8 +102,8 @@ Max: 3°C<br>
         <item>
             <title><![CDATA[Negotin]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>5d090a15298fe531106c8d84fd8172f8</guid>
-            <pubDate>Mon, 13 Dec 2021 11:36:00 GMT</pubDate>
+            <guid>cfde1c910f93e70a6db35f11a7b5148d</guid>
+            <pubDate>Tue, 14 Dec 2021 04:40:00 GMT</pubDate>
             <description><![CDATA[<strong>Tue 14 Dec</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-7.png" alt="Cloudy" /><br>
 Cloudy<br>
@@ -119,8 +119,8 @@ Max: 7°C<br>
         <item>
             <title><![CDATA[Zlatibor]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>1791ed4611202ffe873fa447148a93b4</guid>
-            <pubDate>Mon, 13 Dec 2021 11:36:00 GMT</pubDate>
+            <guid>deec8f92fe6c67894ff6ad2353695197</guid>
+            <pubDate>Tue, 14 Dec 2021 04:40:00 GMT</pubDate>
             <description><![CDATA[<strong>Tue 14 Dec</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-7.png" alt="Cloudy" /><br>
 Cloudy<br>
@@ -136,8 +136,8 @@ Max: -2°C<br>
         <item>
             <title><![CDATA[Kraljevo]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>2014cc3458caf2c7d20caa5b5e2f09b0</guid>
-            <pubDate>Mon, 13 Dec 2021 11:36:00 GMT</pubDate>
+            <guid>37f0dbfcd9edbaf97c2c9db2a7c766ab</guid>
+            <pubDate>Tue, 14 Dec 2021 04:40:00 GMT</pubDate>
             <description><![CDATA[<strong>Tue 14 Dec</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-7.png" alt="Cloudy" /><br>
 Cloudy<br>
@@ -153,8 +153,8 @@ Max: 3°C<br>
         <item>
             <title><![CDATA[Priština]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>a4da701e21b0f9c8da3a72a86b7dbc1b</guid>
-            <pubDate>Mon, 13 Dec 2021 11:36:00 GMT</pubDate>
+            <guid>7ce85973eed9b19db1e5f4a642bf2a3a</guid>
+            <pubDate>Tue, 14 Dec 2021 04:40:00 GMT</pubDate>
             <description><![CDATA[<strong>Tue 14 Dec</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-7.png" alt="Cloudy" /><br>
 Cloudy<br>
@@ -170,8 +170,8 @@ Max: 1°C<br>
         <item>
             <title><![CDATA[Niš]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>db1a39407d564650b4b92529587a5702</guid>
-            <pubDate>Mon, 13 Dec 2021 11:36:00 GMT</pubDate>
+            <guid>f83ef40f0dce0be10f9bdea59c917721</guid>
+            <pubDate>Tue, 14 Dec 2021 04:40:00 GMT</pubDate>
             <description><![CDATA[<strong>Tue 14 Dec</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-7.png" alt="Cloudy" /><br>
 Cloudy<br>
