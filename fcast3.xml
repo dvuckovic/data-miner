@@ -4,7 +4,7 @@
         <title>RHMZ</title>
         <link>https://data.dvuckovic.com/fcast3.xml</link>
         <description>Weather Forecast for Serbia</description>
-        <lastBuildDate>Tue, 14 Dec 2021 13:21:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Dec 2021 05:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>fcast</generator>
         <language>en</language>
@@ -17,8 +17,8 @@
         <item>
             <title><![CDATA[Palić]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>09bb5363685543d648055ddd941ba625</guid>
-            <pubDate>Tue, 14 Dec 2021 13:21:00 GMT</pubDate>
+            <guid>5d1c923b2f1d3fe7ca442e6054ba778c</guid>
+            <pubDate>Wed, 15 Dec 2021 05:00:00 GMT</pubDate>
             <description><![CDATA[<strong>Wed 15 Dec</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-7.png" alt="Cloudy" /><br>
 Cloudy<br>
@@ -34,8 +34,8 @@ Max: 3°C<br>
         <item>
             <title><![CDATA[Novi Sad]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>b439050c0670a8045d9d163362c86c1d</guid>
-            <pubDate>Tue, 14 Dec 2021 13:21:00 GMT</pubDate>
+            <guid>af5496849a1ec80d3bf10248e9b4750c</guid>
+            <pubDate>Wed, 15 Dec 2021 05:00:00 GMT</pubDate>
             <description><![CDATA[<strong>Wed 15 Dec</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-7.png" alt="Cloudy" /><br>
 Cloudy<br>
@@ -51,8 +51,8 @@ Max: 3°C<br>
         <item>
             <title><![CDATA[Loznica]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>ba03054d918b46e82e9c175c435c3feb</guid>
-            <pubDate>Tue, 14 Dec 2021 13:21:00 GMT</pubDate>
+            <guid>81b05635faaf2368472811c5cf25bb68</guid>
+            <pubDate>Wed, 15 Dec 2021 05:00:00 GMT</pubDate>
             <description><![CDATA[<strong>Wed 15 Dec</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-10.png" alt="Mostly cloudy" /><br>
 Mostly cloudy<br>
@@ -68,8 +68,8 @@ Max: 6°C<br>
         <item>
             <title><![CDATA[Belgrade]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>6c319c8fd40c8a65b5aa0d36f3e8d5cb</guid>
-            <pubDate>Tue, 14 Dec 2021 13:21:00 GMT</pubDate>
+            <guid>3066cd96764fc067803134b2e79209b1</guid>
+            <pubDate>Wed, 15 Dec 2021 05:00:00 GMT</pubDate>
             <description><![CDATA[<strong>Wed 15 Dec</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-7.png" alt="Cloudy" /><br>
 Cloudy<br>
@@ -85,8 +85,8 @@ Max: 4°C<br>
         <item>
             <title><![CDATA[Kragujevac]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>a789ef3fd81a0fbff723e557fe73dc10</guid>
-            <pubDate>Tue, 14 Dec 2021 13:21:00 GMT</pubDate>
+            <guid>ff924670e4fa6fe79d681bbf74f8f132</guid>
+            <pubDate>Wed, 15 Dec 2021 05:00:00 GMT</pubDate>
             <description><![CDATA[<strong>Wed 15 Dec</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-7.png" alt="Cloudy" /><br>
 Cloudy<br>
@@ -102,8 +102,8 @@ Max: 4°C<br>
         <item>
             <title><![CDATA[Negotin]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>e3db6541505e58e67620cfb65d9f2f6b</guid>
-            <pubDate>Tue, 14 Dec 2021 13:21:00 GMT</pubDate>
+            <guid>c93ff1ffed41adc6478f2fe648f67e08</guid>
+            <pubDate>Wed, 15 Dec 2021 05:00:00 GMT</pubDate>
             <description><![CDATA[<strong>Wed 15 Dec</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-4.png" alt="Partly cloudy" /><br>
 Partly cloudy<br>
@@ -119,8 +119,8 @@ Max: 7°C<br>
         <item>
             <title><![CDATA[Zlatibor]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>8ed68b42dfa8c29e4914c7a05eacbd3b</guid>
-            <pubDate>Tue, 14 Dec 2021 13:21:00 GMT</pubDate>
+            <guid>c1b9087c82c49899aacd26d279d78995</guid>
+            <pubDate>Wed, 15 Dec 2021 05:00:00 GMT</pubDate>
             <description><![CDATA[<strong>Wed 15 Dec</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-14.png" alt="Possible snow" /><br>
 Possible snow<br>
@@ -136,8 +136,8 @@ Max: 0°C<br>
         <item>
             <title><![CDATA[Kraljevo]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>9444f0db4db531637f77b1dde5084406</guid>
-            <pubDate>Tue, 14 Dec 2021 13:21:00 GMT</pubDate>
+            <guid>e23384d63cdf69c43a3e8eb5573c9906</guid>
+            <pubDate>Wed, 15 Dec 2021 05:00:00 GMT</pubDate>
             <description><![CDATA[<strong>Wed 15 Dec</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-7.png" alt="Cloudy" /><br>
 Cloudy<br>
@@ -153,8 +153,8 @@ Max: 4°C<br>
         <item>
             <title><![CDATA[Priština]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>de793dbd9ac567346945add85e7fe9d9</guid>
-            <pubDate>Tue, 14 Dec 2021 13:21:00 GMT</pubDate>
+            <guid>8ea9a21cf29a5ac4f746e52659d8f23a</guid>
+            <pubDate>Wed, 15 Dec 2021 05:00:00 GMT</pubDate>
             <description><![CDATA[<strong>Wed 15 Dec</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-7.png" alt="Cloudy" /><br>
 Cloudy<br>
@@ -170,8 +170,8 @@ Max: 2°C<br>
         <item>
             <title><![CDATA[Niš]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>97e3df8a528f79a4cc70071d25c85a29</guid>
-            <pubDate>Tue, 14 Dec 2021 13:21:00 GMT</pubDate>
+            <guid>e95607c0517f7260d62e9c542e867b13</guid>
+            <pubDate>Wed, 15 Dec 2021 05:00:00 GMT</pubDate>
             <description><![CDATA[<strong>Wed 15 Dec</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-7.png" alt="Cloudy" /><br>
 Cloudy<br>
