@@ -4,7 +4,7 @@
         <title>RHMZ</title>
         <link>https://data.dvuckovic.com/fcast3.xml</link>
         <description>Weather Forecast for Serbia</description>
-        <lastBuildDate>Fri, 17 Dec 2021 09:10:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Dec 2021 11:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>fcast</generator>
         <language>en</language>
@@ -17,171 +17,231 @@
         <item>
             <title><![CDATA[Palić]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>3f72ed542e3bfebfd767b9fbb2ff3a2d</guid>
-            <pubDate>Fri, 17 Dec 2021 09:10:00 GMT</pubDate>
+            <guid>8cb88e1281af0a482181f21bf8d31794</guid>
+            <pubDate>Fri, 17 Dec 2021 11:00:00 GMT</pubDate>
             <description><![CDATA[<strong>Fri 17 Dec</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-4.png" alt="Partly cloudy" /><br>
 Partly cloudy<br>
 Max: 7°C<br>
 <br>
 <strong>Sat 18 Dec</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-10.png" alt="Mostly cloudy" /><br>
-Mostly cloudy<br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
+Mostly sunny<br>
 Min: -1°C<br>
+Max: 6°C<br>
+<br>
+<strong>Sun 19 Dec</strong><br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-7.png" alt="Cloudy" /><br>
+Cloudy<br>
+Min: -2°C<br>
 Max: 5°C<br>
 ]]></description>
         </item>
         <item>
             <title><![CDATA[Novi Sad]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>09f12bc6907ff835e8acf11eec3282e5</guid>
-            <pubDate>Fri, 17 Dec 2021 09:10:00 GMT</pubDate>
+            <guid>274fed48391c335127f5d2a503c6889e</guid>
+            <pubDate>Fri, 17 Dec 2021 11:00:00 GMT</pubDate>
             <description><![CDATA[<strong>Fri 17 Dec</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-10.png" alt="Mostly cloudy" /><br>
 Mostly cloudy<br>
 Max: 6°C<br>
 <br>
 <strong>Sat 18 Dec</strong><br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-4.png" alt="Partly cloudy" /><br>
+Partly cloudy<br>
+Min: 0°C<br>
+Max: 5°C<br>
+<br>
+<strong>Sun 19 Dec</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-10.png" alt="Mostly cloudy" /><br>
 Mostly cloudy<br>
-Min: 0°C<br>
+Min: -1°C<br>
 Max: 5°C<br>
 ]]></description>
         </item>
         <item>
             <title><![CDATA[Loznica]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>b7ac3d956971bc52b3ff9904b33aecfd</guid>
-            <pubDate>Fri, 17 Dec 2021 09:10:00 GMT</pubDate>
+            <guid>37a68ffa3f7b9cfe57d7ad5c2d39cbb8</guid>
+            <pubDate>Fri, 17 Dec 2021 11:00:00 GMT</pubDate>
             <description><![CDATA[<strong>Fri 17 Dec</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-8.png" alt="Possible rain" /><br>
 Possible rain<br>
 Max: 7°C<br>
 <br>
 <strong>Sat 18 Dec</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-7.png" alt="Cloudy" /><br>
-Cloudy<br>
-Min: 3°C<br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-13.png" alt="Rain and snow mixed" /><br>
+Rain and snow mixed<br>
+Min: 2°C<br>
 Max: 4°C<br>
+<br>
+<strong>Sun 19 Dec</strong><br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-4.png" alt="Partly cloudy" /><br>
+Partly cloudy<br>
+Min: 0°C<br>
+Max: 9°C<br>
 ]]></description>
         </item>
         <item>
             <title><![CDATA[Belgrade]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>ebd207f0722d2eece434862c4e178ddf</guid>
-            <pubDate>Fri, 17 Dec 2021 09:10:00 GMT</pubDate>
+            <guid>77974216c1e569f4042298039d4e7b85</guid>
+            <pubDate>Fri, 17 Dec 2021 11:00:00 GMT</pubDate>
             <description><![CDATA[<strong>Fri 17 Dec</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-8.png" alt="Possible rain" /><br>
 Possible rain<br>
 Max: 5°C<br>
 <br>
 <strong>Sat 18 Dec</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-7.png" alt="Cloudy" /><br>
-Cloudy<br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-10.png" alt="Mostly cloudy" /><br>
+Mostly cloudy<br>
 Min: 1°C<br>
 Max: 4°C<br>
+<br>
+<strong>Sun 19 Dec</strong><br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-10.png" alt="Mostly cloudy" /><br>
+Mostly cloudy<br>
+Min: 1°C<br>
+Max: 6°C<br>
 ]]></description>
         </item>
         <item>
             <title><![CDATA[Kragujevac]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>6680f09b46ce00bede243534d91955a7</guid>
-            <pubDate>Fri, 17 Dec 2021 09:10:00 GMT</pubDate>
+            <guid>cb1ea54f351f46ab8f0015d03885b44a</guid>
+            <pubDate>Fri, 17 Dec 2021 11:00:00 GMT</pubDate>
             <description><![CDATA[<strong>Fri 17 Dec</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-8.png" alt="Possible rain" /><br>
 Possible rain<br>
 Max: 7°C<br>
 <br>
 <strong>Sat 18 Dec</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-14.png" alt="Possible snow" /><br>
-Possible snow<br>
-Min: 0°C<br>
-Max: 3°C<br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-13.png" alt="Rain and snow mixed" /><br>
+Rain and snow mixed<br>
+Min: 1°C<br>
+Max: 4°C<br>
+<br>
+<strong>Sun 19 Dec</strong><br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-10.png" alt="Mostly cloudy" /><br>
+Mostly cloudy<br>
+Min: -1°C<br>
+Max: 5°C<br>
 ]]></description>
         </item>
         <item>
             <title><![CDATA[Negotin]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>a0c10a167d9a4e6399aae68833a9a1b2</guid>
-            <pubDate>Fri, 17 Dec 2021 09:10:00 GMT</pubDate>
+            <guid>857aadd26bbed6bf1b3b93eb7cadc2f9</guid>
+            <pubDate>Fri, 17 Dec 2021 11:00:00 GMT</pubDate>
             <description><![CDATA[<strong>Fri 17 Dec</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-10.png" alt="Mostly cloudy" /><br>
 Mostly cloudy<br>
 Max: 8°C<br>
 <br>
 <strong>Sat 18 Dec</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-10.png" alt="Mostly cloudy" /><br>
-Mostly cloudy<br>
-Min: 3°C<br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-4.png" alt="Partly cloudy" /><br>
+Partly cloudy<br>
+Min: 2°C<br>
 Max: 8°C<br>
+<br>
+<strong>Sun 19 Dec</strong><br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-7.png" alt="Cloudy" /><br>
+Cloudy<br>
+Min: 2°C<br>
+Max: 7°C<br>
 ]]></description>
         </item>
         <item>
             <title><![CDATA[Zlatibor]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>64884c6e34491b74518c759ec6a97a11</guid>
-            <pubDate>Fri, 17 Dec 2021 09:10:00 GMT</pubDate>
+            <guid>44c326446693fd69c4cdbf019acc862f</guid>
+            <pubDate>Fri, 17 Dec 2021 11:00:00 GMT</pubDate>
             <description><![CDATA[<strong>Fri 17 Dec</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-14.png" alt="Possible snow" /><br>
 Possible snow<br>
 Max: 1°C<br>
 <br>
 <strong>Sat 18 Dec</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-15.png" alt="Snow" /><br>
-Snow<br>
-Min: -5°C<br>
-Max: -4°C<br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-14.png" alt="Possible snow" /><br>
+Possible snow<br>
+Min: -4°C<br>
+Max: -3°C<br>
+<br>
+<strong>Sun 19 Dec</strong><br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-4.png" alt="Partly cloudy" /><br>
+Partly cloudy<br>
+Min: -6°C<br>
+Max: 0°C<br>
 ]]></description>
         </item>
         <item>
             <title><![CDATA[Kraljevo]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>896722b64bb9b79b178f47f3f3e4c01c</guid>
-            <pubDate>Fri, 17 Dec 2021 09:10:00 GMT</pubDate>
+            <guid>45b9a53ba8e888f5eb85e99f6f31a2f9</guid>
+            <pubDate>Fri, 17 Dec 2021 11:00:00 GMT</pubDate>
             <description><![CDATA[<strong>Fri 17 Dec</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-8.png" alt="Possible rain" /><br>
 Possible rain<br>
 Max: 7°C<br>
 <br>
 <strong>Sat 18 Dec</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-14.png" alt="Possible snow" /><br>
-Possible snow<br>
-Min: 1°C<br>
-Max: 2°C<br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-13.png" alt="Rain and snow mixed" /><br>
+Rain and snow mixed<br>
+Min: 0°C<br>
+Max: 4°C<br>
+<br>
+<strong>Sun 19 Dec</strong><br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-10.png" alt="Mostly cloudy" /><br>
+Mostly cloudy<br>
+Min: 0°C<br>
+Max: 6°C<br>
 ]]></description>
         </item>
         <item>
             <title><![CDATA[Priština]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>a2b0debc5e694dbd54f66c77501e24c7</guid>
-            <pubDate>Fri, 17 Dec 2021 09:10:00 GMT</pubDate>
+            <guid>8d2933683d9f1f37466d63de0e68290a</guid>
+            <pubDate>Fri, 17 Dec 2021 11:00:00 GMT</pubDate>
             <description><![CDATA[<strong>Fri 17 Dec</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-8.png" alt="Possible rain" /><br>
 Possible rain<br>
 Max: 6°C<br>
 <br>
 <strong>Sat 18 Dec</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-14.png" alt="Possible snow" /><br>
-Possible snow<br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-13.png" alt="Rain and snow mixed" /><br>
+Rain and snow mixed<br>
+Min: 0°C<br>
+Max: 3°C<br>
+<br>
+<strong>Sun 19 Dec</strong><br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-10.png" alt="Mostly cloudy" /><br>
+Mostly cloudy<br>
 Min: -1°C<br>
-Max: 1°C<br>
+Max: 3°C<br>
 ]]></description>
         </item>
         <item>
             <title><![CDATA[Niš]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>0818c5845bf000da04ba4163ef1e0feb</guid>
-            <pubDate>Fri, 17 Dec 2021 09:10:00 GMT</pubDate>
+            <guid>e5693f04e80d1025fc15a51d00662d48</guid>
+            <pubDate>Fri, 17 Dec 2021 11:00:00 GMT</pubDate>
             <description><![CDATA[<strong>Fri 17 Dec</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-8.png" alt="Possible rain" /><br>
 Possible rain<br>
 Max: 5°C<br>
 <br>
 <strong>Sat 18 Dec</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-14.png" alt="Possible snow" /><br>
-Possible snow<br>
-Min: 0°C<br>
-Max: 2°C<br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-13.png" alt="Rain and snow mixed" /><br>
+Rain and snow mixed<br>
+Min: 1°C<br>
+Max: 3°C<br>
+<br>
+<strong>Sun 19 Dec</strong><br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-7.png" alt="Cloudy" /><br>
+Cloudy<br>
+Min: 1°C<br>
+Max: 4°C<br>
 ]]></description>
         </item>
     </channel>
