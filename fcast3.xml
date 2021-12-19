@@ -4,7 +4,7 @@
         <title>RHMZ</title>
         <link>https://data.dvuckovic.com/fcast3.xml</link>
         <description>Weather Forecast for Serbia</description>
-        <lastBuildDate>Sat, 18 Dec 2021 12:33:00 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Dec 2021 05:15:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>fcast</generator>
         <language>en</language>
@@ -17,8 +17,8 @@
         <item>
             <title><![CDATA[Palić]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>9cf5ae2b6ee4c1d3af8aa58f2187fb93</guid>
-            <pubDate>Sat, 18 Dec 2021 12:33:00 GMT</pubDate>
+            <guid>61eff5305dcc5ab857ba69e11d29265b</guid>
+            <pubDate>Sun, 19 Dec 2021 05:15:00 GMT</pubDate>
             <description><![CDATA[<strong>Sun 19 Dec</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-10.png" alt="Mostly cloudy" /><br>
 Mostly cloudy<br>
@@ -34,8 +34,8 @@ Max: 6°C<br>
         <item>
             <title><![CDATA[Novi Sad]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>1a5fdf7fe3e2d84d215148c5e6d90823</guid>
-            <pubDate>Sat, 18 Dec 2021 12:33:00 GMT</pubDate>
+            <guid>07a795a5489ec62de5ca66e49d4a091d</guid>
+            <pubDate>Sun, 19 Dec 2021 05:15:00 GMT</pubDate>
             <description><![CDATA[<strong>Sun 19 Dec</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-10.png" alt="Mostly cloudy" /><br>
 Mostly cloudy<br>
@@ -51,8 +51,8 @@ Max: 6°C<br>
         <item>
             <title><![CDATA[Loznica]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>de0ce9fb94d7a07867e660fbad7b65b9</guid>
-            <pubDate>Sat, 18 Dec 2021 12:33:00 GMT</pubDate>
+            <guid>e6c97553665201617f1f60e90d397582</guid>
+            <pubDate>Sun, 19 Dec 2021 05:15:00 GMT</pubDate>
             <description><![CDATA[<strong>Sun 19 Dec</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-4.png" alt="Partly cloudy" /><br>
 Partly cloudy<br>
@@ -68,8 +68,8 @@ Max: 7°C<br>
         <item>
             <title><![CDATA[Belgrade]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>dea0944dabcf1508b750819323cd6278</guid>
-            <pubDate>Sat, 18 Dec 2021 12:33:00 GMT</pubDate>
+            <guid>537e659e00d5d98a505832919c6ce20e</guid>
+            <pubDate>Sun, 19 Dec 2021 05:15:00 GMT</pubDate>
             <description><![CDATA[<strong>Sun 19 Dec</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-10.png" alt="Mostly cloudy" /><br>
 Mostly cloudy<br>
@@ -85,8 +85,8 @@ Max: 5°C<br>
         <item>
             <title><![CDATA[Kragujevac]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>8b4a060111f411452bfd98a001511ee6</guid>
-            <pubDate>Sat, 18 Dec 2021 12:33:00 GMT</pubDate>
+            <guid>277ec0230d0a6548b5a650eb7517f466</guid>
+            <pubDate>Sun, 19 Dec 2021 05:15:00 GMT</pubDate>
             <description><![CDATA[<strong>Sun 19 Dec</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-10.png" alt="Mostly cloudy" /><br>
 Mostly cloudy<br>
@@ -102,8 +102,8 @@ Max: 6°C<br>
         <item>
             <title><![CDATA[Negotin]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>88b6385318b97299cb355eacc0503783</guid>
-            <pubDate>Sat, 18 Dec 2021 12:33:00 GMT</pubDate>
+            <guid>4ab1967d732c31c4240fb82e7dbca7f7</guid>
+            <pubDate>Sun, 19 Dec 2021 05:15:00 GMT</pubDate>
             <description><![CDATA[<strong>Sun 19 Dec</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-10.png" alt="Mostly cloudy" /><br>
 Mostly cloudy<br>
@@ -119,12 +119,12 @@ Max: 8°C<br>
         <item>
             <title><![CDATA[Zlatibor]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>82816a837ab943cd2e11840a2fc6cffc</guid>
-            <pubDate>Sat, 18 Dec 2021 12:33:00 GMT</pubDate>
+            <guid>3309ffb1bdb9242d740957b380ddbf82</guid>
+            <pubDate>Sun, 19 Dec 2021 05:15:00 GMT</pubDate>
             <description><![CDATA[<strong>Sun 19 Dec</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-4.png" alt="Partly cloudy" /><br>
 Partly cloudy<br>
-Max: 0°C<br>
+Max: 1°C<br>
 <br>
 <strong>Mon 20 Dec</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-14.png" alt="Possible snow" /><br>
@@ -136,8 +136,8 @@ Max: 1°C<br>
         <item>
             <title><![CDATA[Kraljevo]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>52b7570bdeca77dc83661ba98363f2ff</guid>
-            <pubDate>Sat, 18 Dec 2021 12:33:00 GMT</pubDate>
+            <guid>655d505b7e4cf9dcc6e1b0acaee692f5</guid>
+            <pubDate>Sun, 19 Dec 2021 05:15:00 GMT</pubDate>
             <description><![CDATA[<strong>Sun 19 Dec</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-4.png" alt="Partly cloudy" /><br>
 Partly cloudy<br>
@@ -153,8 +153,8 @@ Max: 6°C<br>
         <item>
             <title><![CDATA[Priština]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>db3d58322eb1c02d4c63b983d3c88f43</guid>
-            <pubDate>Sat, 18 Dec 2021 12:33:00 GMT</pubDate>
+            <guid>10b9096ff989d344bf596f76b13a86bc</guid>
+            <pubDate>Sun, 19 Dec 2021 05:15:00 GMT</pubDate>
             <description><![CDATA[<strong>Sun 19 Dec</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-10.png" alt="Mostly cloudy" /><br>
 Mostly cloudy<br>
@@ -170,8 +170,8 @@ Max: 5°C<br>
         <item>
             <title><![CDATA[Niš]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>ad2c463790bbc4212c0e1b396bc3295c</guid>
-            <pubDate>Sat, 18 Dec 2021 12:33:00 GMT</pubDate>
+            <guid>a9c2515ff16bbb824643cc0a01762cb0</guid>
+            <pubDate>Sun, 19 Dec 2021 05:15:00 GMT</pubDate>
             <description><![CDATA[<strong>Sun 19 Dec</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-10.png" alt="Mostly cloudy" /><br>
 Mostly cloudy<br>
