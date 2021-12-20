@@ -4,7 +4,7 @@
         <title>RHMZ</title>
         <link>https://data.dvuckovic.com/fcast3.xml</link>
         <description>Weather Forecast for Serbia</description>
-        <lastBuildDate>Mon, 20 Dec 2021 09:30:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Dec 2021 11:57:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>fcast</generator>
         <language>en</language>
@@ -17,42 +17,54 @@
         <item>
             <title><![CDATA[Palić]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>64f08ba90bfdfe122130cdfe3d5b27c1</guid>
-            <pubDate>Mon, 20 Dec 2021 09:30:00 GMT</pubDate>
+            <guid>fd0c15609ab252471bb3bf658e33d730</guid>
+            <pubDate>Mon, 20 Dec 2021 11:57:00 GMT</pubDate>
             <description><![CDATA[<strong>Mon 20 Dec</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
 Mostly sunny<br>
 Max: 7°C<br>
 <br>
 <strong>Tue 21 Dec</strong><br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
+Mostly sunny<br>
+Min: -3°C<br>
+Max: 3°C<br>
+<br>
+<strong>Wed 22 Dec</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-4.png" alt="Partly cloudy" /><br>
 Partly cloudy<br>
-Min: -2°C<br>
-Max: 2°C<br>
+Min: -5°C<br>
+Max: 3°C<br>
 ]]></description>
         </item>
         <item>
             <title><![CDATA[Novi Sad]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>800dbe7963d628f94e5e9e25f8a38472</guid>
-            <pubDate>Mon, 20 Dec 2021 09:30:00 GMT</pubDate>
+            <guid>6f5844fcb5c7044d5e49fd12caffcf27</guid>
+            <pubDate>Mon, 20 Dec 2021 11:57:00 GMT</pubDate>
             <description><![CDATA[<strong>Mon 20 Dec</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
 Mostly sunny<br>
 Max: 6°C<br>
 <br>
 <strong>Tue 21 Dec</strong><br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
+Mostly sunny<br>
+Min: -4°C<br>
+Max: 2°C<br>
+<br>
+<strong>Wed 22 Dec</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-4.png" alt="Partly cloudy" /><br>
 Partly cloudy<br>
-Min: -3°C<br>
-Max: 2°C<br>
+Min: -6°C<br>
+Max: 1°C<br>
 ]]></description>
         </item>
         <item>
             <title><![CDATA[Loznica]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>e1fb7c02d4ba04f18b2ee9f2e559fa17</guid>
-            <pubDate>Mon, 20 Dec 2021 09:30:00 GMT</pubDate>
+            <guid>c2aa4d6b2eaaedfd797cac102329a095</guid>
+            <pubDate>Mon, 20 Dec 2021 11:57:00 GMT</pubDate>
             <description><![CDATA[<strong>Mon 20 Dec</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-10.png" alt="Mostly cloudy" /><br>
 Mostly cloudy<br>
@@ -63,13 +75,19 @@ Max: 8°C<br>
 Mostly cloudy<br>
 Min: -1°C<br>
 Max: 4°C<br>
+<br>
+<strong>Wed 22 Dec</strong><br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-4.png" alt="Partly cloudy" /><br>
+Partly cloudy<br>
+Min: -4°C<br>
+Max: 3°C<br>
 ]]></description>
         </item>
         <item>
             <title><![CDATA[Belgrade]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>32fd79a8bd676755007881f7a3263166</guid>
-            <pubDate>Mon, 20 Dec 2021 09:30:00 GMT</pubDate>
+            <guid>9f07134435e1a42307e2dacddb3edd40</guid>
+            <pubDate>Mon, 20 Dec 2021 11:57:00 GMT</pubDate>
             <description><![CDATA[<strong>Mon 20 Dec</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-4.png" alt="Partly cloudy" /><br>
 Partly cloudy<br>
@@ -79,109 +97,151 @@ Max: 6°C<br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-10.png" alt="Mostly cloudy" /><br>
 Mostly cloudy<br>
 Min: -1°C<br>
+Max: 3°C<br>
+<br>
+<strong>Wed 22 Dec</strong><br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-4.png" alt="Partly cloudy" /><br>
+Partly cloudy<br>
+Min: -3°C<br>
 Max: 2°C<br>
 ]]></description>
         </item>
         <item>
             <title><![CDATA[Kragujevac]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>47b38027f5c59244cfdf51776c14434a</guid>
-            <pubDate>Mon, 20 Dec 2021 09:30:00 GMT</pubDate>
+            <guid>f7e29b41577532484e72c5741f62d161</guid>
+            <pubDate>Mon, 20 Dec 2021 11:57:00 GMT</pubDate>
             <description><![CDATA[<strong>Mon 20 Dec</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-8.png" alt="Possible rain" /><br>
 Possible rain<br>
 Max: 6°C<br>
 <br>
 <strong>Tue 21 Dec</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-7.png" alt="Cloudy" /><br>
-Cloudy<br>
-Min: 0°C<br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-10.png" alt="Mostly cloudy" /><br>
+Mostly cloudy<br>
+Min: -1°C<br>
 Max: 4°C<br>
+<br>
+<strong>Wed 22 Dec</strong><br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-4.png" alt="Partly cloudy" /><br>
+Partly cloudy<br>
+Min: -7°C<br>
+Max: 2°C<br>
 ]]></description>
         </item>
         <item>
             <title><![CDATA[Negotin]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>b70100a5c67182b867d532403e0ead2e</guid>
-            <pubDate>Mon, 20 Dec 2021 09:30:00 GMT</pubDate>
+            <guid>fb73dca7ad2536f216de574695da1dae</guid>
+            <pubDate>Mon, 20 Dec 2021 11:57:00 GMT</pubDate>
             <description><![CDATA[<strong>Mon 20 Dec</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
 Mostly sunny<br>
 Max: 9°C<br>
 <br>
 <strong>Tue 21 Dec</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-10.png" alt="Mostly cloudy" /><br>
-Mostly cloudy<br>
-Min: 1°C<br>
-Max: 5°C<br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
+Mostly sunny<br>
+Min: 2°C<br>
+Max: 6°C<br>
+<br>
+<strong>Wed 22 Dec</strong><br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-4.png" alt="Partly cloudy" /><br>
+Partly cloudy<br>
+Min: -3°C<br>
+Max: 3°C<br>
 ]]></description>
         </item>
         <item>
             <title><![CDATA[Zlatibor]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>6147efb98cd5537f53a9a2ef2a438e8c</guid>
-            <pubDate>Mon, 20 Dec 2021 09:30:00 GMT</pubDate>
+            <guid>5a46fbe9060319bc9b9f7bb917b23b44</guid>
+            <pubDate>Mon, 20 Dec 2021 11:57:00 GMT</pubDate>
             <description><![CDATA[<strong>Mon 20 Dec</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-14.png" alt="Possible snow" /><br>
 Possible snow<br>
 Max: 0°C<br>
 <br>
 <strong>Tue 21 Dec</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-10.png" alt="Mostly cloudy" /><br>
-Mostly cloudy<br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-14.png" alt="Possible snow" /><br>
+Possible snow<br>
 Min: -6°C<br>
-Max: -3°C<br>
+Max: -1°C<br>
+<br>
+<strong>Wed 22 Dec</strong><br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-4.png" alt="Partly cloudy" /><br>
+Partly cloudy<br>
+Min: -10°C<br>
+Max: -2°C<br>
 ]]></description>
         </item>
         <item>
             <title><![CDATA[Kraljevo]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>8133e188cf4e343c49a0790f2a204c14</guid>
-            <pubDate>Mon, 20 Dec 2021 09:30:00 GMT</pubDate>
+            <guid>313a16171bcf04f1dbcdc89d25f7f8e3</guid>
+            <pubDate>Mon, 20 Dec 2021 11:57:00 GMT</pubDate>
             <description><![CDATA[<strong>Mon 20 Dec</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-8.png" alt="Possible rain" /><br>
 Possible rain<br>
 Max: 5°C<br>
 <br>
 <strong>Tue 21 Dec</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-7.png" alt="Cloudy" /><br>
-Cloudy<br>
-Min: 0°C<br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-10.png" alt="Mostly cloudy" /><br>
+Mostly cloudy<br>
+Min: -1°C<br>
 Max: 4°C<br>
+<br>
+<strong>Wed 22 Dec</strong><br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-4.png" alt="Partly cloudy" /><br>
+Partly cloudy<br>
+Min: -7°C<br>
+Max: 2°C<br>
 ]]></description>
         </item>
         <item>
             <title><![CDATA[Priština]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>45aa376063817d76a618fdc08831919c</guid>
-            <pubDate>Mon, 20 Dec 2021 09:30:00 GMT</pubDate>
+            <guid>5abd12b28f630d041b5a34460c8511d9</guid>
+            <pubDate>Mon, 20 Dec 2021 11:57:00 GMT</pubDate>
             <description><![CDATA[<strong>Mon 20 Dec</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-10.png" alt="Mostly cloudy" /><br>
 Mostly cloudy<br>
 Max: 3°C<br>
 <br>
 <strong>Tue 21 Dec</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-7.png" alt="Cloudy" /><br>
-Cloudy<br>
-Min: -4°C<br>
-Max: 1°C<br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-10.png" alt="Mostly cloudy" /><br>
+Mostly cloudy<br>
+Min: -3°C<br>
+Max: 2°C<br>
+<br>
+<strong>Wed 22 Dec</strong><br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-4.png" alt="Partly cloudy" /><br>
+Partly cloudy<br>
+Min: -6°C<br>
+Max: 0°C<br>
 ]]></description>
         </item>
         <item>
             <title><![CDATA[Niš]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>a36c2b408df327303b7d3bfba4334c22</guid>
-            <pubDate>Mon, 20 Dec 2021 09:30:00 GMT</pubDate>
+            <guid>f080c8f507863589edf694777c71f617</guid>
+            <pubDate>Mon, 20 Dec 2021 11:57:00 GMT</pubDate>
             <description><![CDATA[<strong>Mon 20 Dec</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-13.png" alt="Rain and snow mixed" /><br>
 Rain and snow mixed<br>
 Max: 4°C<br>
 <br>
 <strong>Tue 21 Dec</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-14.png" alt="Possible snow" /><br>
-Possible snow<br>
-Min: -1°C<br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-10.png" alt="Mostly cloudy" /><br>
+Mostly cloudy<br>
+Min: -2°C<br>
 Max: 2°C<br>
+<br>
+<strong>Wed 22 Dec</strong><br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-4.png" alt="Partly cloudy" /><br>
+Partly cloudy<br>
+Min: -5°C<br>
+Max: 1°C<br>
 ]]></description>
         </item>
     </channel>
