@@ -47,3 +47,10 @@ jobs:
         build_dir: .
       env:
         GITHUB_TOKEN: ${{ github.token }}
+
+    - name: Keepalive Workflow
+      uses: gautamkrishnar/keepalive-workflow@1.0.7
+      with:
+        commit_message: Added an empty commit to keep scheduled GitHub workflows alive in this repository.
+        committer_username: github-actions[bot]
+        committer_email: 41898282+github-actions[bot]@users.noreply.github.com
