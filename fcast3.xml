@@ -4,7 +4,7 @@
         <title>RHMZ</title>
         <link>https://data.dvuckovic.com/fcast3.xml</link>
         <description>Weather Forecast for Serbia</description>
-        <lastBuildDate>Thu, 03 Mar 2022 10:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Mar 2022 12:03:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>fcast</generator>
         <language>en</language>
@@ -17,8 +17,8 @@
         <item>
             <title><![CDATA[Palić]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>99e7d1df6e7baf4b891795684e410ca6</guid>
-            <pubDate>Thu, 03 Mar 2022 10:00:00 GMT</pubDate>
+            <guid>b31a205294296c1e721092de744c7bd2</guid>
+            <pubDate>Thu, 03 Mar 2022 12:03:00 GMT</pubDate>
             <description><![CDATA[<strong>Thu 3 Mar</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
 Mostly sunny<br>
@@ -27,15 +27,21 @@ Max: 9°C<br>
 <strong>Fri 4 Mar</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-6.png" alt="Possible rain showers" /><br>
 Possible rain showers<br>
-Min: -2°C<br>
-Max: 6°C<br>
+Min: -3°C<br>
+Max: 7°C<br>
+<br>
+<strong>Sat 5 Mar</strong><br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
+Mostly sunny<br>
+Min: -3°C<br>
+Max: 7°C<br>
 ]]></description>
         </item>
         <item>
             <title><![CDATA[Novi Sad]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>2988d9a8d66b26f4bbf487b1eddf0079</guid>
-            <pubDate>Thu, 03 Mar 2022 10:00:00 GMT</pubDate>
+            <guid>bb1fec35bbe242d583f64ba2d133e0c7</guid>
+            <pubDate>Thu, 03 Mar 2022 12:03:00 GMT</pubDate>
             <description><![CDATA[<strong>Thu 3 Mar</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
 Mostly sunny<br>
@@ -44,6 +50,12 @@ Max: 9°C<br>
 <strong>Fri 4 Mar</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-6.png" alt="Possible rain showers" /><br>
 Possible rain showers<br>
+Min: -3°C<br>
+Max: 7°C<br>
+<br>
+<strong>Sat 5 Mar</strong><br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
+Mostly sunny<br>
 Min: -3°C<br>
 Max: 7°C<br>
 ]]></description>
@@ -51,33 +63,45 @@ Max: 7°C<br>
         <item>
             <title><![CDATA[Loznica]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>eb36990a2644a69369e4337006925a19</guid>
-            <pubDate>Thu, 03 Mar 2022 10:00:00 GMT</pubDate>
+            <guid>8fe4791f9a71047f2a3c7bb53a70a704</guid>
+            <pubDate>Thu, 03 Mar 2022 12:03:00 GMT</pubDate>
             <description><![CDATA[<strong>Thu 3 Mar</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
 Mostly sunny<br>
 Max: 10°C<br>
 <br>
 <strong>Fri 4 Mar</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-6.png" alt="Possible rain showers" /><br>
-Possible rain showers<br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-10.png" alt="Mostly cloudy" /><br>
+Mostly cloudy<br>
 Min: -3°C<br>
 Max: 8°C<br>
+<br>
+<strong>Sat 5 Mar</strong><br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-4.png" alt="Partly cloudy" /><br>
+Partly cloudy<br>
+Min: -1°C<br>
+Max: 6°C<br>
 ]]></description>
         </item>
         <item>
             <title><![CDATA[Belgrade]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>fa1acee669ccdc7fbdda96fa09175d11</guid>
-            <pubDate>Thu, 03 Mar 2022 10:00:00 GMT</pubDate>
+            <guid>76f59c581a1c89f5733ace74647d433a</guid>
+            <pubDate>Thu, 03 Mar 2022 12:03:00 GMT</pubDate>
             <description><![CDATA[<strong>Thu 3 Mar</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
 Mostly sunny<br>
 Max: 9°C<br>
 <br>
 <strong>Fri 4 Mar</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-6.png" alt="Possible rain showers" /><br>
-Possible rain showers<br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-10.png" alt="Mostly cloudy" /><br>
+Mostly cloudy<br>
+Min: 0°C<br>
+Max: 8°C<br>
+<br>
+<strong>Sat 5 Mar</strong><br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
+Mostly sunny<br>
 Min: -1°C<br>
 Max: 7°C<br>
 ]]></description>
@@ -85,8 +109,8 @@ Max: 7°C<br>
         <item>
             <title><![CDATA[Kragujevac]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>caa1d7e9fcde349caf73bf7d80ecdf31</guid>
-            <pubDate>Thu, 03 Mar 2022 10:00:00 GMT</pubDate>
+            <guid>51ecc2bae33570a8b9fa8714ca90ed2f</guid>
+            <pubDate>Thu, 03 Mar 2022 12:03:00 GMT</pubDate>
             <description><![CDATA[<strong>Thu 3 Mar</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
 Mostly sunny<br>
@@ -97,13 +121,19 @@ Max: 9°C<br>
 Mostly cloudy<br>
 Min: -4°C<br>
 Max: 8°C<br>
+<br>
+<strong>Sat 5 Mar</strong><br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-10.png" alt="Mostly cloudy" /><br>
+Mostly cloudy<br>
+Min: -3°C<br>
+Max: 6°C<br>
 ]]></description>
         </item>
         <item>
             <title><![CDATA[Negotin]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>0f76ff1a9e020668e819d62449931b89</guid>
-            <pubDate>Thu, 03 Mar 2022 10:00:00 GMT</pubDate>
+            <guid>c45f5914c50a4d69d4431e3d21d89a53</guid>
+            <pubDate>Thu, 03 Mar 2022 12:03:00 GMT</pubDate>
             <description><![CDATA[<strong>Thu 3 Mar</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
 Mostly sunny<br>
@@ -114,30 +144,42 @@ Max: 11°C<br>
 Mostly cloudy<br>
 Min: -1°C<br>
 Max: 9°C<br>
+<br>
+<strong>Sat 5 Mar</strong><br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-4.png" alt="Partly cloudy" /><br>
+Partly cloudy<br>
+Min: -1°C<br>
+Max: 8°C<br>
 ]]></description>
         </item>
         <item>
             <title><![CDATA[Zlatibor]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>9eb540cdc15819f7623ac4568aea5b57</guid>
-            <pubDate>Thu, 03 Mar 2022 10:00:00 GMT</pubDate>
+            <guid>7c12f643dffae14218795146f512b037</guid>
+            <pubDate>Thu, 03 Mar 2022 12:03:00 GMT</pubDate>
             <description><![CDATA[<strong>Thu 3 Mar</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
 Mostly sunny<br>
 Max: 4°C<br>
 <br>
 <strong>Fri 4 Mar</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-14.png" alt="Possible snow" /><br>
-Possible snow<br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-10.png" alt="Mostly cloudy" /><br>
+Mostly cloudy<br>
 Min: -7°C<br>
 Max: 3°C<br>
+<br>
+<strong>Sat 5 Mar</strong><br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-14.png" alt="Possible snow" /><br>
+Possible snow<br>
+Min: -6°C<br>
+Max: -1°C<br>
 ]]></description>
         </item>
         <item>
             <title><![CDATA[Kraljevo]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>b5d1a585a152a2f5e9357b7cf1938d34</guid>
-            <pubDate>Thu, 03 Mar 2022 10:00:00 GMT</pubDate>
+            <guid>e0f93caa7ac4a25c1a08df062c2f961a</guid>
+            <pubDate>Thu, 03 Mar 2022 12:03:00 GMT</pubDate>
             <description><![CDATA[<strong>Thu 3 Mar</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
 Mostly sunny<br>
@@ -148,30 +190,42 @@ Max: 10°C<br>
 Mostly cloudy<br>
 Min: -4°C<br>
 Max: 8°C<br>
+<br>
+<strong>Sat 5 Mar</strong><br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-10.png" alt="Mostly cloudy" /><br>
+Mostly cloudy<br>
+Min: -2°C<br>
+Max: 5°C<br>
 ]]></description>
         </item>
         <item>
             <title><![CDATA[Priština]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>d3264448661e01f95aac1e7299fdeb43</guid>
-            <pubDate>Thu, 03 Mar 2022 10:00:00 GMT</pubDate>
+            <guid>8f9e7feaa403b1cbe12febe0e812659d</guid>
+            <pubDate>Thu, 03 Mar 2022 12:03:00 GMT</pubDate>
             <description><![CDATA[<strong>Thu 3 Mar</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-4.png" alt="Partly cloudy" /><br>
 Partly cloudy<br>
 Max: 6°C<br>
 <br>
 <strong>Fri 4 Mar</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-10.png" alt="Mostly cloudy" /><br>
-Mostly cloudy<br>
-Min: -4°C<br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-6.png" alt="Possible rain showers" /><br>
+Possible rain showers<br>
+Min: -5°C<br>
 Max: 7°C<br>
+<br>
+<strong>Sat 5 Mar</strong><br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-6.png" alt="Possible rain showers" /><br>
+Possible rain showers<br>
+Min: -2°C<br>
+Max: 5°C<br>
 ]]></description>
         </item>
         <item>
             <title><![CDATA[Niš]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>8e366ec0151f897411a20454879a803c</guid>
-            <pubDate>Thu, 03 Mar 2022 10:00:00 GMT</pubDate>
+            <guid>42ce3ac531dc90d337b1e282d7203552</guid>
+            <pubDate>Thu, 03 Mar 2022 12:03:00 GMT</pubDate>
             <description><![CDATA[<strong>Thu 3 Mar</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-10.png" alt="Mostly cloudy" /><br>
 Mostly cloudy<br>
@@ -181,7 +235,13 @@ Max: 8°C<br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-10.png" alt="Mostly cloudy" /><br>
 Mostly cloudy<br>
 Min: -3°C<br>
-Max: 8°C<br>
+Max: 9°C<br>
+<br>
+<strong>Sat 5 Mar</strong><br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-10.png" alt="Mostly cloudy" /><br>
+Mostly cloudy<br>
+Min: -2°C<br>
+Max: 7°C<br>
 ]]></description>
         </item>
     </channel>
