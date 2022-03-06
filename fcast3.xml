@@ -4,7 +4,7 @@
         <title>RHMZ</title>
         <link>https://data.dvuckovic.com/fcast3.xml</link>
         <description>Weather Forecast for Serbia</description>
-        <lastBuildDate>Sat, 05 Mar 2022 11:36:00 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Mar 2022 05:25:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>fcast</generator>
         <language>en</language>
@@ -17,8 +17,8 @@
         <item>
             <title><![CDATA[Palić]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>4f2a6bacd1e8a3869c45b94d5cb6697d</guid>
-            <pubDate>Sat, 05 Mar 2022 11:36:00 GMT</pubDate>
+            <guid>b2d8288879e660dfb78324981a3bb2c2</guid>
+            <pubDate>Sun, 06 Mar 2022 05:25:00 GMT</pubDate>
             <description><![CDATA[<strong>Sun 6 Mar</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-7.png" alt="Cloudy" /><br>
 Cloudy<br>
@@ -34,8 +34,8 @@ Max: 5°C<br>
         <item>
             <title><![CDATA[Novi Sad]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>44f6e3082c77824da508788750e80bb4</guid>
-            <pubDate>Sat, 05 Mar 2022 11:36:00 GMT</pubDate>
+            <guid>574c2bbbf2bca7656473917b63dd01cf</guid>
+            <pubDate>Sun, 06 Mar 2022 05:25:00 GMT</pubDate>
             <description><![CDATA[<strong>Sun 6 Mar</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-13.png" alt="Rain and snow mixed" /><br>
 Rain and snow mixed<br>
@@ -51,8 +51,8 @@ Max: 4°C<br>
         <item>
             <title><![CDATA[Loznica]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>75fc3d29747ebb3939ebd7bb49249bde</guid>
-            <pubDate>Sat, 05 Mar 2022 11:36:00 GMT</pubDate>
+            <guid>e3d430cf4255cfe63896313102804516</guid>
+            <pubDate>Sun, 06 Mar 2022 05:25:00 GMT</pubDate>
             <description><![CDATA[<strong>Sun 6 Mar</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-15.png" alt="Snow" /><br>
 Snow<br>
@@ -68,8 +68,8 @@ Max: 4°C<br>
         <item>
             <title><![CDATA[Belgrade]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>e33c53f61da7bc38fb1d8ff4c978fbdf</guid>
-            <pubDate>Sat, 05 Mar 2022 11:36:00 GMT</pubDate>
+            <guid>facfefae910a9cc63f6c130de5e8e40e</guid>
+            <pubDate>Sun, 06 Mar 2022 05:25:00 GMT</pubDate>
             <description><![CDATA[<strong>Sun 6 Mar</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-13.png" alt="Rain and snow mixed" /><br>
 Rain and snow mixed<br>
@@ -85,8 +85,8 @@ Max: 4°C<br>
         <item>
             <title><![CDATA[Kragujevac]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>6cbdd952852a3ea1d326e1d123ace0bd</guid>
-            <pubDate>Sat, 05 Mar 2022 11:36:00 GMT</pubDate>
+            <guid>490aaeba4dcf0cf4bb279348391a31dd</guid>
+            <pubDate>Sun, 06 Mar 2022 05:25:00 GMT</pubDate>
             <description><![CDATA[<strong>Sun 6 Mar</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-15.png" alt="Snow" /><br>
 Snow<br>
@@ -102,8 +102,8 @@ Max: 4°C<br>
         <item>
             <title><![CDATA[Negotin]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>c12c0c4d8964d012f4bacd9e0f99c5d3</guid>
-            <pubDate>Sat, 05 Mar 2022 11:36:00 GMT</pubDate>
+            <guid>735764bb1e219f2d11e729909b4690ab</guid>
+            <pubDate>Sun, 06 Mar 2022 05:25:00 GMT</pubDate>
             <description><![CDATA[<strong>Sun 6 Mar</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-15.png" alt="Snow" /><br>
 Snow<br>
@@ -119,8 +119,8 @@ Max: 5°C<br>
         <item>
             <title><![CDATA[Zlatibor]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>bafd3db5fbf1282e5fee0785c45322d7</guid>
-            <pubDate>Sat, 05 Mar 2022 11:36:00 GMT</pubDate>
+            <guid>3e652a5a8606b8190df2033e22d482e0</guid>
+            <pubDate>Sun, 06 Mar 2022 05:25:00 GMT</pubDate>
             <description><![CDATA[<strong>Sun 6 Mar</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-15.png" alt="Snow" /><br>
 Snow<br>
@@ -136,8 +136,8 @@ Max: -1°C<br>
         <item>
             <title><![CDATA[Kraljevo]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>6b80347ac8b7939c83c23738064592e7</guid>
-            <pubDate>Sat, 05 Mar 2022 11:36:00 GMT</pubDate>
+            <guid>d9bb7cff799453e435fcf9ecbffe2147</guid>
+            <pubDate>Sun, 06 Mar 2022 05:25:00 GMT</pubDate>
             <description><![CDATA[<strong>Sun 6 Mar</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-15.png" alt="Snow" /><br>
 Snow<br>
@@ -153,8 +153,8 @@ Max: 4°C<br>
         <item>
             <title><![CDATA[Priština]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>93c6bc518c8978ec6294f570d01dccee</guid>
-            <pubDate>Sat, 05 Mar 2022 11:36:00 GMT</pubDate>
+            <guid>e91c399b3b1ff0e3d0f9022fe05be8c0</guid>
+            <pubDate>Sun, 06 Mar 2022 05:25:00 GMT</pubDate>
             <description><![CDATA[<strong>Sun 6 Mar</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-15.png" alt="Snow" /><br>
 Snow<br>
@@ -170,8 +170,8 @@ Max: 3°C<br>
         <item>
             <title><![CDATA[Niš]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>b969b7b285e8f7eed3e207e97721b581</guid>
-            <pubDate>Sat, 05 Mar 2022 11:36:00 GMT</pubDate>
+            <guid>6c3b7d496401efbed949133eefd185f1</guid>
+            <pubDate>Sun, 06 Mar 2022 05:25:00 GMT</pubDate>
             <description><![CDATA[<strong>Sun 6 Mar</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-13.png" alt="Rain and snow mixed" /><br>
 Rain and snow mixed<br>
