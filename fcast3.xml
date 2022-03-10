@@ -4,7 +4,7 @@
         <title>RHMZ</title>
         <link>https://data.dvuckovic.com/fcast3.xml</link>
         <description>Weather Forecast for Serbia</description>
-        <lastBuildDate>Wed, 09 Mar 2022 13:20:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Mar 2022 00:35:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>fcast</generator>
         <language>en</language>
@@ -17,17 +17,11 @@
         <item>
             <title><![CDATA[Palić]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>f751a6acfe9b86c4f48f4964e7a5b518</guid>
-            <pubDate>Wed, 09 Mar 2022 13:20:00 GMT</pubDate>
-            <description><![CDATA[<strong>Wed 9 Mar</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-7.png" alt="Cloudy" /><br>
-Cloudy<br>
-Max: 7°C<br>
-<br>
-<strong>Thu 10 Mar</strong><br>
+            <guid>1e31211b1c2e197c9938e10e54af4edd</guid>
+            <pubDate>Thu, 10 Mar 2022 00:35:00 GMT</pubDate>
+            <description><![CDATA[<strong>Thu 10 Mar</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
 Mostly sunny<br>
-Min: -1°C<br>
 Max: 6°C<br>
 <br>
 <strong>Fri 11 Mar</strong><br>
@@ -40,17 +34,11 @@ Max: 4°C<br>
         <item>
             <title><![CDATA[Novi Sad]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>10aa3fc2f8b29fab987fc30d2432fba7</guid>
-            <pubDate>Wed, 09 Mar 2022 13:20:00 GMT</pubDate>
-            <description><![CDATA[<strong>Wed 9 Mar</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-7.png" alt="Cloudy" /><br>
-Cloudy<br>
-Max: 6°C<br>
-<br>
-<strong>Thu 10 Mar</strong><br>
+            <guid>7e005d1d9177b99b6cdb77f29f180b13</guid>
+            <pubDate>Thu, 10 Mar 2022 00:35:00 GMT</pubDate>
+            <description><![CDATA[<strong>Thu 10 Mar</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
 Mostly sunny<br>
-Min: 0°C<br>
 Max: 6°C<br>
 <br>
 <strong>Fri 11 Mar</strong><br>
@@ -63,17 +51,11 @@ Max: 4°C<br>
         <item>
             <title><![CDATA[Loznica]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>5ed89095961029a64cc5d0fb06597482</guid>
-            <pubDate>Wed, 09 Mar 2022 13:20:00 GMT</pubDate>
-            <description><![CDATA[<strong>Wed 9 Mar</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-7.png" alt="Cloudy" /><br>
-Cloudy<br>
-Max: 4°C<br>
-<br>
-<strong>Thu 10 Mar</strong><br>
+            <guid>e8b40ba591a1b0142a5c98aedae3cda2</guid>
+            <pubDate>Thu, 10 Mar 2022 00:35:00 GMT</pubDate>
+            <description><![CDATA[<strong>Thu 10 Mar</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-14.png" alt="Possible snow" /><br>
 Possible snow<br>
-Min: 2°C<br>
 Max: 5°C<br>
 <br>
 <strong>Fri 11 Mar</strong><br>
@@ -86,17 +68,11 @@ Max: 3°C<br>
         <item>
             <title><![CDATA[Belgrade]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>13be0f7b5b40e2b7269f4f7fe995fe42</guid>
-            <pubDate>Wed, 09 Mar 2022 13:20:00 GMT</pubDate>
-            <description><![CDATA[<strong>Wed 9 Mar</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-7.png" alt="Cloudy" /><br>
-Cloudy<br>
-Max: 4°C<br>
-<br>
-<strong>Thu 10 Mar</strong><br>
+            <guid>fcaaa7e4f4cab5b52db58035f20a810b</guid>
+            <pubDate>Thu, 10 Mar 2022 00:35:00 GMT</pubDate>
+            <description><![CDATA[<strong>Thu 10 Mar</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-10.png" alt="Mostly cloudy" /><br>
 Mostly cloudy<br>
-Min: 0°C<br>
 Max: 6°C<br>
 <br>
 <strong>Fri 11 Mar</strong><br>
@@ -109,17 +85,11 @@ Max: 4°C<br>
         <item>
             <title><![CDATA[Kragujevac]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>441e515491d1d022aff4b9c06ca8b496</guid>
-            <pubDate>Wed, 09 Mar 2022 13:20:00 GMT</pubDate>
-            <description><![CDATA[<strong>Wed 9 Mar</strong><br>
+            <guid>2b02d9990e97f85cd24fe0696ef30712</guid>
+            <pubDate>Thu, 10 Mar 2022 00:35:00 GMT</pubDate>
+            <description><![CDATA[<strong>Thu 10 Mar</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-14.png" alt="Possible snow" /><br>
 Possible snow<br>
-Max: 3°C<br>
-<br>
-<strong>Thu 10 Mar</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-14.png" alt="Possible snow" /><br>
-Possible snow<br>
-Min: 0°C<br>
 Max: 5°C<br>
 <br>
 <strong>Fri 11 Mar</strong><br>
@@ -132,17 +102,11 @@ Max: 4°C<br>
         <item>
             <title><![CDATA[Negotin]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>46a188dfbc6a59376d89b484d01c3753</guid>
-            <pubDate>Wed, 09 Mar 2022 13:20:00 GMT</pubDate>
-            <description><![CDATA[<strong>Wed 9 Mar</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-4.png" alt="Partly cloudy" /><br>
-Partly cloudy<br>
-Max: 7°C<br>
-<br>
-<strong>Thu 10 Mar</strong><br>
+            <guid>b36e6f99d6420f6d617c31c6c71fabfc</guid>
+            <pubDate>Thu, 10 Mar 2022 00:35:00 GMT</pubDate>
+            <description><![CDATA[<strong>Thu 10 Mar</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-14.png" alt="Possible snow" /><br>
 Possible snow<br>
-Min: -3°C<br>
 Max: 4°C<br>
 <br>
 <strong>Fri 11 Mar</strong><br>
@@ -155,17 +119,11 @@ Max: 3°C<br>
         <item>
             <title><![CDATA[Zlatibor]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>b4940bc817f913b450e3562ca82159d8</guid>
-            <pubDate>Wed, 09 Mar 2022 13:20:00 GMT</pubDate>
-            <description><![CDATA[<strong>Wed 9 Mar</strong><br>
+            <guid>91df9b35baa18eadbf6737346d556ada</guid>
+            <pubDate>Thu, 10 Mar 2022 00:35:00 GMT</pubDate>
+            <description><![CDATA[<strong>Thu 10 Mar</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-14.png" alt="Possible snow" /><br>
 Possible snow<br>
-Max: -3°C<br>
-<br>
-<strong>Thu 10 Mar</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-14.png" alt="Possible snow" /><br>
-Possible snow<br>
-Min: -5°C<br>
 Max: -1°C<br>
 <br>
 <strong>Fri 11 Mar</strong><br>
@@ -178,17 +136,11 @@ Max: -3°C<br>
         <item>
             <title><![CDATA[Kraljevo]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>9d37d98b9b04fa3f33e452fc0180cfff</guid>
-            <pubDate>Wed, 09 Mar 2022 13:20:00 GMT</pubDate>
-            <description><![CDATA[<strong>Wed 9 Mar</strong><br>
+            <guid>7d85c16c1d250dafa12e0802685fe48d</guid>
+            <pubDate>Thu, 10 Mar 2022 00:35:00 GMT</pubDate>
+            <description><![CDATA[<strong>Thu 10 Mar</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-14.png" alt="Possible snow" /><br>
 Possible snow<br>
-Max: 3°C<br>
-<br>
-<strong>Thu 10 Mar</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-14.png" alt="Possible snow" /><br>
-Possible snow<br>
-Min: -2°C<br>
 Max: 4°C<br>
 <br>
 <strong>Fri 11 Mar</strong><br>
@@ -201,17 +153,11 @@ Max: 3°C<br>
         <item>
             <title><![CDATA[Priština]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>9b0014016020327faada001d1e1096cb</guid>
-            <pubDate>Wed, 09 Mar 2022 13:20:00 GMT</pubDate>
-            <description><![CDATA[<strong>Wed 9 Mar</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-7.png" alt="Cloudy" /><br>
-Cloudy<br>
-Max: 3°C<br>
-<br>
-<strong>Thu 10 Mar</strong><br>
+            <guid>6a92d344c91bfd31912da74584a68b83</guid>
+            <pubDate>Thu, 10 Mar 2022 00:35:00 GMT</pubDate>
+            <description><![CDATA[<strong>Thu 10 Mar</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-14.png" alt="Possible snow" /><br>
 Possible snow<br>
-Min: -3°C<br>
 Max: 3°C<br>
 <br>
 <strong>Fri 11 Mar</strong><br>
@@ -224,17 +170,11 @@ Max: 1°C<br>
         <item>
             <title><![CDATA[Niš]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>dd962b3b7af5808bf4eb3c5505e75e13</guid>
-            <pubDate>Wed, 09 Mar 2022 13:20:00 GMT</pubDate>
-            <description><![CDATA[<strong>Wed 9 Mar</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-7.png" alt="Cloudy" /><br>
-Cloudy<br>
-Max: 4°C<br>
-<br>
-<strong>Thu 10 Mar</strong><br>
+            <guid>b9fb529cf55491e5277cb415c0a44210</guid>
+            <pubDate>Thu, 10 Mar 2022 00:35:00 GMT</pubDate>
+            <description><![CDATA[<strong>Thu 10 Mar</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-14.png" alt="Possible snow" /><br>
 Possible snow<br>
-Min: -2°C<br>
 Max: 3°C<br>
 <br>
 <strong>Fri 11 Mar</strong><br>
