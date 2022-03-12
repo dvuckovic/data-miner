@@ -4,7 +4,7 @@
         <title>RHMZ</title>
         <link>https://data.dvuckovic.com/fcast3.xml</link>
         <description>Weather Forecast for Serbia</description>
-        <lastBuildDate>Sat, 12 Mar 2022 05:20:00 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Mar 2022 08:50:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>fcast</generator>
         <language>en</language>
@@ -17,8 +17,8 @@
         <item>
             <title><![CDATA[Palić]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>8ff8fb030e35c29fdc73783962c93997</guid>
-            <pubDate>Sat, 12 Mar 2022 05:20:00 GMT</pubDate>
+            <guid>583f82c6de746c555f15b501cad3566e</guid>
+            <pubDate>Sat, 12 Mar 2022 08:50:00 GMT</pubDate>
             <description><![CDATA[<strong>Sat 12 Mar</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
 Sunny<br>
@@ -34,8 +34,8 @@ Max: 10°C<br>
         <item>
             <title><![CDATA[Novi Sad]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>7acb49af75da7014acebe6763352f61e</guid>
-            <pubDate>Sat, 12 Mar 2022 05:20:00 GMT</pubDate>
+            <guid>7a3004309bb71ac8ed06e1d06938221e</guid>
+            <pubDate>Sat, 12 Mar 2022 08:50:00 GMT</pubDate>
             <description><![CDATA[<strong>Sat 12 Mar</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
 Sunny<br>
@@ -51,8 +51,8 @@ Max: 9°C<br>
         <item>
             <title><![CDATA[Loznica]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>36b58c6459fc14e5efe996558d99958f</guid>
-            <pubDate>Sat, 12 Mar 2022 05:20:00 GMT</pubDate>
+            <guid>1de618e604032ac0e7157c1ca3f7410c</guid>
+            <pubDate>Sat, 12 Mar 2022 08:50:00 GMT</pubDate>
             <description><![CDATA[<strong>Sat 12 Mar</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
 Sunny<br>
@@ -68,8 +68,8 @@ Max: 10°C<br>
         <item>
             <title><![CDATA[Belgrade]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>04947d170619e550a0ec4ad9e4312553</guid>
-            <pubDate>Sat, 12 Mar 2022 05:20:00 GMT</pubDate>
+            <guid>c30e29fb5ccfb13d1d873506ebdbf8c1</guid>
+            <pubDate>Sat, 12 Mar 2022 08:50:00 GMT</pubDate>
             <description><![CDATA[<strong>Sat 12 Mar</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
 Sunny<br>
@@ -85,8 +85,8 @@ Max: 9°C<br>
         <item>
             <title><![CDATA[Kragujevac]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>2979d1664358029878b7fb58da657061</guid>
-            <pubDate>Sat, 12 Mar 2022 05:20:00 GMT</pubDate>
+            <guid>be15ae695aaa274a64dc69202844c512</guid>
+            <pubDate>Sat, 12 Mar 2022 08:50:00 GMT</pubDate>
             <description><![CDATA[<strong>Sat 12 Mar</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
 Sunny<br>
@@ -102,8 +102,8 @@ Max: 9°C<br>
         <item>
             <title><![CDATA[Negotin]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>243067771da667dec55870b758d46a5b</guid>
-            <pubDate>Sat, 12 Mar 2022 05:20:00 GMT</pubDate>
+            <guid>b961d3a6e3dbe0e5997852f104f2a7a6</guid>
+            <pubDate>Sat, 12 Mar 2022 08:50:00 GMT</pubDate>
             <description><![CDATA[<strong>Sat 12 Mar</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
 Mostly sunny<br>
@@ -119,8 +119,8 @@ Max: 10°C<br>
         <item>
             <title><![CDATA[Zlatibor]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>ceb9b924047f136f4f7f33067a8488c4</guid>
-            <pubDate>Sat, 12 Mar 2022 05:20:00 GMT</pubDate>
+            <guid>162cb5db8aea0f37ded331b5eed6bcb2</guid>
+            <pubDate>Sat, 12 Mar 2022 08:50:00 GMT</pubDate>
             <description><![CDATA[<strong>Sat 12 Mar</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
 Mostly sunny<br>
@@ -136,8 +136,8 @@ Max: 4°C<br>
         <item>
             <title><![CDATA[Kraljevo]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>0988e0a9b79ddea24f958e185cd6363b</guid>
-            <pubDate>Sat, 12 Mar 2022 05:20:00 GMT</pubDate>
+            <guid>8e8f91a20590f67e335f6c78232c134e</guid>
+            <pubDate>Sat, 12 Mar 2022 08:50:00 GMT</pubDate>
             <description><![CDATA[<strong>Sat 12 Mar</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
 Sunny<br>
@@ -153,11 +153,11 @@ Max: 9°C<br>
         <item>
             <title><![CDATA[Priština]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>92cf77eaa428342ed5ecafe21ddab812</guid>
-            <pubDate>Sat, 12 Mar 2022 05:20:00 GMT</pubDate>
+            <guid>f327eed936d30e27076b83e7ec1adbd9</guid>
+            <pubDate>Sat, 12 Mar 2022 08:50:00 GMT</pubDate>
             <description><![CDATA[<strong>Sat 12 Mar</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-4.png" alt="Partly cloudy" /><br>
-Partly cloudy<br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
+Mostly sunny<br>
 Max: 1°C<br>
 <br>
 <strong>Sun 13 Mar</strong><br>
@@ -170,11 +170,11 @@ Max: 7°C<br>
         <item>
             <title><![CDATA[Niš]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>c69f4565b0798cfc61d6c0d947bd3d15</guid>
-            <pubDate>Sat, 12 Mar 2022 05:20:00 GMT</pubDate>
+            <guid>9df2beca01319e9c3a56833ec0e4d81d</guid>
+            <pubDate>Sat, 12 Mar 2022 08:50:00 GMT</pubDate>
             <description><![CDATA[<strong>Sat 12 Mar</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-4.png" alt="Partly cloudy" /><br>
-Partly cloudy<br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
+Mostly sunny<br>
 Max: 4°C<br>
 <br>
 <strong>Sun 13 Mar</strong><br>
