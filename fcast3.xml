@@ -4,7 +4,7 @@
         <title>RHMZ</title>
         <link>https://data.dvuckovic.com/fcast3.xml</link>
         <description>Weather Forecast for Serbia</description>
-        <lastBuildDate>Tue, 15 Mar 2022 08:55:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Mar 2022 12:20:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>fcast</generator>
         <language>en</language>
@@ -17,25 +17,31 @@
         <item>
             <title><![CDATA[Palić]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>c7dbeed9b340116474315284f0715b4e</guid>
-            <pubDate>Tue, 15 Mar 2022 08:55:00 GMT</pubDate>
+            <guid>adf1b9b673124281d385269eaf72d4f9</guid>
+            <pubDate>Tue, 15 Mar 2022 12:20:00 GMT</pubDate>
             <description><![CDATA[<strong>Tue 15 Mar</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-4.png" alt="Partly cloudy" /><br>
 Partly cloudy<br>
-Max: 14°C<br>
+Max: 15°C<br>
 <br>
 <strong>Wed 16 Mar</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-8.png" alt="Possible rain" /><br>
-Possible rain<br>
-Min: 2°C<br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-9.png" alt="Rain" /><br>
+Rain<br>
+Min: 4°C<br>
+Max: 12°C<br>
+<br>
+<strong>Thu 17 Mar</strong><br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-7.png" alt="Cloudy" /><br>
+Cloudy<br>
+Min: 0°C<br>
 Max: 11°C<br>
 ]]></description>
         </item>
         <item>
             <title><![CDATA[Novi Sad]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>331347072c27802a5eaf5599b65d0706</guid>
-            <pubDate>Tue, 15 Mar 2022 08:55:00 GMT</pubDate>
+            <guid>39ef171daacc7e00598ba50287bde220</guid>
+            <pubDate>Tue, 15 Mar 2022 12:20:00 GMT</pubDate>
             <description><![CDATA[<strong>Tue 15 Mar</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-4.png" alt="Partly cloudy" /><br>
 Partly cloudy<br>
@@ -44,15 +50,21 @@ Max: 16°C<br>
 <strong>Wed 16 Mar</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-9.png" alt="Rain" /><br>
 Rain<br>
-Min: 5°C<br>
+Min: 6°C<br>
+Max: 14°C<br>
+<br>
+<strong>Thu 17 Mar</strong><br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-7.png" alt="Cloudy" /><br>
+Cloudy<br>
+Min: 2°C<br>
 Max: 12°C<br>
 ]]></description>
         </item>
         <item>
             <title><![CDATA[Loznica]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>0eb295fd8845ae63bda819326551e6f2</guid>
-            <pubDate>Tue, 15 Mar 2022 08:55:00 GMT</pubDate>
+            <guid>18a7e4b3a39f565116329fa488e33992</guid>
+            <pubDate>Tue, 15 Mar 2022 12:20:00 GMT</pubDate>
             <description><![CDATA[<strong>Tue 15 Mar</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
 Mostly sunny<br>
@@ -61,15 +73,21 @@ Max: 17°C<br>
 <strong>Wed 16 Mar</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-9.png" alt="Rain" /><br>
 Rain<br>
-Min: 6°C<br>
+Min: 7°C<br>
 Max: 15°C<br>
+<br>
+<strong>Thu 17 Mar</strong><br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-8.png" alt="Possible rain" /><br>
+Possible rain<br>
+Min: 4°C<br>
+Max: 11°C<br>
 ]]></description>
         </item>
         <item>
             <title><![CDATA[Belgrade]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>6e28f7f5e1f53f8150ed70cc4369aae7</guid>
-            <pubDate>Tue, 15 Mar 2022 08:55:00 GMT</pubDate>
+            <guid>19b2c92704378582dcca317a0f257417</guid>
+            <pubDate>Tue, 15 Mar 2022 12:20:00 GMT</pubDate>
             <description><![CDATA[<strong>Tue 15 Mar</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
 Mostly sunny<br>
@@ -78,15 +96,21 @@ Max: 16°C<br>
 <strong>Wed 16 Mar</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-9.png" alt="Rain" /><br>
 Rain<br>
-Min: 7°C<br>
-Max: 13°C<br>
+Min: 8°C<br>
+Max: 14°C<br>
+<br>
+<strong>Thu 17 Mar</strong><br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-7.png" alt="Cloudy" /><br>
+Cloudy<br>
+Min: 4°C<br>
+Max: 11°C<br>
 ]]></description>
         </item>
         <item>
             <title><![CDATA[Kragujevac]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>b2782e4ba8efb4153d34710ca4c699b6</guid>
-            <pubDate>Tue, 15 Mar 2022 08:55:00 GMT</pubDate>
+            <guid>11e68b1e233cd1b4e381bc0445661dfb</guid>
+            <pubDate>Tue, 15 Mar 2022 12:20:00 GMT</pubDate>
             <description><![CDATA[<strong>Tue 15 Mar</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
 Mostly sunny<br>
@@ -97,13 +121,19 @@ Max: 16°C<br>
 Rain<br>
 Min: 4°C<br>
 Max: 15°C<br>
+<br>
+<strong>Thu 17 Mar</strong><br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-8.png" alt="Possible rain" /><br>
+Possible rain<br>
+Min: 4°C<br>
+Max: 10°C<br>
 ]]></description>
         </item>
         <item>
             <title><![CDATA[Negotin]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>b7279d12ef81a80596efed027ff053aa</guid>
-            <pubDate>Tue, 15 Mar 2022 08:55:00 GMT</pubDate>
+            <guid>da4ac198d2d5358e2cf0eed0f4a711c5</guid>
+            <pubDate>Tue, 15 Mar 2022 12:20:00 GMT</pubDate>
             <description><![CDATA[<strong>Tue 15 Mar</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-4.png" alt="Partly cloudy" /><br>
 Partly cloudy<br>
@@ -112,15 +142,21 @@ Max: 15°C<br>
 <strong>Wed 16 Mar</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-9.png" alt="Rain" /><br>
 Rain<br>
-Min: 1°C<br>
-Max: 10°C<br>
+Min: 0°C<br>
+Max: 9°C<br>
+<br>
+<strong>Thu 17 Mar</strong><br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-8.png" alt="Possible rain" /><br>
+Possible rain<br>
+Min: 3°C<br>
+Max: 8°C<br>
 ]]></description>
         </item>
         <item>
             <title><![CDATA[Zlatibor]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>717530ddadf60c03e6a9c4818334f1ce</guid>
-            <pubDate>Tue, 15 Mar 2022 08:55:00 GMT</pubDate>
+            <guid>37dd665513b1e23a47f03b28734965aa</guid>
+            <pubDate>Tue, 15 Mar 2022 12:20:00 GMT</pubDate>
             <description><![CDATA[<strong>Tue 15 Mar</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
 Mostly sunny<br>
@@ -131,13 +167,19 @@ Max: 13°C<br>
 Rain<br>
 Min: 3°C<br>
 Max: 10°C<br>
+<br>
+<strong>Thu 17 Mar</strong><br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-13.png" alt="Rain and snow mixed" /><br>
+Rain and snow mixed<br>
+Min: 0°C<br>
+Max: 4°C<br>
 ]]></description>
         </item>
         <item>
             <title><![CDATA[Kraljevo]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>160db379d25c3de4b0ddc89aa353af84</guid>
-            <pubDate>Tue, 15 Mar 2022 08:55:00 GMT</pubDate>
+            <guid>fe313d733a27d1105be7378aae7c162d</guid>
+            <pubDate>Tue, 15 Mar 2022 12:20:00 GMT</pubDate>
             <description><![CDATA[<strong>Tue 15 Mar</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
 Mostly sunny<br>
@@ -146,15 +188,21 @@ Max: 16°C<br>
 <strong>Wed 16 Mar</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-9.png" alt="Rain" /><br>
 Rain<br>
-Min: 3°C<br>
+Min: 4°C<br>
 Max: 13°C<br>
+<br>
+<strong>Thu 17 Mar</strong><br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-8.png" alt="Possible rain" /><br>
+Possible rain<br>
+Min: 4°C<br>
+Max: 9°C<br>
 ]]></description>
         </item>
         <item>
             <title><![CDATA[Priština]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>aa9df771c0359a8121fb31a451ab52b9</guid>
-            <pubDate>Tue, 15 Mar 2022 08:55:00 GMT</pubDate>
+            <guid>8b37601524189300974b50d909d721ce</guid>
+            <pubDate>Tue, 15 Mar 2022 12:20:00 GMT</pubDate>
             <description><![CDATA[<strong>Tue 15 Mar</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
 Mostly sunny<br>
@@ -163,15 +211,21 @@ Max: 13°C<br>
 <strong>Wed 16 Mar</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-9.png" alt="Rain" /><br>
 Rain<br>
-Min: 0°C<br>
-Max: 13°C<br>
+Min: -1°C<br>
+Max: 12°C<br>
+<br>
+<strong>Thu 17 Mar</strong><br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-8.png" alt="Possible rain" /><br>
+Possible rain<br>
+Min: 2°C<br>
+Max: 9°C<br>
 ]]></description>
         </item>
         <item>
             <title><![CDATA[Niš]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>ae9d731b45de4e54b0e51b57c0211164</guid>
-            <pubDate>Tue, 15 Mar 2022 08:55:00 GMT</pubDate>
+            <guid>bfdb48ad0a22c60e9f6a14d01f8e91f7</guid>
+            <pubDate>Tue, 15 Mar 2022 12:20:00 GMT</pubDate>
             <description><![CDATA[<strong>Tue 15 Mar</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
 Mostly sunny<br>
@@ -181,7 +235,13 @@ Max: 15°C<br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-9.png" alt="Rain" /><br>
 Rain<br>
 Min: 2°C<br>
-Max: 14°C<br>
+Max: 13°C<br>
+<br>
+<strong>Thu 17 Mar</strong><br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-8.png" alt="Possible rain" /><br>
+Possible rain<br>
+Min: 4°C<br>
+Max: 10°C<br>
 ]]></description>
         </item>
     </channel>
