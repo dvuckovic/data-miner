@@ -4,7 +4,7 @@
         <title>RHMZ</title>
         <link>https://data.dvuckovic.com/fcast3.xml</link>
         <description>Weather Forecast for Serbia</description>
-        <lastBuildDate>Fri, 18 Mar 2022 05:30:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Mar 2022 09:50:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>fcast</generator>
         <language>en</language>
@@ -17,11 +17,11 @@
         <item>
             <title><![CDATA[Palić]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>bbf792e6f53e654638ee6baec2c0559f</guid>
-            <pubDate>Fri, 18 Mar 2022 05:30:00 GMT</pubDate>
+            <guid>7b8bc582a4b2a8960f8ed949e2262d38</guid>
+            <pubDate>Fri, 18 Mar 2022 09:50:00 GMT</pubDate>
             <description><![CDATA[<strong>Fri 18 Mar</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-10.png" alt="Mostly cloudy" /><br>
-Mostly cloudy<br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-4.png" alt="Partly cloudy" /><br>
+Partly cloudy<br>
 Max: 9°C<br>
 <br>
 <strong>Sat 19 Mar</strong><br>
@@ -34,8 +34,8 @@ Max: 9°C<br>
         <item>
             <title><![CDATA[Novi Sad]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>20f7382185d4f8a62f3fee81f74c6cec</guid>
-            <pubDate>Fri, 18 Mar 2022 05:30:00 GMT</pubDate>
+            <guid>5dae563372f231dbb4a5f21611e5c649</guid>
+            <pubDate>Fri, 18 Mar 2022 09:50:00 GMT</pubDate>
             <description><![CDATA[<strong>Fri 18 Mar</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-4.png" alt="Partly cloudy" /><br>
 Partly cloudy<br>
@@ -51,8 +51,8 @@ Max: 10°C<br>
         <item>
             <title><![CDATA[Loznica]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>a244cc55c2c2d2c8b579ab746a0eba94</guid>
-            <pubDate>Fri, 18 Mar 2022 05:30:00 GMT</pubDate>
+            <guid>3a44d1d1fe57ce27d7b0930c8ff70d74</guid>
+            <pubDate>Fri, 18 Mar 2022 09:50:00 GMT</pubDate>
             <description><![CDATA[<strong>Fri 18 Mar</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
 Mostly sunny<br>
@@ -68,8 +68,8 @@ Max: 11°C<br>
         <item>
             <title><![CDATA[Belgrade]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>6657d4d566497cdc18200f546fac78e5</guid>
-            <pubDate>Fri, 18 Mar 2022 05:30:00 GMT</pubDate>
+            <guid>12020553b49feff413ebec7f2da5f184</guid>
+            <pubDate>Fri, 18 Mar 2022 09:50:00 GMT</pubDate>
             <description><![CDATA[<strong>Fri 18 Mar</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
 Mostly sunny<br>
@@ -85,8 +85,8 @@ Max: 10°C<br>
         <item>
             <title><![CDATA[Kragujevac]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>932977bae3c2fccfacf3969011f74244</guid>
-            <pubDate>Fri, 18 Mar 2022 05:30:00 GMT</pubDate>
+            <guid>a0a369a9f51e5764d74dabf1d1317161</guid>
+            <pubDate>Fri, 18 Mar 2022 09:50:00 GMT</pubDate>
             <description><![CDATA[<strong>Fri 18 Mar</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
 Mostly sunny<br>
@@ -102,8 +102,8 @@ Max: 10°C<br>
         <item>
             <title><![CDATA[Negotin]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>907a69dd4360fa32511d1bbbd99d846c</guid>
-            <pubDate>Fri, 18 Mar 2022 05:30:00 GMT</pubDate>
+            <guid>31769472db744b3d4af5e0145fc5cfd8</guid>
+            <pubDate>Fri, 18 Mar 2022 09:50:00 GMT</pubDate>
             <description><![CDATA[<strong>Fri 18 Mar</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
 Mostly sunny<br>
@@ -119,11 +119,11 @@ Max: 8°C<br>
         <item>
             <title><![CDATA[Zlatibor]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>db26eb748218bb233b8a3d33ea5aee8d</guid>
-            <pubDate>Fri, 18 Mar 2022 05:30:00 GMT</pubDate>
+            <guid>d7ae70696898320ea89e963ee8e825c8</guid>
+            <pubDate>Fri, 18 Mar 2022 09:50:00 GMT</pubDate>
             <description><![CDATA[<strong>Fri 18 Mar</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-4.png" alt="Partly cloudy" /><br>
-Partly cloudy<br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
+Mostly sunny<br>
 Max: 4°C<br>
 <br>
 <strong>Sat 19 Mar</strong><br>
@@ -136,8 +136,8 @@ Max: 4°C<br>
         <item>
             <title><![CDATA[Kraljevo]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>c141a0db970a4368a3f38757f99bed8b</guid>
-            <pubDate>Fri, 18 Mar 2022 05:30:00 GMT</pubDate>
+            <guid>7adc8d73180a98abf67c3f83ef12e1fb</guid>
+            <pubDate>Fri, 18 Mar 2022 09:50:00 GMT</pubDate>
             <description><![CDATA[<strong>Fri 18 Mar</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
 Mostly sunny<br>
@@ -153,11 +153,11 @@ Max: 9°C<br>
         <item>
             <title><![CDATA[Priština]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>9078dd9a1a953eba778bcd2526f840e2</guid>
-            <pubDate>Fri, 18 Mar 2022 05:30:00 GMT</pubDate>
+            <guid>e888c94a6516a9e3d47a3beccdeb85af</guid>
+            <pubDate>Fri, 18 Mar 2022 09:50:00 GMT</pubDate>
             <description><![CDATA[<strong>Fri 18 Mar</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-4.png" alt="Partly cloudy" /><br>
-Partly cloudy<br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
+Mostly sunny<br>
 Max: 8°C<br>
 <br>
 <strong>Sat 19 Mar</strong><br>
@@ -170,8 +170,8 @@ Max: 8°C<br>
         <item>
             <title><![CDATA[Niš]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>6e8ff8ce5a67cd7dc54502afcb446b92</guid>
-            <pubDate>Fri, 18 Mar 2022 05:30:00 GMT</pubDate>
+            <guid>12113fefea6192c533234f031a3dc7cd</guid>
+            <pubDate>Fri, 18 Mar 2022 09:50:00 GMT</pubDate>
             <description><![CDATA[<strong>Fri 18 Mar</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
 Mostly sunny<br>
