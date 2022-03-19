@@ -4,7 +4,7 @@
         <title>RHMZ</title>
         <link>https://data.dvuckovic.com/fcast3.xml</link>
         <description>Weather Forecast for Serbia</description>
-        <lastBuildDate>Sat, 19 Mar 2022 04:55:00 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Mar 2022 09:05:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>fcast</generator>
         <language>en</language>
@@ -17,8 +17,8 @@
         <item>
             <title><![CDATA[Palić]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>07d5845faef68a9615f7daa0dd3b6c77</guid>
-            <pubDate>Sat, 19 Mar 2022 04:55:00 GMT</pubDate>
+            <guid>162f521bebd318e71da5f118f0e2da32</guid>
+            <pubDate>Sat, 19 Mar 2022 09:05:00 GMT</pubDate>
             <description><![CDATA[<strong>Sat 19 Mar</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
 Mostly sunny<br>
@@ -34,8 +34,8 @@ Max: 10°C<br>
         <item>
             <title><![CDATA[Novi Sad]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>8de53c9c0cd5ea0270d8709f96f40364</guid>
-            <pubDate>Sat, 19 Mar 2022 04:55:00 GMT</pubDate>
+            <guid>068f5cafd9ddd39796299838c7ae2aa0</guid>
+            <pubDate>Sat, 19 Mar 2022 09:05:00 GMT</pubDate>
             <description><![CDATA[<strong>Sat 19 Mar</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
 Mostly sunny<br>
@@ -51,8 +51,8 @@ Max: 10°C<br>
         <item>
             <title><![CDATA[Loznica]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>51eeafbf13da9795e143c1550f84fccf</guid>
-            <pubDate>Sat, 19 Mar 2022 04:55:00 GMT</pubDate>
+            <guid>db9e9bcbabb0bcd8886259bfed3096e5</guid>
+            <pubDate>Sat, 19 Mar 2022 09:05:00 GMT</pubDate>
             <description><![CDATA[<strong>Sat 19 Mar</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
 Mostly sunny<br>
@@ -68,8 +68,8 @@ Max: 10°C<br>
         <item>
             <title><![CDATA[Belgrade]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>7d2ef70a8d914e5511aa3feb79c9c77d</guid>
-            <pubDate>Sat, 19 Mar 2022 04:55:00 GMT</pubDate>
+            <guid>c76bdc4d845801725d9692c67f691d5c</guid>
+            <pubDate>Sat, 19 Mar 2022 09:05:00 GMT</pubDate>
             <description><![CDATA[<strong>Sat 19 Mar</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
 Mostly sunny<br>
@@ -85,8 +85,8 @@ Max: 11°C<br>
         <item>
             <title><![CDATA[Kragujevac]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>3f87276e1d2db9a422925949da481f99</guid>
-            <pubDate>Sat, 19 Mar 2022 04:55:00 GMT</pubDate>
+            <guid>c17fce38510b73c9f53ce34daee1428c</guid>
+            <pubDate>Sat, 19 Mar 2022 09:05:00 GMT</pubDate>
             <description><![CDATA[<strong>Sat 19 Mar</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
 Mostly sunny<br>
@@ -102,8 +102,8 @@ Max: 10°C<br>
         <item>
             <title><![CDATA[Negotin]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>917ea910a7b9a93cf71292aa75d96235</guid>
-            <pubDate>Sat, 19 Mar 2022 04:55:00 GMT</pubDate>
+            <guid>547d2fa923f81cd813c864932d152db4</guid>
+            <pubDate>Sat, 19 Mar 2022 09:05:00 GMT</pubDate>
             <description><![CDATA[<strong>Sat 19 Mar</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
 Mostly sunny<br>
@@ -119,8 +119,8 @@ Max: 9°C<br>
         <item>
             <title><![CDATA[Zlatibor]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>57a97425c48d737f59c070d62f739af9</guid>
-            <pubDate>Sat, 19 Mar 2022 04:55:00 GMT</pubDate>
+            <guid>ca836468c561905895cfe0206f7b1571</guid>
+            <pubDate>Sat, 19 Mar 2022 09:05:00 GMT</pubDate>
             <description><![CDATA[<strong>Sat 19 Mar</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
 Mostly sunny<br>
@@ -136,8 +136,8 @@ Max: 2°C<br>
         <item>
             <title><![CDATA[Kraljevo]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>b39f7146772e076625677968cd1da2f7</guid>
-            <pubDate>Sat, 19 Mar 2022 04:55:00 GMT</pubDate>
+            <guid>04a2d4c0b0c007046d9701c588238a76</guid>
+            <pubDate>Sat, 19 Mar 2022 09:05:00 GMT</pubDate>
             <description><![CDATA[<strong>Sat 19 Mar</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
 Mostly sunny<br>
@@ -153,8 +153,8 @@ Max: 9°C<br>
         <item>
             <title><![CDATA[Priština]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>0637c561c5e67f4e537488cf66d50488</guid>
-            <pubDate>Sat, 19 Mar 2022 04:55:00 GMT</pubDate>
+            <guid>235038a540a295a5e668dcc621f31a85</guid>
+            <pubDate>Sat, 19 Mar 2022 09:05:00 GMT</pubDate>
             <description><![CDATA[<strong>Sat 19 Mar</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
 Mostly sunny<br>
@@ -170,8 +170,8 @@ Max: 9°C<br>
         <item>
             <title><![CDATA[Niš]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>587896079c6fbbab78bb101298f34592</guid>
-            <pubDate>Sat, 19 Mar 2022 04:55:00 GMT</pubDate>
+            <guid>6edab0c3b5b2f097734d1a8fc96f50d9</guid>
+            <pubDate>Sat, 19 Mar 2022 09:05:00 GMT</pubDate>
             <description><![CDATA[<strong>Sat 19 Mar</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
 Mostly sunny<br>
