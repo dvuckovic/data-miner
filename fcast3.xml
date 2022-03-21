@@ -4,7 +4,7 @@
         <title>RHMZ</title>
         <link>https://data.dvuckovic.com/fcast3.xml</link>
         <description>Weather Forecast for Serbia</description>
-        <lastBuildDate>Sun, 20 Mar 2022 11:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Mar 2022 04:35:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>fcast</generator>
         <language>en</language>
@@ -17,17 +17,11 @@
         <item>
             <title><![CDATA[Palić]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>0d9bcbee638742e806d17aa8fc3ad1af</guid>
-            <pubDate>Sun, 20 Mar 2022 11:00:00 GMT</pubDate>
-            <description><![CDATA[<strong>Sun 20 Mar</strong><br>
+            <guid>4a632883dc2e0855ac12b09710134854</guid>
+            <pubDate>Mon, 21 Mar 2022 04:35:00 GMT</pubDate>
+            <description><![CDATA[<strong>Mon 21 Mar</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
 Mostly sunny<br>
-Max: 10°C<br>
-<br>
-<strong>Mon 21 Mar</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
-Mostly sunny<br>
-Min: -5°C<br>
 Max: 11°C<br>
 <br>
 <strong>Tue 22 Mar</strong><br>
@@ -40,17 +34,11 @@ Max: 15°C<br>
         <item>
             <title><![CDATA[Novi Sad]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>4bd3ae69af9d063b5c86ad16ec43c09b</guid>
-            <pubDate>Sun, 20 Mar 2022 11:00:00 GMT</pubDate>
-            <description><![CDATA[<strong>Sun 20 Mar</strong><br>
+            <guid>9da2f6134513a37b8e2f639e614c7509</guid>
+            <pubDate>Mon, 21 Mar 2022 04:35:00 GMT</pubDate>
+            <description><![CDATA[<strong>Mon 21 Mar</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
 Mostly sunny<br>
-Max: 10°C<br>
-<br>
-<strong>Mon 21 Mar</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
-Mostly sunny<br>
-Min: -4°C<br>
 Max: 11°C<br>
 <br>
 <strong>Tue 22 Mar</strong><br>
@@ -63,17 +51,11 @@ Max: 16°C<br>
         <item>
             <title><![CDATA[Loznica]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>595851522d8f3a759b8f1bd749906949</guid>
-            <pubDate>Sun, 20 Mar 2022 11:00:00 GMT</pubDate>
-            <description><![CDATA[<strong>Sun 20 Mar</strong><br>
+            <guid>a19797a9765565fe11d3c85fa81311ca</guid>
+            <pubDate>Mon, 21 Mar 2022 04:35:00 GMT</pubDate>
+            <description><![CDATA[<strong>Mon 21 Mar</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
 Mostly sunny<br>
-Max: 10°C<br>
-<br>
-<strong>Mon 21 Mar</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
-Mostly sunny<br>
-Min: -4°C<br>
 Max: 11°C<br>
 <br>
 <strong>Tue 22 Mar</strong><br>
@@ -86,17 +68,11 @@ Max: 14°C<br>
         <item>
             <title><![CDATA[Belgrade]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>352aa35825b164a518ab3512bcf1dc34</guid>
-            <pubDate>Sun, 20 Mar 2022 11:00:00 GMT</pubDate>
-            <description><![CDATA[<strong>Sun 20 Mar</strong><br>
+            <guid>cfd082403c75dd89027ba478e9b50677</guid>
+            <pubDate>Mon, 21 Mar 2022 04:35:00 GMT</pubDate>
+            <description><![CDATA[<strong>Mon 21 Mar</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
 Mostly sunny<br>
-Max: 10°C<br>
-<br>
-<strong>Mon 21 Mar</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
-Mostly sunny<br>
-Min: -1°C<br>
 Max: 11°C<br>
 <br>
 <strong>Tue 22 Mar</strong><br>
@@ -109,17 +85,11 @@ Max: 16°C<br>
         <item>
             <title><![CDATA[Kragujevac]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>fe2470cf4fda0f3762461ca0dbc25cbb</guid>
-            <pubDate>Sun, 20 Mar 2022 11:00:00 GMT</pubDate>
-            <description><![CDATA[<strong>Sun 20 Mar</strong><br>
+            <guid>e5a92b20ae6bdbef70f859261888d0e5</guid>
+            <pubDate>Mon, 21 Mar 2022 04:35:00 GMT</pubDate>
+            <description><![CDATA[<strong>Mon 21 Mar</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
 Mostly sunny<br>
-Max: 9°C<br>
-<br>
-<strong>Mon 21 Mar</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
-Mostly sunny<br>
-Min: -5°C<br>
 Max: 10°C<br>
 <br>
 <strong>Tue 22 Mar</strong><br>
@@ -132,17 +102,11 @@ Max: 15°C<br>
         <item>
             <title><![CDATA[Negotin]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>b7742b9980cdc87204bd28c2206649b8</guid>
-            <pubDate>Sun, 20 Mar 2022 11:00:00 GMT</pubDate>
-            <description><![CDATA[<strong>Sun 20 Mar</strong><br>
+            <guid>ed79d4c087be5e5f7c15340ee59eefe3</guid>
+            <pubDate>Mon, 21 Mar 2022 04:35:00 GMT</pubDate>
+            <description><![CDATA[<strong>Mon 21 Mar</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
 Mostly sunny<br>
-Max: 9°C<br>
-<br>
-<strong>Mon 21 Mar</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
-Mostly sunny<br>
-Min: -5°C<br>
 Max: 12°C<br>
 <br>
 <strong>Tue 22 Mar</strong><br>
@@ -155,17 +119,11 @@ Max: 17°C<br>
         <item>
             <title><![CDATA[Zlatibor]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>49adfd85698a0ee05be49ba7c6d2a3eb</guid>
-            <pubDate>Sun, 20 Mar 2022 11:00:00 GMT</pubDate>
-            <description><![CDATA[<strong>Sun 20 Mar</strong><br>
+            <guid>9b317e85c13ed99da7f003d9727a6393</guid>
+            <pubDate>Mon, 21 Mar 2022 04:35:00 GMT</pubDate>
+            <description><![CDATA[<strong>Mon 21 Mar</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
 Mostly sunny<br>
-Max: 2°C<br>
-<br>
-<strong>Mon 21 Mar</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
-Mostly sunny<br>
-Min: -6°C<br>
 Max: 4°C<br>
 <br>
 <strong>Tue 22 Mar</strong><br>
@@ -178,17 +136,11 @@ Max: 8°C<br>
         <item>
             <title><![CDATA[Kraljevo]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>845693cfee02b7140ae4f974d1034cce</guid>
-            <pubDate>Sun, 20 Mar 2022 11:00:00 GMT</pubDate>
-            <description><![CDATA[<strong>Sun 20 Mar</strong><br>
+            <guid>79bc2ec8a28ec1dd2fd42c6667091a01</guid>
+            <pubDate>Mon, 21 Mar 2022 04:35:00 GMT</pubDate>
+            <description><![CDATA[<strong>Mon 21 Mar</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
 Mostly sunny<br>
-Max: 8°C<br>
-<br>
-<strong>Mon 21 Mar</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
-Mostly sunny<br>
-Min: -5°C<br>
 Max: 10°C<br>
 <br>
 <strong>Tue 22 Mar</strong><br>
@@ -201,17 +153,11 @@ Max: 14°C<br>
         <item>
             <title><![CDATA[Priština]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>e45bc811dea30bd6f658bf5d364529e6</guid>
-            <pubDate>Sun, 20 Mar 2022 11:00:00 GMT</pubDate>
-            <description><![CDATA[<strong>Sun 20 Mar</strong><br>
+            <guid>e07db3198a377327107aaccc9f5b99b7</guid>
+            <pubDate>Mon, 21 Mar 2022 04:35:00 GMT</pubDate>
+            <description><![CDATA[<strong>Mon 21 Mar</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
 Mostly sunny<br>
-Max: 7°C<br>
-<br>
-<strong>Mon 21 Mar</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
-Mostly sunny<br>
-Min: -7°C<br>
 Max: 8°C<br>
 <br>
 <strong>Tue 22 Mar</strong><br>
@@ -224,17 +170,11 @@ Max: 12°C<br>
         <item>
             <title><![CDATA[Niš]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>f67725f7ca395216fee48f65191509c5</guid>
-            <pubDate>Sun, 20 Mar 2022 11:00:00 GMT</pubDate>
-            <description><![CDATA[<strong>Sun 20 Mar</strong><br>
+            <guid>5236fcef10f8aea3b09a74dd91df213e</guid>
+            <pubDate>Mon, 21 Mar 2022 04:35:00 GMT</pubDate>
+            <description><![CDATA[<strong>Mon 21 Mar</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
 Mostly sunny<br>
-Max: 9°C<br>
-<br>
-<strong>Mon 21 Mar</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
-Mostly sunny<br>
-Min: -4°C<br>
 Max: 11°C<br>
 <br>
 <strong>Tue 22 Mar</strong><br>
