@@ -4,7 +4,7 @@
         <title>RHMZ</title>
         <link>https://data.dvuckovic.com/fcast3.xml</link>
         <description>Weather Forecast for Serbia</description>
-        <lastBuildDate>Mon, 21 Mar 2022 12:15:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Mar 2022 05:20:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>fcast</generator>
         <language>en</language>
@@ -17,8 +17,8 @@
         <item>
             <title><![CDATA[Palić]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>c2792b2911475ab3bdbdc699d295aa62</guid>
-            <pubDate>Mon, 21 Mar 2022 12:15:00 GMT</pubDate>
+            <guid>382876da1c38abc3ca74f3e2a9274748</guid>
+            <pubDate>Tue, 22 Mar 2022 05:20:00 GMT</pubDate>
             <description><![CDATA[<strong>Tue 22 Mar</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
 Sunny<br>
@@ -34,8 +34,8 @@ Max: 18°C<br>
         <item>
             <title><![CDATA[Novi Sad]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>d8d496738f7f6e84ddc97faad326b2e2</guid>
-            <pubDate>Mon, 21 Mar 2022 12:15:00 GMT</pubDate>
+            <guid>174759c1521815885e2066bdaa1fd38a</guid>
+            <pubDate>Tue, 22 Mar 2022 05:20:00 GMT</pubDate>
             <description><![CDATA[<strong>Tue 22 Mar</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
 Sunny<br>
@@ -51,8 +51,8 @@ Max: 19°C<br>
         <item>
             <title><![CDATA[Loznica]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>1c1aa446826dfcdce199cc1b80c1659e</guid>
-            <pubDate>Mon, 21 Mar 2022 12:15:00 GMT</pubDate>
+            <guid>aac6e4c18b2ecf8179371cf22031e4ab</guid>
+            <pubDate>Tue, 22 Mar 2022 05:20:00 GMT</pubDate>
             <description><![CDATA[<strong>Tue 22 Mar</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
 Sunny<br>
@@ -68,8 +68,8 @@ Max: 18°C<br>
         <item>
             <title><![CDATA[Belgrade]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>f89cc07994d16062b02e8c67691094e9</guid>
-            <pubDate>Mon, 21 Mar 2022 12:15:00 GMT</pubDate>
+            <guid>a1d5bf9643e0102ae5109caeead22932</guid>
+            <pubDate>Tue, 22 Mar 2022 05:20:00 GMT</pubDate>
             <description><![CDATA[<strong>Tue 22 Mar</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
 Sunny<br>
@@ -85,8 +85,8 @@ Max: 18°C<br>
         <item>
             <title><![CDATA[Kragujevac]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>9ce9442e2f7a88f647955b4598c4a719</guid>
-            <pubDate>Mon, 21 Mar 2022 12:15:00 GMT</pubDate>
+            <guid>c37c380d4cf73ad704f7021a8acc25f8</guid>
+            <pubDate>Tue, 22 Mar 2022 05:20:00 GMT</pubDate>
             <description><![CDATA[<strong>Tue 22 Mar</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
 Sunny<br>
@@ -102,8 +102,8 @@ Max: 17°C<br>
         <item>
             <title><![CDATA[Negotin]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>8225cdb185a05364eeb8a3b1d8172b9f</guid>
-            <pubDate>Mon, 21 Mar 2022 12:15:00 GMT</pubDate>
+            <guid>bddcd9722c1c2aca5a6e74454f772455</guid>
+            <pubDate>Tue, 22 Mar 2022 05:20:00 GMT</pubDate>
             <description><![CDATA[<strong>Tue 22 Mar</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
 Sunny<br>
@@ -119,8 +119,8 @@ Max: 18°C<br>
         <item>
             <title><![CDATA[Zlatibor]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>f4b3adffaa5adfdec9238fc132345d98</guid>
-            <pubDate>Mon, 21 Mar 2022 12:15:00 GMT</pubDate>
+            <guid>eb6bdc2c928afc48c99776bc0f0b6d73</guid>
+            <pubDate>Tue, 22 Mar 2022 05:20:00 GMT</pubDate>
             <description><![CDATA[<strong>Tue 22 Mar</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
 Sunny<br>
@@ -136,8 +136,8 @@ Max: 11°C<br>
         <item>
             <title><![CDATA[Kraljevo]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>449dcf4ffc37c51e0b127fa3b8a71cc1</guid>
-            <pubDate>Mon, 21 Mar 2022 12:15:00 GMT</pubDate>
+            <guid>493a76fbd1eef73eb14646197616dc7d</guid>
+            <pubDate>Tue, 22 Mar 2022 05:20:00 GMT</pubDate>
             <description><![CDATA[<strong>Tue 22 Mar</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
 Sunny<br>
@@ -153,8 +153,8 @@ Max: 17°C<br>
         <item>
             <title><![CDATA[Priština]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>9e3a75f29a70e5e49c37bf4cd2461322</guid>
-            <pubDate>Mon, 21 Mar 2022 12:15:00 GMT</pubDate>
+            <guid>b8415005960e3362f5ea465343baac70</guid>
+            <pubDate>Tue, 22 Mar 2022 05:20:00 GMT</pubDate>
             <description><![CDATA[<strong>Tue 22 Mar</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
 Sunny<br>
@@ -170,8 +170,8 @@ Max: 15°C<br>
         <item>
             <title><![CDATA[Niš]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>b07db5eea2cc8d58c136d95dd65000b3</guid>
-            <pubDate>Mon, 21 Mar 2022 12:15:00 GMT</pubDate>
+            <guid>3ed64ecfaa02454c8ac70b3d6436630f</guid>
+            <pubDate>Tue, 22 Mar 2022 05:20:00 GMT</pubDate>
             <description><![CDATA[<strong>Tue 22 Mar</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
 Mostly sunny<br>
