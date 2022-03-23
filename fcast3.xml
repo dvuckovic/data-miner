@@ -4,7 +4,7 @@
         <title>RHMZ</title>
         <link>https://data.dvuckovic.com/fcast3.xml</link>
         <description>Weather Forecast for Serbia</description>
-        <lastBuildDate>Tue, 22 Mar 2022 11:27:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Mar 2022 05:10:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>fcast</generator>
         <language>en</language>
@@ -17,8 +17,8 @@
         <item>
             <title><![CDATA[Palić]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>d8c9958d95756dab44d4b26ace930c0d</guid>
-            <pubDate>Tue, 22 Mar 2022 11:27:00 GMT</pubDate>
+            <guid>885cd890debbeb93e2f416359c0c2d0a</guid>
+            <pubDate>Wed, 23 Mar 2022 05:10:00 GMT</pubDate>
             <description><![CDATA[<strong>Wed 23 Mar</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
 Sunny<br>
@@ -34,8 +34,8 @@ Max: 20°C<br>
         <item>
             <title><![CDATA[Novi Sad]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>5c7d0e2dca9f94d24e647294d0507a1f</guid>
-            <pubDate>Tue, 22 Mar 2022 11:27:00 GMT</pubDate>
+            <guid>b1c25e7344030a686991e9957cb39d4c</guid>
+            <pubDate>Wed, 23 Mar 2022 05:10:00 GMT</pubDate>
             <description><![CDATA[<strong>Wed 23 Mar</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
 Sunny<br>
@@ -51,8 +51,8 @@ Max: 20°C<br>
         <item>
             <title><![CDATA[Loznica]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>1fa8977f9c1150857b485a4ecaa5aeea</guid>
-            <pubDate>Tue, 22 Mar 2022 11:27:00 GMT</pubDate>
+            <guid>7450d17db9b712e16de6ae90c98df512</guid>
+            <pubDate>Wed, 23 Mar 2022 05:10:00 GMT</pubDate>
             <description><![CDATA[<strong>Wed 23 Mar</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
 Sunny<br>
@@ -68,8 +68,8 @@ Max: 21°C<br>
         <item>
             <title><![CDATA[Belgrade]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>87f28980ab20032fca350b9de73c05d9</guid>
-            <pubDate>Tue, 22 Mar 2022 11:27:00 GMT</pubDate>
+            <guid>f7a171eaa397bb1fcd6c674960893797</guid>
+            <pubDate>Wed, 23 Mar 2022 05:10:00 GMT</pubDate>
             <description><![CDATA[<strong>Wed 23 Mar</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
 Sunny<br>
@@ -85,8 +85,8 @@ Max: 20°C<br>
         <item>
             <title><![CDATA[Kragujevac]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>6611a705a63b484fab96eb5420e80588</guid>
-            <pubDate>Tue, 22 Mar 2022 11:27:00 GMT</pubDate>
+            <guid>21484247e29ef5658fc0a0f9be9f0562</guid>
+            <pubDate>Wed, 23 Mar 2022 05:10:00 GMT</pubDate>
             <description><![CDATA[<strong>Wed 23 Mar</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
 Sunny<br>
@@ -102,12 +102,12 @@ Max: 19°C<br>
         <item>
             <title><![CDATA[Negotin]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>04eaad2884b2bd4e375b463bd0a0cf88</guid>
-            <pubDate>Tue, 22 Mar 2022 11:27:00 GMT</pubDate>
+            <guid>1221d989f83e911a4994c481b266cfd7</guid>
+            <pubDate>Wed, 23 Mar 2022 05:10:00 GMT</pubDate>
             <description><![CDATA[<strong>Wed 23 Mar</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
 Sunny<br>
-Max: 17°C<br>
+Max: 18°C<br>
 <br>
 <strong>Thu 24 Mar</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
@@ -119,8 +119,8 @@ Max: 22°C<br>
         <item>
             <title><![CDATA[Zlatibor]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>01bf7a74f11d0eae8917d43bb4a0e779</guid>
-            <pubDate>Tue, 22 Mar 2022 11:27:00 GMT</pubDate>
+            <guid>7ff4e18492da866744d15db064c8ed39</guid>
+            <pubDate>Wed, 23 Mar 2022 05:10:00 GMT</pubDate>
             <description><![CDATA[<strong>Wed 23 Mar</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
 Sunny<br>
@@ -136,8 +136,8 @@ Max: 15°C<br>
         <item>
             <title><![CDATA[Kraljevo]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>30c6ebdd1b31fc86b02ba79760853f05</guid>
-            <pubDate>Tue, 22 Mar 2022 11:27:00 GMT</pubDate>
+            <guid>8d1f290bf052c6b1d5373b5d50b0d961</guid>
+            <pubDate>Wed, 23 Mar 2022 05:10:00 GMT</pubDate>
             <description><![CDATA[<strong>Wed 23 Mar</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
 Sunny<br>
@@ -153,8 +153,8 @@ Max: 20°C<br>
         <item>
             <title><![CDATA[Priština]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>70300c496440c731ae12580538eaca94</guid>
-            <pubDate>Tue, 22 Mar 2022 11:27:00 GMT</pubDate>
+            <guid>4310e2621e8f88fed1c9b0ce52aa0e9a</guid>
+            <pubDate>Wed, 23 Mar 2022 05:10:00 GMT</pubDate>
             <description><![CDATA[<strong>Wed 23 Mar</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
 Sunny<br>
@@ -170,8 +170,8 @@ Max: 18°C<br>
         <item>
             <title><![CDATA[Niš]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>d83e09c52915b34fdc16070eec818241</guid>
-            <pubDate>Tue, 22 Mar 2022 11:27:00 GMT</pubDate>
+            <guid>cb7cdc262a14b05b52969845eca41576</guid>
+            <pubDate>Wed, 23 Mar 2022 05:10:00 GMT</pubDate>
             <description><![CDATA[<strong>Wed 23 Mar</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
 Sunny<br>
