@@ -4,7 +4,7 @@
         <title>RHMZ</title>
         <link>https://data.dvuckovic.com/fcast3.xml</link>
         <description>Weather Forecast for Serbia</description>
-        <lastBuildDate>Thu, 24 Mar 2022 12:24:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Mar 2022 04:40:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>fcast</generator>
         <language>en</language>
@@ -17,17 +17,11 @@
         <item>
             <title><![CDATA[Palić]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>771bf5bc7df1ec9eeae38f588b73fe34</guid>
-            <pubDate>Thu, 24 Mar 2022 12:24:00 GMT</pubDate>
-            <description><![CDATA[<strong>Thu 24 Mar</strong><br>
+            <guid>a0942f9ef8b94a562162fd3ecf6bd2f8</guid>
+            <pubDate>Fri, 25 Mar 2022 04:40:00 GMT</pubDate>
+            <description><![CDATA[<strong>Fri 25 Mar</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
 Sunny<br>
-Max: 22°C<br>
-<br>
-<strong>Fri 25 Mar</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
-Sunny<br>
-Min: 2°C<br>
 Max: 19°C<br>
 <br>
 <strong>Sat 26 Mar</strong><br>
@@ -40,17 +34,11 @@ Max: 22°C<br>
         <item>
             <title><![CDATA[Novi Sad]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>ed7fa92da53c1511e00ac4e4f24be2c9</guid>
-            <pubDate>Thu, 24 Mar 2022 12:24:00 GMT</pubDate>
-            <description><![CDATA[<strong>Thu 24 Mar</strong><br>
+            <guid>e9c8c20369808f65103112071feb748f</guid>
+            <pubDate>Fri, 25 Mar 2022 04:40:00 GMT</pubDate>
+            <description><![CDATA[<strong>Fri 25 Mar</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
 Sunny<br>
-Max: 22°C<br>
-<br>
-<strong>Fri 25 Mar</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
-Sunny<br>
-Min: 2°C<br>
 Max: 19°C<br>
 <br>
 <strong>Sat 26 Mar</strong><br>
@@ -63,17 +51,11 @@ Max: 21°C<br>
         <item>
             <title><![CDATA[Loznica]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>37675444453db0ce01c0d576da618978</guid>
-            <pubDate>Thu, 24 Mar 2022 12:24:00 GMT</pubDate>
-            <description><![CDATA[<strong>Thu 24 Mar</strong><br>
+            <guid>87663b246f7647ee955b9008aad11e24</guid>
+            <pubDate>Fri, 25 Mar 2022 04:40:00 GMT</pubDate>
+            <description><![CDATA[<strong>Fri 25 Mar</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
 Sunny<br>
-Max: 22°C<br>
-<br>
-<strong>Fri 25 Mar</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
-Sunny<br>
-Min: 4°C<br>
 Max: 19°C<br>
 <br>
 <strong>Sat 26 Mar</strong><br>
@@ -86,17 +68,11 @@ Max: 21°C<br>
         <item>
             <title><![CDATA[Belgrade]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>0f997bd307fd58f2e03756cf4e7a216f</guid>
-            <pubDate>Thu, 24 Mar 2022 12:24:00 GMT</pubDate>
-            <description><![CDATA[<strong>Thu 24 Mar</strong><br>
+            <guid>cd9a264a2202f7bfd77f19b17e9ab51d</guid>
+            <pubDate>Fri, 25 Mar 2022 04:40:00 GMT</pubDate>
+            <description><![CDATA[<strong>Fri 25 Mar</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
 Sunny<br>
-Max: 21°C<br>
-<br>
-<strong>Fri 25 Mar</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
-Sunny<br>
-Min: 5°C<br>
 Max: 18°C<br>
 <br>
 <strong>Sat 26 Mar</strong><br>
@@ -109,17 +85,11 @@ Max: 21°C<br>
         <item>
             <title><![CDATA[Kragujevac]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>63401156cc8e76213b242d5bd303680f</guid>
-            <pubDate>Thu, 24 Mar 2022 12:24:00 GMT</pubDate>
-            <description><![CDATA[<strong>Thu 24 Mar</strong><br>
+            <guid>b5958239417213eb260314fde28a8bae</guid>
+            <pubDate>Fri, 25 Mar 2022 04:40:00 GMT</pubDate>
+            <description><![CDATA[<strong>Fri 25 Mar</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
 Sunny<br>
-Max: 20°C<br>
-<br>
-<strong>Fri 25 Mar</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
-Sunny<br>
-Min: 3°C<br>
 Max: 18°C<br>
 <br>
 <strong>Sat 26 Mar</strong><br>
@@ -132,17 +102,11 @@ Max: 20°C<br>
         <item>
             <title><![CDATA[Negotin]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>b0f31199d5911dc97f84b3d9ae8d6cff</guid>
-            <pubDate>Thu, 24 Mar 2022 12:24:00 GMT</pubDate>
-            <description><![CDATA[<strong>Thu 24 Mar</strong><br>
+            <guid>2e8204f444fd00c51a0d2cabb8c54e5b</guid>
+            <pubDate>Fri, 25 Mar 2022 04:40:00 GMT</pubDate>
+            <description><![CDATA[<strong>Fri 25 Mar</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
 Sunny<br>
-Max: 22°C<br>
-<br>
-<strong>Fri 25 Mar</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
-Sunny<br>
-Min: 9°C<br>
 Max: 20°C<br>
 <br>
 <strong>Sat 26 Mar</strong><br>
@@ -155,17 +119,11 @@ Max: 19°C<br>
         <item>
             <title><![CDATA[Zlatibor]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>240efca3a3d5c57027bec6d47cb58fef</guid>
-            <pubDate>Thu, 24 Mar 2022 12:24:00 GMT</pubDate>
-            <description><![CDATA[<strong>Thu 24 Mar</strong><br>
+            <guid>675481432ad7406d851f34781fcdb604</guid>
+            <pubDate>Fri, 25 Mar 2022 04:40:00 GMT</pubDate>
+            <description><![CDATA[<strong>Fri 25 Mar</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
 Sunny<br>
-Max: 15°C<br>
-<br>
-<strong>Fri 25 Mar</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
-Sunny<br>
-Min: 3°C<br>
 Max: 14°C<br>
 <br>
 <strong>Sat 26 Mar</strong><br>
@@ -178,17 +136,11 @@ Max: 15°C<br>
         <item>
             <title><![CDATA[Kraljevo]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>b74a2fb33eacc866b8df9d65c753979f</guid>
-            <pubDate>Thu, 24 Mar 2022 12:24:00 GMT</pubDate>
-            <description><![CDATA[<strong>Thu 24 Mar</strong><br>
+            <guid>3d927367b8a6e74596a5389708481904</guid>
+            <pubDate>Fri, 25 Mar 2022 04:40:00 GMT</pubDate>
+            <description><![CDATA[<strong>Fri 25 Mar</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
 Sunny<br>
-Max: 21°C<br>
-<br>
-<strong>Fri 25 Mar</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
-Sunny<br>
-Min: 3°C<br>
 Max: 18°C<br>
 <br>
 <strong>Sat 26 Mar</strong><br>
@@ -201,17 +153,11 @@ Max: 20°C<br>
         <item>
             <title><![CDATA[Priština]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>e78bb0633b7f042b4cb40ac357e3fde3</guid>
-            <pubDate>Thu, 24 Mar 2022 12:24:00 GMT</pubDate>
-            <description><![CDATA[<strong>Thu 24 Mar</strong><br>
+            <guid>f0d30c89aa287a5df01229939af5c0db</guid>
+            <pubDate>Fri, 25 Mar 2022 04:40:00 GMT</pubDate>
+            <description><![CDATA[<strong>Fri 25 Mar</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
 Sunny<br>
-Max: 19°C<br>
-<br>
-<strong>Fri 25 Mar</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
-Sunny<br>
-Min: -1°C<br>
 Max: 17°C<br>
 <br>
 <strong>Sat 26 Mar</strong><br>
@@ -224,17 +170,11 @@ Max: 18°C<br>
         <item>
             <title><![CDATA[Niš]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>63d724cdc5fefaac8cdfde4592827a1a</guid>
-            <pubDate>Thu, 24 Mar 2022 12:24:00 GMT</pubDate>
-            <description><![CDATA[<strong>Thu 24 Mar</strong><br>
+            <guid>2a044d28e8c63d555bd91a15d5cdcaed</guid>
+            <pubDate>Fri, 25 Mar 2022 04:40:00 GMT</pubDate>
+            <description><![CDATA[<strong>Fri 25 Mar</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
 Sunny<br>
-Max: 20°C<br>
-<br>
-<strong>Fri 25 Mar</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
-Sunny<br>
-Min: 2°C<br>
 Max: 18°C<br>
 <br>
 <strong>Sat 26 Mar</strong><br>
