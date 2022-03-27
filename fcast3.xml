@@ -4,7 +4,7 @@
         <title>RHMZ</title>
         <link>https://data.dvuckovic.com/fcast3.xml</link>
         <description>Weather Forecast for Serbia</description>
-        <lastBuildDate>Sun, 27 Mar 2022 04:40:00 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Mar 2022 11:39:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>fcast</generator>
         <language>en</language>
@@ -17,8 +17,8 @@
         <item>
             <title><![CDATA[Palić]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>9855c26373cbb4dc454f1e6ffeaff4ac</guid>
-            <pubDate>Sun, 27 Mar 2022 04:40:00 GMT</pubDate>
+            <guid>7d63f3be5121a2fc5b8831ce4bbb2505</guid>
+            <pubDate>Sun, 27 Mar 2022 11:39:00 GMT</pubDate>
             <description><![CDATA[<strong>Sun 27 Mar</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
 Mostly sunny<br>
@@ -29,13 +29,19 @@ Max: 21°C<br>
 Mostly sunny<br>
 Min: 4°C<br>
 Max: 20°C<br>
+<br>
+<strong>Tue 29 Mar</strong><br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
+Mostly sunny<br>
+Min: 6°C<br>
+Max: 22°C<br>
 ]]></description>
         </item>
         <item>
             <title><![CDATA[Novi Sad]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>fe76f390efeb4e0ffac7b1161ce7517e</guid>
-            <pubDate>Sun, 27 Mar 2022 04:40:00 GMT</pubDate>
+            <guid>89b0fe3294326bdbaf7fd83f5c685b2d</guid>
+            <pubDate>Sun, 27 Mar 2022 11:39:00 GMT</pubDate>
             <description><![CDATA[<strong>Sun 27 Mar</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
 Mostly sunny<br>
@@ -46,13 +52,19 @@ Max: 20°C<br>
 Mostly sunny<br>
 Min: 3°C<br>
 Max: 21°C<br>
+<br>
+<strong>Tue 29 Mar</strong><br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
+Mostly sunny<br>
+Min: 6°C<br>
+Max: 23°C<br>
 ]]></description>
         </item>
         <item>
             <title><![CDATA[Loznica]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>92385957326a2fd84f73690261fade3a</guid>
-            <pubDate>Sun, 27 Mar 2022 04:40:00 GMT</pubDate>
+            <guid>3e2dcef1b256d5d49e67f668fc7eca08</guid>
+            <pubDate>Sun, 27 Mar 2022 11:39:00 GMT</pubDate>
             <description><![CDATA[<strong>Sun 27 Mar</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
 Mostly sunny<br>
@@ -63,13 +75,19 @@ Max: 21°C<br>
 Mostly sunny<br>
 Min: 4°C<br>
 Max: 22°C<br>
+<br>
+<strong>Tue 29 Mar</strong><br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
+Mostly sunny<br>
+Min: 7°C<br>
+Max: 24°C<br>
 ]]></description>
         </item>
         <item>
             <title><![CDATA[Belgrade]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>b1df03bb9e332139f1014f9d1d5b9771</guid>
-            <pubDate>Sun, 27 Mar 2022 04:40:00 GMT</pubDate>
+            <guid>757571034e24a8f520c6e4ff42818065</guid>
+            <pubDate>Sun, 27 Mar 2022 11:39:00 GMT</pubDate>
             <description><![CDATA[<strong>Sun 27 Mar</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
 Mostly sunny<br>
@@ -78,15 +96,21 @@ Max: 20°C<br>
 <strong>Mon 28 Mar</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
 Mostly sunny<br>
-Min: 7°C<br>
+Min: 6°C<br>
 Max: 21°C<br>
+<br>
+<strong>Tue 29 Mar</strong><br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
+Mostly sunny<br>
+Min: 9°C<br>
+Max: 23°C<br>
 ]]></description>
         </item>
         <item>
             <title><![CDATA[Kragujevac]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>63514ff8dac22dbfd44a04bb7847ca18</guid>
-            <pubDate>Sun, 27 Mar 2022 04:40:00 GMT</pubDate>
+            <guid>946608824875df87e6df9fbd67a10354</guid>
+            <pubDate>Sun, 27 Mar 2022 11:39:00 GMT</pubDate>
             <description><![CDATA[<strong>Sun 27 Mar</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
 Mostly sunny<br>
@@ -95,15 +119,21 @@ Max: 21°C<br>
 <strong>Mon 28 Mar</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
 Mostly sunny<br>
-Min: 2°C<br>
+Min: 1°C<br>
 Max: 21°C<br>
+<br>
+<strong>Tue 29 Mar</strong><br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-4.png" alt="Partly cloudy" /><br>
+Partly cloudy<br>
+Min: 5°C<br>
+Max: 22°C<br>
 ]]></description>
         </item>
         <item>
             <title><![CDATA[Negotin]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>4d196d5e40af2fec1ffb98a24904712c</guid>
-            <pubDate>Sun, 27 Mar 2022 04:40:00 GMT</pubDate>
+            <guid>6933a0208dfad470dde836a9041f1c78</guid>
+            <pubDate>Sun, 27 Mar 2022 11:39:00 GMT</pubDate>
             <description><![CDATA[<strong>Sun 27 Mar</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
 Mostly sunny<br>
@@ -113,14 +143,20 @@ Max: 22°C<br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
 Mostly sunny<br>
 Min: 4°C<br>
-Max: 19°C<br>
+Max: 18°C<br>
+<br>
+<strong>Tue 29 Mar</strong><br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
+Mostly sunny<br>
+Min: 3°C<br>
+Max: 23°C<br>
 ]]></description>
         </item>
         <item>
             <title><![CDATA[Zlatibor]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>bdbd9c476cf507b43e09bbb965fcc8cc</guid>
-            <pubDate>Sun, 27 Mar 2022 04:40:00 GMT</pubDate>
+            <guid>23b256701fb9b0facaa7f7dcce25fe31</guid>
+            <pubDate>Sun, 27 Mar 2022 11:39:00 GMT</pubDate>
             <description><![CDATA[<strong>Sun 27 Mar</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
 Mostly sunny<br>
@@ -131,13 +167,19 @@ Max: 16°C<br>
 Partly cloudy<br>
 Min: 4°C<br>
 Max: 15°C<br>
+<br>
+<strong>Tue 29 Mar</strong><br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-4.png" alt="Partly cloudy" /><br>
+Partly cloudy<br>
+Min: 4°C<br>
+Max: 15°C<br>
 ]]></description>
         </item>
         <item>
             <title><![CDATA[Kraljevo]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>820b980021926fd72aef5d82fc0107c3</guid>
-            <pubDate>Sun, 27 Mar 2022 04:40:00 GMT</pubDate>
+            <guid>02e855590a2c8e8d2a06ebc8d18b1e4f</guid>
+            <pubDate>Sun, 27 Mar 2022 11:39:00 GMT</pubDate>
             <description><![CDATA[<strong>Sun 27 Mar</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
 Mostly sunny<br>
@@ -146,42 +188,60 @@ Max: 21°C<br>
 <strong>Mon 28 Mar</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
 Mostly sunny<br>
-Min: 3°C<br>
+Min: 2°C<br>
 Max: 20°C<br>
+<br>
+<strong>Tue 29 Mar</strong><br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-4.png" alt="Partly cloudy" /><br>
+Partly cloudy<br>
+Min: 5°C<br>
+Max: 22°C<br>
 ]]></description>
         </item>
         <item>
             <title><![CDATA[Priština]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>8cb864ef26bbd902f8b2b1ee4562e165</guid>
-            <pubDate>Sun, 27 Mar 2022 04:40:00 GMT</pubDate>
+            <guid>d07470b3b8ed173d39f7f5b3d60b6493</guid>
+            <pubDate>Sun, 27 Mar 2022 11:39:00 GMT</pubDate>
             <description><![CDATA[<strong>Sun 27 Mar</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
 Mostly sunny<br>
 Max: 20°C<br>
 <br>
 <strong>Mon 28 Mar</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-6.png" alt="Possible rain showers" /><br>
-Possible rain showers<br>
-Min: 3°C<br>
-Max: 18°C<br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-4.png" alt="Partly cloudy" /><br>
+Partly cloudy<br>
+Min: -1°C<br>
+Max: 19°C<br>
+<br>
+<strong>Tue 29 Mar</strong><br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-4.png" alt="Partly cloudy" /><br>
+Partly cloudy<br>
+Min: 5°C<br>
+Max: 19°C<br>
 ]]></description>
         </item>
         <item>
             <title><![CDATA[Niš]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>040adda5ed2cd9bd426b75f06ea9b354</guid>
-            <pubDate>Sun, 27 Mar 2022 04:40:00 GMT</pubDate>
+            <guid>f0d246242c25011a38550e1789b14d9d</guid>
+            <pubDate>Sun, 27 Mar 2022 11:39:00 GMT</pubDate>
             <description><![CDATA[<strong>Sun 27 Mar</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
 Mostly sunny<br>
 Max: 21°C<br>
 <br>
 <strong>Mon 28 Mar</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-4.png" alt="Partly cloudy" /><br>
-Partly cloudy<br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
+Mostly sunny<br>
 Min: 3°C<br>
 Max: 21°C<br>
+<br>
+<strong>Tue 29 Mar</strong><br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-4.png" alt="Partly cloudy" /><br>
+Partly cloudy<br>
+Min: 7°C<br>
+Max: 22°C<br>
 ]]></description>
         </item>
     </channel>
