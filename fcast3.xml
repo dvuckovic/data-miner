@@ -4,7 +4,7 @@
         <title>RHMZ</title>
         <link>https://data.dvuckovic.com/fcast3.xml</link>
         <description>Weather Forecast for Serbia</description>
-        <lastBuildDate>Fri, 01 Apr 2022 12:36:00 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Apr 2022 04:55:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>fcast</generator>
         <language>en</language>
@@ -17,17 +17,11 @@
         <item>
             <title><![CDATA[Palić]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>c03b40f688ceb4a6117babe5b0c2df41</guid>
-            <pubDate>Fri, 01 Apr 2022 12:36:00 GMT</pubDate>
-            <description><![CDATA[<strong>Fri 1 Apr</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-11.png" alt="Rain showers" /><br>
-Rain showers<br>
-Max: 17°C<br>
-<br>
-<strong>Sat 2 Apr</strong><br>
+            <guid>e72ad8f25bd88a98cee6fc7169e36a39</guid>
+            <pubDate>Sat, 02 Apr 2022 04:55:00 GMT</pubDate>
+            <description><![CDATA[<strong>Sat 2 Apr</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-9.png" alt="Rain" /><br>
 Rain<br>
-Min: 5°C<br>
 Max: 10°C<br>
 <br>
 <strong>Sun 3 Apr</strong><br>
@@ -40,17 +34,11 @@ Max: 6°C<br>
         <item>
             <title><![CDATA[Novi Sad]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>82b2b5621f7c634f27302c1291784bee</guid>
-            <pubDate>Fri, 01 Apr 2022 12:36:00 GMT</pubDate>
-            <description><![CDATA[<strong>Fri 1 Apr</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-11.png" alt="Rain showers" /><br>
-Rain showers<br>
-Max: 18°C<br>
-<br>
-<strong>Sat 2 Apr</strong><br>
+            <guid>ebae60817fe5c5311b0e5694dd47969a</guid>
+            <pubDate>Sat, 02 Apr 2022 04:55:00 GMT</pubDate>
+            <description><![CDATA[<strong>Sat 2 Apr</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-9.png" alt="Rain" /><br>
 Rain<br>
-Min: 6°C<br>
 Max: 11°C<br>
 <br>
 <strong>Sun 3 Apr</strong><br>
@@ -63,17 +51,11 @@ Max: 6°C<br>
         <item>
             <title><![CDATA[Loznica]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>1e712c9e617073541fc95c3dbe2c36ed</guid>
-            <pubDate>Fri, 01 Apr 2022 12:36:00 GMT</pubDate>
-            <description><![CDATA[<strong>Fri 1 Apr</strong><br>
+            <guid>575d1c2ddfe8fa9f6ba1c8ba222cb3f6</guid>
+            <pubDate>Sat, 02 Apr 2022 04:55:00 GMT</pubDate>
+            <description><![CDATA[<strong>Sat 2 Apr</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-9.png" alt="Rain" /><br>
 Rain<br>
-Max: 20°C<br>
-<br>
-<strong>Sat 2 Apr</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-9.png" alt="Rain" /><br>
-Rain<br>
-Min: 8°C<br>
 Max: 14°C<br>
 <br>
 <strong>Sun 3 Apr</strong><br>
@@ -86,17 +68,11 @@ Max: 6°C<br>
         <item>
             <title><![CDATA[Belgrade]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>d55b36088e610dff5fa160199d6c824e</guid>
-            <pubDate>Fri, 01 Apr 2022 12:36:00 GMT</pubDate>
-            <description><![CDATA[<strong>Fri 1 Apr</strong><br>
+            <guid>9da699518551c452bb09c8c8bb647439</guid>
+            <pubDate>Sat, 02 Apr 2022 04:55:00 GMT</pubDate>
+            <description><![CDATA[<strong>Sat 2 Apr</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-9.png" alt="Rain" /><br>
 Rain<br>
-Max: 20°C<br>
-<br>
-<strong>Sat 2 Apr</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-9.png" alt="Rain" /><br>
-Rain<br>
-Min: 9°C<br>
 Max: 14°C<br>
 <br>
 <strong>Sun 3 Apr</strong><br>
@@ -109,17 +85,11 @@ Max: 7°C<br>
         <item>
             <title><![CDATA[Kragujevac]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>c83abefa1b3a42f0d92e3d3eaf6e3f82</guid>
-            <pubDate>Fri, 01 Apr 2022 12:36:00 GMT</pubDate>
-            <description><![CDATA[<strong>Fri 1 Apr</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-8.png" alt="Possible rain" /><br>
-Possible rain<br>
-Max: 20°C<br>
-<br>
-<strong>Sat 2 Apr</strong><br>
+            <guid>58cab2897cbcf8b3dcde2d5fc5f8a86a</guid>
+            <pubDate>Sat, 02 Apr 2022 04:55:00 GMT</pubDate>
+            <description><![CDATA[<strong>Sat 2 Apr</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-9.png" alt="Rain" /><br>
 Rain<br>
-Min: 8°C<br>
 Max: 17°C<br>
 <br>
 <strong>Sun 3 Apr</strong><br>
@@ -132,17 +102,11 @@ Max: 7°C<br>
         <item>
             <title><![CDATA[Negotin]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>d34736ee2c6f66c620ede0633a814c64</guid>
-            <pubDate>Fri, 01 Apr 2022 12:36:00 GMT</pubDate>
-            <description><![CDATA[<strong>Fri 1 Apr</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-11.png" alt="Rain showers" /><br>
-Rain showers<br>
-Max: 20°C<br>
-<br>
-<strong>Sat 2 Apr</strong><br>
+            <guid>2064f7c7a6486c6e9f5c964adc8c8875</guid>
+            <pubDate>Sat, 02 Apr 2022 04:55:00 GMT</pubDate>
+            <description><![CDATA[<strong>Sat 2 Apr</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-6.png" alt="Possible rain showers" /><br>
 Possible rain showers<br>
-Min: 9°C<br>
 Max: 19°C<br>
 <br>
 <strong>Sun 3 Apr</strong><br>
@@ -155,17 +119,11 @@ Max: 10°C<br>
         <item>
             <title><![CDATA[Zlatibor]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>423bd02166f5d17f562fa9f9b20219ba</guid>
-            <pubDate>Fri, 01 Apr 2022 12:36:00 GMT</pubDate>
-            <description><![CDATA[<strong>Fri 1 Apr</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-8.png" alt="Possible rain" /><br>
-Possible rain<br>
-Max: 13°C<br>
-<br>
-<strong>Sat 2 Apr</strong><br>
+            <guid>e29855d02f2dbdc5f23de3cf23a376cc</guid>
+            <pubDate>Sat, 02 Apr 2022 04:55:00 GMT</pubDate>
+            <description><![CDATA[<strong>Sat 2 Apr</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-9.png" alt="Rain" /><br>
 Rain<br>
-Min: 4°C<br>
 Max: 9°C<br>
 <br>
 <strong>Sun 3 Apr</strong><br>
@@ -178,17 +136,11 @@ Max: 2°C<br>
         <item>
             <title><![CDATA[Kraljevo]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>a22c93ae2ffba999c0d4bd3a5caa2089</guid>
-            <pubDate>Fri, 01 Apr 2022 12:36:00 GMT</pubDate>
-            <description><![CDATA[<strong>Fri 1 Apr</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-8.png" alt="Possible rain" /><br>
-Possible rain<br>
-Max: 20°C<br>
-<br>
-<strong>Sat 2 Apr</strong><br>
+            <guid>b3d600592e6d6b7d97047c4823d98771</guid>
+            <pubDate>Sat, 02 Apr 2022 04:55:00 GMT</pubDate>
+            <description><![CDATA[<strong>Sat 2 Apr</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-9.png" alt="Rain" /><br>
 Rain<br>
-Min: 8°C<br>
 Max: 17°C<br>
 <br>
 <strong>Sun 3 Apr</strong><br>
@@ -201,17 +153,11 @@ Max: 7°C<br>
         <item>
             <title><![CDATA[Priština]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>26afbd965b074c6bc08df174dc010b5e</guid>
-            <pubDate>Fri, 01 Apr 2022 12:36:00 GMT</pubDate>
-            <description><![CDATA[<strong>Fri 1 Apr</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-12.png" alt="Showers and thunder storm" /><br>
-Showers and thunder storm<br>
-Max: 19°C<br>
-<br>
-<strong>Sat 2 Apr</strong><br>
+            <guid>473be03905cbd1e5419919921f56d908</guid>
+            <pubDate>Sat, 02 Apr 2022 04:55:00 GMT</pubDate>
+            <description><![CDATA[<strong>Sat 2 Apr</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-5.png" alt="After noon rain showers" /><br>
 After noon rain showers<br>
-Min: 8°C<br>
 Max: 17°C<br>
 <br>
 <strong>Sun 3 Apr</strong><br>
@@ -224,17 +170,11 @@ Max: 9°C<br>
         <item>
             <title><![CDATA[Niš]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>3b1ccffaeab436e2c77b291dba625729</guid>
-            <pubDate>Fri, 01 Apr 2022 12:36:00 GMT</pubDate>
-            <description><![CDATA[<strong>Fri 1 Apr</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-12.png" alt="Showers and thunder storm" /><br>
-Showers and thunder storm<br>
-Max: 21°C<br>
-<br>
-<strong>Sat 2 Apr</strong><br>
+            <guid>8f889acbf042e138ed3ab3eaf9555802</guid>
+            <pubDate>Sat, 02 Apr 2022 04:55:00 GMT</pubDate>
+            <description><![CDATA[<strong>Sat 2 Apr</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-5.png" alt="After noon rain showers" /><br>
 After noon rain showers<br>
-Min: 10°C<br>
 Max: 18°C<br>
 <br>
 <strong>Sun 3 Apr</strong><br>
