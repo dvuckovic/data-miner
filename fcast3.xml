@@ -4,7 +4,7 @@
         <title>RHMZ</title>
         <link>https://data.dvuckovic.com/fcast3.xml</link>
         <description>Weather Forecast for Serbia</description>
-        <lastBuildDate>Wed, 06 Apr 2022 05:25:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Apr 2022 11:54:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>fcast</generator>
         <language>en</language>
@@ -17,25 +17,31 @@
         <item>
             <title><![CDATA[Palić]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>39e36a2f9fac18dbe8adc9d736d2a205</guid>
-            <pubDate>Wed, 06 Apr 2022 05:25:00 GMT</pubDate>
+            <guid>b48b9df592412e6d53beb6357e583a63</guid>
+            <pubDate>Wed, 06 Apr 2022 11:54:00 GMT</pubDate>
             <description><![CDATA[<strong>Wed 6 Apr</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
 Mostly sunny<br>
 Max: 21°C<br>
 <br>
 <strong>Thu 7 Apr</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-10.png" alt="Mostly cloudy" /><br>
-Mostly cloudy<br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-6.png" alt="Possible rain showers" /><br>
+Possible rain showers<br>
 Min: 9°C<br>
-Max: 17°C<br>
+Max: 16°C<br>
+<br>
+<strong>Fri 8 Apr</strong><br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-4.png" alt="Partly cloudy" /><br>
+Partly cloudy<br>
+Min: 8°C<br>
+Max: 20°C<br>
 ]]></description>
         </item>
         <item>
             <title><![CDATA[Novi Sad]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>cb00d7906c83eeba09608c3b4bbd838f</guid>
-            <pubDate>Wed, 06 Apr 2022 05:25:00 GMT</pubDate>
+            <guid>1d099455dc3b4178e009dbe709cc152a</guid>
+            <pubDate>Wed, 06 Apr 2022 11:54:00 GMT</pubDate>
             <description><![CDATA[<strong>Wed 6 Apr</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
 Mostly sunny<br>
@@ -45,143 +51,197 @@ Max: 22°C<br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-6.png" alt="Possible rain showers" /><br>
 Possible rain showers<br>
 Min: 9°C<br>
-Max: 17°C<br>
+Max: 16°C<br>
+<br>
+<strong>Fri 8 Apr</strong><br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-4.png" alt="Partly cloudy" /><br>
+Partly cloudy<br>
+Min: 8°C<br>
+Max: 20°C<br>
 ]]></description>
         </item>
         <item>
             <title><![CDATA[Loznica]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>97cb4d4cd684b489d9b3c5d42acec962</guid>
-            <pubDate>Wed, 06 Apr 2022 05:25:00 GMT</pubDate>
+            <guid>54832d50bd9cfa124d5608072ab25b44</guid>
+            <pubDate>Wed, 06 Apr 2022 11:54:00 GMT</pubDate>
             <description><![CDATA[<strong>Wed 6 Apr</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-10.png" alt="Mostly cloudy" /><br>
 Mostly cloudy<br>
 Max: 23°C<br>
 <br>
 <strong>Thu 7 Apr</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-10.png" alt="Mostly cloudy" /><br>
-Mostly cloudy<br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-8.png" alt="Possible rain" /><br>
+Possible rain<br>
+Min: 8°C<br>
+Max: 15°C<br>
+<br>
+<strong>Fri 8 Apr</strong><br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-4.png" alt="Partly cloudy" /><br>
+Partly cloudy<br>
 Min: 9°C<br>
-Max: 16°C<br>
+Max: 22°C<br>
 ]]></description>
         </item>
         <item>
             <title><![CDATA[Belgrade]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>257f3d9705629be89402c36d48666b1c</guid>
-            <pubDate>Wed, 06 Apr 2022 05:25:00 GMT</pubDate>
+            <guid>4c3a371178fd9bb51a84827f17464fed</guid>
+            <pubDate>Wed, 06 Apr 2022 11:54:00 GMT</pubDate>
             <description><![CDATA[<strong>Wed 6 Apr</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-4.png" alt="Partly cloudy" /><br>
 Partly cloudy<br>
 Max: 22°C<br>
 <br>
 <strong>Thu 7 Apr</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-6.png" alt="Possible rain showers" /><br>
-Possible rain showers<br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-8.png" alt="Possible rain" /><br>
+Possible rain<br>
 Min: 10°C<br>
-Max: 16°C<br>
+Max: 14°C<br>
+<br>
+<strong>Fri 8 Apr</strong><br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-4.png" alt="Partly cloudy" /><br>
+Partly cloudy<br>
+Min: 10°C<br>
+Max: 21°C<br>
 ]]></description>
         </item>
         <item>
             <title><![CDATA[Kragujevac]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>e0475646b9c54ff5a932c80af94e5f36</guid>
-            <pubDate>Wed, 06 Apr 2022 05:25:00 GMT</pubDate>
+            <guid>15145dca4018285386c3fff6db6faae6</guid>
+            <pubDate>Wed, 06 Apr 2022 11:54:00 GMT</pubDate>
             <description><![CDATA[<strong>Wed 6 Apr</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-10.png" alt="Mostly cloudy" /><br>
 Mostly cloudy<br>
 Max: 22°C<br>
 <br>
 <strong>Thu 7 Apr</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-6.png" alt="Possible rain showers" /><br>
-Possible rain showers<br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-9.png" alt="Rain" /><br>
+Rain<br>
 Min: 9°C<br>
 Max: 14°C<br>
+<br>
+<strong>Fri 8 Apr</strong><br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-4.png" alt="Partly cloudy" /><br>
+Partly cloudy<br>
+Min: 6°C<br>
+Max: 22°C<br>
 ]]></description>
         </item>
         <item>
             <title><![CDATA[Negotin]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>2b3c94fd7c13000f766d530dac05e47f</guid>
-            <pubDate>Wed, 06 Apr 2022 05:25:00 GMT</pubDate>
+            <guid>495a7bf4a8ac959090b20022e2b09860</guid>
+            <pubDate>Wed, 06 Apr 2022 11:54:00 GMT</pubDate>
             <description><![CDATA[<strong>Wed 6 Apr</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
 Mostly sunny<br>
 Max: 21°C<br>
 <br>
 <strong>Thu 7 Apr</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-6.png" alt="Possible rain showers" /><br>
-Possible rain showers<br>
-Min: 9°C<br>
-Max: 15°C<br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-9.png" alt="Rain" /><br>
+Rain<br>
+Min: 8°C<br>
+Max: 14°C<br>
+<br>
+<strong>Fri 8 Apr</strong><br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-4.png" alt="Partly cloudy" /><br>
+Partly cloudy<br>
+Min: 7°C<br>
+Max: 23°C<br>
 ]]></description>
         </item>
         <item>
             <title><![CDATA[Zlatibor]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>ee1bde1be02f7c533320cdc435a590ea</guid>
-            <pubDate>Wed, 06 Apr 2022 05:25:00 GMT</pubDate>
+            <guid>eeb5f51f3bfeae6ba224fb10a7e57a38</guid>
+            <pubDate>Wed, 06 Apr 2022 11:54:00 GMT</pubDate>
             <description><![CDATA[<strong>Wed 6 Apr</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-6.png" alt="Possible rain showers" /><br>
 Possible rain showers<br>
 Max: 17°C<br>
 <br>
 <strong>Thu 7 Apr</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-6.png" alt="Possible rain showers" /><br>
-Possible rain showers<br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-9.png" alt="Rain" /><br>
+Rain<br>
 Min: 4°C<br>
 Max: 9°C<br>
+<br>
+<strong>Fri 8 Apr</strong><br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-4.png" alt="Partly cloudy" /><br>
+Partly cloudy<br>
+Min: 4°C<br>
+Max: 17°C<br>
 ]]></description>
         </item>
         <item>
             <title><![CDATA[Kraljevo]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>11a6591e87e49079eda2cbdb25c999d8</guid>
-            <pubDate>Wed, 06 Apr 2022 05:25:00 GMT</pubDate>
+            <guid>54948ca6288a8516bcaf8a859d97caa5</guid>
+            <pubDate>Wed, 06 Apr 2022 11:54:00 GMT</pubDate>
             <description><![CDATA[<strong>Wed 6 Apr</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-6.png" alt="Possible rain showers" /><br>
 Possible rain showers<br>
 Max: 21°C<br>
 <br>
 <strong>Thu 7 Apr</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-6.png" alt="Possible rain showers" /><br>
-Possible rain showers<br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-8.png" alt="Possible rain" /><br>
+Possible rain<br>
 Min: 9°C<br>
-Max: 15°C<br>
+Max: 14°C<br>
+<br>
+<strong>Fri 8 Apr</strong><br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-4.png" alt="Partly cloudy" /><br>
+Partly cloudy<br>
+Min: 4°C<br>
+Max: 22°C<br>
 ]]></description>
         </item>
         <item>
             <title><![CDATA[Priština]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>edd4c7a771560827db815228f0a29a28</guid>
-            <pubDate>Wed, 06 Apr 2022 05:25:00 GMT</pubDate>
+            <guid>263b4a5bdcbaa6365a3ae03ea9fb88fb</guid>
+            <pubDate>Wed, 06 Apr 2022 11:54:00 GMT</pubDate>
             <description><![CDATA[<strong>Wed 6 Apr</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-10.png" alt="Mostly cloudy" /><br>
 Mostly cloudy<br>
 Max: 21°C<br>
 <br>
 <strong>Thu 7 Apr</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-5.png" alt="After noon rain showers" /><br>
-After noon rain showers<br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-9.png" alt="Rain" /><br>
+Rain<br>
 Min: 8°C<br>
-Max: 15°C<br>
+Max: 13°C<br>
+<br>
+<strong>Fri 8 Apr</strong><br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-4.png" alt="Partly cloudy" /><br>
+Partly cloudy<br>
+Min: 4°C<br>
+Max: 21°C<br>
 ]]></description>
         </item>
         <item>
             <title><![CDATA[Niš]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>76a07c92ceecd9cf6a262c65c2faebe9</guid>
-            <pubDate>Wed, 06 Apr 2022 05:25:00 GMT</pubDate>
+            <guid>7a5ffb6733cd000d58135751c5154e1f</guid>
+            <pubDate>Wed, 06 Apr 2022 11:54:00 GMT</pubDate>
             <description><![CDATA[<strong>Wed 6 Apr</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-4.png" alt="Partly cloudy" /><br>
 Partly cloudy<br>
 Max: 21°C<br>
 <br>
 <strong>Thu 7 Apr</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-5.png" alt="After noon rain showers" /><br>
-After noon rain showers<br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-9.png" alt="Rain" /><br>
+Rain<br>
 Min: 10°C<br>
 Max: 15°C<br>
+<br>
+<strong>Fri 8 Apr</strong><br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-4.png" alt="Partly cloudy" /><br>
+Partly cloudy<br>
+Min: 6°C<br>
+Max: 23°C<br>
 ]]></description>
         </item>
     </channel>
