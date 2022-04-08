@@ -4,7 +4,7 @@
         <title>RHMZ</title>
         <link>https://data.dvuckovic.com/fcast3.xml</link>
         <description>Weather Forecast for Serbia</description>
-        <lastBuildDate>Fri, 08 Apr 2022 04:50:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Apr 2022 09:45:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>fcast</generator>
         <language>en</language>
@@ -17,8 +17,8 @@
         <item>
             <title><![CDATA[Palić]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>ce9fc12982cde6fc6f2ee0bc0d9877f6</guid>
-            <pubDate>Fri, 08 Apr 2022 04:50:00 GMT</pubDate>
+            <guid>bd1609bf3a3ba4ada6f62d5753b08c9f</guid>
+            <pubDate>Fri, 08 Apr 2022 09:45:00 GMT</pubDate>
             <description><![CDATA[<strong>Fri 8 Apr</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-10.png" alt="Mostly cloudy" /><br>
 Mostly cloudy<br>
@@ -34,8 +34,8 @@ Max: 19°C<br>
         <item>
             <title><![CDATA[Novi Sad]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>f3fecd51e540b2e4c5e87d56335299f9</guid>
-            <pubDate>Fri, 08 Apr 2022 04:50:00 GMT</pubDate>
+            <guid>ac99cf3ca30573e45ebe1a2e1841c264</guid>
+            <pubDate>Fri, 08 Apr 2022 09:45:00 GMT</pubDate>
             <description><![CDATA[<strong>Fri 8 Apr</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-10.png" alt="Mostly cloudy" /><br>
 Mostly cloudy<br>
@@ -51,8 +51,8 @@ Max: 20°C<br>
         <item>
             <title><![CDATA[Loznica]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>5f5b003103bfb1bfb6dd948c7fdf4735</guid>
-            <pubDate>Fri, 08 Apr 2022 04:50:00 GMT</pubDate>
+            <guid>72920c399dfddaec7778a0220868c605</guid>
+            <pubDate>Fri, 08 Apr 2022 09:45:00 GMT</pubDate>
             <description><![CDATA[<strong>Fri 8 Apr</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-10.png" alt="Mostly cloudy" /><br>
 Mostly cloudy<br>
@@ -68,8 +68,8 @@ Max: 22°C<br>
         <item>
             <title><![CDATA[Belgrade]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>47f538d5085bae9b7b1ef16c719db9ed</guid>
-            <pubDate>Fri, 08 Apr 2022 04:50:00 GMT</pubDate>
+            <guid>46d14027ec4bcf9cdeac4a3646a4584a</guid>
+            <pubDate>Fri, 08 Apr 2022 09:45:00 GMT</pubDate>
             <description><![CDATA[<strong>Fri 8 Apr</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-10.png" alt="Mostly cloudy" /><br>
 Mostly cloudy<br>
@@ -85,8 +85,8 @@ Max: 22°C<br>
         <item>
             <title><![CDATA[Kragujevac]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>954e01ce73454b52902cfb4364227711</guid>
-            <pubDate>Fri, 08 Apr 2022 04:50:00 GMT</pubDate>
+            <guid>82444aa0a761eefbd57b8382d1608ede</guid>
+            <pubDate>Fri, 08 Apr 2022 09:45:00 GMT</pubDate>
             <description><![CDATA[<strong>Fri 8 Apr</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-4.png" alt="Partly cloudy" /><br>
 Partly cloudy<br>
@@ -102,8 +102,8 @@ Max: 22°C<br>
         <item>
             <title><![CDATA[Negotin]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>a60530ef8ff4dbb1dad22b9ffaab2eb2</guid>
-            <pubDate>Fri, 08 Apr 2022 04:50:00 GMT</pubDate>
+            <guid>04de8062b5d3eb710f39c4f2ff91bedd</guid>
+            <pubDate>Fri, 08 Apr 2022 09:45:00 GMT</pubDate>
             <description><![CDATA[<strong>Fri 8 Apr</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-4.png" alt="Partly cloudy" /><br>
 Partly cloudy<br>
@@ -119,11 +119,11 @@ Max: 24°C<br>
         <item>
             <title><![CDATA[Zlatibor]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>6123b26187d5c2bcab24cd1e836c09c7</guid>
-            <pubDate>Fri, 08 Apr 2022 04:50:00 GMT</pubDate>
+            <guid>92026969b84aec10116992af203cec18</guid>
+            <pubDate>Fri, 08 Apr 2022 09:45:00 GMT</pubDate>
             <description><![CDATA[<strong>Fri 8 Apr</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-10.png" alt="Mostly cloudy" /><br>
-Mostly cloudy<br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-4.png" alt="Partly cloudy" /><br>
+Partly cloudy<br>
 Max: 17°C<br>
 <br>
 <strong>Sat 9 Apr</strong><br>
@@ -136,8 +136,8 @@ Max: 16°C<br>
         <item>
             <title><![CDATA[Kraljevo]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>3cb44ae78e9a02fe78ebdc825fdcc2ff</guid>
-            <pubDate>Fri, 08 Apr 2022 04:50:00 GMT</pubDate>
+            <guid>cddfbc6675842bde74d31b6c7fec3896</guid>
+            <pubDate>Fri, 08 Apr 2022 09:45:00 GMT</pubDate>
             <description><![CDATA[<strong>Fri 8 Apr</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-4.png" alt="Partly cloudy" /><br>
 Partly cloudy<br>
@@ -153,8 +153,8 @@ Max: 22°C<br>
         <item>
             <title><![CDATA[Priština]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>38e544403fa81bf2fb077e83a728d70e</guid>
-            <pubDate>Fri, 08 Apr 2022 04:50:00 GMT</pubDate>
+            <guid>8492427a0e465c09b1caefacd67a4c8c</guid>
+            <pubDate>Fri, 08 Apr 2022 09:45:00 GMT</pubDate>
             <description><![CDATA[<strong>Fri 8 Apr</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
 Mostly sunny<br>
@@ -170,8 +170,8 @@ Max: 22°C<br>
         <item>
             <title><![CDATA[Niš]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>e88fc3aef30d9369934a6431a886bb28</guid>
-            <pubDate>Fri, 08 Apr 2022 04:50:00 GMT</pubDate>
+            <guid>08d95c43409527b849dc0da2719631cd</guid>
+            <pubDate>Fri, 08 Apr 2022 09:45:00 GMT</pubDate>
             <description><![CDATA[<strong>Fri 8 Apr</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
 Mostly sunny<br>
