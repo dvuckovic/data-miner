@@ -4,7 +4,7 @@
         <title>RHMZ</title>
         <link>https://data.dvuckovic.com/fcast3.xml</link>
         <description>Weather Forecast for Serbia</description>
-        <lastBuildDate>Sun, 10 Apr 2022 05:30:00 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Apr 2022 06:15:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>fcast</generator>
         <language>en</language>
@@ -17,8 +17,8 @@
         <item>
             <title><![CDATA[Palić]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>db55210438083931bcfe4da43fbcdf6e</guid>
-            <pubDate>Sun, 10 Apr 2022 05:30:00 GMT</pubDate>
+            <guid>7e6ce9642fa6c2cbc2e2e8a8c6917ec0</guid>
+            <pubDate>Sun, 10 Apr 2022 06:15:00 GMT</pubDate>
             <description><![CDATA[<strong>Sun 10 Apr</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-10.png" alt="Mostly cloudy" /><br>
 Mostly cloudy<br>
@@ -34,8 +34,8 @@ Max: 13°C<br>
         <item>
             <title><![CDATA[Novi Sad]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>60a2680400341182fae0539874c577d3</guid>
-            <pubDate>Sun, 10 Apr 2022 05:30:00 GMT</pubDate>
+            <guid>b7686985a5e71a795f20675602c671e6</guid>
+            <pubDate>Sun, 10 Apr 2022 06:15:00 GMT</pubDate>
             <description><![CDATA[<strong>Sun 10 Apr</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-6.png" alt="Possible rain showers" /><br>
 Possible rain showers<br>
@@ -51,8 +51,8 @@ Max: 14°C<br>
         <item>
             <title><![CDATA[Loznica]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>018a5933a0c684c741a232cae7485278</guid>
-            <pubDate>Sun, 10 Apr 2022 05:30:00 GMT</pubDate>
+            <guid>8ce95687528f758fab4046d6d8dfc4df</guid>
+            <pubDate>Sun, 10 Apr 2022 06:15:00 GMT</pubDate>
             <description><![CDATA[<strong>Sun 10 Apr</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-8.png" alt="Possible rain" /><br>
 Possible rain<br>
@@ -68,8 +68,8 @@ Max: 14°C<br>
         <item>
             <title><![CDATA[Belgrade]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>b6ca1b4cadf59ee76deb1867492d95e3</guid>
-            <pubDate>Sun, 10 Apr 2022 05:30:00 GMT</pubDate>
+            <guid>e3957a28acac4ad08e1bb7af778096d3</guid>
+            <pubDate>Sun, 10 Apr 2022 06:15:00 GMT</pubDate>
             <description><![CDATA[<strong>Sun 10 Apr</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-8.png" alt="Possible rain" /><br>
 Possible rain<br>
@@ -85,8 +85,8 @@ Max: 14°C<br>
         <item>
             <title><![CDATA[Kragujevac]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>2a2c35904dc9173a6ed36f3aa41b8133</guid>
-            <pubDate>Sun, 10 Apr 2022 05:30:00 GMT</pubDate>
+            <guid>cf31378e5a4f28cfb4f37b30acee2911</guid>
+            <pubDate>Sun, 10 Apr 2022 06:15:00 GMT</pubDate>
             <description><![CDATA[<strong>Sun 10 Apr</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-8.png" alt="Possible rain" /><br>
 Possible rain<br>
@@ -102,8 +102,8 @@ Max: 14°C<br>
         <item>
             <title><![CDATA[Negotin]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>c17095d42b9277dfcce9947651865b7e</guid>
-            <pubDate>Sun, 10 Apr 2022 05:30:00 GMT</pubDate>
+            <guid>39902162dfc7c5c6dbafea98f75bbacf</guid>
+            <pubDate>Sun, 10 Apr 2022 06:15:00 GMT</pubDate>
             <description><![CDATA[<strong>Sun 10 Apr</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-18.png" alt="Wind gusts" /><br>
 Wind gusts<br>
@@ -119,8 +119,8 @@ Max: 16°C<br>
         <item>
             <title><![CDATA[Zlatibor]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>a9994c0b83addf9961bc6475d4a0af71</guid>
-            <pubDate>Sun, 10 Apr 2022 05:30:00 GMT</pubDate>
+            <guid>92863905eccd90972f6e7a57588050f4</guid>
+            <pubDate>Sun, 10 Apr 2022 06:15:00 GMT</pubDate>
             <description><![CDATA[<strong>Sun 10 Apr</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-15.png" alt="Snow" /><br>
 Snow<br>
@@ -136,8 +136,8 @@ Max: 8°C<br>
         <item>
             <title><![CDATA[Kraljevo]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>a4abbf5a58b37e6cb9cea902d717b8b1</guid>
-            <pubDate>Sun, 10 Apr 2022 05:30:00 GMT</pubDate>
+            <guid>f074f777a3f0e8f9fca29ccc363c9c6e</guid>
+            <pubDate>Sun, 10 Apr 2022 06:15:00 GMT</pubDate>
             <description><![CDATA[<strong>Sun 10 Apr</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-8.png" alt="Possible rain" /><br>
 Possible rain<br>
@@ -153,8 +153,8 @@ Max: 12°C<br>
         <item>
             <title><![CDATA[Priština]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>41b5c3c17a17107dfd8a683768340d3f</guid>
-            <pubDate>Sun, 10 Apr 2022 05:30:00 GMT</pubDate>
+            <guid>5f4970762b28f0ef047dd5b427a4b411</guid>
+            <pubDate>Sun, 10 Apr 2022 06:15:00 GMT</pubDate>
             <description><![CDATA[<strong>Sun 10 Apr</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-8.png" alt="Possible rain" /><br>
 Possible rain<br>
@@ -170,8 +170,8 @@ Max: 11°C<br>
         <item>
             <title><![CDATA[Niš]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>b446c21cd32fb827fe32a10395e7ae1c</guid>
-            <pubDate>Sun, 10 Apr 2022 05:30:00 GMT</pubDate>
+            <guid>c859990fe09403e3cf9b7069ccdab674</guid>
+            <pubDate>Sun, 10 Apr 2022 06:15:00 GMT</pubDate>
             <description><![CDATA[<strong>Sun 10 Apr</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-8.png" alt="Possible rain" /><br>
 Possible rain<br>
