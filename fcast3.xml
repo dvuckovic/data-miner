@@ -4,7 +4,7 @@
         <title>RHMZ</title>
         <link>https://data.dvuckovic.com/fcast3.xml</link>
         <description>Weather Forecast for Serbia</description>
-        <lastBuildDate>Sun, 10 Apr 2022 12:35:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Apr 2022 08:30:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>fcast</generator>
         <language>en</language>
@@ -17,8 +17,8 @@
         <item>
             <title><![CDATA[Palić]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>fa64850434ac736a357136b13b01ea27</guid>
-            <pubDate>Sun, 10 Apr 2022 12:35:00 GMT</pubDate>
+            <guid>63072cd08481606ff0f1fc0159c21473</guid>
+            <pubDate>Mon, 11 Apr 2022 08:30:00 GMT</pubDate>
             <description><![CDATA[<strong>Mon 11 Apr</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-4.png" alt="Partly cloudy" /><br>
 Partly cloudy<br>
@@ -34,8 +34,8 @@ Max: 19°C<br>
         <item>
             <title><![CDATA[Novi Sad]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>d02bc4298369a590da8f0cab5bd1f5a0</guid>
-            <pubDate>Sun, 10 Apr 2022 12:35:00 GMT</pubDate>
+            <guid>2b6abb3731426d25a35ca9a8141ddc7a</guid>
+            <pubDate>Mon, 11 Apr 2022 08:30:00 GMT</pubDate>
             <description><![CDATA[<strong>Mon 11 Apr</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
 Mostly sunny<br>
@@ -51,8 +51,8 @@ Max: 19°C<br>
         <item>
             <title><![CDATA[Loznica]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>eda1216d145d0e3155ddecf59db9f5bf</guid>
-            <pubDate>Sun, 10 Apr 2022 12:35:00 GMT</pubDate>
+            <guid>f25abecf59194f12f36e52c94b4d81ae</guid>
+            <pubDate>Mon, 11 Apr 2022 08:30:00 GMT</pubDate>
             <description><![CDATA[<strong>Mon 11 Apr</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
 Mostly sunny<br>
@@ -68,8 +68,8 @@ Max: 20°C<br>
         <item>
             <title><![CDATA[Belgrade]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>e33f7b72a2064f34790adc9c865354ba</guid>
-            <pubDate>Sun, 10 Apr 2022 12:35:00 GMT</pubDate>
+            <guid>22c3cc69eab2a2ef2223fa2059837175</guid>
+            <pubDate>Mon, 11 Apr 2022 08:30:00 GMT</pubDate>
             <description><![CDATA[<strong>Mon 11 Apr</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
 Mostly sunny<br>
@@ -85,8 +85,8 @@ Max: 19°C<br>
         <item>
             <title><![CDATA[Kragujevac]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>fe52fa5d12e4269c962b9f55f05a57a2</guid>
-            <pubDate>Sun, 10 Apr 2022 12:35:00 GMT</pubDate>
+            <guid>66c61c6395b112da9813e61c5c3f0f60</guid>
+            <pubDate>Mon, 11 Apr 2022 08:30:00 GMT</pubDate>
             <description><![CDATA[<strong>Mon 11 Apr</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
 Mostly sunny<br>
@@ -102,8 +102,8 @@ Max: 19°C<br>
         <item>
             <title><![CDATA[Negotin]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>78a0e62acc526b56905b814ebe7d96dd</guid>
-            <pubDate>Sun, 10 Apr 2022 12:35:00 GMT</pubDate>
+            <guid>39115244b19232204fb904316679d6b2</guid>
+            <pubDate>Mon, 11 Apr 2022 08:30:00 GMT</pubDate>
             <description><![CDATA[<strong>Mon 11 Apr</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
 Mostly sunny<br>
@@ -119,8 +119,8 @@ Max: 19°C<br>
         <item>
             <title><![CDATA[Zlatibor]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>000bce23fbc8daee9233142508748ae3</guid>
-            <pubDate>Sun, 10 Apr 2022 12:35:00 GMT</pubDate>
+            <guid>415e190267908bad86f0463d6b56d174</guid>
+            <pubDate>Mon, 11 Apr 2022 08:30:00 GMT</pubDate>
             <description><![CDATA[<strong>Mon 11 Apr</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-4.png" alt="Partly cloudy" /><br>
 Partly cloudy<br>
@@ -136,8 +136,8 @@ Max: 15°C<br>
         <item>
             <title><![CDATA[Kraljevo]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>9058237b788e7ad9e744bcd4fe9c381d</guid>
-            <pubDate>Sun, 10 Apr 2022 12:35:00 GMT</pubDate>
+            <guid>bc2d6323e78d862adcb0d69ffbd881a6</guid>
+            <pubDate>Mon, 11 Apr 2022 08:30:00 GMT</pubDate>
             <description><![CDATA[<strong>Mon 11 Apr</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
 Mostly sunny<br>
@@ -153,8 +153,8 @@ Max: 19°C<br>
         <item>
             <title><![CDATA[Priština]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>356baef28bff9de68d271adb9d4220d2</guid>
-            <pubDate>Sun, 10 Apr 2022 12:35:00 GMT</pubDate>
+            <guid>4c12c7e5492b5920d3713e880e55c0f3</guid>
+            <pubDate>Mon, 11 Apr 2022 08:30:00 GMT</pubDate>
             <description><![CDATA[<strong>Mon 11 Apr</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
 Mostly sunny<br>
@@ -170,11 +170,11 @@ Max: 18°C<br>
         <item>
             <title><![CDATA[Niš]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>a30d63abf6e60c9a47bf3dc1768a4f7a</guid>
-            <pubDate>Sun, 10 Apr 2022 12:35:00 GMT</pubDate>
+            <guid>2e477d33cedff254a048d180e6557c33</guid>
+            <pubDate>Mon, 11 Apr 2022 08:30:00 GMT</pubDate>
             <description><![CDATA[<strong>Mon 11 Apr</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-6.png" alt="Possible rain showers" /><br>
-Possible rain showers<br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-10.png" alt="Mostly cloudy" /><br>
+Mostly cloudy<br>
 Max: 13°C<br>
 <br>
 <strong>Tue 12 Apr</strong><br>
