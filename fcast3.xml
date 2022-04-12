@@ -4,7 +4,7 @@
         <title>RHMZ</title>
         <link>https://data.dvuckovic.com/fcast3.xml</link>
         <description>Weather Forecast for Serbia</description>
-        <lastBuildDate>Tue, 12 Apr 2022 05:05:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Apr 2022 08:25:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>fcast</generator>
         <language>en</language>
@@ -17,8 +17,8 @@
         <item>
             <title><![CDATA[Palić]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>9009fb0b1375069e9d5b6aef1508f1f2</guid>
-            <pubDate>Tue, 12 Apr 2022 05:05:00 GMT</pubDate>
+            <guid>e729b2fe35280707edad2e4ca0591df8</guid>
+            <pubDate>Tue, 12 Apr 2022 08:25:00 GMT</pubDate>
             <description><![CDATA[<strong>Tue 12 Apr</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
 Mostly sunny<br>
@@ -34,8 +34,8 @@ Max: 20°C<br>
         <item>
             <title><![CDATA[Novi Sad]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>0cb77dbf0f8c9090f215be9f893dfce2</guid>
-            <pubDate>Tue, 12 Apr 2022 05:05:00 GMT</pubDate>
+            <guid>d46475697392058fda8dde13b5a008c6</guid>
+            <pubDate>Tue, 12 Apr 2022 08:25:00 GMT</pubDate>
             <description><![CDATA[<strong>Tue 12 Apr</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
 Mostly sunny<br>
@@ -51,8 +51,8 @@ Max: 20°C<br>
         <item>
             <title><![CDATA[Loznica]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>ce4e06d8fa3d99b80c2d720e51705d8d</guid>
-            <pubDate>Tue, 12 Apr 2022 05:05:00 GMT</pubDate>
+            <guid>d81ded6ff75d73c893860ec73da0b284</guid>
+            <pubDate>Tue, 12 Apr 2022 08:25:00 GMT</pubDate>
             <description><![CDATA[<strong>Tue 12 Apr</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
 Mostly sunny<br>
@@ -68,8 +68,8 @@ Max: 21°C<br>
         <item>
             <title><![CDATA[Belgrade]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>105592e02156848d33cc12f55b3e1edd</guid>
-            <pubDate>Tue, 12 Apr 2022 05:05:00 GMT</pubDate>
+            <guid>12a06c45e6ab7aa6a0828011295bef42</guid>
+            <pubDate>Tue, 12 Apr 2022 08:25:00 GMT</pubDate>
             <description><![CDATA[<strong>Tue 12 Apr</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
 Mostly sunny<br>
@@ -85,8 +85,8 @@ Max: 20°C<br>
         <item>
             <title><![CDATA[Kragujevac]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>2cde4b1488ee1b1d56ec65ea59a622e5</guid>
-            <pubDate>Tue, 12 Apr 2022 05:05:00 GMT</pubDate>
+            <guid>8bbda92bd768e011158bd1d22ab8f3ad</guid>
+            <pubDate>Tue, 12 Apr 2022 08:25:00 GMT</pubDate>
             <description><![CDATA[<strong>Tue 12 Apr</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
 Mostly sunny<br>
@@ -102,8 +102,8 @@ Max: 19°C<br>
         <item>
             <title><![CDATA[Negotin]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>0af8df804647b4675aa0feb42934cf48</guid>
-            <pubDate>Tue, 12 Apr 2022 05:05:00 GMT</pubDate>
+            <guid>ef530654306078bf741adcda9ff76105</guid>
+            <pubDate>Tue, 12 Apr 2022 08:25:00 GMT</pubDate>
             <description><![CDATA[<strong>Tue 12 Apr</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
 Mostly sunny<br>
@@ -119,8 +119,8 @@ Max: 19°C<br>
         <item>
             <title><![CDATA[Zlatibor]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>4da8941ae3c44190119736ed06854d13</guid>
-            <pubDate>Tue, 12 Apr 2022 05:05:00 GMT</pubDate>
+            <guid>77b6848d691dc64811ccb2f04e9d13c7</guid>
+            <pubDate>Tue, 12 Apr 2022 08:25:00 GMT</pubDate>
             <description><![CDATA[<strong>Tue 12 Apr</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
 Mostly sunny<br>
@@ -136,8 +136,8 @@ Max: 16°C<br>
         <item>
             <title><![CDATA[Kraljevo]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>463cbff879b998ae40e26cefcd89df01</guid>
-            <pubDate>Tue, 12 Apr 2022 05:05:00 GMT</pubDate>
+            <guid>57bc7f320878792074a2a5c865149983</guid>
+            <pubDate>Tue, 12 Apr 2022 08:25:00 GMT</pubDate>
             <description><![CDATA[<strong>Tue 12 Apr</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
 Mostly sunny<br>
@@ -153,8 +153,8 @@ Max: 20°C<br>
         <item>
             <title><![CDATA[Priština]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>5c739933ff394fbe3a5e6670c010a9e3</guid>
-            <pubDate>Tue, 12 Apr 2022 05:05:00 GMT</pubDate>
+            <guid>054df6f7550fa4bac052da92354fc143</guid>
+            <pubDate>Tue, 12 Apr 2022 08:25:00 GMT</pubDate>
             <description><![CDATA[<strong>Tue 12 Apr</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
 Mostly sunny<br>
@@ -170,8 +170,8 @@ Max: 19°C<br>
         <item>
             <title><![CDATA[Niš]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>8a280814749c330e406b372dc3af23f3</guid>
-            <pubDate>Tue, 12 Apr 2022 05:05:00 GMT</pubDate>
+            <guid>de05eb8c5076ceab876569e752ba08dc</guid>
+            <pubDate>Tue, 12 Apr 2022 08:25:00 GMT</pubDate>
             <description><![CDATA[<strong>Tue 12 Apr</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
 Mostly sunny<br>
