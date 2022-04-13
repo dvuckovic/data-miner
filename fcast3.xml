@@ -4,7 +4,7 @@
         <title>RHMZ</title>
         <link>https://data.dvuckovic.com/fcast3.xml</link>
         <description>Weather Forecast for Serbia</description>
-        <lastBuildDate>Tue, 12 Apr 2022 11:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Apr 2022 04:45:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>fcast</generator>
         <language>en</language>
@@ -17,17 +17,11 @@
         <item>
             <title><![CDATA[Palić]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>077f173efef8b9841225c4f3bde97217</guid>
-            <pubDate>Tue, 12 Apr 2022 11:00:00 GMT</pubDate>
-            <description><![CDATA[<strong>Tue 12 Apr</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
-Mostly sunny<br>
-Max: 19°C<br>
-<br>
-<strong>Wed 13 Apr</strong><br>
+            <guid>b5c020a995e9ae16cfc8b864e4962a87</guid>
+            <pubDate>Wed, 13 Apr 2022 04:45:00 GMT</pubDate>
+            <description><![CDATA[<strong>Wed 13 Apr</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
 Sunny<br>
-Min: 3°C<br>
 Max: 20°C<br>
 <br>
 <strong>Thu 14 Apr</strong><br>
@@ -40,17 +34,11 @@ Max: 22°C<br>
         <item>
             <title><![CDATA[Novi Sad]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>e71d5aedaaa7af3eb81d80416e089be7</guid>
-            <pubDate>Tue, 12 Apr 2022 11:00:00 GMT</pubDate>
-            <description><![CDATA[<strong>Tue 12 Apr</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
-Mostly sunny<br>
-Max: 19°C<br>
-<br>
-<strong>Wed 13 Apr</strong><br>
+            <guid>0cd3a2106099e26c102f4bf77a7d7dcb</guid>
+            <pubDate>Wed, 13 Apr 2022 04:45:00 GMT</pubDate>
+            <description><![CDATA[<strong>Wed 13 Apr</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
 Sunny<br>
-Min: 2°C<br>
 Max: 20°C<br>
 <br>
 <strong>Thu 14 Apr</strong><br>
@@ -63,17 +51,11 @@ Max: 22°C<br>
         <item>
             <title><![CDATA[Loznica]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>7fd2fdaa2d3b1665b577ed9624b2ae76</guid>
-            <pubDate>Tue, 12 Apr 2022 11:00:00 GMT</pubDate>
-            <description><![CDATA[<strong>Tue 12 Apr</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
-Mostly sunny<br>
-Max: 20°C<br>
-<br>
-<strong>Wed 13 Apr</strong><br>
+            <guid>b6e351e55238effa29d7c97a9d5045e6</guid>
+            <pubDate>Wed, 13 Apr 2022 04:45:00 GMT</pubDate>
+            <description><![CDATA[<strong>Wed 13 Apr</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
 Sunny<br>
-Min: 3°C<br>
 Max: 21°C<br>
 <br>
 <strong>Thu 14 Apr</strong><br>
@@ -86,17 +68,11 @@ Max: 24°C<br>
         <item>
             <title><![CDATA[Belgrade]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>aeac644419005b2b212ebb6e9f818853</guid>
-            <pubDate>Tue, 12 Apr 2022 11:00:00 GMT</pubDate>
-            <description><![CDATA[<strong>Tue 12 Apr</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
-Mostly sunny<br>
-Max: 19°C<br>
-<br>
-<strong>Wed 13 Apr</strong><br>
+            <guid>e8a45f8a5f4ba6b0689a1f2d75ea1f12</guid>
+            <pubDate>Wed, 13 Apr 2022 04:45:00 GMT</pubDate>
+            <description><![CDATA[<strong>Wed 13 Apr</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
 Sunny<br>
-Min: 6°C<br>
 Max: 20°C<br>
 <br>
 <strong>Thu 14 Apr</strong><br>
@@ -109,17 +85,11 @@ Max: 22°C<br>
         <item>
             <title><![CDATA[Kragujevac]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>29c1df384773cd74cdd93cef57adff4a</guid>
-            <pubDate>Tue, 12 Apr 2022 11:00:00 GMT</pubDate>
-            <description><![CDATA[<strong>Tue 12 Apr</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
-Mostly sunny<br>
-Max: 19°C<br>
-<br>
-<strong>Wed 13 Apr</strong><br>
+            <guid>4c969d8e74438fa2c1597a7c19f24a54</guid>
+            <pubDate>Wed, 13 Apr 2022 04:45:00 GMT</pubDate>
+            <description><![CDATA[<strong>Wed 13 Apr</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
 Sunny<br>
-Min: 1°C<br>
 Max: 19°C<br>
 <br>
 <strong>Thu 14 Apr</strong><br>
@@ -132,17 +102,11 @@ Max: 22°C<br>
         <item>
             <title><![CDATA[Negotin]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>b674a1a649351d4d32f26a0690fedf73</guid>
-            <pubDate>Tue, 12 Apr 2022 11:00:00 GMT</pubDate>
-            <description><![CDATA[<strong>Tue 12 Apr</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
-Mostly sunny<br>
-Max: 19°C<br>
-<br>
-<strong>Wed 13 Apr</strong><br>
+            <guid>38e87ee9d5cedc2c11363fe615b64e0d</guid>
+            <pubDate>Wed, 13 Apr 2022 04:45:00 GMT</pubDate>
+            <description><![CDATA[<strong>Wed 13 Apr</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
 Sunny<br>
-Min: 2°C<br>
 Max: 19°C<br>
 <br>
 <strong>Thu 14 Apr</strong><br>
@@ -155,17 +119,11 @@ Max: 22°C<br>
         <item>
             <title><![CDATA[Zlatibor]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>5532495ef7b6e8fcb7dc057e34aba6b8</guid>
-            <pubDate>Tue, 12 Apr 2022 11:00:00 GMT</pubDate>
-            <description><![CDATA[<strong>Tue 12 Apr</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
-Mostly sunny<br>
-Max: 15°C<br>
-<br>
-<strong>Wed 13 Apr</strong><br>
+            <guid>02a43a4ddd4e418d171bab14619f003f</guid>
+            <pubDate>Wed, 13 Apr 2022 04:45:00 GMT</pubDate>
+            <description><![CDATA[<strong>Wed 13 Apr</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
 Sunny<br>
-Min: 3°C<br>
 Max: 15°C<br>
 <br>
 <strong>Thu 14 Apr</strong><br>
@@ -178,17 +136,11 @@ Max: 19°C<br>
         <item>
             <title><![CDATA[Kraljevo]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>4b024c4b72ff96ba1cbdc159440236a5</guid>
-            <pubDate>Tue, 12 Apr 2022 11:00:00 GMT</pubDate>
-            <description><![CDATA[<strong>Tue 12 Apr</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
-Mostly sunny<br>
-Max: 19°C<br>
-<br>
-<strong>Wed 13 Apr</strong><br>
+            <guid>0df146e1a759004812b17f455011f0f2</guid>
+            <pubDate>Wed, 13 Apr 2022 04:45:00 GMT</pubDate>
+            <description><![CDATA[<strong>Wed 13 Apr</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
 Sunny<br>
-Min: 2°C<br>
 Max: 19°C<br>
 <br>
 <strong>Thu 14 Apr</strong><br>
@@ -201,17 +153,11 @@ Max: 23°C<br>
         <item>
             <title><![CDATA[Priština]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>ac49351bbeedffb51b920c8e97969d1e</guid>
-            <pubDate>Tue, 12 Apr 2022 11:00:00 GMT</pubDate>
-            <description><![CDATA[<strong>Tue 12 Apr</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
-Mostly sunny<br>
-Max: 18°C<br>
-<br>
-<strong>Wed 13 Apr</strong><br>
+            <guid>bd3014dc7498c7f5942a4525fabc4376</guid>
+            <pubDate>Wed, 13 Apr 2022 04:45:00 GMT</pubDate>
+            <description><![CDATA[<strong>Wed 13 Apr</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
 Sunny<br>
-Min: -1°C<br>
 Max: 18°C<br>
 <br>
 <strong>Thu 14 Apr</strong><br>
@@ -224,17 +170,11 @@ Max: 22°C<br>
         <item>
             <title><![CDATA[Niš]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>0e0b3e3aaf75cdf86a9b75102998d104</guid>
-            <pubDate>Tue, 12 Apr 2022 11:00:00 GMT</pubDate>
-            <description><![CDATA[<strong>Tue 12 Apr</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
-Mostly sunny<br>
-Max: 20°C<br>
-<br>
-<strong>Wed 13 Apr</strong><br>
+            <guid>51ee3fe18da20444ef983bac36da7d33</guid>
+            <pubDate>Wed, 13 Apr 2022 04:45:00 GMT</pubDate>
+            <description><![CDATA[<strong>Wed 13 Apr</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
 Sunny<br>
-Min: 1°C<br>
 Max: 20°C<br>
 <br>
 <strong>Thu 14 Apr</strong><br>
