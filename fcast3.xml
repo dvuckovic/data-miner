@@ -4,7 +4,7 @@
         <title>RHMZ</title>
         <link>https://data.dvuckovic.com/fcast3.xml</link>
         <description>Weather Forecast for Serbia</description>
-        <lastBuildDate>Thu, 21 Apr 2022 05:25:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Apr 2022 06:25:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>fcast</generator>
         <language>en</language>
@@ -17,8 +17,8 @@
         <item>
             <title><![CDATA[Palić]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>6ab6a3a764949ed8241bc1903a89b8d2</guid>
-            <pubDate>Thu, 21 Apr 2022 05:25:00 GMT</pubDate>
+            <guid>fa8b0f9840dcaefc37561225078e0c7d</guid>
+            <pubDate>Thu, 21 Apr 2022 06:25:00 GMT</pubDate>
             <description><![CDATA[<strong>Thu 21 Apr</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-4.png" alt="Partly cloudy" /><br>
 Partly cloudy<br>
@@ -34,8 +34,8 @@ Max: 18°C<br>
         <item>
             <title><![CDATA[Novi Sad]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>958388b8ba80536c7b9700da145a034a</guid>
-            <pubDate>Thu, 21 Apr 2022 05:25:00 GMT</pubDate>
+            <guid>9d339aea8e8ab4e9601e188678cd7680</guid>
+            <pubDate>Thu, 21 Apr 2022 06:25:00 GMT</pubDate>
             <description><![CDATA[<strong>Thu 21 Apr</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-4.png" alt="Partly cloudy" /><br>
 Partly cloudy<br>
@@ -51,8 +51,8 @@ Max: 20°C<br>
         <item>
             <title><![CDATA[Loznica]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>8605de7d41dfd628969c545bce9b4ce3</guid>
-            <pubDate>Thu, 21 Apr 2022 05:25:00 GMT</pubDate>
+            <guid>a3010c40c0f653eb6cf0e6a835364a64</guid>
+            <pubDate>Thu, 21 Apr 2022 06:25:00 GMT</pubDate>
             <description><![CDATA[<strong>Thu 21 Apr</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-10.png" alt="Mostly cloudy" /><br>
 Mostly cloudy<br>
@@ -68,8 +68,8 @@ Max: 20°C<br>
         <item>
             <title><![CDATA[Belgrade]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>77cde0e80063a2abd6e5660f62ccaacd</guid>
-            <pubDate>Thu, 21 Apr 2022 05:25:00 GMT</pubDate>
+            <guid>d4c576a9008e26dd308c94a69354fc44</guid>
+            <pubDate>Thu, 21 Apr 2022 06:25:00 GMT</pubDate>
             <description><![CDATA[<strong>Thu 21 Apr</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-4.png" alt="Partly cloudy" /><br>
 Partly cloudy<br>
@@ -85,8 +85,8 @@ Max: 19°C<br>
         <item>
             <title><![CDATA[Kragujevac]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>a337e5120cde74819036bb6ebaabf54d</guid>
-            <pubDate>Thu, 21 Apr 2022 05:25:00 GMT</pubDate>
+            <guid>4d056242190a64ad667be7867e11bcf6</guid>
+            <pubDate>Thu, 21 Apr 2022 06:25:00 GMT</pubDate>
             <description><![CDATA[<strong>Thu 21 Apr</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-10.png" alt="Mostly cloudy" /><br>
 Mostly cloudy<br>
@@ -102,8 +102,8 @@ Max: 21°C<br>
         <item>
             <title><![CDATA[Negotin]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>b4d480b828d67ee86be98bc2c31c7255</guid>
-            <pubDate>Thu, 21 Apr 2022 05:25:00 GMT</pubDate>
+            <guid>f3cfee5aa11362c8e6c498d95a59b81e</guid>
+            <pubDate>Thu, 21 Apr 2022 06:25:00 GMT</pubDate>
             <description><![CDATA[<strong>Thu 21 Apr</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
 Mostly sunny<br>
@@ -119,8 +119,8 @@ Max: 17°C<br>
         <item>
             <title><![CDATA[Zlatibor]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>44e0befecff8e20429353ed9a478e80a</guid>
-            <pubDate>Thu, 21 Apr 2022 05:25:00 GMT</pubDate>
+            <guid>8c2f74b33f58dc6d0f8a5df698cf9ac5</guid>
+            <pubDate>Thu, 21 Apr 2022 06:25:00 GMT</pubDate>
             <description><![CDATA[<strong>Thu 21 Apr</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-8.png" alt="Possible rain" /><br>
 Possible rain<br>
@@ -136,8 +136,8 @@ Max: 14°C<br>
         <item>
             <title><![CDATA[Kraljevo]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>cf2d7628a17ef9fc0c921ea35367c5fb</guid>
-            <pubDate>Thu, 21 Apr 2022 05:25:00 GMT</pubDate>
+            <guid>2bb9f83848344fe8bc9e21efa71a474f</guid>
+            <pubDate>Thu, 21 Apr 2022 06:25:00 GMT</pubDate>
             <description><![CDATA[<strong>Thu 21 Apr</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-10.png" alt="Mostly cloudy" /><br>
 Mostly cloudy<br>
@@ -153,8 +153,8 @@ Max: 20°C<br>
         <item>
             <title><![CDATA[Priština]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>8dd00e5ee6b232a721729db2a5dd08e3</guid>
-            <pubDate>Thu, 21 Apr 2022 05:25:00 GMT</pubDate>
+            <guid>7862cc33cc5fd0a5c6bf193304452851</guid>
+            <pubDate>Thu, 21 Apr 2022 06:25:00 GMT</pubDate>
             <description><![CDATA[<strong>Thu 21 Apr</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-8.png" alt="Possible rain" /><br>
 Possible rain<br>
@@ -170,8 +170,8 @@ Max: 18°C<br>
         <item>
             <title><![CDATA[Niš]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>82ed2233fc065950599ff9ca14b8d95d</guid>
-            <pubDate>Thu, 21 Apr 2022 05:25:00 GMT</pubDate>
+            <guid>ba35aac918b4ecf35e31041816ace37f</guid>
+            <pubDate>Thu, 21 Apr 2022 06:25:00 GMT</pubDate>
             <description><![CDATA[<strong>Thu 21 Apr</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-10.png" alt="Mostly cloudy" /><br>
 Mostly cloudy<br>
