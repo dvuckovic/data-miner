@@ -4,7 +4,7 @@
         <title>RHMZ</title>
         <link>https://data.dvuckovic.com/fcast3.xml</link>
         <description>Weather Forecast for Serbia</description>
-        <lastBuildDate>Fri, 22 Apr 2022 11:51:00 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Apr 2022 10:20:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>fcast</generator>
         <language>en</language>
@@ -17,11 +17,11 @@
         <item>
             <title><![CDATA[Palić]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>93e94d296188f5e4d52d6853db251bed</guid>
-            <pubDate>Fri, 22 Apr 2022 11:51:00 GMT</pubDate>
+            <guid>b820fdc884ea5477aa1d6550a68b4d7c</guid>
+            <pubDate>Sat, 23 Apr 2022 10:20:00 GMT</pubDate>
             <description><![CDATA[<strong>Sat 23 Apr</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-6.png" alt="Possible rain showers" /><br>
-Possible rain showers<br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-10.png" alt="Mostly cloudy" /><br>
+Mostly cloudy<br>
 Max: 19°C<br>
 <br>
 <strong>Sun 24 Apr</strong><br>
@@ -34,12 +34,12 @@ Max: 23°C<br>
         <item>
             <title><![CDATA[Novi Sad]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>7867e2ec1bdede6ab38881e38b2b79dc</guid>
-            <pubDate>Fri, 22 Apr 2022 11:51:00 GMT</pubDate>
+            <guid>e9d035262a5c672db4345d946dae0f8d</guid>
+            <pubDate>Sat, 23 Apr 2022 10:20:00 GMT</pubDate>
             <description><![CDATA[<strong>Sat 23 Apr</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-6.png" alt="Possible rain showers" /><br>
-Possible rain showers<br>
-Max: 18°C<br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-10.png" alt="Mostly cloudy" /><br>
+Mostly cloudy<br>
+Max: 19°C<br>
 <br>
 <strong>Sun 24 Apr</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-5.png" alt="After noon rain showers" /><br>
@@ -51,8 +51,8 @@ Max: 24°C<br>
         <item>
             <title><![CDATA[Loznica]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>0ddcf3241aca93d135aee97108e6aa0e</guid>
-            <pubDate>Fri, 22 Apr 2022 11:51:00 GMT</pubDate>
+            <guid>f4a5c021fce1c2e6bd119df5ce3d675c</guid>
+            <pubDate>Sat, 23 Apr 2022 10:20:00 GMT</pubDate>
             <description><![CDATA[<strong>Sat 23 Apr</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-10.png" alt="Mostly cloudy" /><br>
 Mostly cloudy<br>
@@ -68,11 +68,11 @@ Max: 24°C<br>
         <item>
             <title><![CDATA[Belgrade]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>60bab07b5099f033eb20a040b53459e2</guid>
-            <pubDate>Fri, 22 Apr 2022 11:51:00 GMT</pubDate>
+            <guid>5748cf4c885b825273a93547936fa347</guid>
+            <pubDate>Sat, 23 Apr 2022 10:20:00 GMT</pubDate>
             <description><![CDATA[<strong>Sat 23 Apr</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-6.png" alt="Possible rain showers" /><br>
-Possible rain showers<br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-10.png" alt="Mostly cloudy" /><br>
+Mostly cloudy<br>
 Max: 19°C<br>
 <br>
 <strong>Sun 24 Apr</strong><br>
@@ -85,12 +85,12 @@ Max: 25°C<br>
         <item>
             <title><![CDATA[Kragujevac]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>54fd62326a5aa6b116794dbc312dbdf9</guid>
-            <pubDate>Fri, 22 Apr 2022 11:51:00 GMT</pubDate>
+            <guid>a019f09a9551c5b6952bd5b47e3bf4d1</guid>
+            <pubDate>Sat, 23 Apr 2022 10:20:00 GMT</pubDate>
             <description><![CDATA[<strong>Sat 23 Apr</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-6.png" alt="Possible rain showers" /><br>
-Possible rain showers<br>
-Max: 20°C<br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-10.png" alt="Mostly cloudy" /><br>
+Mostly cloudy<br>
+Max: 21°C<br>
 <br>
 <strong>Sun 24 Apr</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-4.png" alt="Partly cloudy" /><br>
@@ -102,11 +102,11 @@ Max: 26°C<br>
         <item>
             <title><![CDATA[Negotin]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>0c3b8ceecefcc06adf486ad86b519c90</guid>
-            <pubDate>Fri, 22 Apr 2022 11:51:00 GMT</pubDate>
+            <guid>f12922ed3167a5143f1949f273c4d76f</guid>
+            <pubDate>Sat, 23 Apr 2022 10:20:00 GMT</pubDate>
             <description><![CDATA[<strong>Sat 23 Apr</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-6.png" alt="Possible rain showers" /><br>
-Possible rain showers<br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-10.png" alt="Mostly cloudy" /><br>
+Mostly cloudy<br>
 Max: 21°C<br>
 <br>
 <strong>Sun 24 Apr</strong><br>
@@ -119,11 +119,11 @@ Max: 25°C<br>
         <item>
             <title><![CDATA[Zlatibor]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>a2bbc7ee8ab1656975b2d95c14bf836f</guid>
-            <pubDate>Fri, 22 Apr 2022 11:51:00 GMT</pubDate>
+            <guid>1b7bb4e2a5b44eb6f6653c8b982e510e</guid>
+            <pubDate>Sat, 23 Apr 2022 10:20:00 GMT</pubDate>
             <description><![CDATA[<strong>Sat 23 Apr</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-6.png" alt="Possible rain showers" /><br>
-Possible rain showers<br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-10.png" alt="Mostly cloudy" /><br>
+Mostly cloudy<br>
 Max: 15°C<br>
 <br>
 <strong>Sun 24 Apr</strong><br>
@@ -136,11 +136,11 @@ Max: 19°C<br>
         <item>
             <title><![CDATA[Kraljevo]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>c88c980ec77f77eb5f306e430d6a28d2</guid>
-            <pubDate>Fri, 22 Apr 2022 11:51:00 GMT</pubDate>
+            <guid>700c5c59c7721aff3efa8e38434df6c3</guid>
+            <pubDate>Sat, 23 Apr 2022 10:20:00 GMT</pubDate>
             <description><![CDATA[<strong>Sat 23 Apr</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-6.png" alt="Possible rain showers" /><br>
-Possible rain showers<br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-10.png" alt="Mostly cloudy" /><br>
+Mostly cloudy<br>
 Max: 20°C<br>
 <br>
 <strong>Sun 24 Apr</strong><br>
@@ -153,11 +153,11 @@ Max: 26°C<br>
         <item>
             <title><![CDATA[Priština]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>36dcca48b79d8f30d50b39bfbf40176d</guid>
-            <pubDate>Fri, 22 Apr 2022 11:51:00 GMT</pubDate>
+            <guid>7718723e51ac9ca26799335d58360376</guid>
+            <pubDate>Sat, 23 Apr 2022 10:20:00 GMT</pubDate>
             <description><![CDATA[<strong>Sat 23 Apr</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-6.png" alt="Possible rain showers" /><br>
-Possible rain showers<br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-10.png" alt="Mostly cloudy" /><br>
+Mostly cloudy<br>
 Max: 20°C<br>
 <br>
 <strong>Sun 24 Apr</strong><br>
@@ -170,8 +170,8 @@ Max: 24°C<br>
         <item>
             <title><![CDATA[Niš]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>a2dcdb9887cfc0e12576925ed0d06f2d</guid>
-            <pubDate>Fri, 22 Apr 2022 11:51:00 GMT</pubDate>
+            <guid>9db7d42d725e47c634512aeffa264bcc</guid>
+            <pubDate>Sat, 23 Apr 2022 10:20:00 GMT</pubDate>
             <description><![CDATA[<strong>Sat 23 Apr</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-6.png" alt="Possible rain showers" /><br>
 Possible rain showers<br>
