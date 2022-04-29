@@ -4,7 +4,7 @@
         <title>RHMZ</title>
         <link>https://data.dvuckovic.com/fcast3.xml</link>
         <description>Weather Forecast for Serbia</description>
-        <lastBuildDate>Thu, 28 Apr 2022 12:03:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Apr 2022 09:10:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>fcast</generator>
         <language>en</language>
@@ -17,8 +17,8 @@
         <item>
             <title><![CDATA[Palić]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>01f63eb2ac0e73232f2edd4582afd81a</guid>
-            <pubDate>Thu, 28 Apr 2022 12:03:00 GMT</pubDate>
+            <guid>55df6e1c3f0d6dadc45925a182328449</guid>
+            <pubDate>Fri, 29 Apr 2022 09:10:00 GMT</pubDate>
             <description><![CDATA[<strong>Fri 29 Apr</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-10.png" alt="Mostly cloudy" /><br>
 Mostly cloudy<br>
@@ -34,8 +34,8 @@ Max: 20°C<br>
         <item>
             <title><![CDATA[Novi Sad]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>ccfa38fc25d157a61daa22c22e4d2618</guid>
-            <pubDate>Thu, 28 Apr 2022 12:03:00 GMT</pubDate>
+            <guid>91e85c4c3f859f7002f77cbd9fdb4a76</guid>
+            <pubDate>Fri, 29 Apr 2022 09:10:00 GMT</pubDate>
             <description><![CDATA[<strong>Fri 29 Apr</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-10.png" alt="Mostly cloudy" /><br>
 Mostly cloudy<br>
@@ -51,11 +51,11 @@ Max: 21°C<br>
         <item>
             <title><![CDATA[Loznica]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>848c22245e1c78768479bbd138e91eef</guid>
-            <pubDate>Thu, 28 Apr 2022 12:03:00 GMT</pubDate>
+            <guid>13a32ad3266029034a733a06faf66856</guid>
+            <pubDate>Fri, 29 Apr 2022 09:10:00 GMT</pubDate>
             <description><![CDATA[<strong>Fri 29 Apr</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-6.png" alt="Possible rain showers" /><br>
-Possible rain showers<br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-10.png" alt="Mostly cloudy" /><br>
+Mostly cloudy<br>
 Max: 19°C<br>
 <br>
 <strong>Sat 30 Apr</strong><br>
@@ -68,8 +68,8 @@ Max: 21°C<br>
         <item>
             <title><![CDATA[Belgrade]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>d188a6269966231ba5aa5ccd0ba4b03c</guid>
-            <pubDate>Thu, 28 Apr 2022 12:03:00 GMT</pubDate>
+            <guid>5e276dd1247163e9348dfdcd17c3ba07</guid>
+            <pubDate>Fri, 29 Apr 2022 09:10:00 GMT</pubDate>
             <description><![CDATA[<strong>Fri 29 Apr</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-10.png" alt="Mostly cloudy" /><br>
 Mostly cloudy<br>
@@ -85,8 +85,8 @@ Max: 21°C<br>
         <item>
             <title><![CDATA[Kragujevac]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>1307d800a8db2356e913c8ec7a93d6cb</guid>
-            <pubDate>Thu, 28 Apr 2022 12:03:00 GMT</pubDate>
+            <guid>a5b1dcee4a753ec81e0b9ec15bb3ee9e</guid>
+            <pubDate>Fri, 29 Apr 2022 09:10:00 GMT</pubDate>
             <description><![CDATA[<strong>Fri 29 Apr</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-6.png" alt="Possible rain showers" /><br>
 Possible rain showers<br>
@@ -102,11 +102,11 @@ Max: 20°C<br>
         <item>
             <title><![CDATA[Negotin]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>c16eb41221ca91fe5aff1b6d2da220b2</guid>
-            <pubDate>Thu, 28 Apr 2022 12:03:00 GMT</pubDate>
+            <guid>988989c6e5149b88825103a0a2adc1fa</guid>
+            <pubDate>Fri, 29 Apr 2022 09:10:00 GMT</pubDate>
             <description><![CDATA[<strong>Fri 29 Apr</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-10.png" alt="Mostly cloudy" /><br>
-Mostly cloudy<br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-4.png" alt="Partly cloudy" /><br>
+Partly cloudy<br>
 Max: 21°C<br>
 <br>
 <strong>Sat 30 Apr</strong><br>
@@ -119,8 +119,8 @@ Max: 19°C<br>
         <item>
             <title><![CDATA[Zlatibor]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>06ba8c50f603e5cdf002b7ede064df13</guid>
-            <pubDate>Thu, 28 Apr 2022 12:03:00 GMT</pubDate>
+            <guid>f5f7da2c7d05dc47f55efcc263581bf5</guid>
+            <pubDate>Fri, 29 Apr 2022 09:10:00 GMT</pubDate>
             <description><![CDATA[<strong>Fri 29 Apr</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-8.png" alt="Possible rain" /><br>
 Possible rain<br>
@@ -136,8 +136,8 @@ Max: 14°C<br>
         <item>
             <title><![CDATA[Kraljevo]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>245c60bdcec0f0863b110cbc9f63e480</guid>
-            <pubDate>Thu, 28 Apr 2022 12:03:00 GMT</pubDate>
+            <guid>400d234a899e1b40682bcc211e840351</guid>
+            <pubDate>Fri, 29 Apr 2022 09:10:00 GMT</pubDate>
             <description><![CDATA[<strong>Fri 29 Apr</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-8.png" alt="Possible rain" /><br>
 Possible rain<br>
@@ -153,8 +153,8 @@ Max: 20°C<br>
         <item>
             <title><![CDATA[Priština]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>8a66ee19f52288a36c46537a41f56340</guid>
-            <pubDate>Thu, 28 Apr 2022 12:03:00 GMT</pubDate>
+            <guid>50e0edbf74d2628ee1d4ed5eed708d2d</guid>
+            <pubDate>Fri, 29 Apr 2022 09:10:00 GMT</pubDate>
             <description><![CDATA[<strong>Fri 29 Apr</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-8.png" alt="Possible rain" /><br>
 Possible rain<br>
@@ -170,8 +170,8 @@ Max: 20°C<br>
         <item>
             <title><![CDATA[Niš]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>abe90ae3f3181e16b14913fdd410d577</guid>
-            <pubDate>Thu, 28 Apr 2022 12:03:00 GMT</pubDate>
+            <guid>f5a596bbc39d47b2d729ac7da42306a0</guid>
+            <pubDate>Fri, 29 Apr 2022 09:10:00 GMT</pubDate>
             <description><![CDATA[<strong>Fri 29 Apr</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-8.png" alt="Possible rain" /><br>
 Possible rain<br>
