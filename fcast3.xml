@@ -4,7 +4,7 @@
         <title>RHMZ</title>
         <link>https://data.dvuckovic.com/fcast3.xml</link>
         <description>Weather Forecast for Serbia</description>
-        <lastBuildDate>Wed, 04 May 2022 09:30:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 May 2022 12:15:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>fcast</generator>
         <language>en</language>
@@ -17,8 +17,8 @@
         <item>
             <title><![CDATA[Palić]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>05e39b83e32708d21fbf1b3e7bf50feb</guid>
-            <pubDate>Wed, 04 May 2022 09:30:00 GMT</pubDate>
+            <guid>5946b27cc119fbbb9f6ed1d86e742ce0</guid>
+            <pubDate>Wed, 04 May 2022 12:15:00 GMT</pubDate>
             <description><![CDATA[<strong>Wed 4 May</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
 Mostly sunny<br>
@@ -27,15 +27,21 @@ Max: 25°C<br>
 <strong>Thu 5 May</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
 Mostly sunny<br>
-Min: 9°C<br>
+Min: 11°C<br>
+Max: 25°C<br>
+<br>
+<strong>Fri 6 May</strong><br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
+Mostly sunny<br>
+Min: 11°C<br>
 Max: 26°C<br>
 ]]></description>
         </item>
         <item>
             <title><![CDATA[Novi Sad]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>64abda7ac1a1f461d8bc577366ad2711</guid>
-            <pubDate>Wed, 04 May 2022 09:30:00 GMT</pubDate>
+            <guid>fa916d3840d31c5bc0958973a61af665</guid>
+            <pubDate>Wed, 04 May 2022 12:15:00 GMT</pubDate>
             <description><![CDATA[<strong>Wed 4 May</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
 Mostly sunny<br>
@@ -46,30 +52,42 @@ Max: 24°C<br>
 Mostly sunny<br>
 Min: 10°C<br>
 Max: 26°C<br>
+<br>
+<strong>Fri 6 May</strong><br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
+Mostly sunny<br>
+Min: 12°C<br>
+Max: 26°C<br>
 ]]></description>
         </item>
         <item>
             <title><![CDATA[Loznica]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>7376d072b2db5c2cb04e7190073caef2</guid>
-            <pubDate>Wed, 04 May 2022 09:30:00 GMT</pubDate>
+            <guid>44d4ee749c9b2e8cb07903327cb7fd17</guid>
+            <pubDate>Wed, 04 May 2022 12:15:00 GMT</pubDate>
             <description><![CDATA[<strong>Wed 4 May</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
 Mostly sunny<br>
 Max: 24°C<br>
 <br>
 <strong>Thu 5 May</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-4.png" alt="Partly cloudy" /><br>
-Partly cloudy<br>
-Min: 9°C<br>
-Max: 26°C<br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
+Mostly sunny<br>
+Min: 8°C<br>
+Max: 25°C<br>
+<br>
+<strong>Fri 6 May</strong><br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-5.png" alt="After noon rain showers" /><br>
+After noon rain showers<br>
+Min: 10°C<br>
+Max: 24°C<br>
 ]]></description>
         </item>
         <item>
             <title><![CDATA[Belgrade]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>71d7dba71fa36f3e68519c2ddea22f26</guid>
-            <pubDate>Wed, 04 May 2022 09:30:00 GMT</pubDate>
+            <guid>0ff46144c90332fa917a671e726feb3a</guid>
+            <pubDate>Wed, 04 May 2022 12:15:00 GMT</pubDate>
             <description><![CDATA[<strong>Wed 4 May</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
 Mostly sunny<br>
@@ -80,30 +98,42 @@ Max: 24°C<br>
 Mostly sunny<br>
 Min: 12°C<br>
 Max: 26°C<br>
+<br>
+<strong>Fri 6 May</strong><br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
+Mostly sunny<br>
+Min: 15°C<br>
+Max: 26°C<br>
 ]]></description>
         </item>
         <item>
             <title><![CDATA[Kragujevac]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>549ad4a3f5de7bc629e1aa4c0e02e0a4</guid>
-            <pubDate>Wed, 04 May 2022 09:30:00 GMT</pubDate>
+            <guid>4bf68ea7092630f2ab784bcc71eb26b9</guid>
+            <pubDate>Wed, 04 May 2022 12:15:00 GMT</pubDate>
             <description><![CDATA[<strong>Wed 4 May</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
 Mostly sunny<br>
 Max: 23°C<br>
 <br>
 <strong>Thu 5 May</strong><br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
+Mostly sunny<br>
+Min: 8°C<br>
+Max: 26°C<br>
+<br>
+<strong>Fri 6 May</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-4.png" alt="Partly cloudy" /><br>
 Partly cloudy<br>
-Min: 6°C<br>
+Min: 9°C<br>
 Max: 25°C<br>
 ]]></description>
         </item>
         <item>
             <title><![CDATA[Negotin]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>8ee5f57fcedd98e3d27ab32fb53a4cc4</guid>
-            <pubDate>Wed, 04 May 2022 09:30:00 GMT</pubDate>
+            <guid>b271b1ae273e75f008d0da8ba759aa9d</guid>
+            <pubDate>Wed, 04 May 2022 12:15:00 GMT</pubDate>
             <description><![CDATA[<strong>Wed 4 May</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-6.png" alt="Possible rain showers" /><br>
 Possible rain showers<br>
@@ -114,13 +144,19 @@ Max: 25°C<br>
 Mostly sunny<br>
 Min: 8°C<br>
 Max: 24°C<br>
+<br>
+<strong>Fri 6 May</strong><br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-10.png" alt="Mostly cloudy" /><br>
+Mostly cloudy<br>
+Min: 9°C<br>
+Max: 25°C<br>
 ]]></description>
         </item>
         <item>
             <title><![CDATA[Zlatibor]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>1d5f10d43ce850ab2e5080a9d80258e0</guid>
-            <pubDate>Wed, 04 May 2022 09:30:00 GMT</pubDate>
+            <guid>dd00c75012a7544f839f7a28df33e891</guid>
+            <pubDate>Wed, 04 May 2022 12:15:00 GMT</pubDate>
             <description><![CDATA[<strong>Wed 4 May</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-4.png" alt="Partly cloudy" /><br>
 Partly cloudy<br>
@@ -131,30 +167,19 @@ Max: 18°C<br>
 Possible rain showers<br>
 Min: 7°C<br>
 Max: 20°C<br>
+<br>
+<strong>Fri 6 May</strong><br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-5.png" alt="After noon rain showers" /><br>
+After noon rain showers<br>
+Min: 9°C<br>
+Max: 18°C<br>
 ]]></description>
         </item>
         <item>
             <title><![CDATA[Kraljevo]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>809c0754a621da4dd046bbb207e4c60f</guid>
-            <pubDate>Wed, 04 May 2022 09:30:00 GMT</pubDate>
-            <description><![CDATA[<strong>Wed 4 May</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
-Mostly sunny<br>
-Max: 23°C<br>
-<br>
-<strong>Thu 5 May</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-10.png" alt="Mostly cloudy" /><br>
-Mostly cloudy<br>
-Min: 6°C<br>
-Max: 25°C<br>
-]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Priština]]></title>
-            <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>9d8ac10c97bb0219879063e2b017a62f</guid>
-            <pubDate>Wed, 04 May 2022 09:30:00 GMT</pubDate>
+            <guid>69682c3dc8f57568363a4f08e5033e95</guid>
+            <pubDate>Wed, 04 May 2022 12:15:00 GMT</pubDate>
             <description><![CDATA[<strong>Wed 4 May</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
 Mostly sunny<br>
@@ -163,15 +188,44 @@ Max: 23°C<br>
 <strong>Thu 5 May</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-4.png" alt="Partly cloudy" /><br>
 Partly cloudy<br>
-Min: 5°C<br>
+Min: 9°C<br>
+Max: 25°C<br>
+<br>
+<strong>Fri 6 May</strong><br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-6.png" alt="Possible rain showers" /><br>
+Possible rain showers<br>
+Min: 10°C<br>
 Max: 24°C<br>
+]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Priština]]></title>
+            <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
+            <guid>0efbe9fb41549c492b287739673c4013</guid>
+            <pubDate>Wed, 04 May 2022 12:15:00 GMT</pubDate>
+            <description><![CDATA[<strong>Wed 4 May</strong><br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
+Mostly sunny<br>
+Max: 23°C<br>
+<br>
+<strong>Thu 5 May</strong><br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-4.png" alt="Partly cloudy" /><br>
+Partly cloudy<br>
+Min: 4°C<br>
+Max: 23°C<br>
+<br>
+<strong>Fri 6 May</strong><br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-5.png" alt="After noon rain showers" /><br>
+After noon rain showers<br>
+Min: 8°C<br>
+Max: 23°C<br>
 ]]></description>
         </item>
         <item>
             <title><![CDATA[Niš]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>839bbeed11d26603e3cd0b8c41bd1f39</guid>
-            <pubDate>Wed, 04 May 2022 09:30:00 GMT</pubDate>
+            <guid>013343b5e370ad35018ea45cbde26074</guid>
+            <pubDate>Wed, 04 May 2022 12:15:00 GMT</pubDate>
             <description><![CDATA[<strong>Wed 4 May</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
 Mostly sunny<br>
@@ -181,6 +235,12 @@ Max: 24°C<br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-4.png" alt="Partly cloudy" /><br>
 Partly cloudy<br>
 Min: 7°C<br>
+Max: 26°C<br>
+<br>
+<strong>Fri 6 May</strong><br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-6.png" alt="Possible rain showers" /><br>
+Possible rain showers<br>
+Min: 13°C<br>
 Max: 26°C<br>
 ]]></description>
         </item>
