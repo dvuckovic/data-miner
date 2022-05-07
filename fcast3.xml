@@ -4,7 +4,7 @@
         <title>RHMZ</title>
         <link>https://data.dvuckovic.com/fcast3.xml</link>
         <description>Weather Forecast for Serbia</description>
-        <lastBuildDate>Fri, 06 May 2022 11:27:00 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 May 2022 04:45:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>fcast</generator>
         <language>en</language>
@@ -17,17 +17,11 @@
         <item>
             <title><![CDATA[Palić]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>59cc6ad811496ed845a6898dc3ca2eed</guid>
-            <pubDate>Fri, 06 May 2022 11:27:00 GMT</pubDate>
-            <description><![CDATA[<strong>Fri 6 May</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-6.png" alt="Possible rain showers" /><br>
-Possible rain showers<br>
-Max: 23°C<br>
-<br>
-<strong>Sat 7 May</strong><br>
+            <guid>0f1ac4da5d9bed01cfc57eb767b7de47</guid>
+            <pubDate>Sat, 07 May 2022 04:45:00 GMT</pubDate>
+            <description><![CDATA[<strong>Sat 7 May</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-4.png" alt="Partly cloudy" /><br>
 Partly cloudy<br>
-Min: 13°C<br>
 Max: 24°C<br>
 <br>
 <strong>Sun 8 May</strong><br>
@@ -40,17 +34,11 @@ Max: 25°C<br>
         <item>
             <title><![CDATA[Novi Sad]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>88f1190d9a7f2da477952c5e62e4f8db</guid>
-            <pubDate>Fri, 06 May 2022 11:27:00 GMT</pubDate>
-            <description><![CDATA[<strong>Fri 6 May</strong><br>
+            <guid>cd0260a42a2c7345bd577fb191b47d5f</guid>
+            <pubDate>Sat, 07 May 2022 04:45:00 GMT</pubDate>
+            <description><![CDATA[<strong>Sat 7 May</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-10.png" alt="Mostly cloudy" /><br>
 Mostly cloudy<br>
-Max: 24°C<br>
-<br>
-<strong>Sat 7 May</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-4.png" alt="Partly cloudy" /><br>
-Partly cloudy<br>
-Min: 13°C<br>
 Max: 25°C<br>
 <br>
 <strong>Sun 8 May</strong><br>
@@ -63,17 +51,11 @@ Max: 25°C<br>
         <item>
             <title><![CDATA[Loznica]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>79857d4139bb14d995a4275b4a4f09c4</guid>
-            <pubDate>Fri, 06 May 2022 11:27:00 GMT</pubDate>
-            <description><![CDATA[<strong>Fri 6 May</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-5.png" alt="After noon rain showers" /><br>
-After noon rain showers<br>
-Max: 24°C<br>
-<br>
-<strong>Sat 7 May</strong><br>
+            <guid>02cf5da6aa3b6b204a9c3ea143caae4d</guid>
+            <pubDate>Sat, 07 May 2022 04:45:00 GMT</pubDate>
+            <description><![CDATA[<strong>Sat 7 May</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-10.png" alt="Mostly cloudy" /><br>
 Mostly cloudy<br>
-Min: 13°C<br>
 Max: 23°C<br>
 <br>
 <strong>Sun 8 May</strong><br>
@@ -86,17 +68,11 @@ Max: 25°C<br>
         <item>
             <title><![CDATA[Belgrade]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>7077e95e90611046d3e1e7c7c4e71ee5</guid>
-            <pubDate>Fri, 06 May 2022 11:27:00 GMT</pubDate>
-            <description><![CDATA[<strong>Fri 6 May</strong><br>
+            <guid>1c081514defea0090bb0911968734a57</guid>
+            <pubDate>Sat, 07 May 2022 04:45:00 GMT</pubDate>
+            <description><![CDATA[<strong>Sat 7 May</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-10.png" alt="Mostly cloudy" /><br>
 Mostly cloudy<br>
-Max: 24°C<br>
-<br>
-<strong>Sat 7 May</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-4.png" alt="Partly cloudy" /><br>
-Partly cloudy<br>
-Min: 14°C<br>
 Max: 26°C<br>
 <br>
 <strong>Sun 8 May</strong><br>
@@ -109,17 +85,11 @@ Max: 26°C<br>
         <item>
             <title><![CDATA[Kragujevac]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>095c4e79ba6d417f5bb3de89c1f20a79</guid>
-            <pubDate>Fri, 06 May 2022 11:27:00 GMT</pubDate>
-            <description><![CDATA[<strong>Fri 6 May</strong><br>
+            <guid>ba171d62d18745eb32bb591979d6cbb1</guid>
+            <pubDate>Sat, 07 May 2022 04:45:00 GMT</pubDate>
+            <description><![CDATA[<strong>Sat 7 May</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-10.png" alt="Mostly cloudy" /><br>
 Mostly cloudy<br>
-Max: 24°C<br>
-<br>
-<strong>Sat 7 May</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-4.png" alt="Partly cloudy" /><br>
-Partly cloudy<br>
-Min: 10°C<br>
 Max: 24°C<br>
 <br>
 <strong>Sun 8 May</strong><br>
@@ -132,17 +102,11 @@ Max: 25°C<br>
         <item>
             <title><![CDATA[Negotin]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>0a81326b13d94aec8a9f76f288a82fb0</guid>
-            <pubDate>Fri, 06 May 2022 11:27:00 GMT</pubDate>
-            <description><![CDATA[<strong>Fri 6 May</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-10.png" alt="Mostly cloudy" /><br>
-Mostly cloudy<br>
-Max: 25°C<br>
-<br>
-<strong>Sat 7 May</strong><br>
+            <guid>8fb9de70227a7f702efa7af535f23054</guid>
+            <pubDate>Sat, 07 May 2022 04:45:00 GMT</pubDate>
+            <description><![CDATA[<strong>Sat 7 May</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-4.png" alt="Partly cloudy" /><br>
 Partly cloudy<br>
-Min: 8°C<br>
 Max: 24°C<br>
 <br>
 <strong>Sun 8 May</strong><br>
@@ -155,17 +119,11 @@ Max: 24°C<br>
         <item>
             <title><![CDATA[Zlatibor]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>e459751057fae9a21275e49eef30e039</guid>
-            <pubDate>Fri, 06 May 2022 11:27:00 GMT</pubDate>
-            <description><![CDATA[<strong>Fri 6 May</strong><br>
+            <guid>7ddae534fd58701e9f4187e1a5d202b0</guid>
+            <pubDate>Sat, 07 May 2022 04:45:00 GMT</pubDate>
+            <description><![CDATA[<strong>Sat 7 May</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-5.png" alt="After noon rain showers" /><br>
 After noon rain showers<br>
-Max: 19°C<br>
-<br>
-<strong>Sat 7 May</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-5.png" alt="After noon rain showers" /><br>
-After noon rain showers<br>
-Min: 9°C<br>
 Max: 17°C<br>
 <br>
 <strong>Sun 8 May</strong><br>
@@ -178,17 +136,11 @@ Max: 18°C<br>
         <item>
             <title><![CDATA[Kraljevo]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>5b1959135e9a66b24ddf00977109edb0</guid>
-            <pubDate>Fri, 06 May 2022 11:27:00 GMT</pubDate>
-            <description><![CDATA[<strong>Fri 6 May</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-5.png" alt="After noon rain showers" /><br>
-After noon rain showers<br>
-Max: 24°C<br>
-<br>
-<strong>Sat 7 May</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-10.png" alt="Mostly cloudy" /><br>
-Mostly cloudy<br>
-Min: 10°C<br>
+            <guid>0730781326e7bfa277fd307e1d12863a</guid>
+            <pubDate>Sat, 07 May 2022 04:45:00 GMT</pubDate>
+            <description><![CDATA[<strong>Sat 7 May</strong><br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-6.png" alt="Possible rain showers" /><br>
+Possible rain showers<br>
 Max: 22°C<br>
 <br>
 <strong>Sun 8 May</strong><br>
@@ -201,17 +153,11 @@ Max: 24°C<br>
         <item>
             <title><![CDATA[Priština]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>8c7af05330d9b6e626966d0f003bd1ba</guid>
-            <pubDate>Fri, 06 May 2022 11:27:00 GMT</pubDate>
-            <description><![CDATA[<strong>Fri 6 May</strong><br>
+            <guid>66e0407a653363a033a1f8df4e95ac1c</guid>
+            <pubDate>Sat, 07 May 2022 04:45:00 GMT</pubDate>
+            <description><![CDATA[<strong>Sat 7 May</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-5.png" alt="After noon rain showers" /><br>
 After noon rain showers<br>
-Max: 21°C<br>
-<br>
-<strong>Sat 7 May</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-10.png" alt="Mostly cloudy" /><br>
-Mostly cloudy<br>
-Min: 9°C<br>
 Max: 22°C<br>
 <br>
 <strong>Sun 8 May</strong><br>
@@ -224,17 +170,11 @@ Max: 23°C<br>
         <item>
             <title><![CDATA[Niš]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>27833beb2eb3f965ad67d6c1379c24cb</guid>
-            <pubDate>Fri, 06 May 2022 11:27:00 GMT</pubDate>
-            <description><![CDATA[<strong>Fri 6 May</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-10.png" alt="Mostly cloudy" /><br>
-Mostly cloudy<br>
-Max: 27°C<br>
-<br>
-<strong>Sat 7 May</strong><br>
+            <guid>144487ecce54da003379ca6ddcdc38c7</guid>
+            <pubDate>Sat, 07 May 2022 04:45:00 GMT</pubDate>
+            <description><![CDATA[<strong>Sat 7 May</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
 Mostly sunny<br>
-Min: 13°C<br>
 Max: 26°C<br>
 <br>
 <strong>Sun 8 May</strong><br>
