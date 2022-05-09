@@ -4,7 +4,7 @@
         <title>RHMZ</title>
         <link>https://data.dvuckovic.com/fcast3.xml</link>
         <description>Weather Forecast for Serbia</description>
-        <lastBuildDate>Sun, 08 May 2022 11:45:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 May 2022 04:40:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>fcast</generator>
         <language>en</language>
@@ -17,17 +17,11 @@
         <item>
             <title><![CDATA[Palić]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>7712882dc497e5f5d80bbbd17282a317</guid>
-            <pubDate>Sun, 08 May 2022 11:45:00 GMT</pubDate>
-            <description><![CDATA[<strong>Sun 8 May</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-4.png" alt="Partly cloudy" /><br>
-Partly cloudy<br>
-Max: 25°C<br>
-<br>
-<strong>Mon 9 May</strong><br>
+            <guid>d61d95edf365dd721f4251304fd2e86b</guid>
+            <pubDate>Mon, 09 May 2022 04:40:00 GMT</pubDate>
+            <description><![CDATA[<strong>Mon 9 May</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-6.png" alt="Possible rain showers" /><br>
 Possible rain showers<br>
-Min: 11°C<br>
 Max: 25°C<br>
 <br>
 <strong>Tue 10 May</strong><br>
@@ -40,17 +34,11 @@ Max: 24°C<br>
         <item>
             <title><![CDATA[Novi Sad]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>f8ec25f40483dcde023909c38b4636f5</guid>
-            <pubDate>Sun, 08 May 2022 11:45:00 GMT</pubDate>
-            <description><![CDATA[<strong>Sun 8 May</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
-Mostly sunny<br>
-Max: 25°C<br>
-<br>
-<strong>Mon 9 May</strong><br>
+            <guid>74aaec572e017918827dddba70f50240</guid>
+            <pubDate>Mon, 09 May 2022 04:40:00 GMT</pubDate>
+            <description><![CDATA[<strong>Mon 9 May</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-4.png" alt="Partly cloudy" /><br>
 Partly cloudy<br>
-Min: 10°C<br>
 Max: 26°C<br>
 <br>
 <strong>Tue 10 May</strong><br>
@@ -63,17 +51,11 @@ Max: 24°C<br>
         <item>
             <title><![CDATA[Loznica]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>df9ff6a2209f1dea4615e3cfbe3a81a0</guid>
-            <pubDate>Sun, 08 May 2022 11:45:00 GMT</pubDate>
-            <description><![CDATA[<strong>Sun 8 May</strong><br>
+            <guid>4c40c084f7df91c179f74d5bf88d9234</guid>
+            <pubDate>Mon, 09 May 2022 04:40:00 GMT</pubDate>
+            <description><![CDATA[<strong>Mon 9 May</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
 Mostly sunny<br>
-Max: 24°C<br>
-<br>
-<strong>Mon 9 May</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
-Mostly sunny<br>
-Min: 9°C<br>
 Max: 25°C<br>
 <br>
 <strong>Tue 10 May</strong><br>
@@ -86,17 +68,11 @@ Max: 24°C<br>
         <item>
             <title><![CDATA[Belgrade]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>2c61a4344bd7b65650bdc8b5640b4120</guid>
-            <pubDate>Sun, 08 May 2022 11:45:00 GMT</pubDate>
-            <description><![CDATA[<strong>Sun 8 May</strong><br>
+            <guid>50a7ac5dd5304bd2c4565e8b1b3cfadd</guid>
+            <pubDate>Mon, 09 May 2022 04:40:00 GMT</pubDate>
+            <description><![CDATA[<strong>Mon 9 May</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
 Mostly sunny<br>
-Max: 25°C<br>
-<br>
-<strong>Mon 9 May</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
-Mostly sunny<br>
-Min: 12°C<br>
 Max: 26°C<br>
 <br>
 <strong>Tue 10 May</strong><br>
@@ -109,17 +85,11 @@ Max: 25°C<br>
         <item>
             <title><![CDATA[Kragujevac]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>e82c8211259077352099f88f7f98645c</guid>
-            <pubDate>Sun, 08 May 2022 11:45:00 GMT</pubDate>
-            <description><![CDATA[<strong>Sun 8 May</strong><br>
+            <guid>8596957b7d78da7dbd19d70a69859310</guid>
+            <pubDate>Mon, 09 May 2022 04:40:00 GMT</pubDate>
+            <description><![CDATA[<strong>Mon 9 May</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
 Mostly sunny<br>
-Max: 24°C<br>
-<br>
-<strong>Mon 9 May</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
-Mostly sunny<br>
-Min: 5°C<br>
 Max: 25°C<br>
 <br>
 <strong>Tue 10 May</strong><br>
@@ -132,17 +102,11 @@ Max: 23°C<br>
         <item>
             <title><![CDATA[Negotin]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>8c5866bfaa13549121359d7ef6b46bf1</guid>
-            <pubDate>Sun, 08 May 2022 11:45:00 GMT</pubDate>
-            <description><![CDATA[<strong>Sun 8 May</strong><br>
+            <guid>4ce98639cb0cf86f7499865b75fec5ab</guid>
+            <pubDate>Mon, 09 May 2022 04:40:00 GMT</pubDate>
+            <description><![CDATA[<strong>Mon 9 May</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
 Mostly sunny<br>
-Max: 24°C<br>
-<br>
-<strong>Mon 9 May</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
-Mostly sunny<br>
-Min: 6°C<br>
 Max: 26°C<br>
 <br>
 <strong>Tue 10 May</strong><br>
@@ -155,17 +119,11 @@ Max: 24°C<br>
         <item>
             <title><![CDATA[Zlatibor]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>eb116590abdbe82886d7bdca3baec4d6</guid>
-            <pubDate>Sun, 08 May 2022 11:45:00 GMT</pubDate>
-            <description><![CDATA[<strong>Sun 8 May</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-6.png" alt="Possible rain showers" /><br>
-Possible rain showers<br>
-Max: 17°C<br>
-<br>
-<strong>Mon 9 May</strong><br>
+            <guid>d61a0abaa65dc3e86ebdcfcfea76de5a</guid>
+            <pubDate>Mon, 09 May 2022 04:40:00 GMT</pubDate>
+            <description><![CDATA[<strong>Mon 9 May</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-4.png" alt="Partly cloudy" /><br>
 Partly cloudy<br>
-Min: 8°C<br>
 Max: 19°C<br>
 <br>
 <strong>Tue 10 May</strong><br>
@@ -178,17 +136,11 @@ Max: 18°C<br>
         <item>
             <title><![CDATA[Kraljevo]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>75e626082a6a206e80b6f69abc044614</guid>
-            <pubDate>Sun, 08 May 2022 11:45:00 GMT</pubDate>
-            <description><![CDATA[<strong>Sun 8 May</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-4.png" alt="Partly cloudy" /><br>
-Partly cloudy<br>
-Max: 23°C<br>
-<br>
-<strong>Mon 9 May</strong><br>
+            <guid>554cef08d8d6ec69cb650e978d5574eb</guid>
+            <pubDate>Mon, 09 May 2022 04:40:00 GMT</pubDate>
+            <description><![CDATA[<strong>Mon 9 May</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
 Mostly sunny<br>
-Min: 7°C<br>
 Max: 25°C<br>
 <br>
 <strong>Tue 10 May</strong><br>
@@ -201,17 +153,11 @@ Max: 23°C<br>
         <item>
             <title><![CDATA[Priština]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>fa6c28b550c04373b74fcd013ce7e1aa</guid>
-            <pubDate>Sun, 08 May 2022 11:45:00 GMT</pubDate>
-            <description><![CDATA[<strong>Sun 8 May</strong><br>
+            <guid>6ce50abf93bd35f97a2b6fc5bf2c857a</guid>
+            <pubDate>Mon, 09 May 2022 04:40:00 GMT</pubDate>
+            <description><![CDATA[<strong>Mon 9 May</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-4.png" alt="Partly cloudy" /><br>
 Partly cloudy<br>
-Max: 22°C<br>
-<br>
-<strong>Mon 9 May</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-4.png" alt="Partly cloudy" /><br>
-Partly cloudy<br>
-Min: 6°C<br>
 Max: 24°C<br>
 <br>
 <strong>Tue 10 May</strong><br>
@@ -224,17 +170,11 @@ Max: 23°C<br>
         <item>
             <title><![CDATA[Niš]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>be1a41175ffe012978bc579ec38918a0</guid>
-            <pubDate>Sun, 08 May 2022 11:45:00 GMT</pubDate>
-            <description><![CDATA[<strong>Sun 8 May</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-4.png" alt="Partly cloudy" /><br>
-Partly cloudy<br>
-Max: 26°C<br>
-<br>
-<strong>Mon 9 May</strong><br>
+            <guid>94419420a1b69a9ad7d379d5e4fea234</guid>
+            <pubDate>Mon, 09 May 2022 04:40:00 GMT</pubDate>
+            <description><![CDATA[<strong>Mon 9 May</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
 Mostly sunny<br>
-Min: 10°C<br>
 Max: 27°C<br>
 <br>
 <strong>Tue 10 May</strong><br>
