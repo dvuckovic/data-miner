@@ -4,7 +4,7 @@
         <title>RHMZ</title>
         <link>https://data.dvuckovic.com/fcast3.xml</link>
         <description>Weather Forecast for Serbia</description>
-        <lastBuildDate>Sun, 15 May 2022 11:57:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 May 2022 05:25:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>fcast</generator>
         <language>en</language>
@@ -17,17 +17,11 @@
         <item>
             <title><![CDATA[Palić]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>277f9c6329333684d14417b9024e5caa</guid>
-            <pubDate>Sun, 15 May 2022 11:57:00 GMT</pubDate>
-            <description><![CDATA[<strong>Sun 15 May</strong><br>
+            <guid>75c14bae8ec78f4553f8dbff19b5bb35</guid>
+            <pubDate>Mon, 16 May 2022 05:25:00 GMT</pubDate>
+            <description><![CDATA[<strong>Mon 16 May</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
 Mostly sunny<br>
-Max: 28°C<br>
-<br>
-<strong>Mon 16 May</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
-Mostly sunny<br>
-Min: 11°C<br>
 Max: 30°C<br>
 <br>
 <strong>Tue 17 May</strong><br>
@@ -40,17 +34,11 @@ Max: 27°C<br>
         <item>
             <title><![CDATA[Novi Sad]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>3f30ab4bfb7b633b1868405a4cbe1600</guid>
-            <pubDate>Sun, 15 May 2022 11:57:00 GMT</pubDate>
-            <description><![CDATA[<strong>Sun 15 May</strong><br>
+            <guid>7abc590b42a16384a2f589393c2bed1e</guid>
+            <pubDate>Mon, 16 May 2022 05:25:00 GMT</pubDate>
+            <description><![CDATA[<strong>Mon 16 May</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
 Mostly sunny<br>
-Max: 28°C<br>
-<br>
-<strong>Mon 16 May</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
-Mostly sunny<br>
-Min: 12°C<br>
 Max: 30°C<br>
 <br>
 <strong>Tue 17 May</strong><br>
@@ -63,17 +51,11 @@ Max: 28°C<br>
         <item>
             <title><![CDATA[Loznica]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>9a9b8f637ae5c0cacb23fe408f8ba289</guid>
-            <pubDate>Sun, 15 May 2022 11:57:00 GMT</pubDate>
-            <description><![CDATA[<strong>Sun 15 May</strong><br>
+            <guid>091f42c5d8a00218985638cd688395c8</guid>
+            <pubDate>Mon, 16 May 2022 05:25:00 GMT</pubDate>
+            <description><![CDATA[<strong>Mon 16 May</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
 Mostly sunny<br>
-Max: 29°C<br>
-<br>
-<strong>Mon 16 May</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
-Mostly sunny<br>
-Min: 12°C<br>
 Max: 31°C<br>
 <br>
 <strong>Tue 17 May</strong><br>
@@ -86,17 +68,11 @@ Max: 28°C<br>
         <item>
             <title><![CDATA[Belgrade]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>6aa779e89f6bd87773a9d8927a146726</guid>
-            <pubDate>Sun, 15 May 2022 11:57:00 GMT</pubDate>
-            <description><![CDATA[<strong>Sun 15 May</strong><br>
+            <guid>58d0bebc702dace39aef4f63d5c0d374</guid>
+            <pubDate>Mon, 16 May 2022 05:25:00 GMT</pubDate>
+            <description><![CDATA[<strong>Mon 16 May</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
 Mostly sunny<br>
-Max: 28°C<br>
-<br>
-<strong>Mon 16 May</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
-Mostly sunny<br>
-Min: 15°C<br>
 Max: 31°C<br>
 <br>
 <strong>Tue 17 May</strong><br>
@@ -109,17 +85,11 @@ Max: 28°C<br>
         <item>
             <title><![CDATA[Kragujevac]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>630c4593fa0bdbb93f2a40bcd41e0878</guid>
-            <pubDate>Sun, 15 May 2022 11:57:00 GMT</pubDate>
-            <description><![CDATA[<strong>Sun 15 May</strong><br>
+            <guid>0081565bf71028d0fd78f040e93d0327</guid>
+            <pubDate>Mon, 16 May 2022 05:25:00 GMT</pubDate>
+            <description><![CDATA[<strong>Mon 16 May</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
 Mostly sunny<br>
-Max: 27°C<br>
-<br>
-<strong>Mon 16 May</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
-Mostly sunny<br>
-Min: 10°C<br>
 Max: 30°C<br>
 <br>
 <strong>Tue 17 May</strong><br>
@@ -132,17 +102,11 @@ Max: 28°C<br>
         <item>
             <title><![CDATA[Negotin]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>f9f26e48162fe0008317f69093dce383</guid>
-            <pubDate>Sun, 15 May 2022 11:57:00 GMT</pubDate>
-            <description><![CDATA[<strong>Sun 15 May</strong><br>
+            <guid>ea5eb186bd2f64b47d2a40ccae277a09</guid>
+            <pubDate>Mon, 16 May 2022 05:25:00 GMT</pubDate>
+            <description><![CDATA[<strong>Mon 16 May</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
 Mostly sunny<br>
-Max: 29°C<br>
-<br>
-<strong>Mon 16 May</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
-Mostly sunny<br>
-Min: 13°C<br>
 Max: 31°C<br>
 <br>
 <strong>Tue 17 May</strong><br>
@@ -155,17 +119,11 @@ Max: 31°C<br>
         <item>
             <title><![CDATA[Zlatibor]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>581fa4e1c47a13c6998a437cbfea491b</guid>
-            <pubDate>Sun, 15 May 2022 11:57:00 GMT</pubDate>
-            <description><![CDATA[<strong>Sun 15 May</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-4.png" alt="Partly cloudy" /><br>
-Partly cloudy<br>
-Max: 23°C<br>
-<br>
-<strong>Mon 16 May</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-4.png" alt="Partly cloudy" /><br>
-Partly cloudy<br>
-Min: 11°C<br>
+            <guid>d42794ffb895449a2610e8f76d3678f3</guid>
+            <pubDate>Mon, 16 May 2022 05:25:00 GMT</pubDate>
+            <description><![CDATA[<strong>Mon 16 May</strong><br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
+Mostly sunny<br>
 Max: 25°C<br>
 <br>
 <strong>Tue 17 May</strong><br>
@@ -178,17 +136,11 @@ Max: 23°C<br>
         <item>
             <title><![CDATA[Kraljevo]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>4f106323ebf36cd4f3a700d8b84bbeec</guid>
-            <pubDate>Sun, 15 May 2022 11:57:00 GMT</pubDate>
-            <description><![CDATA[<strong>Sun 15 May</strong><br>
+            <guid>d7f0f852193aa18ffd10973bbefa3c5e</guid>
+            <pubDate>Mon, 16 May 2022 05:25:00 GMT</pubDate>
+            <description><![CDATA[<strong>Mon 16 May</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
 Mostly sunny<br>
-Max: 28°C<br>
-<br>
-<strong>Mon 16 May</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
-Mostly sunny<br>
-Min: 10°C<br>
 Max: 30°C<br>
 <br>
 <strong>Tue 17 May</strong><br>
@@ -201,17 +153,11 @@ Max: 29°C<br>
         <item>
             <title><![CDATA[Priština]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>a51443d5bc17473eb643b48397deed10</guid>
-            <pubDate>Sun, 15 May 2022 11:57:00 GMT</pubDate>
-            <description><![CDATA[<strong>Sun 15 May</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-4.png" alt="Partly cloudy" /><br>
-Partly cloudy<br>
-Max: 27°C<br>
-<br>
-<strong>Mon 16 May</strong><br>
+            <guid>e2d35531c34dd9dbed24683d1b109012</guid>
+            <pubDate>Mon, 16 May 2022 05:25:00 GMT</pubDate>
+            <description><![CDATA[<strong>Mon 16 May</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
 Mostly sunny<br>
-Min: 9°C<br>
 Max: 29°C<br>
 <br>
 <strong>Tue 17 May</strong><br>
@@ -224,17 +170,11 @@ Max: 28°C<br>
         <item>
             <title><![CDATA[Niš]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>fdb49ff6be24ce352ceef9a0336fc99c</guid>
-            <pubDate>Sun, 15 May 2022 11:57:00 GMT</pubDate>
-            <description><![CDATA[<strong>Sun 15 May</strong><br>
+            <guid>b26e44c15e22a24e60925a47c4411a72</guid>
+            <pubDate>Mon, 16 May 2022 05:25:00 GMT</pubDate>
+            <description><![CDATA[<strong>Mon 16 May</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
 Mostly sunny<br>
-Max: 28°C<br>
-<br>
-<strong>Mon 16 May</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
-Mostly sunny<br>
-Min: 10°C<br>
 Max: 30°C<br>
 <br>
 <strong>Tue 17 May</strong><br>
