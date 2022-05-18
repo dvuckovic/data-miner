@@ -4,7 +4,7 @@
         <title>RHMZ</title>
         <link>https://data.dvuckovic.com/fcast3.xml</link>
         <description>Weather Forecast for Serbia</description>
-        <lastBuildDate>Wed, 18 May 2022 04:45:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 May 2022 09:05:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>fcast</generator>
         <language>en</language>
@@ -17,11 +17,11 @@
         <item>
             <title><![CDATA[Palić]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>9029a5f781a421cf9a6b65c0929addd7</guid>
-            <pubDate>Wed, 18 May 2022 04:45:00 GMT</pubDate>
+            <guid>7bcf99f218a4aa6c6ef07c6a596009e1</guid>
+            <pubDate>Wed, 18 May 2022 09:05:00 GMT</pubDate>
             <description><![CDATA[<strong>Wed 18 May</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
-Mostly sunny<br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-4.png" alt="Partly cloudy" /><br>
+Partly cloudy<br>
 Max: 21°C<br>
 <br>
 <strong>Thu 19 May</strong><br>
@@ -34,8 +34,8 @@ Max: 23°C<br>
         <item>
             <title><![CDATA[Novi Sad]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>0999e596e30fd769cbcbea0f553d1f05</guid>
-            <pubDate>Wed, 18 May 2022 04:45:00 GMT</pubDate>
+            <guid>c9c9065fd6771928b2d101dd50154203</guid>
+            <pubDate>Wed, 18 May 2022 09:05:00 GMT</pubDate>
             <description><![CDATA[<strong>Wed 18 May</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
 Mostly sunny<br>
@@ -51,11 +51,11 @@ Max: 24°C<br>
         <item>
             <title><![CDATA[Loznica]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>5c01409fd0d090288bfd897eb95f1649</guid>
-            <pubDate>Wed, 18 May 2022 04:45:00 GMT</pubDate>
+            <guid>9c4937dbb7055554283537eb771cc2f2</guid>
+            <pubDate>Wed, 18 May 2022 09:05:00 GMT</pubDate>
             <description><![CDATA[<strong>Wed 18 May</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-4.png" alt="Partly cloudy" /><br>
-Partly cloudy<br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
+Mostly sunny<br>
 Max: 21°C<br>
 <br>
 <strong>Thu 19 May</strong><br>
@@ -68,8 +68,8 @@ Max: 25°C<br>
         <item>
             <title><![CDATA[Belgrade]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>02db1a225c5abe02ed32a50ef33cc935</guid>
-            <pubDate>Wed, 18 May 2022 04:45:00 GMT</pubDate>
+            <guid>a65b21d9ae1d8c87ec24ed2ce64c70e1</guid>
+            <pubDate>Wed, 18 May 2022 09:05:00 GMT</pubDate>
             <description><![CDATA[<strong>Wed 18 May</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
 Mostly sunny<br>
@@ -85,11 +85,11 @@ Max: 24°C<br>
         <item>
             <title><![CDATA[Kragujevac]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>04d728931c448066cabaa170838087a4</guid>
-            <pubDate>Wed, 18 May 2022 04:45:00 GMT</pubDate>
+            <guid>886a82601e86b7db60c808593e6eb8d9</guid>
+            <pubDate>Wed, 18 May 2022 09:05:00 GMT</pubDate>
             <description><![CDATA[<strong>Wed 18 May</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-10.png" alt="Mostly cloudy" /><br>
-Mostly cloudy<br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
+Mostly sunny<br>
 Max: 19°C<br>
 <br>
 <strong>Thu 19 May</strong><br>
@@ -102,11 +102,11 @@ Max: 23°C<br>
         <item>
             <title><![CDATA[Negotin]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>860d23ff7219c122b2c5e10506ffc2cf</guid>
-            <pubDate>Wed, 18 May 2022 04:45:00 GMT</pubDate>
+            <guid>776de9cd2acd727efd6758b7f62386d5</guid>
+            <pubDate>Wed, 18 May 2022 09:05:00 GMT</pubDate>
             <description><![CDATA[<strong>Wed 18 May</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-6.png" alt="Possible rain showers" /><br>
-Possible rain showers<br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
+Mostly sunny<br>
 Max: 22°C<br>
 <br>
 <strong>Thu 19 May</strong><br>
@@ -119,11 +119,11 @@ Max: 25°C<br>
         <item>
             <title><![CDATA[Zlatibor]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>2a441a736e4bb739efa63111430cd477</guid>
-            <pubDate>Wed, 18 May 2022 04:45:00 GMT</pubDate>
+            <guid>e5cc271148a4b90b264e5fa00fcf397e</guid>
+            <pubDate>Wed, 18 May 2022 09:05:00 GMT</pubDate>
             <description><![CDATA[<strong>Wed 18 May</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-6.png" alt="Possible rain showers" /><br>
-Possible rain showers<br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-4.png" alt="Partly cloudy" /><br>
+Partly cloudy<br>
 Max: 14°C<br>
 <br>
 <strong>Thu 19 May</strong><br>
@@ -136,11 +136,11 @@ Max: 19°C<br>
         <item>
             <title><![CDATA[Kraljevo]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>eb620beef75aa5e0ac4d0939a26ae193</guid>
-            <pubDate>Wed, 18 May 2022 04:45:00 GMT</pubDate>
+            <guid>868630e640fc3afe94a28649b3539390</guid>
+            <pubDate>Wed, 18 May 2022 09:05:00 GMT</pubDate>
             <description><![CDATA[<strong>Wed 18 May</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-6.png" alt="Possible rain showers" /><br>
-Possible rain showers<br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-4.png" alt="Partly cloudy" /><br>
+Partly cloudy<br>
 Max: 19°C<br>
 <br>
 <strong>Thu 19 May</strong><br>
@@ -153,11 +153,11 @@ Max: 22°C<br>
         <item>
             <title><![CDATA[Priština]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>f4bc092d675398b1d093cc674de0fac4</guid>
-            <pubDate>Wed, 18 May 2022 04:45:00 GMT</pubDate>
+            <guid>880749290784bad1ece252b0f269de0d</guid>
+            <pubDate>Wed, 18 May 2022 09:05:00 GMT</pubDate>
             <description><![CDATA[<strong>Wed 18 May</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-6.png" alt="Possible rain showers" /><br>
-Possible rain showers<br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-4.png" alt="Partly cloudy" /><br>
+Partly cloudy<br>
 Max: 20°C<br>
 <br>
 <strong>Thu 19 May</strong><br>
@@ -170,11 +170,11 @@ Max: 23°C<br>
         <item>
             <title><![CDATA[Niš]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>b126e2fd77644ad625e29db2fa817242</guid>
-            <pubDate>Wed, 18 May 2022 04:45:00 GMT</pubDate>
+            <guid>8594068bb7ead61b72a4e5bbd1587f64</guid>
+            <pubDate>Wed, 18 May 2022 09:05:00 GMT</pubDate>
             <description><![CDATA[<strong>Wed 18 May</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-6.png" alt="Possible rain showers" /><br>
-Possible rain showers<br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-4.png" alt="Partly cloudy" /><br>
+Partly cloudy<br>
 Max: 20°C<br>
 <br>
 <strong>Thu 19 May</strong><br>
