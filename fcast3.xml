@@ -4,7 +4,7 @@
         <title>RHMZ</title>
         <link>https://data.dvuckovic.com/fcast3.xml</link>
         <description>Weather Forecast for Serbia</description>
-        <lastBuildDate>Fri, 27 May 2022 11:57:00 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 May 2022 05:35:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>fcast</generator>
         <language>en</language>
@@ -17,17 +17,11 @@
         <item>
             <title><![CDATA[Palić]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>b2560eac76edf156c5f77cff630e0a9b</guid>
-            <pubDate>Fri, 27 May 2022 11:57:00 GMT</pubDate>
-            <description><![CDATA[<strong>Fri 27 May</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-4.png" alt="Partly cloudy" /><br>
-Partly cloudy<br>
-Max: 29°C<br>
-<br>
-<strong>Sat 28 May</strong><br>
+            <guid>53cf4dde4852fc17b6fc2f55339a1dcc</guid>
+            <pubDate>Sat, 28 May 2022 05:35:00 GMT</pubDate>
+            <description><![CDATA[<strong>Sat 28 May</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-9.png" alt="Rain" /><br>
 Rain<br>
-Min: 15°C<br>
 Max: 19°C<br>
 <br>
 <strong>Sun 29 May</strong><br>
@@ -40,17 +34,11 @@ Max: 18°C<br>
         <item>
             <title><![CDATA[Novi Sad]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>e798a95fa5d7321bace19ec873da5484</guid>
-            <pubDate>Fri, 27 May 2022 11:57:00 GMT</pubDate>
-            <description><![CDATA[<strong>Fri 27 May</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-4.png" alt="Partly cloudy" /><br>
-Partly cloudy<br>
-Max: 30°C<br>
-<br>
-<strong>Sat 28 May</strong><br>
+            <guid>be1be41d2b097d1069208e7f43765ea1</guid>
+            <pubDate>Sat, 28 May 2022 05:35:00 GMT</pubDate>
+            <description><![CDATA[<strong>Sat 28 May</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-9.png" alt="Rain" /><br>
 Rain<br>
-Min: 16°C<br>
 Max: 20°C<br>
 <br>
 <strong>Sun 29 May</strong><br>
@@ -63,17 +51,11 @@ Max: 18°C<br>
         <item>
             <title><![CDATA[Loznica]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>645f3153c1f82d3267d6b09e78004261</guid>
-            <pubDate>Fri, 27 May 2022 11:57:00 GMT</pubDate>
-            <description><![CDATA[<strong>Fri 27 May</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-4.png" alt="Partly cloudy" /><br>
-Partly cloudy<br>
-Max: 30°C<br>
-<br>
-<strong>Sat 28 May</strong><br>
+            <guid>b8ffa26fa46db88abfbb196e3d930661</guid>
+            <pubDate>Sat, 28 May 2022 05:35:00 GMT</pubDate>
+            <description><![CDATA[<strong>Sat 28 May</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-9.png" alt="Rain" /><br>
 Rain<br>
-Min: 16°C<br>
 Max: 20°C<br>
 <br>
 <strong>Sun 29 May</strong><br>
@@ -86,17 +68,11 @@ Max: 18°C<br>
         <item>
             <title><![CDATA[Belgrade]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>40ff5238a8219543d44cc6eb3b695783</guid>
-            <pubDate>Fri, 27 May 2022 11:57:00 GMT</pubDate>
-            <description><![CDATA[<strong>Fri 27 May</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-4.png" alt="Partly cloudy" /><br>
-Partly cloudy<br>
-Max: 30°C<br>
-<br>
-<strong>Sat 28 May</strong><br>
+            <guid>b11771f9949b11cb80eff10ce8ead4e8</guid>
+            <pubDate>Sat, 28 May 2022 05:35:00 GMT</pubDate>
+            <description><![CDATA[<strong>Sat 28 May</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-9.png" alt="Rain" /><br>
 Rain<br>
-Min: 18°C<br>
 Max: 21°C<br>
 <br>
 <strong>Sun 29 May</strong><br>
@@ -109,17 +85,11 @@ Max: 18°C<br>
         <item>
             <title><![CDATA[Kragujevac]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>805783df3ba10f9328ace8521896210d</guid>
-            <pubDate>Fri, 27 May 2022 11:57:00 GMT</pubDate>
-            <description><![CDATA[<strong>Fri 27 May</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-4.png" alt="Partly cloudy" /><br>
-Partly cloudy<br>
-Max: 30°C<br>
-<br>
-<strong>Sat 28 May</strong><br>
+            <guid>740a6beb45b9cd087ea167af547a3a97</guid>
+            <pubDate>Sat, 28 May 2022 05:35:00 GMT</pubDate>
+            <description><![CDATA[<strong>Sat 28 May</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-9.png" alt="Rain" /><br>
 Rain<br>
-Min: 16°C<br>
 Max: 23°C<br>
 <br>
 <strong>Sun 29 May</strong><br>
@@ -132,17 +102,11 @@ Max: 18°C<br>
         <item>
             <title><![CDATA[Negotin]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>9706918633d3c5b3d4de2503e64b8b63</guid>
-            <pubDate>Fri, 27 May 2022 11:57:00 GMT</pubDate>
-            <description><![CDATA[<strong>Fri 27 May</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-4.png" alt="Partly cloudy" /><br>
-Partly cloudy<br>
-Max: 31°C<br>
-<br>
-<strong>Sat 28 May</strong><br>
+            <guid>e3369bf1287e92c58111d68471c32ba5</guid>
+            <pubDate>Sat, 28 May 2022 05:35:00 GMT</pubDate>
+            <description><![CDATA[<strong>Sat 28 May</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-5.png" alt="After noon rain showers" /><br>
 After noon rain showers<br>
-Min: 16°C<br>
 Max: 29°C<br>
 <br>
 <strong>Sun 29 May</strong><br>
@@ -155,18 +119,12 @@ Max: 20°C<br>
         <item>
             <title><![CDATA[Zlatibor]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>633f52ecefe4716dcad588ee4905edbe</guid>
-            <pubDate>Fri, 27 May 2022 11:57:00 GMT</pubDate>
-            <description><![CDATA[<strong>Fri 27 May</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-5.png" alt="After noon rain showers" /><br>
-After noon rain showers<br>
-Max: 25°C<br>
-<br>
-<strong>Sat 28 May</strong><br>
+            <guid>f298102651e4ce089edd09bab415d64b</guid>
+            <pubDate>Sat, 28 May 2022 05:35:00 GMT</pubDate>
+            <description><![CDATA[<strong>Sat 28 May</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-9.png" alt="Rain" /><br>
 Rain<br>
-Min: 14°C<br>
-Max: 20°C<br>
+Max: 15°C<br>
 <br>
 <strong>Sun 29 May</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-9.png" alt="Rain" /><br>
@@ -178,17 +136,11 @@ Max: 13°C<br>
         <item>
             <title><![CDATA[Kraljevo]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>0273286fe82608ab3697f3c57f740191</guid>
-            <pubDate>Fri, 27 May 2022 11:57:00 GMT</pubDate>
-            <description><![CDATA[<strong>Fri 27 May</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-4.png" alt="Partly cloudy" /><br>
-Partly cloudy<br>
-Max: 30°C<br>
-<br>
-<strong>Sat 28 May</strong><br>
+            <guid>650c5e9f53e91120c045e69e4278fe3f</guid>
+            <pubDate>Sat, 28 May 2022 05:35:00 GMT</pubDate>
+            <description><![CDATA[<strong>Sat 28 May</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-9.png" alt="Rain" /><br>
 Rain<br>
-Min: 16°C<br>
 Max: 25°C<br>
 <br>
 <strong>Sun 29 May</strong><br>
@@ -201,17 +153,11 @@ Max: 18°C<br>
         <item>
             <title><![CDATA[Priština]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>984b75efa717b152db86cffa4a45cade</guid>
-            <pubDate>Fri, 27 May 2022 11:57:00 GMT</pubDate>
-            <description><![CDATA[<strong>Fri 27 May</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-5.png" alt="After noon rain showers" /><br>
-After noon rain showers<br>
-Max: 30°C<br>
-<br>
-<strong>Sat 28 May</strong><br>
+            <guid>d4d4a7799d048ad5a0b742b422f740fc</guid>
+            <pubDate>Sat, 28 May 2022 05:35:00 GMT</pubDate>
+            <description><![CDATA[<strong>Sat 28 May</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-12.png" alt="Showers and thunder storm" /><br>
 Showers and thunder storm<br>
-Min: 15°C<br>
 Max: 27°C<br>
 <br>
 <strong>Sun 29 May</strong><br>
@@ -224,17 +170,11 @@ Max: 21°C<br>
         <item>
             <title><![CDATA[Niš]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>9bc6006d4e943136446a1fb7abf95756</guid>
-            <pubDate>Fri, 27 May 2022 11:57:00 GMT</pubDate>
-            <description><![CDATA[<strong>Fri 27 May</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-4.png" alt="Partly cloudy" /><br>
-Partly cloudy<br>
-Max: 31°C<br>
-<br>
-<strong>Sat 28 May</strong><br>
+            <guid>485aeb2dbde2872a557b3968cc848f81</guid>
+            <pubDate>Sat, 28 May 2022 05:35:00 GMT</pubDate>
+            <description><![CDATA[<strong>Sat 28 May</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-5.png" alt="After noon rain showers" /><br>
 After noon rain showers<br>
-Min: 16°C<br>
 Max: 28°C<br>
 <br>
 <strong>Sun 29 May</strong><br>
