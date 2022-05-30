@@ -4,7 +4,7 @@
         <title>RHMZ</title>
         <link>https://data.dvuckovic.com/fcast3.xml</link>
         <description>Weather Forecast for Serbia</description>
-        <lastBuildDate>Sun, 29 May 2022 12:39:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 May 2022 05:25:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>fcast</generator>
         <language>en</language>
@@ -17,17 +17,11 @@
         <item>
             <title><![CDATA[Palić]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>85ee75fe00f6776e34f9a3b510c6df34</guid>
-            <pubDate>Sun, 29 May 2022 12:39:00 GMT</pubDate>
-            <description><![CDATA[<strong>Sun 29 May</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-8.png" alt="Possible rain" /><br>
-Possible rain<br>
-Max: 18°C<br>
-<br>
-<strong>Mon 30 May</strong><br>
+            <guid>a4dd136cd3c55fc95f6967e351b55e25</guid>
+            <pubDate>Mon, 30 May 2022 05:25:00 GMT</pubDate>
+            <description><![CDATA[<strong>Mon 30 May</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-6.png" alt="Possible rain showers" /><br>
 Possible rain showers<br>
-Min: 11°C<br>
 Max: 22°C<br>
 <br>
 <strong>Tue 31 May</strong><br>
@@ -40,17 +34,11 @@ Max: 25°C<br>
         <item>
             <title><![CDATA[Novi Sad]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>b8434aef6e77148482a26a7d6c4021df</guid>
-            <pubDate>Sun, 29 May 2022 12:39:00 GMT</pubDate>
-            <description><![CDATA[<strong>Sun 29 May</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-8.png" alt="Possible rain" /><br>
-Possible rain<br>
-Max: 18°C<br>
-<br>
-<strong>Mon 30 May</strong><br>
+            <guid>fa5c4266407e88e79702d3085d1ad923</guid>
+            <pubDate>Mon, 30 May 2022 05:25:00 GMT</pubDate>
+            <description><![CDATA[<strong>Mon 30 May</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-6.png" alt="Possible rain showers" /><br>
 Possible rain showers<br>
-Min: 12°C<br>
 Max: 21°C<br>
 <br>
 <strong>Tue 31 May</strong><br>
@@ -63,17 +51,11 @@ Max: 25°C<br>
         <item>
             <title><![CDATA[Loznica]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>49d39161f25bf072673c459f8c7374f9</guid>
-            <pubDate>Sun, 29 May 2022 12:39:00 GMT</pubDate>
-            <description><![CDATA[<strong>Sun 29 May</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-9.png" alt="Rain" /><br>
-Rain<br>
-Max: 19°C<br>
-<br>
-<strong>Mon 30 May</strong><br>
+            <guid>23d513f8b7b5e8c673696dc12924128c</guid>
+            <pubDate>Mon, 30 May 2022 05:25:00 GMT</pubDate>
+            <description><![CDATA[<strong>Mon 30 May</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-6.png" alt="Possible rain showers" /><br>
 Possible rain showers<br>
-Min: 12°C<br>
 Max: 21°C<br>
 <br>
 <strong>Tue 31 May</strong><br>
@@ -86,17 +68,11 @@ Max: 26°C<br>
         <item>
             <title><![CDATA[Belgrade]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>cbdb9043aa04128fd41760fe6d85c377</guid>
-            <pubDate>Sun, 29 May 2022 12:39:00 GMT</pubDate>
-            <description><![CDATA[<strong>Sun 29 May</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-8.png" alt="Possible rain" /><br>
-Possible rain<br>
-Max: 19°C<br>
-<br>
-<strong>Mon 30 May</strong><br>
+            <guid>d612efa84aae9445325d4dd694b7d648</guid>
+            <pubDate>Mon, 30 May 2022 05:25:00 GMT</pubDate>
+            <description><![CDATA[<strong>Mon 30 May</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-6.png" alt="Possible rain showers" /><br>
 Possible rain showers<br>
-Min: 13°C<br>
 Max: 22°C<br>
 <br>
 <strong>Tue 31 May</strong><br>
@@ -109,17 +85,11 @@ Max: 26°C<br>
         <item>
             <title><![CDATA[Kragujevac]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>f5bed9852c39c454515da9507102692f</guid>
-            <pubDate>Sun, 29 May 2022 12:39:00 GMT</pubDate>
-            <description><![CDATA[<strong>Sun 29 May</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-9.png" alt="Rain" /><br>
-Rain<br>
-Max: 20°C<br>
-<br>
-<strong>Mon 30 May</strong><br>
+            <guid>b722107fe4affd33915994290860980b</guid>
+            <pubDate>Mon, 30 May 2022 05:25:00 GMT</pubDate>
+            <description><![CDATA[<strong>Mon 30 May</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-6.png" alt="Possible rain showers" /><br>
 Possible rain showers<br>
-Min: 13°C<br>
 Max: 24°C<br>
 <br>
 <strong>Tue 31 May</strong><br>
@@ -132,17 +102,11 @@ Max: 26°C<br>
         <item>
             <title><![CDATA[Negotin]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>6d4303422631ee7a160f3a6207b51a0b</guid>
-            <pubDate>Sun, 29 May 2022 12:39:00 GMT</pubDate>
-            <description><![CDATA[<strong>Sun 29 May</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-12.png" alt="Showers and thunder storm" /><br>
-Showers and thunder storm<br>
-Max: 21°C<br>
-<br>
-<strong>Mon 30 May</strong><br>
+            <guid>854d25085fb6ca03d5e416ce63e15817</guid>
+            <pubDate>Mon, 30 May 2022 05:25:00 GMT</pubDate>
+            <description><![CDATA[<strong>Mon 30 May</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-10.png" alt="Mostly cloudy" /><br>
 Mostly cloudy<br>
-Min: 15°C<br>
 Max: 27°C<br>
 <br>
 <strong>Tue 31 May</strong><br>
@@ -155,17 +119,11 @@ Max: 28°C<br>
         <item>
             <title><![CDATA[Zlatibor]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>8d356d7b56c4c28d2c2648e9e3957c4a</guid>
-            <pubDate>Sun, 29 May 2022 12:39:00 GMT</pubDate>
-            <description><![CDATA[<strong>Sun 29 May</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-9.png" alt="Rain" /><br>
-Rain<br>
-Max: 15°C<br>
-<br>
-<strong>Mon 30 May</strong><br>
+            <guid>cbeb933d6a15ac404d6ee7aa6a1cf49a</guid>
+            <pubDate>Mon, 30 May 2022 05:25:00 GMT</pubDate>
+            <description><![CDATA[<strong>Mon 30 May</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-5.png" alt="After noon rain showers" /><br>
 After noon rain showers<br>
-Min: 9°C<br>
 Max: 20°C<br>
 <br>
 <strong>Tue 31 May</strong><br>
@@ -178,17 +136,11 @@ Max: 23°C<br>
         <item>
             <title><![CDATA[Kraljevo]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>e5a4b847adcfa2d8efcdb5c7af9f517c</guid>
-            <pubDate>Sun, 29 May 2022 12:39:00 GMT</pubDate>
-            <description><![CDATA[<strong>Sun 29 May</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-12.png" alt="Showers and thunder storm" /><br>
-Showers and thunder storm<br>
-Max: 19°C<br>
-<br>
-<strong>Mon 30 May</strong><br>
+            <guid>258a874ac1a4d1ec4ca9919c6690f76d</guid>
+            <pubDate>Mon, 30 May 2022 05:25:00 GMT</pubDate>
+            <description><![CDATA[<strong>Mon 30 May</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-5.png" alt="After noon rain showers" /><br>
 After noon rain showers<br>
-Min: 12°C<br>
 Max: 25°C<br>
 <br>
 <strong>Tue 31 May</strong><br>
@@ -201,17 +153,11 @@ Max: 27°C<br>
         <item>
             <title><![CDATA[Priština]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>647a53c1e420e969d3c3d1ba15850298</guid>
-            <pubDate>Sun, 29 May 2022 12:39:00 GMT</pubDate>
-            <description><![CDATA[<strong>Sun 29 May</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-12.png" alt="Showers and thunder storm" /><br>
-Showers and thunder storm<br>
-Max: 21°C<br>
-<br>
-<strong>Mon 30 May</strong><br>
+            <guid>55eccb36c28786d3afe38f1f34a15b2a</guid>
+            <pubDate>Mon, 30 May 2022 05:25:00 GMT</pubDate>
+            <description><![CDATA[<strong>Mon 30 May</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-5.png" alt="After noon rain showers" /><br>
 After noon rain showers<br>
-Min: 11°C<br>
 Max: 25°C<br>
 <br>
 <strong>Tue 31 May</strong><br>
@@ -224,17 +170,11 @@ Max: 26°C<br>
         <item>
             <title><![CDATA[Niš]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>f18f8c1e498039a22b526edac9d6fb8d</guid>
-            <pubDate>Sun, 29 May 2022 12:39:00 GMT</pubDate>
-            <description><![CDATA[<strong>Sun 29 May</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-12.png" alt="Showers and thunder storm" /><br>
-Showers and thunder storm<br>
-Max: 21°C<br>
-<br>
-<strong>Mon 30 May</strong><br>
+            <guid>807e2db9fa7a6d6a2fdbfd358301a0cc</guid>
+            <pubDate>Mon, 30 May 2022 05:25:00 GMT</pubDate>
+            <description><![CDATA[<strong>Mon 30 May</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-6.png" alt="Possible rain showers" /><br>
 Possible rain showers<br>
-Min: 14°C<br>
 Max: 26°C<br>
 <br>
 <strong>Tue 31 May</strong><br>
