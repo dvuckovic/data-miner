@@ -4,7 +4,7 @@
         <title>RHMZ</title>
         <link>https://data.dvuckovic.com/fcast3.xml</link>
         <description>Weather Forecast for Serbia</description>
-        <lastBuildDate>Tue, 07 Jun 2022 11:48:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Jun 2022 08:50:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>fcast</generator>
         <language>en</language>
@@ -17,8 +17,8 @@
         <item>
             <title><![CDATA[Palić]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>227d833ab75ab5a735d06b6be694bead</guid>
-            <pubDate>Tue, 07 Jun 2022 11:48:00 GMT</pubDate>
+            <guid>95a405c0941cbfdd7b35f445c589e512</guid>
+            <pubDate>Wed, 08 Jun 2022 08:50:00 GMT</pubDate>
             <description><![CDATA[<strong>Wed 8 Jun</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-12.png" alt="Showers and thunder storm" /><br>
 Showers and thunder storm<br>
@@ -34,8 +34,8 @@ Max: 24°C<br>
         <item>
             <title><![CDATA[Novi Sad]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>c9fd1c802107c24dca9a7a5ffd3b695f</guid>
-            <pubDate>Tue, 07 Jun 2022 11:48:00 GMT</pubDate>
+            <guid>84cf61c95795b24d075cf9876a05c232</guid>
+            <pubDate>Wed, 08 Jun 2022 08:50:00 GMT</pubDate>
             <description><![CDATA[<strong>Wed 8 Jun</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-12.png" alt="Showers and thunder storm" /><br>
 Showers and thunder storm<br>
@@ -51,8 +51,8 @@ Max: 25°C<br>
         <item>
             <title><![CDATA[Loznica]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>dd66a2794eba46edc316092f990b7277</guid>
-            <pubDate>Tue, 07 Jun 2022 11:48:00 GMT</pubDate>
+            <guid>ed64f9c1fa12396c2775273e03a5886f</guid>
+            <pubDate>Wed, 08 Jun 2022 08:50:00 GMT</pubDate>
             <description><![CDATA[<strong>Wed 8 Jun</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-12.png" alt="Showers and thunder storm" /><br>
 Showers and thunder storm<br>
@@ -68,11 +68,11 @@ Max: 25°C<br>
         <item>
             <title><![CDATA[Belgrade]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>3e39c532589f8bce96c3706cac2f5d38</guid>
-            <pubDate>Tue, 07 Jun 2022 11:48:00 GMT</pubDate>
+            <guid>14ec6e61297bfa80ce797a0d63a5ce24</guid>
+            <pubDate>Wed, 08 Jun 2022 08:50:00 GMT</pubDate>
             <description><![CDATA[<strong>Wed 8 Jun</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-12.png" alt="Showers and thunder storm" /><br>
-Showers and thunder storm<br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-5.png" alt="After noon rain showers" /><br>
+After noon rain showers<br>
 Max: 26°C<br>
 <br>
 <strong>Thu 9 Jun</strong><br>
@@ -85,8 +85,8 @@ Max: 26°C<br>
         <item>
             <title><![CDATA[Kragujevac]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>548acf02d39c856ab5dfef1a68d47800</guid>
-            <pubDate>Tue, 07 Jun 2022 11:48:00 GMT</pubDate>
+            <guid>3050a0401fb90d884eb32a2552ee9907</guid>
+            <pubDate>Wed, 08 Jun 2022 08:50:00 GMT</pubDate>
             <description><![CDATA[<strong>Wed 8 Jun</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-12.png" alt="Showers and thunder storm" /><br>
 Showers and thunder storm<br>
@@ -102,8 +102,8 @@ Max: 27°C<br>
         <item>
             <title><![CDATA[Negotin]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>5fdb53bb03d2ca952be2ba166ff72e90</guid>
-            <pubDate>Tue, 07 Jun 2022 11:48:00 GMT</pubDate>
+            <guid>c8e5a1d47eb5d18bbd2cf1c9a7834a1c</guid>
+            <pubDate>Wed, 08 Jun 2022 08:50:00 GMT</pubDate>
             <description><![CDATA[<strong>Wed 8 Jun</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-4.png" alt="Partly cloudy" /><br>
 Partly cloudy<br>
@@ -119,8 +119,8 @@ Max: 27°C<br>
         <item>
             <title><![CDATA[Zlatibor]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>141deed4e9c38f7a072fa1a95a0f81a1</guid>
-            <pubDate>Tue, 07 Jun 2022 11:48:00 GMT</pubDate>
+            <guid>0848cc36e4c0a0145e160432613ceb65</guid>
+            <pubDate>Wed, 08 Jun 2022 08:50:00 GMT</pubDate>
             <description><![CDATA[<strong>Wed 8 Jun</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-12.png" alt="Showers and thunder storm" /><br>
 Showers and thunder storm<br>
@@ -136,8 +136,8 @@ Max: 20°C<br>
         <item>
             <title><![CDATA[Kraljevo]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>b851265bef82140041d4a05437079d18</guid>
-            <pubDate>Tue, 07 Jun 2022 11:48:00 GMT</pubDate>
+            <guid>5216bac19a3b411c12821327523cc0c6</guid>
+            <pubDate>Wed, 08 Jun 2022 08:50:00 GMT</pubDate>
             <description><![CDATA[<strong>Wed 8 Jun</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-12.png" alt="Showers and thunder storm" /><br>
 Showers and thunder storm<br>
@@ -153,8 +153,8 @@ Max: 26°C<br>
         <item>
             <title><![CDATA[Priština]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>df674ae015e5dc7748a573429ab8384b</guid>
-            <pubDate>Tue, 07 Jun 2022 11:48:00 GMT</pubDate>
+            <guid>1f91c93ebac7ac24249dea52a34932ee</guid>
+            <pubDate>Wed, 08 Jun 2022 08:50:00 GMT</pubDate>
             <description><![CDATA[<strong>Wed 8 Jun</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-12.png" alt="Showers and thunder storm" /><br>
 Showers and thunder storm<br>
@@ -170,8 +170,8 @@ Max: 25°C<br>
         <item>
             <title><![CDATA[Niš]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>ba856649ba8ea88ad6fbb370bdf54947</guid>
-            <pubDate>Tue, 07 Jun 2022 11:48:00 GMT</pubDate>
+            <guid>50a45640739ae108942a07ebbcfaafab</guid>
+            <pubDate>Wed, 08 Jun 2022 08:50:00 GMT</pubDate>
             <description><![CDATA[<strong>Wed 8 Jun</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-5.png" alt="After noon rain showers" /><br>
 After noon rain showers<br>
