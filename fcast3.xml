@@ -4,7 +4,7 @@
         <title>RHMZ</title>
         <link>https://data.dvuckovic.com/fcast3.xml</link>
         <description>Weather Forecast for Serbia</description>
-        <lastBuildDate>Sun, 19 Jun 2022 12:27:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Jun 2022 04:35:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>fcast</generator>
         <language>en</language>
@@ -17,17 +17,11 @@
         <item>
             <title><![CDATA[Palić]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>ba6166e8ef70cdbd4c98b6fa2a99ae07</guid>
-            <pubDate>Sun, 19 Jun 2022 12:27:00 GMT</pubDate>
-            <description><![CDATA[<strong>Sun 19 Jun</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
-Sunny<br>
-Max: 30°C<br>
-<br>
-<strong>Mon 20 Jun</strong><br>
+            <guid>b3025c60c593238e921f2d010150055a</guid>
+            <pubDate>Mon, 20 Jun 2022 04:35:00 GMT</pubDate>
+            <description><![CDATA[<strong>Mon 20 Jun</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-4.png" alt="Partly cloudy" /><br>
 Partly cloudy<br>
-Min: 15°C<br>
 Max: 32°C<br>
 <br>
 <strong>Tue 21 Jun</strong><br>
@@ -40,17 +34,11 @@ Max: 29°C<br>
         <item>
             <title><![CDATA[Novi Sad]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>222110d921b8e7b6bb5f13d917e24dba</guid>
-            <pubDate>Sun, 19 Jun 2022 12:27:00 GMT</pubDate>
-            <description><![CDATA[<strong>Sun 19 Jun</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
-Sunny<br>
-Max: 30°C<br>
-<br>
-<strong>Mon 20 Jun</strong><br>
+            <guid>2ee1024c92060e84c62ef055e7ecf2a6</guid>
+            <pubDate>Mon, 20 Jun 2022 04:35:00 GMT</pubDate>
+            <description><![CDATA[<strong>Mon 20 Jun</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
 Mostly sunny<br>
-Min: 16°C<br>
 Max: 33°C<br>
 <br>
 <strong>Tue 21 Jun</strong><br>
@@ -63,17 +51,11 @@ Max: 29°C<br>
         <item>
             <title><![CDATA[Loznica]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>22221bd33317d250088290f879c605fd</guid>
-            <pubDate>Sun, 19 Jun 2022 12:27:00 GMT</pubDate>
-            <description><![CDATA[<strong>Sun 19 Jun</strong><br>
+            <guid>aed2085d44211fcad5c0e96f27404953</guid>
+            <pubDate>Mon, 20 Jun 2022 04:35:00 GMT</pubDate>
+            <description><![CDATA[<strong>Mon 20 Jun</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
 Sunny<br>
-Max: 30°C<br>
-<br>
-<strong>Mon 20 Jun</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
-Sunny<br>
-Min: 15°C<br>
 Max: 33°C<br>
 <br>
 <strong>Tue 21 Jun</strong><br>
@@ -86,17 +68,11 @@ Max: 30°C<br>
         <item>
             <title><![CDATA[Belgrade]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>12398363de8c164b42679423906c8630</guid>
-            <pubDate>Sun, 19 Jun 2022 12:27:00 GMT</pubDate>
-            <description><![CDATA[<strong>Sun 19 Jun</strong><br>
+            <guid>ec8344da69674af7ab1e912206a75272</guid>
+            <pubDate>Mon, 20 Jun 2022 04:35:00 GMT</pubDate>
+            <description><![CDATA[<strong>Mon 20 Jun</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
 Sunny<br>
-Max: 30°C<br>
-<br>
-<strong>Mon 20 Jun</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
-Sunny<br>
-Min: 20°C<br>
 Max: 33°C<br>
 <br>
 <strong>Tue 21 Jun</strong><br>
@@ -109,17 +85,11 @@ Max: 30°C<br>
         <item>
             <title><![CDATA[Kragujevac]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>26699ae063c134b323279655d95cbac5</guid>
-            <pubDate>Sun, 19 Jun 2022 12:27:00 GMT</pubDate>
-            <description><![CDATA[<strong>Sun 19 Jun</strong><br>
+            <guid>87f1f66e631c7034a704e05dd43110a3</guid>
+            <pubDate>Mon, 20 Jun 2022 04:35:00 GMT</pubDate>
+            <description><![CDATA[<strong>Mon 20 Jun</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
 Sunny<br>
-Max: 30°C<br>
-<br>
-<strong>Mon 20 Jun</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
-Sunny<br>
-Min: 13°C<br>
 Max: 32°C<br>
 <br>
 <strong>Tue 21 Jun</strong><br>
@@ -132,17 +102,11 @@ Max: 30°C<br>
         <item>
             <title><![CDATA[Negotin]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>012caeb6c3642766c94543ee0161833d</guid>
-            <pubDate>Sun, 19 Jun 2022 12:27:00 GMT</pubDate>
-            <description><![CDATA[<strong>Sun 19 Jun</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
-Mostly sunny<br>
-Max: 30°C<br>
-<br>
-<strong>Mon 20 Jun</strong><br>
+            <guid>b1c84f94b56dda236e24fed27d357525</guid>
+            <pubDate>Mon, 20 Jun 2022 04:35:00 GMT</pubDate>
+            <description><![CDATA[<strong>Mon 20 Jun</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
 Sunny<br>
-Min: 14°C<br>
 Max: 32°C<br>
 <br>
 <strong>Tue 21 Jun</strong><br>
@@ -155,17 +119,11 @@ Max: 31°C<br>
         <item>
             <title><![CDATA[Zlatibor]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>2dc47ba7351479ce7a774edc507f9eb9</guid>
-            <pubDate>Sun, 19 Jun 2022 12:27:00 GMT</pubDate>
-            <description><![CDATA[<strong>Sun 19 Jun</strong><br>
+            <guid>228875aa73c6494bcc8e239dcab7bfe3</guid>
+            <pubDate>Mon, 20 Jun 2022 04:35:00 GMT</pubDate>
+            <description><![CDATA[<strong>Mon 20 Jun</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
 Mostly sunny<br>
-Max: 24°C<br>
-<br>
-<strong>Mon 20 Jun</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
-Mostly sunny<br>
-Min: 13°C<br>
 Max: 27°C<br>
 <br>
 <strong>Tue 21 Jun</strong><br>
@@ -178,17 +136,11 @@ Max: 26°C<br>
         <item>
             <title><![CDATA[Kraljevo]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>1f87fb0d1cf924e7ae23a89752a83d98</guid>
-            <pubDate>Sun, 19 Jun 2022 12:27:00 GMT</pubDate>
-            <description><![CDATA[<strong>Sun 19 Jun</strong><br>
+            <guid>fdefdd7030318d78b4b4b11b2a1f67b9</guid>
+            <pubDate>Mon, 20 Jun 2022 04:35:00 GMT</pubDate>
+            <description><![CDATA[<strong>Mon 20 Jun</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
 Mostly sunny<br>
-Max: 29°C<br>
-<br>
-<strong>Mon 20 Jun</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
-Mostly sunny<br>
-Min: 13°C<br>
 Max: 32°C<br>
 <br>
 <strong>Tue 21 Jun</strong><br>
@@ -201,17 +153,11 @@ Max: 29°C<br>
         <item>
             <title><![CDATA[Priština]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>b94f50ab572a08e5be0896da98239ae4</guid>
-            <pubDate>Sun, 19 Jun 2022 12:27:00 GMT</pubDate>
-            <description><![CDATA[<strong>Sun 19 Jun</strong><br>
+            <guid>538f0bb1deb241bd0f0ab01f8e84c028</guid>
+            <pubDate>Mon, 20 Jun 2022 04:35:00 GMT</pubDate>
+            <description><![CDATA[<strong>Mon 20 Jun</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
 Mostly sunny<br>
-Max: 29°C<br>
-<br>
-<strong>Mon 20 Jun</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
-Mostly sunny<br>
-Min: 11°C<br>
 Max: 29°C<br>
 <br>
 <strong>Tue 21 Jun</strong><br>
@@ -224,17 +170,11 @@ Max: 29°C<br>
         <item>
             <title><![CDATA[Niš]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>c12c079b4ffa62d74a432cfa0f5db9a4</guid>
-            <pubDate>Sun, 19 Jun 2022 12:27:00 GMT</pubDate>
-            <description><![CDATA[<strong>Sun 19 Jun</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
-Mostly sunny<br>
-Max: 30°C<br>
-<br>
-<strong>Mon 20 Jun</strong><br>
+            <guid>b83c8f8b1a8a9c84e1488c1a26cff19f</guid>
+            <pubDate>Mon, 20 Jun 2022 04:35:00 GMT</pubDate>
+            <description><![CDATA[<strong>Mon 20 Jun</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
 Sunny<br>
-Min: 13°C<br>
 Max: 32°C<br>
 <br>
 <strong>Tue 21 Jun</strong><br>
