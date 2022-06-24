@@ -4,7 +4,7 @@
         <title>RHMZ</title>
         <link>https://data.dvuckovic.com/fcast3.xml</link>
         <description>Weather Forecast for Serbia</description>
-        <lastBuildDate>Thu, 23 Jun 2022 12:39:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Jun 2022 13:12:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>fcast</generator>
         <language>en</language>
@@ -17,8 +17,8 @@
         <item>
             <title><![CDATA[Palić]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>e6b115a583de8b699f45480cebe87559</guid>
-            <pubDate>Thu, 23 Jun 2022 12:39:00 GMT</pubDate>
+            <guid>6f9ead829f92eb2a14b757cf1172d8fa</guid>
+            <pubDate>Fri, 24 Jun 2022 13:12:00 GMT</pubDate>
             <description><![CDATA[<strong>Fri 24 Jun</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
 Mostly sunny<br>
@@ -27,6 +27,12 @@ Max: 31°C<br>
 <strong>Sat 25 Jun</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-6.png" alt="Possible rain showers" /><br>
 Possible rain showers<br>
+Min: 16°C<br>
+Max: 31°C<br>
+<br>
+<strong>Sun 26 Jun</strong><br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
+Mostly sunny<br>
 Min: 17°C<br>
 Max: 31°C<br>
 ]]></description>
@@ -34,8 +40,8 @@ Max: 31°C<br>
         <item>
             <title><![CDATA[Novi Sad]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>f263339a4ba039b962a0401bf0e1389e</guid>
-            <pubDate>Thu, 23 Jun 2022 12:39:00 GMT</pubDate>
+            <guid>ffa35f491cf310630afc3b88368d12fb</guid>
+            <pubDate>Fri, 24 Jun 2022 13:12:00 GMT</pubDate>
             <description><![CDATA[<strong>Fri 24 Jun</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
 Mostly sunny<br>
@@ -46,21 +52,33 @@ Max: 31°C<br>
 Possible rain showers<br>
 Min: 17°C<br>
 Max: 31°C<br>
+<br>
+<strong>Sun 26 Jun</strong><br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
+Mostly sunny<br>
+Min: 18°C<br>
+Max: 31°C<br>
 ]]></description>
         </item>
         <item>
             <title><![CDATA[Loznica]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>c263b9eb6e8590772cbd16b3b3680574</guid>
-            <pubDate>Thu, 23 Jun 2022 12:39:00 GMT</pubDate>
+            <guid>7b2c4b39719d91f17829d5e54334b0cc</guid>
+            <pubDate>Fri, 24 Jun 2022 13:12:00 GMT</pubDate>
             <description><![CDATA[<strong>Fri 24 Jun</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
 Mostly sunny<br>
 Max: 31°C<br>
 <br>
 <strong>Sat 25 Jun</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-6.png" alt="Possible rain showers" /><br>
-Possible rain showers<br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-5.png" alt="After noon rain showers" /><br>
+After noon rain showers<br>
+Min: 17°C<br>
+Max: 31°C<br>
+<br>
+<strong>Sun 26 Jun</strong><br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-5.png" alt="After noon rain showers" /><br>
+After noon rain showers<br>
 Min: 18°C<br>
 Max: 31°C<br>
 ]]></description>
@@ -68,59 +86,77 @@ Max: 31°C<br>
         <item>
             <title><![CDATA[Belgrade]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>955823161080eccafd49f7a2eb9bddb0</guid>
-            <pubDate>Thu, 23 Jun 2022 12:39:00 GMT</pubDate>
+            <guid>2e1e43059f0b1f6c8053eac6eedf0383</guid>
+            <pubDate>Fri, 24 Jun 2022 13:12:00 GMT</pubDate>
             <description><![CDATA[<strong>Fri 24 Jun</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
 Mostly sunny<br>
 Max: 31°C<br>
 <br>
 <strong>Sat 25 Jun</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-6.png" alt="Possible rain showers" /><br>
-Possible rain showers<br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-5.png" alt="After noon rain showers" /><br>
+After noon rain showers<br>
 Min: 20°C<br>
-Max: 31°C<br>
+Max: 32°C<br>
+<br>
+<strong>Sun 26 Jun</strong><br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-5.png" alt="After noon rain showers" /><br>
+After noon rain showers<br>
+Min: 20°C<br>
+Max: 32°C<br>
 ]]></description>
         </item>
         <item>
             <title><![CDATA[Kragujevac]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>365dae0fcb6518a30918f7530732323e</guid>
-            <pubDate>Thu, 23 Jun 2022 12:39:00 GMT</pubDate>
+            <guid>6ecdebb5a15c2e9c98ed10931087480d</guid>
+            <pubDate>Fri, 24 Jun 2022 13:12:00 GMT</pubDate>
             <description><![CDATA[<strong>Fri 24 Jun</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
 Mostly sunny<br>
 Max: 31°C<br>
 <br>
 <strong>Sat 25 Jun</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-6.png" alt="Possible rain showers" /><br>
-Possible rain showers<br>
-Min: 16°C<br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-5.png" alt="After noon rain showers" /><br>
+After noon rain showers<br>
+Min: 17°C<br>
+Max: 32°C<br>
+<br>
+<strong>Sun 26 Jun</strong><br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-5.png" alt="After noon rain showers" /><br>
+After noon rain showers<br>
+Min: 17°C<br>
 Max: 31°C<br>
 ]]></description>
         </item>
         <item>
             <title><![CDATA[Negotin]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>c7f3eaea74af4de0cfab5dc7241a84db</guid>
-            <pubDate>Thu, 23 Jun 2022 12:39:00 GMT</pubDate>
+            <guid>39ab641041983eca20c4c97c712fdc68</guid>
+            <pubDate>Fri, 24 Jun 2022 13:12:00 GMT</pubDate>
             <description><![CDATA[<strong>Fri 24 Jun</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
 Mostly sunny<br>
 Max: 32°C<br>
 <br>
 <strong>Sat 25 Jun</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-4.png" alt="Partly cloudy" /><br>
-Partly cloudy<br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-6.png" alt="Possible rain showers" /><br>
+Possible rain showers<br>
 Min: 16°C<br>
+Max: 33°C<br>
+<br>
+<strong>Sun 26 Jun</strong><br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-6.png" alt="Possible rain showers" /><br>
+Possible rain showers<br>
+Min: 18°C<br>
 Max: 32°C<br>
 ]]></description>
         </item>
         <item>
             <title><![CDATA[Zlatibor]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>50d95643468da7d151fb3efddfb93d92</guid>
-            <pubDate>Thu, 23 Jun 2022 12:39:00 GMT</pubDate>
+            <guid>33b803a561cd936840be47bd275e23e0</guid>
+            <pubDate>Fri, 24 Jun 2022 13:12:00 GMT</pubDate>
             <description><![CDATA[<strong>Fri 24 Jun</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-5.png" alt="After noon rain showers" /><br>
 After noon rain showers<br>
@@ -131,21 +167,33 @@ Max: 26°C<br>
 After noon rain showers<br>
 Min: 16°C<br>
 Max: 27°C<br>
+<br>
+<strong>Sun 26 Jun</strong><br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-5.png" alt="After noon rain showers" /><br>
+After noon rain showers<br>
+Min: 14°C<br>
+Max: 26°C<br>
 ]]></description>
         </item>
         <item>
             <title><![CDATA[Kraljevo]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>46a9ecdab5788a1241a7390386a18f5f</guid>
-            <pubDate>Thu, 23 Jun 2022 12:39:00 GMT</pubDate>
+            <guid>f4f3f70afcec37055d74639dc9d1d728</guid>
+            <pubDate>Fri, 24 Jun 2022 13:12:00 GMT</pubDate>
             <description><![CDATA[<strong>Fri 24 Jun</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
 Mostly sunny<br>
 Max: 31°C<br>
 <br>
 <strong>Sat 25 Jun</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-6.png" alt="Possible rain showers" /><br>
-Possible rain showers<br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-5.png" alt="After noon rain showers" /><br>
+After noon rain showers<br>
+Min: 17°C<br>
+Max: 32°C<br>
+<br>
+<strong>Sun 26 Jun</strong><br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-5.png" alt="After noon rain showers" /><br>
+After noon rain showers<br>
 Min: 17°C<br>
 Max: 31°C<br>
 ]]></description>
@@ -153,8 +201,8 @@ Max: 31°C<br>
         <item>
             <title><![CDATA[Priština]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>3a5aa392e9da5ee7d4f78f4e2dd82e96</guid>
-            <pubDate>Thu, 23 Jun 2022 12:39:00 GMT</pubDate>
+            <guid>f4cb5c13e7b42517c81bfc65c116ea87</guid>
+            <pubDate>Fri, 24 Jun 2022 13:12:00 GMT</pubDate>
             <description><![CDATA[<strong>Fri 24 Jun</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-6.png" alt="Possible rain showers" /><br>
 Possible rain showers<br>
@@ -163,15 +211,21 @@ Max: 29°C<br>
 <strong>Sat 25 Jun</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-5.png" alt="After noon rain showers" /><br>
 After noon rain showers<br>
-Min: 16°C<br>
-Max: 29°C<br>
+Min: 15°C<br>
+Max: 31°C<br>
+<br>
+<strong>Sun 26 Jun</strong><br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-5.png" alt="After noon rain showers" /><br>
+After noon rain showers<br>
+Min: 15°C<br>
+Max: 30°C<br>
 ]]></description>
         </item>
         <item>
             <title><![CDATA[Niš]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>716b1fff170df05be403598b42093073</guid>
-            <pubDate>Thu, 23 Jun 2022 12:39:00 GMT</pubDate>
+            <guid>d5881159d5411f31056e07f5d64e22d7</guid>
+            <pubDate>Fri, 24 Jun 2022 13:12:00 GMT</pubDate>
             <description><![CDATA[<strong>Fri 24 Jun</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
 Mostly sunny<br>
@@ -181,6 +235,12 @@ Max: 31°C<br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-5.png" alt="After noon rain showers" /><br>
 After noon rain showers<br>
 Min: 17°C<br>
+Max: 33°C<br>
+<br>
+<strong>Sun 26 Jun</strong><br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-5.png" alt="After noon rain showers" /><br>
+After noon rain showers<br>
+Min: 18°C<br>
 Max: 32°C<br>
 ]]></description>
         </item>
