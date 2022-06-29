@@ -4,7 +4,7 @@
         <title>RHMZ</title>
         <link>https://data.dvuckovic.com/fcast3.xml</link>
         <description>Weather Forecast for Serbia</description>
-        <lastBuildDate>Wed, 29 Jun 2022 05:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Jun 2022 11:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>fcast</generator>
         <language>en</language>
@@ -17,62 +17,80 @@
         <item>
             <title><![CDATA[Palić]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>5fe78769dfc0f2b480a9129803e37b1a</guid>
-            <pubDate>Wed, 29 Jun 2022 05:00:00 GMT</pubDate>
+            <guid>1fea458eb30303f021adaa6e78fa4b47</guid>
+            <pubDate>Wed, 29 Jun 2022 11:00:00 GMT</pubDate>
             <description><![CDATA[<strong>Wed 29 Jun</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
-Mostly sunny<br>
-Max: 35°C<br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
+Sunny<br>
+Max: 36°C<br>
 <br>
 <strong>Thu 30 Jun</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
 Mostly sunny<br>
-Min: 22°C<br>
+Min: 20°C<br>
+Max: 36°C<br>
+<br>
+<strong>Fri 1 Jul</strong><br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
+Mostly sunny<br>
+Min: 21°C<br>
 Max: 36°C<br>
 ]]></description>
         </item>
         <item>
             <title><![CDATA[Novi Sad]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>cb303cb6510d024af9cca5c3021e0a52</guid>
-            <pubDate>Wed, 29 Jun 2022 05:00:00 GMT</pubDate>
+            <guid>f43659deeb9feeadc03cd1b994f38b01</guid>
+            <pubDate>Wed, 29 Jun 2022 11:00:00 GMT</pubDate>
             <description><![CDATA[<strong>Wed 29 Jun</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
-Mostly sunny<br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
+Sunny<br>
 Max: 35°C<br>
 <br>
 <strong>Thu 30 Jun</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
 Mostly sunny<br>
 Min: 20°C<br>
-Max: 35°C<br>
+Max: 36°C<br>
+<br>
+<strong>Fri 1 Jul</strong><br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
+Mostly sunny<br>
+Min: 20°C<br>
+Max: 36°C<br>
 ]]></description>
         </item>
         <item>
             <title><![CDATA[Loznica]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>c994f71ad4d618aceb92c4b2d544d0ba</guid>
-            <pubDate>Wed, 29 Jun 2022 05:00:00 GMT</pubDate>
+            <guid>aedd41a0856205ba1407f6817a081008</guid>
+            <pubDate>Wed, 29 Jun 2022 11:00:00 GMT</pubDate>
             <description><![CDATA[<strong>Wed 29 Jun</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
-Mostly sunny<br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
+Sunny<br>
 Max: 36°C<br>
 <br>
 <strong>Thu 30 Jun</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-4.png" alt="Partly cloudy" /><br>
-Partly cloudy<br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-6.png" alt="Possible rain showers" /><br>
+Possible rain showers<br>
 Min: 20°C<br>
 Max: 35°C<br>
+<br>
+<strong>Fri 1 Jul</strong><br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
+Mostly sunny<br>
+Min: 20°C<br>
+Max: 36°C<br>
 ]]></description>
         </item>
         <item>
             <title><![CDATA[Belgrade]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>e715b2597b6242cfaba04b99cf52bed6</guid>
-            <pubDate>Wed, 29 Jun 2022 05:00:00 GMT</pubDate>
+            <guid>80907baee526a7acf4bd44837feb2fe0</guid>
+            <pubDate>Wed, 29 Jun 2022 11:00:00 GMT</pubDate>
             <description><![CDATA[<strong>Wed 29 Jun</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
-Mostly sunny<br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
+Sunny<br>
 Max: 36°C<br>
 <br>
 <strong>Thu 30 Jun</strong><br>
@@ -80,19 +98,100 @@ Max: 36°C<br>
 Mostly sunny<br>
 Min: 24°C<br>
 Max: 36°C<br>
+<br>
+<strong>Fri 1 Jul</strong><br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
+Mostly sunny<br>
+Min: 24°C<br>
+Max: 37°C<br>
 ]]></description>
         </item>
         <item>
             <title><![CDATA[Kragujevac]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>db049764825ff3d6e35efc6f517e5d25</guid>
-            <pubDate>Wed, 29 Jun 2022 05:00:00 GMT</pubDate>
+            <guid>8d2e4edda7bb28a4185063fcb64e462b</guid>
+            <pubDate>Wed, 29 Jun 2022 11:00:00 GMT</pubDate>
             <description><![CDATA[<strong>Wed 29 Jun</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
-Mostly sunny<br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
+Sunny<br>
 Max: 35°C<br>
 <br>
 <strong>Thu 30 Jun</strong><br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
+Mostly sunny<br>
+Min: 19°C<br>
+Max: 36°C<br>
+<br>
+<strong>Fri 1 Jul</strong><br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
+Mostly sunny<br>
+Min: 19°C<br>
+Max: 36°C<br>
+]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Negotin]]></title>
+            <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
+            <guid>a6a24d6dc1682f8755504438ef45e018</guid>
+            <pubDate>Wed, 29 Jun 2022 11:00:00 GMT</pubDate>
+            <description><![CDATA[<strong>Wed 29 Jun</strong><br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
+Sunny<br>
+Max: 35°C<br>
+<br>
+<strong>Thu 30 Jun</strong><br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
+Sunny<br>
+Min: 17°C<br>
+Max: 35°C<br>
+<br>
+<strong>Fri 1 Jul</strong><br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
+Mostly sunny<br>
+Min: 18°C<br>
+Max: 36°C<br>
+]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Zlatibor]]></title>
+            <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
+            <guid>b46f05b0cb0f295780b99a35a4ba2171</guid>
+            <pubDate>Wed, 29 Jun 2022 11:00:00 GMT</pubDate>
+            <description><![CDATA[<strong>Wed 29 Jun</strong><br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-5.png" alt="After noon rain showers" /><br>
+After noon rain showers<br>
+Max: 30°C<br>
+<br>
+<strong>Thu 30 Jun</strong><br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-5.png" alt="After noon rain showers" /><br>
+After noon rain showers<br>
+Min: 18°C<br>
+Max: 30°C<br>
+<br>
+<strong>Fri 1 Jul</strong><br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-4.png" alt="Partly cloudy" /><br>
+Partly cloudy<br>
+Min: 17°C<br>
+Max: 30°C<br>
+]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Kraljevo]]></title>
+            <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
+            <guid>c02d10ffb7234ee2f1b07e5989175322</guid>
+            <pubDate>Wed, 29 Jun 2022 11:00:00 GMT</pubDate>
+            <description><![CDATA[<strong>Wed 29 Jun</strong><br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
+Mostly sunny<br>
+Max: 34°C<br>
+<br>
+<strong>Thu 30 Jun</strong><br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-6.png" alt="Possible rain showers" /><br>
+Possible rain showers<br>
+Min: 19°C<br>
+Max: 35°C<br>
+<br>
+<strong>Fri 1 Jul</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
 Mostly sunny<br>
 Min: 19°C<br>
@@ -100,64 +199,13 @@ Max: 35°C<br>
 ]]></description>
         </item>
         <item>
-            <title><![CDATA[Negotin]]></title>
-            <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>72e0a6a3948ab3b6b15aa07283c09488</guid>
-            <pubDate>Wed, 29 Jun 2022 05:00:00 GMT</pubDate>
-            <description><![CDATA[<strong>Wed 29 Jun</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
-Mostly sunny<br>
-Max: 35°C<br>
-<br>
-<strong>Thu 30 Jun</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
-Mostly sunny<br>
-Min: 17°C<br>
-Max: 35°C<br>
-]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Zlatibor]]></title>
-            <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>5fed0ec18377b5045b03e989966bd011</guid>
-            <pubDate>Wed, 29 Jun 2022 05:00:00 GMT</pubDate>
-            <description><![CDATA[<strong>Wed 29 Jun</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-5.png" alt="After noon rain showers" /><br>
-After noon rain showers<br>
-Max: 30°C<br>
-<br>
-<strong>Thu 30 Jun</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-10.png" alt="Mostly cloudy" /><br>
-Mostly cloudy<br>
-Min: 18°C<br>
-Max: 30°C<br>
-]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Kraljevo]]></title>
-            <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>9b4c763cb00d804ce0777e95f077be3e</guid>
-            <pubDate>Wed, 29 Jun 2022 05:00:00 GMT</pubDate>
-            <description><![CDATA[<strong>Wed 29 Jun</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
-Mostly sunny<br>
-Max: 34°C<br>
-<br>
-<strong>Thu 30 Jun</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
-Mostly sunny<br>
-Min: 17°C<br>
-Max: 35°C<br>
-]]></description>
-        </item>
-        <item>
             <title><![CDATA[Priština]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>3be8a76feb8ab898e658e5862fc92014</guid>
-            <pubDate>Wed, 29 Jun 2022 05:00:00 GMT</pubDate>
+            <guid>d25e1144547041ee5a23ad5f6dfca40d</guid>
+            <pubDate>Wed, 29 Jun 2022 11:00:00 GMT</pubDate>
             <description><![CDATA[<strong>Wed 29 Jun</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
-Mostly sunny<br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
+Sunny<br>
 Max: 34°C<br>
 <br>
 <strong>Thu 30 Jun</strong><br>
@@ -165,19 +213,31 @@ Max: 34°C<br>
 Mostly sunny<br>
 Min: 16°C<br>
 Max: 34°C<br>
+<br>
+<strong>Fri 1 Jul</strong><br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-6.png" alt="Possible rain showers" /><br>
+Possible rain showers<br>
+Min: 16°C<br>
+Max: 34°C<br>
 ]]></description>
         </item>
         <item>
             <title><![CDATA[Niš]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>20113c619be928d97f24f76e7aa3578c</guid>
-            <pubDate>Wed, 29 Jun 2022 05:00:00 GMT</pubDate>
+            <guid>e79e5f54f6b5c596863ee085f331b8a1</guid>
+            <pubDate>Wed, 29 Jun 2022 11:00:00 GMT</pubDate>
             <description><![CDATA[<strong>Wed 29 Jun</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
-Mostly sunny<br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
+Sunny<br>
 Max: 36°C<br>
 <br>
 <strong>Thu 30 Jun</strong><br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
+Mostly sunny<br>
+Min: 19°C<br>
+Max: 37°C<br>
+<br>
+<strong>Fri 1 Jul</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
 Mostly sunny<br>
 Min: 19°C<br>
