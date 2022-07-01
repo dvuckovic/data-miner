@@ -4,7 +4,7 @@
         <title>RHMZ</title>
         <link>https://data.dvuckovic.com/fcast3.xml</link>
         <description>Weather Forecast for Serbia</description>
-        <lastBuildDate>Fri, 01 Jul 2022 05:35:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Jul 2022 08:35:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>fcast</generator>
         <language>en</language>
@@ -17,8 +17,8 @@
         <item>
             <title><![CDATA[Palić]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>80dbcf5410ea75937c578752e2abc1ec</guid>
-            <pubDate>Fri, 01 Jul 2022 05:35:00 GMT</pubDate>
+            <guid>02d908f13c0942fce078a50712aa6878</guid>
+            <pubDate>Fri, 01 Jul 2022 08:35:00 GMT</pubDate>
             <description><![CDATA[<strong>Fri 1 Jul</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
 Mostly sunny<br>
@@ -34,8 +34,8 @@ Max: 32°C<br>
         <item>
             <title><![CDATA[Novi Sad]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>8323b160dcc0546254725ef7b6ca20a6</guid>
-            <pubDate>Fri, 01 Jul 2022 05:35:00 GMT</pubDate>
+            <guid>04c0523183178147da70ad53dd596330</guid>
+            <pubDate>Fri, 01 Jul 2022 08:35:00 GMT</pubDate>
             <description><![CDATA[<strong>Fri 1 Jul</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
 Mostly sunny<br>
@@ -51,8 +51,8 @@ Max: 33°C<br>
         <item>
             <title><![CDATA[Loznica]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>bd12625041002730fc5ca205f9c9f399</guid>
-            <pubDate>Fri, 01 Jul 2022 05:35:00 GMT</pubDate>
+            <guid>ac65391469e847bbcb43169efb84b3c7</guid>
+            <pubDate>Fri, 01 Jul 2022 08:35:00 GMT</pubDate>
             <description><![CDATA[<strong>Fri 1 Jul</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
 Mostly sunny<br>
@@ -68,8 +68,8 @@ Max: 32°C<br>
         <item>
             <title><![CDATA[Belgrade]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>b0c2fe5f8d2c2bf1feb89c39d5b2b2d7</guid>
-            <pubDate>Fri, 01 Jul 2022 05:35:00 GMT</pubDate>
+            <guid>fd953781e99d9abc91bb962d8f84b0ed</guid>
+            <pubDate>Fri, 01 Jul 2022 08:35:00 GMT</pubDate>
             <description><![CDATA[<strong>Fri 1 Jul</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
 Mostly sunny<br>
@@ -85,8 +85,8 @@ Max: 33°C<br>
         <item>
             <title><![CDATA[Kragujevac]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>273d5fa0beeedf159fdd2c8cd9424df3</guid>
-            <pubDate>Fri, 01 Jul 2022 05:35:00 GMT</pubDate>
+            <guid>cc50c88bf01e6005f3eab9b46d436ad3</guid>
+            <pubDate>Fri, 01 Jul 2022 08:35:00 GMT</pubDate>
             <description><![CDATA[<strong>Fri 1 Jul</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
 Mostly sunny<br>
@@ -102,8 +102,8 @@ Max: 33°C<br>
         <item>
             <title><![CDATA[Negotin]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>d96cfa2a242b7c3c19cdd685d8a1fc94</guid>
-            <pubDate>Fri, 01 Jul 2022 05:35:00 GMT</pubDate>
+            <guid>1a40a2309a939c0e4307461ead19b161</guid>
+            <pubDate>Fri, 01 Jul 2022 08:35:00 GMT</pubDate>
             <description><![CDATA[<strong>Fri 1 Jul</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
 Mostly sunny<br>
@@ -119,11 +119,11 @@ Max: 34°C<br>
         <item>
             <title><![CDATA[Zlatibor]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>ce9c6d72ef1f7896c6f84f44e5027d76</guid>
-            <pubDate>Fri, 01 Jul 2022 05:35:00 GMT</pubDate>
+            <guid>28998b63dcd33a85fcc2a7ab7219c366</guid>
+            <pubDate>Fri, 01 Jul 2022 08:35:00 GMT</pubDate>
             <description><![CDATA[<strong>Fri 1 Jul</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
-Mostly sunny<br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-5.png" alt="After noon rain showers" /><br>
+After noon rain showers<br>
 Max: 30°C<br>
 <br>
 <strong>Sat 2 Jul</strong><br>
@@ -136,8 +136,8 @@ Max: 27°C<br>
         <item>
             <title><![CDATA[Kraljevo]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>f63bbabee8d64cdbc8704d9723d5b20b</guid>
-            <pubDate>Fri, 01 Jul 2022 05:35:00 GMT</pubDate>
+            <guid>51b9d9f51429339251b8c9d1c46633b5</guid>
+            <pubDate>Fri, 01 Jul 2022 08:35:00 GMT</pubDate>
             <description><![CDATA[<strong>Fri 1 Jul</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
 Mostly sunny<br>
@@ -153,8 +153,8 @@ Max: 33°C<br>
         <item>
             <title><![CDATA[Priština]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>8b12845b612e835928907215010e1ad9</guid>
-            <pubDate>Fri, 01 Jul 2022 05:35:00 GMT</pubDate>
+            <guid>c1be216d01e96e31235c073e7a747197</guid>
+            <pubDate>Fri, 01 Jul 2022 08:35:00 GMT</pubDate>
             <description><![CDATA[<strong>Fri 1 Jul</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-6.png" alt="Possible rain showers" /><br>
 Possible rain showers<br>
@@ -170,8 +170,8 @@ Max: 33°C<br>
         <item>
             <title><![CDATA[Niš]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>74e34b71e7f8f23e7be7d823093bc498</guid>
-            <pubDate>Fri, 01 Jul 2022 05:35:00 GMT</pubDate>
+            <guid>f6f091197626d167cc6d48bb9d8fe117</guid>
+            <pubDate>Fri, 01 Jul 2022 08:35:00 GMT</pubDate>
             <description><![CDATA[<strong>Fri 1 Jul</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
 Mostly sunny<br>
