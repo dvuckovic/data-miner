@@ -4,7 +4,7 @@
         <title>RHMZ</title>
         <link>https://data.dvuckovic.com/fcast3.xml</link>
         <description>Weather Forecast for Serbia</description>
-        <lastBuildDate>Sat, 02 Jul 2022 12:06:00 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Jul 2022 05:25:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>fcast</generator>
         <language>en</language>
@@ -17,17 +17,11 @@
         <item>
             <title><![CDATA[Palić]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>219f320d928e3e1baadcfb8713536337</guid>
-            <pubDate>Sat, 02 Jul 2022 12:06:00 GMT</pubDate>
-            <description><![CDATA[<strong>Sat 2 Jul</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-5.png" alt="After noon rain showers" /><br>
-After noon rain showers<br>
-Max: 31°C<br>
-<br>
-<strong>Sun 3 Jul</strong><br>
+            <guid>4e6450d047a822b07c9b3e32f20560dd</guid>
+            <pubDate>Sun, 03 Jul 2022 05:25:00 GMT</pubDate>
+            <description><![CDATA[<strong>Sun 3 Jul</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
 Mostly sunny<br>
-Min: 19°C<br>
 Max: 34°C<br>
 <br>
 <strong>Mon 4 Jul</strong><br>
@@ -40,17 +34,11 @@ Max: 35°C<br>
         <item>
             <title><![CDATA[Novi Sad]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>b22f1c2b428283c47fe0315b77bb38c8</guid>
-            <pubDate>Sat, 02 Jul 2022 12:06:00 GMT</pubDate>
-            <description><![CDATA[<strong>Sat 2 Jul</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-5.png" alt="After noon rain showers" /><br>
-After noon rain showers<br>
-Max: 31°C<br>
-<br>
-<strong>Sun 3 Jul</strong><br>
+            <guid>1ee2bb03e39bbc9bbfc55a9b170f4cda</guid>
+            <pubDate>Sun, 03 Jul 2022 05:25:00 GMT</pubDate>
+            <description><![CDATA[<strong>Sun 3 Jul</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
 Mostly sunny<br>
-Min: 19°C<br>
 Max: 35°C<br>
 <br>
 <strong>Mon 4 Jul</strong><br>
@@ -63,17 +51,11 @@ Max: 35°C<br>
         <item>
             <title><![CDATA[Loznica]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>b80fd73e64af3f87d5955f1ccac5e39a</guid>
-            <pubDate>Sat, 02 Jul 2022 12:06:00 GMT</pubDate>
-            <description><![CDATA[<strong>Sat 2 Jul</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-5.png" alt="After noon rain showers" /><br>
-After noon rain showers<br>
-Max: 31°C<br>
-<br>
-<strong>Sun 3 Jul</strong><br>
+            <guid>4d750232f205fd3b38b9b8fac13dcf13</guid>
+            <pubDate>Sun, 03 Jul 2022 05:25:00 GMT</pubDate>
+            <description><![CDATA[<strong>Sun 3 Jul</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-6.png" alt="Possible rain showers" /><br>
 Possible rain showers<br>
-Min: 19°C<br>
 Max: 34°C<br>
 <br>
 <strong>Mon 4 Jul</strong><br>
@@ -86,17 +68,11 @@ Max: 35°C<br>
         <item>
             <title><![CDATA[Belgrade]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>8deced9803b3205138515c5aafcd8936</guid>
-            <pubDate>Sat, 02 Jul 2022 12:06:00 GMT</pubDate>
-            <description><![CDATA[<strong>Sat 2 Jul</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-5.png" alt="After noon rain showers" /><br>
-After noon rain showers<br>
-Max: 33°C<br>
-<br>
-<strong>Sun 3 Jul</strong><br>
+            <guid>4e97111213aeb7a9bc4a2160099e3754</guid>
+            <pubDate>Sun, 03 Jul 2022 05:25:00 GMT</pubDate>
+            <description><![CDATA[<strong>Sun 3 Jul</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
 Mostly sunny<br>
-Min: 22°C<br>
 Max: 35°C<br>
 <br>
 <strong>Mon 4 Jul</strong><br>
@@ -109,17 +85,11 @@ Max: 35°C<br>
         <item>
             <title><![CDATA[Kragujevac]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>d0ec107917d338021397aec90b78eee8</guid>
-            <pubDate>Sat, 02 Jul 2022 12:06:00 GMT</pubDate>
-            <description><![CDATA[<strong>Sat 2 Jul</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-5.png" alt="After noon rain showers" /><br>
-After noon rain showers<br>
-Max: 33°C<br>
-<br>
-<strong>Sun 3 Jul</strong><br>
+            <guid>921f633fea8259d4fbba8da1e25dd1a9</guid>
+            <pubDate>Sun, 03 Jul 2022 05:25:00 GMT</pubDate>
+            <description><![CDATA[<strong>Sun 3 Jul</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
 Mostly sunny<br>
-Min: 19°C<br>
 Max: 35°C<br>
 <br>
 <strong>Mon 4 Jul</strong><br>
@@ -132,17 +102,11 @@ Max: 35°C<br>
         <item>
             <title><![CDATA[Negotin]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>57d59c04de789350bcc2c4670cc25c35</guid>
-            <pubDate>Sat, 02 Jul 2022 12:06:00 GMT</pubDate>
-            <description><![CDATA[<strong>Sat 2 Jul</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-5.png" alt="After noon rain showers" /><br>
-After noon rain showers<br>
-Max: 35°C<br>
-<br>
-<strong>Sun 3 Jul</strong><br>
+            <guid>4cc4a1f4c3a7f346064c0eab6f773c65</guid>
+            <pubDate>Sun, 03 Jul 2022 05:25:00 GMT</pubDate>
+            <description><![CDATA[<strong>Sun 3 Jul</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-6.png" alt="Possible rain showers" /><br>
 Possible rain showers<br>
-Min: 20°C<br>
 Max: 35°C<br>
 <br>
 <strong>Mon 4 Jul</strong><br>
@@ -155,17 +119,11 @@ Max: 35°C<br>
         <item>
             <title><![CDATA[Zlatibor]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>52803e353dd4f2df2629b7074143b032</guid>
-            <pubDate>Sat, 02 Jul 2022 12:06:00 GMT</pubDate>
-            <description><![CDATA[<strong>Sat 2 Jul</strong><br>
+            <guid>2d4d917670a0ffcd4b393adfd68d5a23</guid>
+            <pubDate>Sun, 03 Jul 2022 05:25:00 GMT</pubDate>
+            <description><![CDATA[<strong>Sun 3 Jul</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-5.png" alt="After noon rain showers" /><br>
 After noon rain showers<br>
-Max: 27°C<br>
-<br>
-<strong>Sun 3 Jul</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-5.png" alt="After noon rain showers" /><br>
-After noon rain showers<br>
-Min: 16°C<br>
 Max: 29°C<br>
 <br>
 <strong>Mon 4 Jul</strong><br>
@@ -178,17 +136,11 @@ Max: 29°C<br>
         <item>
             <title><![CDATA[Kraljevo]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>c238663bc7c8e5dc8601cf14a7d41fb5</guid>
-            <pubDate>Sat, 02 Jul 2022 12:06:00 GMT</pubDate>
-            <description><![CDATA[<strong>Sat 2 Jul</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-5.png" alt="After noon rain showers" /><br>
-After noon rain showers<br>
-Max: 32°C<br>
-<br>
-<strong>Sun 3 Jul</strong><br>
+            <guid>1878e645ba3555e1775d92bdd43c26e3</guid>
+            <pubDate>Sun, 03 Jul 2022 05:25:00 GMT</pubDate>
+            <description><![CDATA[<strong>Sun 3 Jul</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-6.png" alt="Possible rain showers" /><br>
 Possible rain showers<br>
-Min: 18°C<br>
 Max: 35°C<br>
 <br>
 <strong>Mon 4 Jul</strong><br>
@@ -201,17 +153,11 @@ Max: 35°C<br>
         <item>
             <title><![CDATA[Priština]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>e48148204149bb1671cc4561af874a7b</guid>
-            <pubDate>Sat, 02 Jul 2022 12:06:00 GMT</pubDate>
-            <description><![CDATA[<strong>Sat 2 Jul</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-5.png" alt="After noon rain showers" /><br>
-After noon rain showers<br>
-Max: 33°C<br>
-<br>
-<strong>Sun 3 Jul</strong><br>
+            <guid>6ed2219f74833bf475e068b10876671f</guid>
+            <pubDate>Sun, 03 Jul 2022 05:25:00 GMT</pubDate>
+            <description><![CDATA[<strong>Sun 3 Jul</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-6.png" alt="Possible rain showers" /><br>
 Possible rain showers<br>
-Min: 16°C<br>
 Max: 34°C<br>
 <br>
 <strong>Mon 4 Jul</strong><br>
@@ -224,17 +170,11 @@ Max: 33°C<br>
         <item>
             <title><![CDATA[Niš]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>3fcfb7f0df1ed50d787765ff0ca0cb2a</guid>
-            <pubDate>Sat, 02 Jul 2022 12:06:00 GMT</pubDate>
-            <description><![CDATA[<strong>Sat 2 Jul</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-5.png" alt="After noon rain showers" /><br>
-After noon rain showers<br>
-Max: 35°C<br>
-<br>
-<strong>Sun 3 Jul</strong><br>
+            <guid>b1926e0fa84aa5d09526f54497803f05</guid>
+            <pubDate>Sun, 03 Jul 2022 05:25:00 GMT</pubDate>
+            <description><![CDATA[<strong>Sun 3 Jul</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-6.png" alt="Possible rain showers" /><br>
 Possible rain showers<br>
-Min: 19°C<br>
 Max: 35°C<br>
 <br>
 <strong>Mon 4 Jul</strong><br>
