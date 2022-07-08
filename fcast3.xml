@@ -4,7 +4,7 @@
         <title>RHMZ</title>
         <link>https://data.dvuckovic.com/fcast3.xml</link>
         <description>Weather Forecast for Serbia</description>
-        <lastBuildDate>Fri, 08 Jul 2022 01:50:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Jul 2022 10:10:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>fcast</generator>
         <language>en</language>
@@ -17,11 +17,11 @@
         <item>
             <title><![CDATA[Palić]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>944681362275797da8a69eba8a0bd2ee</guid>
-            <pubDate>Fri, 08 Jul 2022 01:50:00 GMT</pubDate>
+            <guid>915a8c3f226659537729f5753ac30c7a</guid>
+            <pubDate>Fri, 08 Jul 2022 10:10:00 GMT</pubDate>
             <description><![CDATA[<strong>Fri 8 Jul</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-9.png" alt="Rain" /><br>
-Rain<br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-8.png" alt="Possible rain" /><br>
+Possible rain<br>
 Max: 24°C<br>
 <br>
 <strong>Sat 9 Jul</strong><br>
@@ -34,11 +34,11 @@ Max: 26°C<br>
         <item>
             <title><![CDATA[Novi Sad]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>fc0996cb4f898452b79e3481237ede81</guid>
-            <pubDate>Fri, 08 Jul 2022 01:50:00 GMT</pubDate>
+            <guid>916dc57ef541381279d99638c17b698e</guid>
+            <pubDate>Fri, 08 Jul 2022 10:10:00 GMT</pubDate>
             <description><![CDATA[<strong>Fri 8 Jul</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-9.png" alt="Rain" /><br>
-Rain<br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-8.png" alt="Possible rain" /><br>
+Possible rain<br>
 Max: 23°C<br>
 <br>
 <strong>Sat 9 Jul</strong><br>
@@ -51,8 +51,8 @@ Max: 25°C<br>
         <item>
             <title><![CDATA[Loznica]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>39331b46a44c57d204d2e72249c60386</guid>
-            <pubDate>Fri, 08 Jul 2022 01:50:00 GMT</pubDate>
+            <guid>b375bbc4105b8dcc9a9751faee3e61ad</guid>
+            <pubDate>Fri, 08 Jul 2022 10:10:00 GMT</pubDate>
             <description><![CDATA[<strong>Fri 8 Jul</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-9.png" alt="Rain" /><br>
 Rain<br>
@@ -68,11 +68,11 @@ Max: 23°C<br>
         <item>
             <title><![CDATA[Belgrade]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>740b39cbf128e30bd86a2e6e276a7ade</guid>
-            <pubDate>Fri, 08 Jul 2022 01:50:00 GMT</pubDate>
+            <guid>184527470c6c37dcd56f6ed85a8b391f</guid>
+            <pubDate>Fri, 08 Jul 2022 10:10:00 GMT</pubDate>
             <description><![CDATA[<strong>Fri 8 Jul</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-9.png" alt="Rain" /><br>
-Rain<br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-8.png" alt="Possible rain" /><br>
+Possible rain<br>
 Max: 22°C<br>
 <br>
 <strong>Sat 9 Jul</strong><br>
@@ -85,11 +85,11 @@ Max: 24°C<br>
         <item>
             <title><![CDATA[Kragujevac]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>e5a28eb6712cb99c3a85fb719138396a</guid>
-            <pubDate>Fri, 08 Jul 2022 01:50:00 GMT</pubDate>
+            <guid>11cdb07d7a54080b22e5e032dae8332d</guid>
+            <pubDate>Fri, 08 Jul 2022 10:10:00 GMT</pubDate>
             <description><![CDATA[<strong>Fri 8 Jul</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-9.png" alt="Rain" /><br>
-Rain<br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-8.png" alt="Possible rain" /><br>
+Possible rain<br>
 Max: 21°C<br>
 <br>
 <strong>Sat 9 Jul</strong><br>
@@ -102,8 +102,8 @@ Max: 21°C<br>
         <item>
             <title><![CDATA[Negotin]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>008ced2c4423940353b201e872b013d7</guid>
-            <pubDate>Fri, 08 Jul 2022 01:50:00 GMT</pubDate>
+            <guid>91753e95390e0fec25427f09aae5c0e1</guid>
+            <pubDate>Fri, 08 Jul 2022 10:10:00 GMT</pubDate>
             <description><![CDATA[<strong>Fri 8 Jul</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-5.png" alt="After noon rain showers" /><br>
 After noon rain showers<br>
@@ -119,11 +119,11 @@ Max: 23°C<br>
         <item>
             <title><![CDATA[Zlatibor]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>4f9828aad0eb3b2f6f6ca71db4f598ce</guid>
-            <pubDate>Fri, 08 Jul 2022 01:50:00 GMT</pubDate>
+            <guid>e95d1dacf738baaed6606202d465a715</guid>
+            <pubDate>Fri, 08 Jul 2022 10:10:00 GMT</pubDate>
             <description><![CDATA[<strong>Fri 8 Jul</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-11.png" alt="Rain showers" /><br>
-Rain showers<br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-9.png" alt="Rain" /><br>
+Rain<br>
 Max: 14°C<br>
 <br>
 <strong>Sat 9 Jul</strong><br>
@@ -136,11 +136,11 @@ Max: 15°C<br>
         <item>
             <title><![CDATA[Kraljevo]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>52d4460f3e26c23a8afa702e7360b9e3</guid>
-            <pubDate>Fri, 08 Jul 2022 01:50:00 GMT</pubDate>
+            <guid>5302e3c263012133204e5d2cb4b21559</guid>
+            <pubDate>Fri, 08 Jul 2022 10:10:00 GMT</pubDate>
             <description><![CDATA[<strong>Fri 8 Jul</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-11.png" alt="Rain showers" /><br>
-Rain showers<br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-8.png" alt="Possible rain" /><br>
+Possible rain<br>
 Max: 21°C<br>
 <br>
 <strong>Sat 9 Jul</strong><br>
@@ -153,8 +153,8 @@ Max: 21°C<br>
         <item>
             <title><![CDATA[Priština]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>572c90c0dbb85ab1fc85831176088b78</guid>
-            <pubDate>Fri, 08 Jul 2022 01:50:00 GMT</pubDate>
+            <guid>31d677818fb52603b812a8e21379ecc8</guid>
+            <pubDate>Fri, 08 Jul 2022 10:10:00 GMT</pubDate>
             <description><![CDATA[<strong>Fri 8 Jul</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-5.png" alt="After noon rain showers" /><br>
 After noon rain showers<br>
@@ -170,8 +170,8 @@ Max: 18°C<br>
         <item>
             <title><![CDATA[Niš]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>7825baa3b556434962c41888d298042d</guid>
-            <pubDate>Fri, 08 Jul 2022 01:50:00 GMT</pubDate>
+            <guid>208ed825f8e1417e883850e7e0a91f7f</guid>
+            <pubDate>Fri, 08 Jul 2022 10:10:00 GMT</pubDate>
             <description><![CDATA[<strong>Fri 8 Jul</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-5.png" alt="After noon rain showers" /><br>
 After noon rain showers<br>
