@@ -4,7 +4,7 @@
         <title>RHMZ</title>
         <link>https://data.dvuckovic.com/fcast3.xml</link>
         <description>Weather Forecast for Serbia</description>
-        <lastBuildDate>Sat, 09 Jul 2022 11:36:00 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Jul 2022 14:20:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>fcast</generator>
         <language>en</language>
@@ -17,8 +17,8 @@
         <item>
             <title><![CDATA[Palić]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>6c158bde68daed7193cc56cab3118848</guid>
-            <pubDate>Sat, 09 Jul 2022 11:36:00 GMT</pubDate>
+            <guid>687f221abd903fc22123689f4397c2e0</guid>
+            <pubDate>Sat, 09 Jul 2022 14:20:00 GMT</pubDate>
             <description><![CDATA[<strong>Sat 9 Jul</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-4.png" alt="Partly cloudy" /><br>
 Partly cloudy<br>
@@ -40,8 +40,8 @@ Max: 23°C<br>
         <item>
             <title><![CDATA[Novi Sad]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>4af83ee4bf40f210bced56cb8ad6bb45</guid>
-            <pubDate>Sat, 09 Jul 2022 11:36:00 GMT</pubDate>
+            <guid>a2dcb7910ce7c0b5d66df749e88b515f</guid>
+            <pubDate>Sat, 09 Jul 2022 14:20:00 GMT</pubDate>
             <description><![CDATA[<strong>Sat 9 Jul</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-10.png" alt="Mostly cloudy" /><br>
 Mostly cloudy<br>
@@ -50,7 +50,7 @@ Max: 27°C<br>
 <strong>Sun 10 Jul</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-10.png" alt="Mostly cloudy" /><br>
 Mostly cloudy<br>
-Min: 16°C<br>
+Min: 14°C<br>
 Max: 26°C<br>
 <br>
 <strong>Mon 11 Jul</strong><br>
@@ -63,8 +63,8 @@ Max: 23°C<br>
         <item>
             <title><![CDATA[Loznica]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>cf090cbb5d84532014df19f955396030</guid>
-            <pubDate>Sat, 09 Jul 2022 11:36:00 GMT</pubDate>
+            <guid>c6e06f62b354c7b221e4e7c2cf127ac9</guid>
+            <pubDate>Sat, 09 Jul 2022 14:20:00 GMT</pubDate>
             <description><![CDATA[<strong>Sat 9 Jul</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-10.png" alt="Mostly cloudy" /><br>
 Mostly cloudy<br>
@@ -86,8 +86,8 @@ Max: 23°C<br>
         <item>
             <title><![CDATA[Belgrade]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>f24012784a48aeb18febc1169fb13626</guid>
-            <pubDate>Sat, 09 Jul 2022 11:36:00 GMT</pubDate>
+            <guid>43b4dd9b621042a9325c62873f7a4a05</guid>
+            <pubDate>Sat, 09 Jul 2022 14:20:00 GMT</pubDate>
             <description><![CDATA[<strong>Sat 9 Jul</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-10.png" alt="Mostly cloudy" /><br>
 Mostly cloudy<br>
@@ -109,11 +109,11 @@ Max: 23°C<br>
         <item>
             <title><![CDATA[Kragujevac]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>931acb66402ec279b036421c3a55ad14</guid>
-            <pubDate>Sat, 09 Jul 2022 11:36:00 GMT</pubDate>
+            <guid>6e098bec6af0704c180eedc475bdade2</guid>
+            <pubDate>Sat, 09 Jul 2022 14:20:00 GMT</pubDate>
             <description><![CDATA[<strong>Sat 9 Jul</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-6.png" alt="Possible rain showers" /><br>
-Possible rain showers<br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-10.png" alt="Mostly cloudy" /><br>
+Mostly cloudy<br>
 Max: 23°C<br>
 <br>
 <strong>Sun 10 Jul</strong><br>
@@ -132,11 +132,11 @@ Max: 23°C<br>
         <item>
             <title><![CDATA[Negotin]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>2219e1aec98a1c2c18c21b6032d7713e</guid>
-            <pubDate>Sat, 09 Jul 2022 11:36:00 GMT</pubDate>
+            <guid>8059652cb51384403e5b04036a083dc5</guid>
+            <pubDate>Sat, 09 Jul 2022 14:20:00 GMT</pubDate>
             <description><![CDATA[<strong>Sat 9 Jul</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-9.png" alt="Rain" /><br>
-Rain<br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-8.png" alt="Possible rain" /><br>
+Possible rain<br>
 Max: 25°C<br>
 <br>
 <strong>Sun 10 Jul</strong><br>
@@ -155,8 +155,8 @@ Max: 25°C<br>
         <item>
             <title><![CDATA[Zlatibor]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>2b74469b6ca34143c05806662e548576</guid>
-            <pubDate>Sat, 09 Jul 2022 11:36:00 GMT</pubDate>
+            <guid>6c63be5b7868c8c3a17ffab872463bb1</guid>
+            <pubDate>Sat, 09 Jul 2022 14:20:00 GMT</pubDate>
             <description><![CDATA[<strong>Sat 9 Jul</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-6.png" alt="Possible rain showers" /><br>
 Possible rain showers<br>
@@ -178,11 +178,11 @@ Max: 18°C<br>
         <item>
             <title><![CDATA[Kraljevo]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>d0fb333adc3f2bb64977aecf52691a1d</guid>
-            <pubDate>Sat, 09 Jul 2022 11:36:00 GMT</pubDate>
+            <guid>71e81632eea7fae3d35d781f86520932</guid>
+            <pubDate>Sat, 09 Jul 2022 14:20:00 GMT</pubDate>
             <description><![CDATA[<strong>Sat 9 Jul</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-6.png" alt="Possible rain showers" /><br>
-Possible rain showers<br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-10.png" alt="Mostly cloudy" /><br>
+Mostly cloudy<br>
 Max: 22°C<br>
 <br>
 <strong>Sun 10 Jul</strong><br>
@@ -201,11 +201,11 @@ Max: 23°C<br>
         <item>
             <title><![CDATA[Priština]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>26ccb2ba0d4387254a5d8b9423e98341</guid>
-            <pubDate>Sat, 09 Jul 2022 11:36:00 GMT</pubDate>
+            <guid>c927566d8a1ed16ec4d559218b3e9cc2</guid>
+            <pubDate>Sat, 09 Jul 2022 14:20:00 GMT</pubDate>
             <description><![CDATA[<strong>Sat 9 Jul</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-12.png" alt="Showers and thunder storm" /><br>
-Showers and thunder storm<br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-8.png" alt="Possible rain" /><br>
+Possible rain<br>
 Max: 18°C<br>
 <br>
 <strong>Sun 10 Jul</strong><br>
@@ -224,11 +224,11 @@ Max: 23°C<br>
         <item>
             <title><![CDATA[Niš]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>03bbb2e000f656f1fae3b497c20cf108</guid>
-            <pubDate>Sat, 09 Jul 2022 11:36:00 GMT</pubDate>
+            <guid>ded718ca173172a55f3d47cb82985ba6</guid>
+            <pubDate>Sat, 09 Jul 2022 14:20:00 GMT</pubDate>
             <description><![CDATA[<strong>Sat 9 Jul</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-12.png" alt="Showers and thunder storm" /><br>
-Showers and thunder storm<br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-8.png" alt="Possible rain" /><br>
+Possible rain<br>
 Max: 20°C<br>
 <br>
 <strong>Sun 10 Jul</strong><br>
