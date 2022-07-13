@@ -4,7 +4,7 @@
         <title>RHMZ</title>
         <link>https://data.dvuckovic.com/fcast3.xml</link>
         <description>Weather Forecast for Serbia</description>
-        <lastBuildDate>Tue, 12 Jul 2022 11:15:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Jul 2022 04:50:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>fcast</generator>
         <language>en</language>
@@ -17,17 +17,11 @@
         <item>
             <title><![CDATA[Palić]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>70a5ad893f741ffd9585e2ae853771f6</guid>
-            <pubDate>Tue, 12 Jul 2022 11:15:00 GMT</pubDate>
-            <description><![CDATA[<strong>Tue 12 Jul</strong><br>
+            <guid>759e5c91f4c714486583de6b62f37300</guid>
+            <pubDate>Wed, 13 Jul 2022 04:50:00 GMT</pubDate>
+            <description><![CDATA[<strong>Wed 13 Jul</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-4.png" alt="Partly cloudy" /><br>
 Partly cloudy<br>
-Max: 24°C<br>
-<br>
-<strong>Wed 13 Jul</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-4.png" alt="Partly cloudy" /><br>
-Partly cloudy<br>
-Min: 13°C<br>
 Max: 28°C<br>
 <br>
 <strong>Thu 14 Jul</strong><br>
@@ -40,17 +34,11 @@ Max: 31°C<br>
         <item>
             <title><![CDATA[Novi Sad]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>6503c6073e614c1bf75a0aa6c7ec7168</guid>
-            <pubDate>Tue, 12 Jul 2022 11:15:00 GMT</pubDate>
-            <description><![CDATA[<strong>Tue 12 Jul</strong><br>
+            <guid>949b68940c4a8fde12bf31d1a0424546</guid>
+            <pubDate>Wed, 13 Jul 2022 04:50:00 GMT</pubDate>
+            <description><![CDATA[<strong>Wed 13 Jul</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-4.png" alt="Partly cloudy" /><br>
 Partly cloudy<br>
-Max: 25°C<br>
-<br>
-<strong>Wed 13 Jul</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-4.png" alt="Partly cloudy" /><br>
-Partly cloudy<br>
-Min: 13°C<br>
 Max: 29°C<br>
 <br>
 <strong>Thu 14 Jul</strong><br>
@@ -63,17 +51,11 @@ Max: 32°C<br>
         <item>
             <title><![CDATA[Loznica]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>9f7c20b37267a23dcedba72121e1a331</guid>
-            <pubDate>Tue, 12 Jul 2022 11:15:00 GMT</pubDate>
-            <description><![CDATA[<strong>Tue 12 Jul</strong><br>
+            <guid>e6099e79bc6900b61423ac6fd6d9b3d9</guid>
+            <pubDate>Wed, 13 Jul 2022 04:50:00 GMT</pubDate>
+            <description><![CDATA[<strong>Wed 13 Jul</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-4.png" alt="Partly cloudy" /><br>
 Partly cloudy<br>
-Max: 25°C<br>
-<br>
-<strong>Wed 13 Jul</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-4.png" alt="Partly cloudy" /><br>
-Partly cloudy<br>
-Min: 12°C<br>
 Max: 28°C<br>
 <br>
 <strong>Thu 14 Jul</strong><br>
@@ -86,17 +68,11 @@ Max: 32°C<br>
         <item>
             <title><![CDATA[Belgrade]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>0915ec38abd7ac75c3e1e85452bfc5e6</guid>
-            <pubDate>Tue, 12 Jul 2022 11:15:00 GMT</pubDate>
-            <description><![CDATA[<strong>Tue 12 Jul</strong><br>
+            <guid>e3c9c1e34fe93d596323c1915c86a29d</guid>
+            <pubDate>Wed, 13 Jul 2022 04:50:00 GMT</pubDate>
+            <description><![CDATA[<strong>Wed 13 Jul</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-4.png" alt="Partly cloudy" /><br>
 Partly cloudy<br>
-Max: 25°C<br>
-<br>
-<strong>Wed 13 Jul</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-4.png" alt="Partly cloudy" /><br>
-Partly cloudy<br>
-Min: 15°C<br>
 Max: 28°C<br>
 <br>
 <strong>Thu 14 Jul</strong><br>
@@ -109,17 +85,11 @@ Max: 32°C<br>
         <item>
             <title><![CDATA[Kragujevac]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>dc8acb3d638b40a34c939d39bda9933f</guid>
-            <pubDate>Tue, 12 Jul 2022 11:15:00 GMT</pubDate>
-            <description><![CDATA[<strong>Tue 12 Jul</strong><br>
+            <guid>7ad2f609ed44eab5883b0045dabdbe2e</guid>
+            <pubDate>Wed, 13 Jul 2022 04:50:00 GMT</pubDate>
+            <description><![CDATA[<strong>Wed 13 Jul</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-4.png" alt="Partly cloudy" /><br>
 Partly cloudy<br>
-Max: 24°C<br>
-<br>
-<strong>Wed 13 Jul</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-4.png" alt="Partly cloudy" /><br>
-Partly cloudy<br>
-Min: 11°C<br>
 Max: 27°C<br>
 <br>
 <strong>Thu 14 Jul</strong><br>
@@ -132,17 +102,11 @@ Max: 31°C<br>
         <item>
             <title><![CDATA[Negotin]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>33bb33411d2a0d2ba9088ff54b7fa073</guid>
-            <pubDate>Tue, 12 Jul 2022 11:15:00 GMT</pubDate>
-            <description><![CDATA[<strong>Tue 12 Jul</strong><br>
+            <guid>a2025c80ae9615b5cd2ba8e11833df4e</guid>
+            <pubDate>Wed, 13 Jul 2022 04:50:00 GMT</pubDate>
+            <description><![CDATA[<strong>Wed 13 Jul</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-4.png" alt="Partly cloudy" /><br>
 Partly cloudy<br>
-Max: 26°C<br>
-<br>
-<strong>Wed 13 Jul</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-4.png" alt="Partly cloudy" /><br>
-Partly cloudy<br>
-Min: 14°C<br>
 Max: 28°C<br>
 <br>
 <strong>Thu 14 Jul</strong><br>
@@ -155,17 +119,11 @@ Max: 33°C<br>
         <item>
             <title><![CDATA[Zlatibor]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>35aa20e133ef34961e7b670e064d6b5a</guid>
-            <pubDate>Tue, 12 Jul 2022 11:15:00 GMT</pubDate>
-            <description><![CDATA[<strong>Tue 12 Jul</strong><br>
+            <guid>bdc2915eb2b813d212f8decfe0489d23</guid>
+            <pubDate>Wed, 13 Jul 2022 04:50:00 GMT</pubDate>
+            <description><![CDATA[<strong>Wed 13 Jul</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-4.png" alt="Partly cloudy" /><br>
 Partly cloudy<br>
-Max: 19°C<br>
-<br>
-<strong>Wed 13 Jul</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-4.png" alt="Partly cloudy" /><br>
-Partly cloudy<br>
-Min: 9°C<br>
 Max: 21°C<br>
 <br>
 <strong>Thu 14 Jul</strong><br>
@@ -178,17 +136,11 @@ Max: 26°C<br>
         <item>
             <title><![CDATA[Kraljevo]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>5cea3e514de0b618c728c27e40eeb17a</guid>
-            <pubDate>Tue, 12 Jul 2022 11:15:00 GMT</pubDate>
-            <description><![CDATA[<strong>Tue 12 Jul</strong><br>
+            <guid>8f30fbc519b638ca2b5f05b76fd57a4c</guid>
+            <pubDate>Wed, 13 Jul 2022 04:50:00 GMT</pubDate>
+            <description><![CDATA[<strong>Wed 13 Jul</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-4.png" alt="Partly cloudy" /><br>
 Partly cloudy<br>
-Max: 25°C<br>
-<br>
-<strong>Wed 13 Jul</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-4.png" alt="Partly cloudy" /><br>
-Partly cloudy<br>
-Min: 11°C<br>
 Max: 27°C<br>
 <br>
 <strong>Thu 14 Jul</strong><br>
@@ -201,17 +153,11 @@ Max: 31°C<br>
         <item>
             <title><![CDATA[Priština]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>0883de58a9362e8812c4051e94929147</guid>
-            <pubDate>Tue, 12 Jul 2022 11:15:00 GMT</pubDate>
-            <description><![CDATA[<strong>Tue 12 Jul</strong><br>
+            <guid>273b60e2481a780ebe7ddb257b9c40e9</guid>
+            <pubDate>Wed, 13 Jul 2022 04:50:00 GMT</pubDate>
+            <description><![CDATA[<strong>Wed 13 Jul</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-4.png" alt="Partly cloudy" /><br>
 Partly cloudy<br>
-Max: 24°C<br>
-<br>
-<strong>Wed 13 Jul</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-4.png" alt="Partly cloudy" /><br>
-Partly cloudy<br>
-Min: 8°C<br>
 Max: 26°C<br>
 <br>
 <strong>Thu 14 Jul</strong><br>
@@ -224,17 +170,11 @@ Max: 30°C<br>
         <item>
             <title><![CDATA[Niš]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>9b28b6017cd054d2b9f6cb2171ab99d3</guid>
-            <pubDate>Tue, 12 Jul 2022 11:15:00 GMT</pubDate>
-            <description><![CDATA[<strong>Tue 12 Jul</strong><br>
+            <guid>df1e876d06058c7c4a623fdddd250899</guid>
+            <pubDate>Wed, 13 Jul 2022 04:50:00 GMT</pubDate>
+            <description><![CDATA[<strong>Wed 13 Jul</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-4.png" alt="Partly cloudy" /><br>
 Partly cloudy<br>
-Max: 25°C<br>
-<br>
-<strong>Wed 13 Jul</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-4.png" alt="Partly cloudy" /><br>
-Partly cloudy<br>
-Min: 11°C<br>
 Max: 27°C<br>
 <br>
 <strong>Thu 14 Jul</strong><br>
