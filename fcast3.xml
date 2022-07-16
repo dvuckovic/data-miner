@@ -4,7 +4,7 @@
         <title>RHMZ</title>
         <link>https://data.dvuckovic.com/fcast3.xml</link>
         <description>Weather Forecast for Serbia</description>
-        <lastBuildDate>Sat, 16 Jul 2022 11:15:00 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Jul 2022 12:25:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>fcast</generator>
         <language>en</language>
@@ -17,8 +17,8 @@
         <item>
             <title><![CDATA[Palić]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>8e8190f4f561055e91e578b81052b654</guid>
-            <pubDate>Sat, 16 Jul 2022 11:15:00 GMT</pubDate>
+            <guid>168b98aa634f6703288f87029b627952</guid>
+            <pubDate>Sat, 16 Jul 2022 12:25:00 GMT</pubDate>
             <description><![CDATA[<strong>Sat 16 Jul</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
 Sunny<br>
@@ -40,8 +40,8 @@ Max: 30°C<br>
         <item>
             <title><![CDATA[Novi Sad]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>a2aa58af9a90bc73695b99c0a8a55384</guid>
-            <pubDate>Sat, 16 Jul 2022 11:15:00 GMT</pubDate>
+            <guid>63776624c90b88086d58221a741371a0</guid>
+            <pubDate>Sat, 16 Jul 2022 12:25:00 GMT</pubDate>
             <description><![CDATA[<strong>Sat 16 Jul</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
 Mostly sunny<br>
@@ -63,8 +63,8 @@ Max: 29°C<br>
         <item>
             <title><![CDATA[Loznica]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>44c527504f8f4bde8aae6a6e2aa75e2f</guid>
-            <pubDate>Sat, 16 Jul 2022 11:15:00 GMT</pubDate>
+            <guid>879f34c1495733d337a13ff2aa25d14e</guid>
+            <pubDate>Sat, 16 Jul 2022 12:25:00 GMT</pubDate>
             <description><![CDATA[<strong>Sat 16 Jul</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
 Mostly sunny<br>
@@ -86,11 +86,11 @@ Max: 29°C<br>
         <item>
             <title><![CDATA[Belgrade]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>9b601220e962207fafaa2a1bda81c73d</guid>
-            <pubDate>Sat, 16 Jul 2022 11:15:00 GMT</pubDate>
+            <guid>0c3ec9958144031c4602e311052b218b</guid>
+            <pubDate>Sat, 16 Jul 2022 12:25:00 GMT</pubDate>
             <description><![CDATA[<strong>Sat 16 Jul</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-4.png" alt="Partly cloudy" /><br>
-Partly cloudy<br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
+Mostly sunny<br>
 Max: 30°C<br>
 <br>
 <strong>Sun 17 Jul</strong><br>
@@ -109,8 +109,8 @@ Max: 29°C<br>
         <item>
             <title><![CDATA[Kragujevac]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>00ea788f49ac1088c076c39869ca397e</guid>
-            <pubDate>Sat, 16 Jul 2022 11:15:00 GMT</pubDate>
+            <guid>2ce2787430b2b54f5a2663561e26ae75</guid>
+            <pubDate>Sat, 16 Jul 2022 12:25:00 GMT</pubDate>
             <description><![CDATA[<strong>Sat 16 Jul</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
 Mostly sunny<br>
@@ -132,8 +132,8 @@ Max: 29°C<br>
         <item>
             <title><![CDATA[Negotin]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>f3bd5f8c0f2c9e800ef7d41c9aca2822</guid>
-            <pubDate>Sat, 16 Jul 2022 11:15:00 GMT</pubDate>
+            <guid>1b8a25f76caf50edfb3c891c9e2feb09</guid>
+            <pubDate>Sat, 16 Jul 2022 12:25:00 GMT</pubDate>
             <description><![CDATA[<strong>Sat 16 Jul</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
 Mostly sunny<br>
@@ -155,8 +155,8 @@ Max: 31°C<br>
         <item>
             <title><![CDATA[Zlatibor]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>b12e7a7c970ab4bdcddcfac631976dae</guid>
-            <pubDate>Sat, 16 Jul 2022 11:15:00 GMT</pubDate>
+            <guid>0ade6134c563b33bcae8627a5f3ae237</guid>
+            <pubDate>Sat, 16 Jul 2022 12:25:00 GMT</pubDate>
             <description><![CDATA[<strong>Sat 16 Jul</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-5.png" alt="After noon rain showers" /><br>
 After noon rain showers<br>
@@ -178,8 +178,8 @@ Max: 23°C<br>
         <item>
             <title><![CDATA[Kraljevo]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>7cab74c0cec2992be60c0305eaf963e7</guid>
-            <pubDate>Sat, 16 Jul 2022 11:15:00 GMT</pubDate>
+            <guid>0b582d2644b9e53db9a75c2635568184</guid>
+            <pubDate>Sat, 16 Jul 2022 12:25:00 GMT</pubDate>
             <description><![CDATA[<strong>Sat 16 Jul</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
 Mostly sunny<br>
@@ -201,8 +201,8 @@ Max: 29°C<br>
         <item>
             <title><![CDATA[Priština]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>2509c19dd627e2d55f4b5542d3ed187d</guid>
-            <pubDate>Sat, 16 Jul 2022 11:15:00 GMT</pubDate>
+            <guid>107d7c6350e15f18283e4dcc27ac8096</guid>
+            <pubDate>Sat, 16 Jul 2022 12:25:00 GMT</pubDate>
             <description><![CDATA[<strong>Sat 16 Jul</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-4.png" alt="Partly cloudy" /><br>
 Partly cloudy<br>
@@ -224,8 +224,8 @@ Max: 29°C<br>
         <item>
             <title><![CDATA[Niš]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>0afd0a32b7cbdcfb1250ae3d7d43a8c3</guid>
-            <pubDate>Sat, 16 Jul 2022 11:15:00 GMT</pubDate>
+            <guid>f614d025169cbba21ea3f91034efc126</guid>
+            <pubDate>Sat, 16 Jul 2022 12:25:00 GMT</pubDate>
             <description><![CDATA[<strong>Sat 16 Jul</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
 Sunny<br>
