@@ -4,7 +4,7 @@
         <title>RHMZ</title>
         <link>https://data.dvuckovic.com/fcast3.xml</link>
         <description>Weather Forecast for Serbia</description>
-        <lastBuildDate>Sun, 17 Jul 2022 11:21:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Jul 2022 05:25:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>fcast</generator>
         <language>en</language>
@@ -17,17 +17,11 @@
         <item>
             <title><![CDATA[Palić]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>437cd61b1bbeff793911b41f8f9a0a88</guid>
-            <pubDate>Sun, 17 Jul 2022 11:21:00 GMT</pubDate>
-            <description><![CDATA[<strong>Sun 17 Jul</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
-Mostly sunny<br>
-Max: 32°C<br>
-<br>
-<strong>Mon 18 Jul</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
-Mostly sunny<br>
-Min: 13°C<br>
+            <guid>e4909e7337c9064f30e24d81ebc9976a</guid>
+            <pubDate>Mon, 18 Jul 2022 05:25:00 GMT</pubDate>
+            <description><![CDATA[<strong>Mon 18 Jul</strong><br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
+Sunny<br>
 Max: 30°C<br>
 <br>
 <strong>Tue 19 Jul</strong><br>
@@ -40,17 +34,11 @@ Max: 31°C<br>
         <item>
             <title><![CDATA[Novi Sad]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>aa82c544961b0faaebcb6b871471f8c6</guid>
-            <pubDate>Sun, 17 Jul 2022 11:21:00 GMT</pubDate>
-            <description><![CDATA[<strong>Sun 17 Jul</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
-Mostly sunny<br>
-Max: 32°C<br>
-<br>
-<strong>Mon 18 Jul</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
-Mostly sunny<br>
-Min: 12°C<br>
+            <guid>38bc04f3d4d240e104a829556435937c</guid>
+            <pubDate>Mon, 18 Jul 2022 05:25:00 GMT</pubDate>
+            <description><![CDATA[<strong>Mon 18 Jul</strong><br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
+Sunny<br>
 Max: 30°C<br>
 <br>
 <strong>Tue 19 Jul</strong><br>
@@ -63,18 +51,12 @@ Max: 32°C<br>
         <item>
             <title><![CDATA[Loznica]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>30145422956985da7db7a67e5fff8f1d</guid>
-            <pubDate>Sun, 17 Jul 2022 11:21:00 GMT</pubDate>
-            <description><![CDATA[<strong>Sun 17 Jul</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
-Mostly sunny<br>
-Max: 32°C<br>
-<br>
-<strong>Mon 18 Jul</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
-Mostly sunny<br>
-Min: 12°C<br>
-Max: 30°C<br>
+            <guid>a817cc252f92af1659aad284634dea8a</guid>
+            <pubDate>Mon, 18 Jul 2022 05:25:00 GMT</pubDate>
+            <description><![CDATA[<strong>Mon 18 Jul</strong><br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
+Sunny<br>
+Max: 29°C<br>
 <br>
 <strong>Tue 19 Jul</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
@@ -86,17 +68,11 @@ Max: 31°C<br>
         <item>
             <title><![CDATA[Belgrade]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>f510a61b825c997d5a4bac386745445f</guid>
-            <pubDate>Sun, 17 Jul 2022 11:21:00 GMT</pubDate>
-            <description><![CDATA[<strong>Sun 17 Jul</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
-Mostly sunny<br>
-Max: 32°C<br>
-<br>
-<strong>Mon 18 Jul</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
-Mostly sunny<br>
-Min: 16°C<br>
+            <guid>2657e2b814973c27aeec3401757019be</guid>
+            <pubDate>Mon, 18 Jul 2022 05:25:00 GMT</pubDate>
+            <description><![CDATA[<strong>Mon 18 Jul</strong><br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
+Sunny<br>
 Max: 29°C<br>
 <br>
 <strong>Tue 19 Jul</strong><br>
@@ -109,17 +85,11 @@ Max: 31°C<br>
         <item>
             <title><![CDATA[Kragujevac]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>96eada185144ccaa04f7e602503faedc</guid>
-            <pubDate>Sun, 17 Jul 2022 11:21:00 GMT</pubDate>
-            <description><![CDATA[<strong>Sun 17 Jul</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
-Mostly sunny<br>
-Max: 31°C<br>
-<br>
-<strong>Mon 18 Jul</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
-Mostly sunny<br>
-Min: 11°C<br>
+            <guid>939a4f88518124db7546a805c88a4296</guid>
+            <pubDate>Mon, 18 Jul 2022 05:25:00 GMT</pubDate>
+            <description><![CDATA[<strong>Mon 18 Jul</strong><br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
+Sunny<br>
 Max: 29°C<br>
 <br>
 <strong>Tue 19 Jul</strong><br>
@@ -132,17 +102,11 @@ Max: 30°C<br>
         <item>
             <title><![CDATA[Negotin]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>725f11d26d93bac265ab512f5d028de9</guid>
-            <pubDate>Sun, 17 Jul 2022 11:21:00 GMT</pubDate>
-            <description><![CDATA[<strong>Sun 17 Jul</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
-Mostly sunny<br>
-Max: 33°C<br>
-<br>
-<strong>Mon 18 Jul</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
-Mostly sunny<br>
-Min: 13°C<br>
+            <guid>569c13195412416c3894e596b83960cd</guid>
+            <pubDate>Mon, 18 Jul 2022 05:25:00 GMT</pubDate>
+            <description><![CDATA[<strong>Mon 18 Jul</strong><br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
+Sunny<br>
 Max: 30°C<br>
 <br>
 <strong>Tue 19 Jul</strong><br>
@@ -155,17 +119,11 @@ Max: 31°C<br>
         <item>
             <title><![CDATA[Zlatibor]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>0e92111f036a4766cc9b966ea4837b1e</guid>
-            <pubDate>Sun, 17 Jul 2022 11:21:00 GMT</pubDate>
-            <description><![CDATA[<strong>Sun 17 Jul</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-4.png" alt="Partly cloudy" /><br>
-Partly cloudy<br>
-Max: 26°C<br>
-<br>
-<strong>Mon 18 Jul</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
-Mostly sunny<br>
-Min: 11°C<br>
+            <guid>ca87e5a02b7307a6adeadac4dd6d29d4</guid>
+            <pubDate>Mon, 18 Jul 2022 05:25:00 GMT</pubDate>
+            <description><![CDATA[<strong>Mon 18 Jul</strong><br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
+Sunny<br>
 Max: 23°C<br>
 <br>
 <strong>Tue 19 Jul</strong><br>
@@ -178,17 +136,11 @@ Max: 24°C<br>
         <item>
             <title><![CDATA[Kraljevo]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>1858dbd36aae25ad40e26dd389071b72</guid>
-            <pubDate>Sun, 17 Jul 2022 11:21:00 GMT</pubDate>
-            <description><![CDATA[<strong>Sun 17 Jul</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
-Mostly sunny<br>
-Max: 31°C<br>
-<br>
-<strong>Mon 18 Jul</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
-Mostly sunny<br>
-Min: 12°C<br>
+            <guid>f1fb1eb1799d1d7d33d21b38cac18ead</guid>
+            <pubDate>Mon, 18 Jul 2022 05:25:00 GMT</pubDate>
+            <description><![CDATA[<strong>Mon 18 Jul</strong><br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
+Sunny<br>
 Max: 29°C<br>
 <br>
 <strong>Tue 19 Jul</strong><br>
@@ -201,17 +153,11 @@ Max: 31°C<br>
         <item>
             <title><![CDATA[Priština]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>435abc590977d839281de51a132530ae</guid>
-            <pubDate>Sun, 17 Jul 2022 11:21:00 GMT</pubDate>
-            <description><![CDATA[<strong>Sun 17 Jul</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
-Mostly sunny<br>
-Max: 30°C<br>
-<br>
-<strong>Mon 18 Jul</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
-Mostly sunny<br>
-Min: 10°C<br>
+            <guid>2810e43391e1561ba0536a2e175b9472</guid>
+            <pubDate>Mon, 18 Jul 2022 05:25:00 GMT</pubDate>
+            <description><![CDATA[<strong>Mon 18 Jul</strong><br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
+Sunny<br>
 Max: 29°C<br>
 <br>
 <strong>Tue 19 Jul</strong><br>
@@ -224,17 +170,11 @@ Max: 30°C<br>
         <item>
             <title><![CDATA[Niš]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>820ecdc604ef6b2053a0e34e87896bc4</guid>
-            <pubDate>Sun, 17 Jul 2022 11:21:00 GMT</pubDate>
-            <description><![CDATA[<strong>Sun 17 Jul</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
-Mostly sunny<br>
-Max: 31°C<br>
-<br>
-<strong>Mon 18 Jul</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
-Mostly sunny<br>
-Min: 12°C<br>
+            <guid>91cd64058876cb6a29e5a45ccc246146</guid>
+            <pubDate>Mon, 18 Jul 2022 05:25:00 GMT</pubDate>
+            <description><![CDATA[<strong>Mon 18 Jul</strong><br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
+Sunny<br>
 Max: 30°C<br>
 <br>
 <strong>Tue 19 Jul</strong><br>
