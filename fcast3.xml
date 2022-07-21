@@ -4,7 +4,7 @@
         <title>RHMZ</title>
         <link>https://data.dvuckovic.com/fcast3.xml</link>
         <description>Weather Forecast for Serbia</description>
-        <lastBuildDate>Thu, 21 Jul 2022 05:15:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Jul 2022 11:54:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>fcast</generator>
         <language>en</language>
@@ -17,171 +17,231 @@
         <item>
             <title><![CDATA[Palić]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>fee471299e7d443405d7178e0325e27d</guid>
-            <pubDate>Thu, 21 Jul 2022 05:15:00 GMT</pubDate>
+            <guid>9570b1a2af8ecdfebb1f344aa7015e97</guid>
+            <pubDate>Thu, 21 Jul 2022 11:54:00 GMT</pubDate>
             <description><![CDATA[<strong>Thu 21 Jul</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
 Sunny<br>
 Max: 37°C<br>
 <br>
 <strong>Fri 22 Jul</strong><br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
+Sunny<br>
+Min: 19°C<br>
+Max: 37°C<br>
+<br>
+<strong>Sat 23 Jul</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
 Mostly sunny<br>
-Min: 17°C<br>
-Max: 36°C<br>
+Min: 21°C<br>
+Max: 39°C<br>
 ]]></description>
         </item>
         <item>
             <title><![CDATA[Novi Sad]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>35c50eba656e3401b9acc8779d6a9873</guid>
-            <pubDate>Thu, 21 Jul 2022 05:15:00 GMT</pubDate>
+            <guid>10a72fc563086e67fbe355a18799e875</guid>
+            <pubDate>Thu, 21 Jul 2022 11:54:00 GMT</pubDate>
             <description><![CDATA[<strong>Thu 21 Jul</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
 Sunny<br>
 Max: 37°C<br>
 <br>
 <strong>Fri 22 Jul</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
-Mostly sunny<br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
+Sunny<br>
 Min: 18°C<br>
 Max: 37°C<br>
+<br>
+<strong>Sat 23 Jul</strong><br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
+Mostly sunny<br>
+Min: 19°C<br>
+Max: 39°C<br>
 ]]></description>
         </item>
         <item>
             <title><![CDATA[Loznica]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>e5eb02776e0d160753f109c3ed3589e1</guid>
-            <pubDate>Thu, 21 Jul 2022 05:15:00 GMT</pubDate>
+            <guid>04bf24f06f86832eba4fb7a2168b69be</guid>
+            <pubDate>Thu, 21 Jul 2022 11:54:00 GMT</pubDate>
             <description><![CDATA[<strong>Thu 21 Jul</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
 Sunny<br>
 Max: 36°C<br>
 <br>
 <strong>Fri 22 Jul</strong><br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
+Sunny<br>
+Min: 19°C<br>
+Max: 37°C<br>
+<br>
+<strong>Sat 23 Jul</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
 Mostly sunny<br>
 Min: 19°C<br>
-Max: 37°C<br>
+Max: 39°C<br>
 ]]></description>
         </item>
         <item>
             <title><![CDATA[Belgrade]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>8f75e4d871634cf50150ac1f33fe4589</guid>
-            <pubDate>Thu, 21 Jul 2022 05:15:00 GMT</pubDate>
+            <guid>b5488ed414fdb6cf03440e403cbd5526</guid>
+            <pubDate>Thu, 21 Jul 2022 11:54:00 GMT</pubDate>
             <description><![CDATA[<strong>Thu 21 Jul</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
 Sunny<br>
 Max: 36°C<br>
 <br>
 <strong>Fri 22 Jul</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
-Mostly sunny<br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
+Sunny<br>
 Min: 22°C<br>
 Max: 37°C<br>
+<br>
+<strong>Sat 23 Jul</strong><br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
+Mostly sunny<br>
+Min: 23°C<br>
+Max: 39°C<br>
 ]]></description>
         </item>
         <item>
             <title><![CDATA[Kragujevac]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>9bd406c8be4da88615aa7f9ca9daaee9</guid>
-            <pubDate>Thu, 21 Jul 2022 05:15:00 GMT</pubDate>
+            <guid>0c91378b93db0fe37d6710d24b1c952e</guid>
+            <pubDate>Thu, 21 Jul 2022 11:54:00 GMT</pubDate>
             <description><![CDATA[<strong>Thu 21 Jul</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
 Sunny<br>
 Max: 36°C<br>
 <br>
 <strong>Fri 22 Jul</strong><br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
+Sunny<br>
+Min: 16°C<br>
+Max: 37°C<br>
+<br>
+<strong>Sat 23 Jul</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
 Mostly sunny<br>
-Min: 17°C<br>
-Max: 37°C<br>
+Min: 16°C<br>
+Max: 39°C<br>
 ]]></description>
         </item>
         <item>
             <title><![CDATA[Negotin]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>5c859411449dd6e0f91295e68b5b5f93</guid>
-            <pubDate>Thu, 21 Jul 2022 05:15:00 GMT</pubDate>
+            <guid>44f7eb7322ea2717febae5073f020c1b</guid>
+            <pubDate>Thu, 21 Jul 2022 11:54:00 GMT</pubDate>
             <description><![CDATA[<strong>Thu 21 Jul</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
 Sunny<br>
 Max: 38°C<br>
 <br>
 <strong>Fri 22 Jul</strong><br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
+Sunny<br>
+Min: 18°C<br>
+Max: 37°C<br>
+<br>
+<strong>Sat 23 Jul</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
 Mostly sunny<br>
-Min: 18°C<br>
-Max: 38°C<br>
+Min: 17°C<br>
+Max: 39°C<br>
 ]]></description>
         </item>
         <item>
             <title><![CDATA[Zlatibor]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>5234224c95669cedcf64f86ee3ce0502</guid>
-            <pubDate>Thu, 21 Jul 2022 05:15:00 GMT</pubDate>
+            <guid>83ff58f499958febd6eb7932d6787183</guid>
+            <pubDate>Thu, 21 Jul 2022 11:54:00 GMT</pubDate>
             <description><![CDATA[<strong>Thu 21 Jul</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
 Sunny<br>
 Max: 31°C<br>
 <br>
 <strong>Fri 22 Jul</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
-Mostly sunny<br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
+Sunny<br>
 Min: 17°C<br>
 Max: 31°C<br>
+<br>
+<strong>Sat 23 Jul</strong><br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
+Mostly sunny<br>
+Min: 18°C<br>
+Max: 33°C<br>
 ]]></description>
         </item>
         <item>
             <title><![CDATA[Kraljevo]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>6080a6896a6abecac3efaa47fec5e9c8</guid>
-            <pubDate>Thu, 21 Jul 2022 05:15:00 GMT</pubDate>
+            <guid>5a8d128884a48105e2b7e670e9190f70</guid>
+            <pubDate>Thu, 21 Jul 2022 11:54:00 GMT</pubDate>
             <description><![CDATA[<strong>Thu 21 Jul</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
 Sunny<br>
 Max: 36°C<br>
 <br>
 <strong>Fri 22 Jul</strong><br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
+Sunny<br>
+Min: 16°C<br>
+Max: 37°C<br>
+<br>
+<strong>Sat 23 Jul</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
 Mostly sunny<br>
 Min: 17°C<br>
-Max: 38°C<br>
+Max: 39°C<br>
 ]]></description>
         </item>
         <item>
             <title><![CDATA[Priština]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>cbad35f96ae77f4883fc04ad772d70c6</guid>
-            <pubDate>Thu, 21 Jul 2022 05:15:00 GMT</pubDate>
+            <guid>589e5c78e0bf246e23c8a8799b46cebf</guid>
+            <pubDate>Thu, 21 Jul 2022 11:54:00 GMT</pubDate>
             <description><![CDATA[<strong>Thu 21 Jul</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
 Sunny<br>
 Max: 34°C<br>
 <br>
 <strong>Fri 22 Jul</strong><br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
+Sunny<br>
+Min: 13°C<br>
+Max: 35°C<br>
+<br>
+<strong>Sat 23 Jul</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
 Mostly sunny<br>
 Min: 15°C<br>
-Max: 36°C<br>
+Max: 37°C<br>
 ]]></description>
         </item>
         <item>
             <title><![CDATA[Niš]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>7177e3fb7f37d91c4c3960c0fa0bc78a</guid>
-            <pubDate>Thu, 21 Jul 2022 05:15:00 GMT</pubDate>
+            <guid>4eef95953654ea8e80af7f73b50020d1</guid>
+            <pubDate>Thu, 21 Jul 2022 11:54:00 GMT</pubDate>
             <description><![CDATA[<strong>Thu 21 Jul</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
 Sunny<br>
 Max: 36°C<br>
 <br>
 <strong>Fri 22 Jul</strong><br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
+Sunny<br>
+Min: 16°C<br>
+Max: 37°C<br>
+<br>
+<strong>Sat 23 Jul</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
 Mostly sunny<br>
-Min: 18°C<br>
-Max: 37°C<br>
+Min: 17°C<br>
+Max: 40°C<br>
 ]]></description>
         </item>
     </channel>
