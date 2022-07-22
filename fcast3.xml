@@ -4,7 +4,7 @@
         <title>RHMZ</title>
         <link>https://data.dvuckovic.com/fcast3.xml</link>
         <description>Weather Forecast for Serbia</description>
-        <lastBuildDate>Fri, 22 Jul 2022 05:20:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Jul 2022 08:25:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>fcast</generator>
         <language>en</language>
@@ -17,12 +17,12 @@
         <item>
             <title><![CDATA[Palić]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>2a03c6888f674fce9ee356b8778cb59b</guid>
-            <pubDate>Fri, 22 Jul 2022 05:20:00 GMT</pubDate>
+            <guid>d07042532a96e656b1bec08836bced41</guid>
+            <pubDate>Fri, 22 Jul 2022 08:25:00 GMT</pubDate>
             <description><![CDATA[<strong>Fri 22 Jul</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
 Sunny<br>
-Max: 37°C<br>
+Max: 38°C<br>
 <br>
 <strong>Sat 23 Jul</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
@@ -34,8 +34,8 @@ Max: 39°C<br>
         <item>
             <title><![CDATA[Novi Sad]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>a42340c7c3af8d36a1eefcca52832ef7</guid>
-            <pubDate>Fri, 22 Jul 2022 05:20:00 GMT</pubDate>
+            <guid>6d1b106c7cdd6161ca5fb9c2d185d545</guid>
+            <pubDate>Fri, 22 Jul 2022 08:25:00 GMT</pubDate>
             <description><![CDATA[<strong>Fri 22 Jul</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
 Sunny<br>
@@ -51,8 +51,8 @@ Max: 39°C<br>
         <item>
             <title><![CDATA[Loznica]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>96e12cc9a42e1280e69f4c744f97f7f5</guid>
-            <pubDate>Fri, 22 Jul 2022 05:20:00 GMT</pubDate>
+            <guid>47dc94dcac6c285719806a51ef08a457</guid>
+            <pubDate>Fri, 22 Jul 2022 08:25:00 GMT</pubDate>
             <description><![CDATA[<strong>Fri 22 Jul</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
 Sunny<br>
@@ -68,8 +68,8 @@ Max: 39°C<br>
         <item>
             <title><![CDATA[Belgrade]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>2311a59a922ef2637402a7b865af06fa</guid>
-            <pubDate>Fri, 22 Jul 2022 05:20:00 GMT</pubDate>
+            <guid>ce9a8955275fe3b96b06b96763304e07</guid>
+            <pubDate>Fri, 22 Jul 2022 08:25:00 GMT</pubDate>
             <description><![CDATA[<strong>Fri 22 Jul</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
 Sunny<br>
@@ -85,8 +85,8 @@ Max: 39°C<br>
         <item>
             <title><![CDATA[Kragujevac]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>5974648631e80d4dd2cb55938772e45f</guid>
-            <pubDate>Fri, 22 Jul 2022 05:20:00 GMT</pubDate>
+            <guid>251bd635a7a2768f9b0ed4ef1273811d</guid>
+            <pubDate>Fri, 22 Jul 2022 08:25:00 GMT</pubDate>
             <description><![CDATA[<strong>Fri 22 Jul</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
 Sunny<br>
@@ -102,8 +102,8 @@ Max: 39°C<br>
         <item>
             <title><![CDATA[Negotin]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>a428f48f83ca895618e619c3fce8c50a</guid>
-            <pubDate>Fri, 22 Jul 2022 05:20:00 GMT</pubDate>
+            <guid>d44b15f73e5ca31178a815defcedfb94</guid>
+            <pubDate>Fri, 22 Jul 2022 08:25:00 GMT</pubDate>
             <description><![CDATA[<strong>Fri 22 Jul</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
 Sunny<br>
@@ -119,8 +119,8 @@ Max: 39°C<br>
         <item>
             <title><![CDATA[Zlatibor]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>9cddded9fc9e29ea0e0ab25a00ae1b7f</guid>
-            <pubDate>Fri, 22 Jul 2022 05:20:00 GMT</pubDate>
+            <guid>e87dd0e1770a41576a112f80320b9c0b</guid>
+            <pubDate>Fri, 22 Jul 2022 08:25:00 GMT</pubDate>
             <description><![CDATA[<strong>Fri 22 Jul</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
 Sunny<br>
@@ -136,8 +136,8 @@ Max: 33°C<br>
         <item>
             <title><![CDATA[Kraljevo]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>bc53b5cf8d053b2af08347da684a0102</guid>
-            <pubDate>Fri, 22 Jul 2022 05:20:00 GMT</pubDate>
+            <guid>080c5180bd8853452ee7ad54d79a32eb</guid>
+            <pubDate>Fri, 22 Jul 2022 08:25:00 GMT</pubDate>
             <description><![CDATA[<strong>Fri 22 Jul</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
 Sunny<br>
@@ -153,8 +153,8 @@ Max: 39°C<br>
         <item>
             <title><![CDATA[Priština]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>fb804819ceeae16f86ae772812583ff8</guid>
-            <pubDate>Fri, 22 Jul 2022 05:20:00 GMT</pubDate>
+            <guid>afcbe486a353e26eac2890f98b7de2cc</guid>
+            <pubDate>Fri, 22 Jul 2022 08:25:00 GMT</pubDate>
             <description><![CDATA[<strong>Fri 22 Jul</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
 Sunny<br>
@@ -170,8 +170,8 @@ Max: 37°C<br>
         <item>
             <title><![CDATA[Niš]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>2abb2ace9145cebbb65d1e83d2049032</guid>
-            <pubDate>Fri, 22 Jul 2022 05:20:00 GMT</pubDate>
+            <guid>c4d1e709183da91d7aa44ccf30178fc5</guid>
+            <pubDate>Fri, 22 Jul 2022 08:25:00 GMT</pubDate>
             <description><![CDATA[<strong>Fri 22 Jul</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
 Sunny<br>
