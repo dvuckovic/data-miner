@@ -4,7 +4,7 @@
         <title>RHMZ</title>
         <link>https://data.dvuckovic.com/fcast3.xml</link>
         <description>Weather Forecast for Serbia</description>
-        <lastBuildDate>Mon, 25 Jul 2022 05:20:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Jul 2022 11:27:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>fcast</generator>
         <language>en</language>
@@ -17,8 +17,8 @@
         <item>
             <title><![CDATA[Palić]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>6589e78b5a2b0c83be182b52b1623389</guid>
-            <pubDate>Mon, 25 Jul 2022 05:20:00 GMT</pubDate>
+            <guid>d0ce4011b60d86f0dfed34b65bed0ecc</guid>
+            <pubDate>Mon, 25 Jul 2022 11:27:00 GMT</pubDate>
             <description><![CDATA[<strong>Mon 25 Jul</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
 Sunny<br>
@@ -27,15 +27,21 @@ Max: 34°C<br>
 <strong>Tue 26 Jul</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-5.png" alt="After noon rain showers" /><br>
 After noon rain showers<br>
-Min: 21°C<br>
+Min: 19°C<br>
 Max: 36°C<br>
+<br>
+<strong>Wed 27 Jul</strong><br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-4.png" alt="Partly cloudy" /><br>
+Partly cloudy<br>
+Min: 19°C<br>
+Max: 31°C<br>
 ]]></description>
         </item>
         <item>
             <title><![CDATA[Novi Sad]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>bf780fda3139cccdd1e64445d4798316</guid>
-            <pubDate>Mon, 25 Jul 2022 05:20:00 GMT</pubDate>
+            <guid>3d8fad89b2986352c9edea2e87c9cba1</guid>
+            <pubDate>Mon, 25 Jul 2022 11:27:00 GMT</pubDate>
             <description><![CDATA[<strong>Mon 25 Jul</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
 Sunny<br>
@@ -46,13 +52,19 @@ Max: 34°C<br>
 Mostly sunny<br>
 Min: 17°C<br>
 Max: 35°C<br>
+<br>
+<strong>Wed 27 Jul</strong><br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-5.png" alt="After noon rain showers" /><br>
+After noon rain showers<br>
+Min: 19°C<br>
+Max: 31°C<br>
 ]]></description>
         </item>
         <item>
             <title><![CDATA[Loznica]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>29431327924d0f2abd6df72e04033a24</guid>
-            <pubDate>Mon, 25 Jul 2022 05:20:00 GMT</pubDate>
+            <guid>8c7d908cbddf623c130a4639ebbcb231</guid>
+            <pubDate>Mon, 25 Jul 2022 11:27:00 GMT</pubDate>
             <description><![CDATA[<strong>Mon 25 Jul</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
 Sunny<br>
@@ -63,13 +75,19 @@ Max: 34°C<br>
 Mostly sunny<br>
 Min: 18°C<br>
 Max: 35°C<br>
+<br>
+<strong>Wed 27 Jul</strong><br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-5.png" alt="After noon rain showers" /><br>
+After noon rain showers<br>
+Min: 20°C<br>
+Max: 30°C<br>
 ]]></description>
         </item>
         <item>
             <title><![CDATA[Belgrade]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>98a29a0379a8f3148dbaa3fa93bf60b4</guid>
-            <pubDate>Mon, 25 Jul 2022 05:20:00 GMT</pubDate>
+            <guid>4144a06da056200c0ceca644457452ca</guid>
+            <pubDate>Mon, 25 Jul 2022 11:27:00 GMT</pubDate>
             <description><![CDATA[<strong>Mon 25 Jul</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
 Sunny<br>
@@ -78,15 +96,21 @@ Max: 34°C<br>
 <strong>Tue 26 Jul</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
 Mostly sunny<br>
-Min: 22°C<br>
+Min: 21°C<br>
 Max: 36°C<br>
+<br>
+<strong>Wed 27 Jul</strong><br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-5.png" alt="After noon rain showers" /><br>
+After noon rain showers<br>
+Min: 21°C<br>
+Max: 31°C<br>
 ]]></description>
         </item>
         <item>
             <title><![CDATA[Kragujevac]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>ce3596cefafca06cf6fab9d30e260c3e</guid>
-            <pubDate>Mon, 25 Jul 2022 05:20:00 GMT</pubDate>
+            <guid>eda2426411969cba27cdc99b6bf96ed1</guid>
+            <pubDate>Mon, 25 Jul 2022 11:27:00 GMT</pubDate>
             <description><![CDATA[<strong>Mon 25 Jul</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
 Sunny<br>
@@ -95,15 +119,21 @@ Max: 35°C<br>
 <strong>Tue 26 Jul</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
 Mostly sunny<br>
-Min: 17°C<br>
-Max: 37°C<br>
+Min: 16°C<br>
+Max: 36°C<br>
+<br>
+<strong>Wed 27 Jul</strong><br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-5.png" alt="After noon rain showers" /><br>
+After noon rain showers<br>
+Min: 19°C<br>
+Max: 30°C<br>
 ]]></description>
         </item>
         <item>
             <title><![CDATA[Negotin]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>6564f9eb31c2a5db065d7bff37142165</guid>
-            <pubDate>Mon, 25 Jul 2022 05:20:00 GMT</pubDate>
+            <guid>66b8540eed8a16cbd730c4ca5c8a8beb</guid>
+            <pubDate>Mon, 25 Jul 2022 11:27:00 GMT</pubDate>
             <description><![CDATA[<strong>Mon 25 Jul</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
 Sunny<br>
@@ -114,13 +144,19 @@ Max: 37°C<br>
 Mostly sunny<br>
 Min: 17°C<br>
 Max: 37°C<br>
+<br>
+<strong>Wed 27 Jul</strong><br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-5.png" alt="After noon rain showers" /><br>
+After noon rain showers<br>
+Min: 20°C<br>
+Max: 34°C<br>
 ]]></description>
         </item>
         <item>
             <title><![CDATA[Zlatibor]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>b60313d249dcd53d5f1da0d998202d15</guid>
-            <pubDate>Mon, 25 Jul 2022 05:20:00 GMT</pubDate>
+            <guid>774fa89803dca0072f3185802c537620</guid>
+            <pubDate>Mon, 25 Jul 2022 11:27:00 GMT</pubDate>
             <description><![CDATA[<strong>Mon 25 Jul</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
 Sunny<br>
@@ -131,13 +167,19 @@ Max: 29°C<br>
 After noon rain showers<br>
 Min: 17°C<br>
 Max: 31°C<br>
+<br>
+<strong>Wed 27 Jul</strong><br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-5.png" alt="After noon rain showers" /><br>
+After noon rain showers<br>
+Min: 16°C<br>
+Max: 25°C<br>
 ]]></description>
         </item>
         <item>
             <title><![CDATA[Kraljevo]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>b0f663d101507bc1af6d617df433a865</guid>
-            <pubDate>Mon, 25 Jul 2022 05:20:00 GMT</pubDate>
+            <guid>4ee5b9a278984b1d2a0477009fc823a5</guid>
+            <pubDate>Mon, 25 Jul 2022 11:27:00 GMT</pubDate>
             <description><![CDATA[<strong>Mon 25 Jul</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
 Sunny<br>
@@ -148,13 +190,19 @@ Max: 35°C<br>
 Mostly sunny<br>
 Min: 16°C<br>
 Max: 37°C<br>
+<br>
+<strong>Wed 27 Jul</strong><br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-5.png" alt="After noon rain showers" /><br>
+After noon rain showers<br>
+Min: 21°C<br>
+Max: 31°C<br>
 ]]></description>
         </item>
         <item>
             <title><![CDATA[Priština]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>d6a84b82cc81d8876e14067da5fa9760</guid>
-            <pubDate>Mon, 25 Jul 2022 05:20:00 GMT</pubDate>
+            <guid>dbfbfa33bdbbbdb289ba8bc5ee007f67</guid>
+            <pubDate>Mon, 25 Jul 2022 11:27:00 GMT</pubDate>
             <description><![CDATA[<strong>Mon 25 Jul</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
 Sunny<br>
@@ -163,15 +211,21 @@ Max: 35°C<br>
 <strong>Tue 26 Jul</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
 Mostly sunny<br>
-Min: 15°C<br>
-Max: 37°C<br>
+Min: 16°C<br>
+Max: 34°C<br>
+<br>
+<strong>Wed 27 Jul</strong><br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-5.png" alt="After noon rain showers" /><br>
+After noon rain showers<br>
+Min: 17°C<br>
+Max: 32°C<br>
 ]]></description>
         </item>
         <item>
             <title><![CDATA[Niš]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>fc0f2f8c96963f82f540d922023679f9</guid>
-            <pubDate>Mon, 25 Jul 2022 05:20:00 GMT</pubDate>
+            <guid>4f155a52638991539e3a018852619451</guid>
+            <pubDate>Mon, 25 Jul 2022 11:27:00 GMT</pubDate>
             <description><![CDATA[<strong>Mon 25 Jul</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-2.png" alt="Sunny" /><br>
 Sunny<br>
@@ -180,8 +234,14 @@ Max: 36°C<br>
 <strong>Tue 26 Jul</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
 Mostly sunny<br>
-Min: 17°C<br>
-Max: 39°C<br>
+Min: 18°C<br>
+Max: 37°C<br>
+<br>
+<strong>Wed 27 Jul</strong><br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-5.png" alt="After noon rain showers" /><br>
+After noon rain showers<br>
+Min: 20°C<br>
+Max: 32°C<br>
 ]]></description>
         </item>
     </channel>
