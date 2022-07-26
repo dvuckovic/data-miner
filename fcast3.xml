@@ -4,7 +4,7 @@
         <title>RHMZ</title>
         <link>https://data.dvuckovic.com/fcast3.xml</link>
         <description>Weather Forecast for Serbia</description>
-        <lastBuildDate>Tue, 26 Jul 2022 00:25:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Jul 2022 12:24:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>fcast</generator>
         <language>en</language>
@@ -17,42 +17,54 @@
         <item>
             <title><![CDATA[Palić]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>ec8a51334c4cdadbd586cae1a0cd8f7c</guid>
-            <pubDate>Tue, 26 Jul 2022 00:25:00 GMT</pubDate>
+            <guid>3115a5735b6ae5d3c09eb7dce01f7bff</guid>
+            <pubDate>Tue, 26 Jul 2022 12:24:00 GMT</pubDate>
             <description><![CDATA[<strong>Tue 26 Jul</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-5.png" alt="After noon rain showers" /><br>
 After noon rain showers<br>
 Max: 34°C<br>
 <br>
 <strong>Wed 27 Jul</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-4.png" alt="Partly cloudy" /><br>
-Partly cloudy<br>
-Min: 19°C<br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-10.png" alt="Mostly cloudy" /><br>
+Mostly cloudy<br>
+Min: 18°C<br>
 Max: 31°C<br>
+<br>
+<strong>Thu 28 Jul</strong><br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
+Mostly sunny<br>
+Min: 18°C<br>
+Max: 32°C<br>
 ]]></description>
         </item>
         <item>
             <title><![CDATA[Novi Sad]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>6ebed2ba162f79d3210bc3a17b4fe68c</guid>
-            <pubDate>Tue, 26 Jul 2022 00:25:00 GMT</pubDate>
+            <guid>8bab7da96f182bb9b8795a78f25346b4</guid>
+            <pubDate>Tue, 26 Jul 2022 12:24:00 GMT</pubDate>
             <description><![CDATA[<strong>Tue 26 Jul</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
 Mostly sunny<br>
 Max: 35°C<br>
 <br>
 <strong>Wed 27 Jul</strong><br>
-<img src="https://cdn.dvuckovic.com/images/fcast/fcast-5.png" alt="After noon rain showers" /><br>
-After noon rain showers<br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-6.png" alt="Possible rain showers" /><br>
+Possible rain showers<br>
 Min: 19°C<br>
 Max: 31°C<br>
+<br>
+<strong>Thu 28 Jul</strong><br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
+Mostly sunny<br>
+Min: 18°C<br>
+Max: 33°C<br>
 ]]></description>
         </item>
         <item>
             <title><![CDATA[Loznica]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>27de872c33e6be6a51d4c87d5041e622</guid>
-            <pubDate>Tue, 26 Jul 2022 00:25:00 GMT</pubDate>
+            <guid>9b9cf5c9a1e66f2cf9b976035d065266</guid>
+            <pubDate>Tue, 26 Jul 2022 12:24:00 GMT</pubDate>
             <description><![CDATA[<strong>Tue 26 Jul</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
 Mostly sunny<br>
@@ -63,13 +75,19 @@ Max: 35°C<br>
 After noon rain showers<br>
 Min: 20°C<br>
 Max: 30°C<br>
+<br>
+<strong>Thu 28 Jul</strong><br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-6.png" alt="Possible rain showers" /><br>
+Possible rain showers<br>
+Min: 20°C<br>
+Max: 33°C<br>
 ]]></description>
         </item>
         <item>
             <title><![CDATA[Belgrade]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>7752abc36441a6cc08245ff9fcbdeac9</guid>
-            <pubDate>Tue, 26 Jul 2022 00:25:00 GMT</pubDate>
+            <guid>cfecfd5c2bdc40f59b993e00ae6454a0</guid>
+            <pubDate>Tue, 26 Jul 2022 12:24:00 GMT</pubDate>
             <description><![CDATA[<strong>Tue 26 Jul</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
 Mostly sunny<br>
@@ -78,15 +96,21 @@ Max: 36°C<br>
 <strong>Wed 27 Jul</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-5.png" alt="After noon rain showers" /><br>
 After noon rain showers<br>
-Min: 21°C<br>
+Min: 20°C<br>
 Max: 31°C<br>
+<br>
+<strong>Thu 28 Jul</strong><br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
+Mostly sunny<br>
+Min: 21°C<br>
+Max: 34°C<br>
 ]]></description>
         </item>
         <item>
             <title><![CDATA[Kragujevac]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>fd88388e24f051bc3ee2e1e4e708e5f4</guid>
-            <pubDate>Tue, 26 Jul 2022 00:25:00 GMT</pubDate>
+            <guid>34ed9ae99ccdce803e2b3221c0b22954</guid>
+            <pubDate>Tue, 26 Jul 2022 12:24:00 GMT</pubDate>
             <description><![CDATA[<strong>Tue 26 Jul</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
 Mostly sunny<br>
@@ -95,15 +119,21 @@ Max: 36°C<br>
 <strong>Wed 27 Jul</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-5.png" alt="After noon rain showers" /><br>
 After noon rain showers<br>
+Min: 20°C<br>
+Max: 31°C<br>
+<br>
+<strong>Thu 28 Jul</strong><br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-6.png" alt="Possible rain showers" /><br>
+Possible rain showers<br>
 Min: 19°C<br>
-Max: 30°C<br>
+Max: 33°C<br>
 ]]></description>
         </item>
         <item>
             <title><![CDATA[Negotin]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>42a723a5a35907357e3fde46f5406c23</guid>
-            <pubDate>Tue, 26 Jul 2022 00:25:00 GMT</pubDate>
+            <guid>119181f76a4f1676ae26b497b3068a3a</guid>
+            <pubDate>Tue, 26 Jul 2022 12:24:00 GMT</pubDate>
             <description><![CDATA[<strong>Tue 26 Jul</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
 Mostly sunny<br>
@@ -114,13 +144,19 @@ Max: 37°C<br>
 After noon rain showers<br>
 Min: 20°C<br>
 Max: 34°C<br>
+<br>
+<strong>Thu 28 Jul</strong><br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-5.png" alt="After noon rain showers" /><br>
+After noon rain showers<br>
+Min: 22°C<br>
+Max: 32°C<br>
 ]]></description>
         </item>
         <item>
             <title><![CDATA[Zlatibor]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>d588fd28debdcc6449d28835d7f9e1f9</guid>
-            <pubDate>Tue, 26 Jul 2022 00:25:00 GMT</pubDate>
+            <guid>a9e166b31904bf8731ca43cf8ca9ebe0</guid>
+            <pubDate>Tue, 26 Jul 2022 12:24:00 GMT</pubDate>
             <description><![CDATA[<strong>Tue 26 Jul</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-5.png" alt="After noon rain showers" /><br>
 After noon rain showers<br>
@@ -131,13 +167,19 @@ Max: 31°C<br>
 After noon rain showers<br>
 Min: 16°C<br>
 Max: 25°C<br>
+<br>
+<strong>Thu 28 Jul</strong><br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-5.png" alt="After noon rain showers" /><br>
+After noon rain showers<br>
+Min: 15°C<br>
+Max: 26°C<br>
 ]]></description>
         </item>
         <item>
             <title><![CDATA[Kraljevo]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>c7f97514eb3fa598628e8455f7f6a440</guid>
-            <pubDate>Tue, 26 Jul 2022 00:25:00 GMT</pubDate>
+            <guid>b47c8a4c49b4eb3ef43a7b1db7c585f1</guid>
+            <pubDate>Tue, 26 Jul 2022 12:24:00 GMT</pubDate>
             <description><![CDATA[<strong>Tue 26 Jul</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
 Mostly sunny<br>
@@ -146,15 +188,21 @@ Max: 37°C<br>
 <strong>Wed 27 Jul</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-5.png" alt="After noon rain showers" /><br>
 After noon rain showers<br>
-Min: 21°C<br>
+Min: 20°C<br>
 Max: 31°C<br>
+<br>
+<strong>Thu 28 Jul</strong><br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-6.png" alt="Possible rain showers" /><br>
+Possible rain showers<br>
+Min: 18°C<br>
+Max: 33°C<br>
 ]]></description>
         </item>
         <item>
             <title><![CDATA[Priština]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>566fa9b6145a7732cd18d9c4469f0de4</guid>
-            <pubDate>Tue, 26 Jul 2022 00:25:00 GMT</pubDate>
+            <guid>f3bc1163cc9ed0a1bcb183b476da3395</guid>
+            <pubDate>Tue, 26 Jul 2022 12:24:00 GMT</pubDate>
             <description><![CDATA[<strong>Tue 26 Jul</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
 Mostly sunny<br>
@@ -163,21 +211,33 @@ Max: 36°C<br>
 <strong>Wed 27 Jul</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-5.png" alt="After noon rain showers" /><br>
 After noon rain showers<br>
-Min: 17°C<br>
+Min: 16°C<br>
 Max: 32°C<br>
+<br>
+<strong>Thu 28 Jul</strong><br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-5.png" alt="After noon rain showers" /><br>
+After noon rain showers<br>
+Min: 17°C<br>
+Max: 31°C<br>
 ]]></description>
         </item>
         <item>
             <title><![CDATA[Niš]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>6638d103822ec07b8493c535537abc04</guid>
-            <pubDate>Tue, 26 Jul 2022 00:25:00 GMT</pubDate>
+            <guid>c02e1413f152d4926de01a96754bab82</guid>
+            <pubDate>Tue, 26 Jul 2022 12:24:00 GMT</pubDate>
             <description><![CDATA[<strong>Tue 26 Jul</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-3.png" alt="Mostly sunny" /><br>
 Mostly sunny<br>
 Max: 37°C<br>
 <br>
 <strong>Wed 27 Jul</strong><br>
+<img src="https://cdn.dvuckovic.com/images/fcast/fcast-6.png" alt="Possible rain showers" /><br>
+Possible rain showers<br>
+Min: 19°C<br>
+Max: 33°C<br>
+<br>
+<strong>Thu 28 Jul</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-5.png" alt="After noon rain showers" /><br>
 After noon rain showers<br>
 Min: 20°C<br>
