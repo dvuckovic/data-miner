@@ -4,7 +4,7 @@
         <title>RHMZ</title>
         <link>https://data.dvuckovic.com/fcast3.xml</link>
         <description>Weather Forecast for Serbia</description>
-        <lastBuildDate>Sat, 30 Jul 2022 11:27:00 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Jul 2022 12:48:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>fcast</generator>
         <language>en</language>
@@ -17,8 +17,8 @@
         <item>
             <title><![CDATA[Palić]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>0f73e94c2ffcc71b80ac480c0f0a364c</guid>
-            <pubDate>Sat, 30 Jul 2022 11:27:00 GMT</pubDate>
+            <guid>ee6309be0cf54d2ee676c9d9be29ac8b</guid>
+            <pubDate>Sat, 30 Jul 2022 12:48:00 GMT</pubDate>
             <description><![CDATA[<strong>Sat 30 Jul</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-12.png" alt="Showers and thunder storm" /><br>
 Showers and thunder storm<br>
@@ -40,8 +40,8 @@ Max: 29°C<br>
         <item>
             <title><![CDATA[Novi Sad]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>936b9759641f4ca38c5127e3e977fa1d</guid>
-            <pubDate>Sat, 30 Jul 2022 11:27:00 GMT</pubDate>
+            <guid>e16beb4ca210c9a2a00b53b5295562c2</guid>
+            <pubDate>Sat, 30 Jul 2022 12:48:00 GMT</pubDate>
             <description><![CDATA[<strong>Sat 30 Jul</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-12.png" alt="Showers and thunder storm" /><br>
 Showers and thunder storm<br>
@@ -63,8 +63,8 @@ Max: 30°C<br>
         <item>
             <title><![CDATA[Loznica]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>18dad1168fae87fc1b10ce044dfa8c7c</guid>
-            <pubDate>Sat, 30 Jul 2022 11:27:00 GMT</pubDate>
+            <guid>4450454614f8b340f265bb977930ec5c</guid>
+            <pubDate>Sat, 30 Jul 2022 12:48:00 GMT</pubDate>
             <description><![CDATA[<strong>Sat 30 Jul</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-12.png" alt="Showers and thunder storm" /><br>
 Showers and thunder storm<br>
@@ -86,8 +86,8 @@ Max: 30°C<br>
         <item>
             <title><![CDATA[Belgrade]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>f1370fecff4f4ba550f7dd067c4b417d</guid>
-            <pubDate>Sat, 30 Jul 2022 11:27:00 GMT</pubDate>
+            <guid>a9232b20a719dca6e61f13331ec29eff</guid>
+            <pubDate>Sat, 30 Jul 2022 12:48:00 GMT</pubDate>
             <description><![CDATA[<strong>Sat 30 Jul</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-12.png" alt="Showers and thunder storm" /><br>
 Showers and thunder storm<br>
@@ -109,8 +109,8 @@ Max: 30°C<br>
         <item>
             <title><![CDATA[Kragujevac]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>19af943c81e106e2925e002909193eb8</guid>
-            <pubDate>Sat, 30 Jul 2022 11:27:00 GMT</pubDate>
+            <guid>e8a89dc4b2c2deba68fc4e442d200f25</guid>
+            <pubDate>Sat, 30 Jul 2022 12:48:00 GMT</pubDate>
             <description><![CDATA[<strong>Sat 30 Jul</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-12.png" alt="Showers and thunder storm" /><br>
 Showers and thunder storm<br>
@@ -132,8 +132,8 @@ Max: 29°C<br>
         <item>
             <title><![CDATA[Negotin]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>1a9b8a99266249bafd06c63847d80042</guid>
-            <pubDate>Sat, 30 Jul 2022 11:27:00 GMT</pubDate>
+            <guid>cc51eeacb81ab3a18595e4e79dfe20c9</guid>
+            <pubDate>Sat, 30 Jul 2022 12:48:00 GMT</pubDate>
             <description><![CDATA[<strong>Sat 30 Jul</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-5.png" alt="After noon rain showers" /><br>
 After noon rain showers<br>
@@ -155,8 +155,8 @@ Max: 30°C<br>
         <item>
             <title><![CDATA[Zlatibor]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>de300ff272507be18f9b5a1d0d19bef0</guid>
-            <pubDate>Sat, 30 Jul 2022 11:27:00 GMT</pubDate>
+            <guid>31275c6f08ad9b298c872742f68b3982</guid>
+            <pubDate>Sat, 30 Jul 2022 12:48:00 GMT</pubDate>
             <description><![CDATA[<strong>Sat 30 Jul</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-5.png" alt="After noon rain showers" /><br>
 After noon rain showers<br>
@@ -178,8 +178,8 @@ Max: 23°C<br>
         <item>
             <title><![CDATA[Kraljevo]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>dfc31bb46a15dfc15067bc203dd5fb72</guid>
-            <pubDate>Sat, 30 Jul 2022 11:27:00 GMT</pubDate>
+            <guid>c3b92f2858b72c045a03597828d920b9</guid>
+            <pubDate>Sat, 30 Jul 2022 12:48:00 GMT</pubDate>
             <description><![CDATA[<strong>Sat 30 Jul</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-5.png" alt="After noon rain showers" /><br>
 After noon rain showers<br>
@@ -201,8 +201,8 @@ Max: 29°C<br>
         <item>
             <title><![CDATA[Priština]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>7e31fb95e3a76035041b87e2623ccbc2</guid>
-            <pubDate>Sat, 30 Jul 2022 11:27:00 GMT</pubDate>
+            <guid>c8442656f352ca83e441850a76296f26</guid>
+            <pubDate>Sat, 30 Jul 2022 12:48:00 GMT</pubDate>
             <description><![CDATA[<strong>Sat 30 Jul</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-5.png" alt="After noon rain showers" /><br>
 After noon rain showers<br>
@@ -224,8 +224,8 @@ Max: 28°C<br>
         <item>
             <title><![CDATA[Niš]]></title>
             <link>http://www.hidmet.gov.rs/eng/prognoza/index.php</link>
-            <guid>bcbebba2e15f31e38382e7f67a006056</guid>
-            <pubDate>Sat, 30 Jul 2022 11:27:00 GMT</pubDate>
+            <guid>1fbcaede121db5352cccb4b14be63d60</guid>
+            <pubDate>Sat, 30 Jul 2022 12:48:00 GMT</pubDate>
             <description><![CDATA[<strong>Sat 30 Jul</strong><br>
 <img src="https://cdn.dvuckovic.com/images/fcast/fcast-5.png" alt="After noon rain showers" /><br>
 After noon rain showers<br>
