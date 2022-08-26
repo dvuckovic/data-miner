@@ -4,6 +4,15 @@ on:
 
   workflow_dispatch:
 
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
 jobs:
   fcast3:
     runs-on: ubuntu-latest
@@ -12,7 +21,7 @@ jobs:
       xml: ${{ steps.fcast.outputs.xml }}
     steps:
     - name: Checkout Repository
-      uses: actions/checkout@v2
+      uses: actions/checkout@v3
 
     - name: Fetch Forecast
       id: fcast
@@ -22,31 +31,33 @@ jobs:
     if: success() && github.ref == 'refs/heads/main'
     needs: fcast3
     runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
     steps:
     - name: Checkout Repository
-      uses: actions/checkout@v2
-      with:
-        ref: gh-pages
+      uses: actions/checkout@v3
+
+    - name: Configure Pages
+      uses: actions/configure-pages@v2
 
     - name: Prepare Output Files
       env:
         JSON: ${{ needs.fcast3.outputs.json }}
         XML: ${{ needs.fcast3.outputs.xml }}
       run: |
-        rm -f CNAME
-        echo "$JSON" > ./fcast3.json
-        echo "$XML" > ./fcast3.xml
-        test -f ./fcast3.json
-        test -f ./fcast3.xml
+        mkdir -p _site
+        echo "$JSON" > ./_site/fcast3.json
+        echo "$XML" > ./_site/fcast3.xml
+        test -f ./_site/fcast3.json
+        test -f ./_site/fcast3.xml
 
-    - name: Deploy to Github Pages
-      uses: crazy-max/ghaction-github-pages@v2
-      with:
-        commit_message: Deployed to Github Pages.
-        fqdn: data.dvuckovic.com
-        build_dir: .
-      env:
-        GITHUB_TOKEN: ${{ github.token }}
+    - name: Upload Artifact
+      uses: actions/upload-pages-artifact@v1
+
+    - name: Deploy to GitHub Pages
+      id: deployment
+      uses: actions/deploy-pages@v1
 
     - name: Keepalive Workflow
       uses: gautamkrishnar/keepalive-workflow@1.0.7
