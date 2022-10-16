@@ -60,8 +60,9 @@ jobs:
       uses: actions/deploy-pages@v1
 
     - name: Keepalive Workflow
-      uses: gautamkrishnar/keepalive-workflow@1.0.7
+      uses: gautamkrishnar/keepalive-workflow@v1
       with:
+        gh_token: ${{ secrets.GH_PAT }}
         commit_message: Added an empty commit to keep scheduled GitHub workflows alive in this repository.
         committer_username: github-actions[bot]
         committer_email: 41898282+github-actions[bot]@users.noreply.github.com
