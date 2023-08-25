@@ -23,10 +23,14 @@ jobs:
     - name: Checkout Repository
       uses: actions/checkout@v3
 
+    - name: Install Root CAs
+      run: |
+        yarn add --no-lockfile node_extra_ca_certs_mozilla_bundle
+
     - name: Fetch Forecast
       id: fcast
       env:
-        NODE_TLS_REJECT_UNAUTHORIZED: 0
+        NODE_EXTRA_CA_CERTS: node_modules/node_extra_ca_certs_mozilla_bundle/ca_bundle/ca_intermediate_root_bundle.pem
       uses: ./.github/actions/fcast
 
   deploy:
