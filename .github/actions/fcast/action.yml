@@ -1,7 +1,7 @@
 inputs:
   fetch-url:
     required: true
-    default: http://www.hidmet.gov.rs/ciril/prognoza/index.php
+    default: https://www.hidmet.gov.rs/ciril/prognoza/index.php
 outputs:
   json: {}
   xml: {}

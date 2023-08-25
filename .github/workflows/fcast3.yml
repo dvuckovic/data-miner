@@ -25,6 +25,8 @@ jobs:
 
     - name: Fetch Forecast
       id: fcast
+      env:
+        NODE_TLS_REJECT_UNAUTHORIZED: 0
       uses: ./.github/actions/fcast
 
   deploy:
