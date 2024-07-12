@@ -17,8 +17,7 @@ jobs:
   fcast3:
     runs-on: ubuntu-latest
     outputs:
-      json: ${{ steps.fcast.outputs.json }}
-      xml: ${{ steps.fcast.outputs.xml }}
+      out: ${{ steps.fcast.outputs.outputs }}
     steps:
     - name: Checkout Repository
       uses: actions/checkout@v3
@@ -29,9 +28,12 @@ jobs:
 
     - name: Fetch Forecast
       id: fcast
+      uses: Wandalen/wretry.action@master
       env:
         NODE_EXTRA_CA_CERTS: node_modules/node_extra_ca_certs_mozilla_bundle/ca_bundle/ca_intermediate_root_bundle.pem
-      uses: ./.github/actions/fcast
+      with:
+        action: dvuckovic/data-miner/.github/actions/fcast@main
+        attempt_limit: 3
 
   deploy:
     if: success() && github.ref == 'refs/heads/main'
@@ -49,8 +51,8 @@ jobs:
 
     - name: Prepare Output Files
       env:
-        JSON: ${{ needs.fcast3.outputs.json }}
-        XML: ${{ needs.fcast3.outputs.xml }}
+        JSON: ${{ fromJSON(needs.fcast3.outputs.out).json }}
+        XML: ${{ fromJSON(needs.fcast3.outputs.out).xml }}
       run: |
         mkdir -p _site
         echo "$JSON" > ./_site/fcast3.json
