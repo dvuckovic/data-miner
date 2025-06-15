@@ -22,9 +22,9 @@ jobs:
     - name: Checkout Repository
       uses: actions/checkout@v3
 
-    - name: Install Root CAs
-      run: |
-        yarn add --no-lockfile node_extra_ca_certs_mozilla_bundle
+    #- name: Install Root CAs
+    #  run: |
+    #    yarn add --no-lockfile node_extra_ca_certs_mozilla_bundle
 
     - name: Fetch Forecast
       id: fcast
