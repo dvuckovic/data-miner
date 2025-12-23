@@ -1,0 +1,2955 @@
+exports.id = 577;
+exports.ids = [577];
+exports.modules = {
+
+/***/ 2400:
+/***/ ((__unused_webpack_module, exports) => {
+
+"use strict";
+
+Object.defineProperty(exports, "__esModule", ({ value: true }));
+exports.toBig = exports.shrSL = exports.shrSH = exports.rotrSL = exports.rotrSH = exports.rotrBL = exports.rotrBH = exports.rotr32L = exports.rotr32H = exports.rotlSL = exports.rotlSH = exports.rotlBL = exports.rotlBH = exports.add5L = exports.add5H = exports.add4L = exports.add4H = exports.add3L = exports.add3H = void 0;
+exports.add = add;
+exports.fromBig = fromBig;
+exports.split = split;
+/**
+ * Internal helpers for u64. BigUint64Array is too slow as per 2025, so we implement it using Uint32Array.
+ * @todo re-check https://issues.chromium.org/issues/42212588
+ * @module
+ */
+const U32_MASK64 = /* @__PURE__ */ BigInt(2 ** 32 - 1);
+const _32n = /* @__PURE__ */ BigInt(32);
+function fromBig(n, le = false) {
+    if (le)
+        return { h: Number(n & U32_MASK64), l: Number((n >> _32n) & U32_MASK64) };
+    return { h: Number((n >> _32n) & U32_MASK64) | 0, l: Number(n & U32_MASK64) | 0 };
+}
+function split(lst, le = false) {
+    const len = lst.length;
+    let Ah = new Uint32Array(len);
+    let Al = new Uint32Array(len);
+    for (let i = 0; i < len; i++) {
+        const { h, l } = fromBig(lst[i], le);
+        [Ah[i], Al[i]] = [h, l];
+    }
+    return [Ah, Al];
+}
+const toBig = (h, l) => (BigInt(h >>> 0) << _32n) | BigInt(l >>> 0);
+exports.toBig = toBig;
+// for Shift in [0, 32)
+const shrSH = (h, _l, s) => h >>> s;
+exports.shrSH = shrSH;
+const shrSL = (h, l, s) => (h << (32 - s)) | (l >>> s);
+exports.shrSL = shrSL;
+// Right rotate for Shift in [1, 32)
+const rotrSH = (h, l, s) => (h >>> s) | (l << (32 - s));
+exports.rotrSH = rotrSH;
+const rotrSL = (h, l, s) => (h << (32 - s)) | (l >>> s);
+exports.rotrSL = rotrSL;
+// Right rotate for Shift in (32, 64), NOTE: 32 is special case.
+const rotrBH = (h, l, s) => (h << (64 - s)) | (l >>> (s - 32));
+exports.rotrBH = rotrBH;
+const rotrBL = (h, l, s) => (h >>> (s - 32)) | (l << (64 - s));
+exports.rotrBL = rotrBL;
+// Right rotate for shift===32 (just swaps l&h)
+const rotr32H = (_h, l) => l;
+exports.rotr32H = rotr32H;
+const rotr32L = (h, _l) => h;
+exports.rotr32L = rotr32L;
+// Left rotate for Shift in [1, 32)
+const rotlSH = (h, l, s) => (h << s) | (l >>> (32 - s));
+exports.rotlSH = rotlSH;
+const rotlSL = (h, l, s) => (l << s) | (h >>> (32 - s));
+exports.rotlSL = rotlSL;
+// Left rotate for Shift in (32, 64), NOTE: 32 is special case.
+const rotlBH = (h, l, s) => (l << (s - 32)) | (h >>> (64 - s));
+exports.rotlBH = rotlBH;
+const rotlBL = (h, l, s) => (h << (s - 32)) | (l >>> (64 - s));
+exports.rotlBL = rotlBL;
+// JS uses 32-bit signed integers for bitwise operations which means we cannot
+// simple take carry out of low bit sum by shift, we need to use division.
+function add(Ah, Al, Bh, Bl) {
+    const l = (Al >>> 0) + (Bl >>> 0);
+    return { h: (Ah + Bh + ((l / 2 ** 32) | 0)) | 0, l: l | 0 };
+}
+// Addition with more than 2 elements
+const add3L = (Al, Bl, Cl) => (Al >>> 0) + (Bl >>> 0) + (Cl >>> 0);
+exports.add3L = add3L;
+const add3H = (low, Ah, Bh, Ch) => (Ah + Bh + Ch + ((low / 2 ** 32) | 0)) | 0;
+exports.add3H = add3H;
+const add4L = (Al, Bl, Cl, Dl) => (Al >>> 0) + (Bl >>> 0) + (Cl >>> 0) + (Dl >>> 0);
+exports.add4L = add4L;
+const add4H = (low, Ah, Bh, Ch, Dh) => (Ah + Bh + Ch + Dh + ((low / 2 ** 32) | 0)) | 0;
+exports.add4H = add4H;
+const add5L = (Al, Bl, Cl, Dl, El) => (Al >>> 0) + (Bl >>> 0) + (Cl >>> 0) + (Dl >>> 0) + (El >>> 0);
+exports.add5L = add5L;
+const add5H = (low, Ah, Bh, Ch, Dh, Eh) => (Ah + Bh + Ch + Dh + Eh + ((low / 2 ** 32) | 0)) | 0;
+exports.add5H = add5H;
+// prettier-ignore
+const u64 = {
+    fromBig, split, toBig,
+    shrSH, shrSL,
+    rotrSH, rotrSL, rotrBH, rotrBL,
+    rotr32H, rotr32L,
+    rotlSH, rotlSL, rotlBH, rotlBL,
+    add, add3L, add3H, add4L, add4H, add5H, add5L,
+};
+exports["default"] = u64;
+//# sourceMappingURL=_u64.js.map
+
+/***/ }),
+
+/***/ 3275:
+/***/ ((__unused_webpack_module, exports, __webpack_require__) => {
+
+"use strict";
+
+Object.defineProperty(exports, "__esModule", ({ value: true }));
+exports.crypto = void 0;
+/**
+ * Internal webcrypto alias.
+ * We prefer WebCrypto aka globalThis.crypto, which exists in node.js 16+.
+ * Falls back to Node.js built-in crypto for Node.js <=v14.
+ * See utils.ts for details.
+ * @module
+ */
+// @ts-ignore
+const nc = __webpack_require__(7598);
+exports.crypto = nc && typeof nc === 'object' && 'webcrypto' in nc
+    ? nc.webcrypto
+    : nc && typeof nc === 'object' && 'randomBytes' in nc
+        ? nc
+        : undefined;
+//# sourceMappingURL=cryptoNode.js.map
+
+/***/ }),
+
+/***/ 2725:
+/***/ ((__unused_webpack_module, exports, __webpack_require__) => {
+
+"use strict";
+
+Object.defineProperty(exports, "__esModule", ({ value: true }));
+exports.shake256 = exports.shake128 = exports.keccak_512 = exports.keccak_384 = exports.keccak_256 = exports.keccak_224 = exports.sha3_512 = exports.sha3_384 = exports.sha3_256 = exports.sha3_224 = exports.Keccak = void 0;
+exports.keccakP = keccakP;
+/**
+ * SHA3 (keccak) hash function, based on a new "Sponge function" design.
+ * Different from older hashes, the internal state is bigger than output size.
+ *
+ * Check out [FIPS-202](https://nvlpubs.nist.gov/nistpubs/FIPS/NIST.FIPS.202.pdf),
+ * [Website](https://keccak.team/keccak.html),
+ * [the differences between SHA-3 and Keccak](https://crypto.stackexchange.com/questions/15727/what-are-the-key-differences-between-the-draft-sha-3-standard-and-the-keccak-sub).
+ *
+ * Check out `sha3-addons` module for cSHAKE, k12, and others.
+ * @module
+ */
+const _u64_ts_1 = __webpack_require__(2400);
+// prettier-ignore
+const utils_ts_1 = __webpack_require__(2129);
+// No __PURE__ annotations in sha3 header:
+// EVERYTHING is in fact used on every export.
+// Various per round constants calculations
+const _0n = BigInt(0);
+const _1n = BigInt(1);
+const _2n = BigInt(2);
+const _7n = BigInt(7);
+const _256n = BigInt(256);
+const _0x71n = BigInt(0x71);
+const SHA3_PI = [];
+const SHA3_ROTL = [];
+const _SHA3_IOTA = [];
+for (let round = 0, R = _1n, x = 1, y = 0; round < 24; round++) {
+    // Pi
+    [x, y] = [y, (2 * x + 3 * y) % 5];
+    SHA3_PI.push(2 * (5 * y + x));
+    // Rotational
+    SHA3_ROTL.push((((round + 1) * (round + 2)) / 2) % 64);
+    // Iota
+    let t = _0n;
+    for (let j = 0; j < 7; j++) {
+        R = ((R << _1n) ^ ((R >> _7n) * _0x71n)) % _256n;
+        if (R & _2n)
+            t ^= _1n << ((_1n << /* @__PURE__ */ BigInt(j)) - _1n);
+    }
+    _SHA3_IOTA.push(t);
+}
+const IOTAS = (0, _u64_ts_1.split)(_SHA3_IOTA, true);
+const SHA3_IOTA_H = IOTAS[0];
+const SHA3_IOTA_L = IOTAS[1];
+// Left rotation (without 0, 32, 64)
+const rotlH = (h, l, s) => (s > 32 ? (0, _u64_ts_1.rotlBH)(h, l, s) : (0, _u64_ts_1.rotlSH)(h, l, s));
+const rotlL = (h, l, s) => (s > 32 ? (0, _u64_ts_1.rotlBL)(h, l, s) : (0, _u64_ts_1.rotlSL)(h, l, s));
+/** `keccakf1600` internal function, additionally allows to adjust round count. */
+function keccakP(s, rounds = 24) {
+    const B = new Uint32Array(5 * 2);
+    // NOTE: all indices are x2 since we store state as u32 instead of u64 (bigints to slow in js)
+    for (let round = 24 - rounds; round < 24; round++) {
+        // Theta θ
+        for (let x = 0; x < 10; x++)
+            B[x] = s[x] ^ s[x + 10] ^ s[x + 20] ^ s[x + 30] ^ s[x + 40];
+        for (let x = 0; x < 10; x += 2) {
+            const idx1 = (x + 8) % 10;
+            const idx0 = (x + 2) % 10;
+            const B0 = B[idx0];
+            const B1 = B[idx0 + 1];
+            const Th = rotlH(B0, B1, 1) ^ B[idx1];
+            const Tl = rotlL(B0, B1, 1) ^ B[idx1 + 1];
+            for (let y = 0; y < 50; y += 10) {
+                s[x + y] ^= Th;
+                s[x + y + 1] ^= Tl;
+            }
+        }
+        // Rho (ρ) and Pi (π)
+        let curH = s[2];
+        let curL = s[3];
+        for (let t = 0; t < 24; t++) {
+            const shift = SHA3_ROTL[t];
+            const Th = rotlH(curH, curL, shift);
+            const Tl = rotlL(curH, curL, shift);
+            const PI = SHA3_PI[t];
+            curH = s[PI];
+            curL = s[PI + 1];
+            s[PI] = Th;
+            s[PI + 1] = Tl;
+        }
+        // Chi (χ)
+        for (let y = 0; y < 50; y += 10) {
+            for (let x = 0; x < 10; x++)
+                B[x] = s[y + x];
+            for (let x = 0; x < 10; x++)
+                s[y + x] ^= ~B[(x + 2) % 10] & B[(x + 4) % 10];
+        }
+        // Iota (ι)
+        s[0] ^= SHA3_IOTA_H[round];
+        s[1] ^= SHA3_IOTA_L[round];
+    }
+    (0, utils_ts_1.clean)(B);
+}
+/** Keccak sponge function. */
+class Keccak extends utils_ts_1.Hash {
+    // NOTE: we accept arguments in bytes instead of bits here.
+    constructor(blockLen, suffix, outputLen, enableXOF = false, rounds = 24) {
+        super();
+        this.pos = 0;
+        this.posOut = 0;
+        this.finished = false;
+        this.destroyed = false;
+        this.enableXOF = false;
+        this.blockLen = blockLen;
+        this.suffix = suffix;
+        this.outputLen = outputLen;
+        this.enableXOF = enableXOF;
+        this.rounds = rounds;
+        // Can be passed from user as dkLen
+        (0, utils_ts_1.anumber)(outputLen);
+        // 1600 = 5x5 matrix of 64bit.  1600 bits === 200 bytes
+        // 0 < blockLen < 200
+        if (!(0 < blockLen && blockLen < 200))
+            throw new Error('only keccak-f1600 function is supported');
+        this.state = new Uint8Array(200);
+        this.state32 = (0, utils_ts_1.u32)(this.state);
+    }
+    clone() {
+        return this._cloneInto();
+    }
+    keccak() {
+        (0, utils_ts_1.swap32IfBE)(this.state32);
+        keccakP(this.state32, this.rounds);
+        (0, utils_ts_1.swap32IfBE)(this.state32);
+        this.posOut = 0;
+        this.pos = 0;
+    }
+    update(data) {
+        (0, utils_ts_1.aexists)(this);
+        data = (0, utils_ts_1.toBytes)(data);
+        (0, utils_ts_1.abytes)(data);
+        const { blockLen, state } = this;
+        const len = data.length;
+        for (let pos = 0; pos < len;) {
+            const take = Math.min(blockLen - this.pos, len - pos);
+            for (let i = 0; i < take; i++)
+                state[this.pos++] ^= data[pos++];
+            if (this.pos === blockLen)
+                this.keccak();
+        }
+        return this;
+    }
+    finish() {
+        if (this.finished)
+            return;
+        this.finished = true;
+        const { state, suffix, pos, blockLen } = this;
+        // Do the padding
+        state[pos] ^= suffix;
+        if ((suffix & 0x80) !== 0 && pos === blockLen - 1)
+            this.keccak();
+        state[blockLen - 1] ^= 0x80;
+        this.keccak();
+    }
+    writeInto(out) {
+        (0, utils_ts_1.aexists)(this, false);
+        (0, utils_ts_1.abytes)(out);
+        this.finish();
+        const bufferOut = this.state;
+        const { blockLen } = this;
+        for (let pos = 0, len = out.length; pos < len;) {
+            if (this.posOut >= blockLen)
+                this.keccak();
+            const take = Math.min(blockLen - this.posOut, len - pos);
+            out.set(bufferOut.subarray(this.posOut, this.posOut + take), pos);
+            this.posOut += take;
+            pos += take;
+        }
+        return out;
+    }
+    xofInto(out) {
+        // Sha3/Keccak usage with XOF is probably mistake, only SHAKE instances can do XOF
+        if (!this.enableXOF)
+            throw new Error('XOF is not possible for this instance');
+        return this.writeInto(out);
+    }
+    xof(bytes) {
+        (0, utils_ts_1.anumber)(bytes);
+        return this.xofInto(new Uint8Array(bytes));
+    }
+    digestInto(out) {
+        (0, utils_ts_1.aoutput)(out, this);
+        if (this.finished)
+            throw new Error('digest() was already called');
+        this.writeInto(out);
+        this.destroy();
+        return out;
+    }
+    digest() {
+        return this.digestInto(new Uint8Array(this.outputLen));
+    }
+    destroy() {
+        this.destroyed = true;
+        (0, utils_ts_1.clean)(this.state);
+    }
+    _cloneInto(to) {
+        const { blockLen, suffix, outputLen, rounds, enableXOF } = this;
+        to || (to = new Keccak(blockLen, suffix, outputLen, enableXOF, rounds));
+        to.state32.set(this.state32);
+        to.pos = this.pos;
+        to.posOut = this.posOut;
+        to.finished = this.finished;
+        to.rounds = rounds;
+        // Suffix can change in cSHAKE
+        to.suffix = suffix;
+        to.outputLen = outputLen;
+        to.enableXOF = enableXOF;
+        to.destroyed = this.destroyed;
+        return to;
+    }
+}
+exports.Keccak = Keccak;
+const gen = (suffix, blockLen, outputLen) => (0, utils_ts_1.createHasher)(() => new Keccak(blockLen, suffix, outputLen));
+/** SHA3-224 hash function. */
+exports.sha3_224 = (() => gen(0x06, 144, 224 / 8))();
+/** SHA3-256 hash function. Different from keccak-256. */
+exports.sha3_256 = (() => gen(0x06, 136, 256 / 8))();
+/** SHA3-384 hash function. */
+exports.sha3_384 = (() => gen(0x06, 104, 384 / 8))();
+/** SHA3-512 hash function. */
+exports.sha3_512 = (() => gen(0x06, 72, 512 / 8))();
+/** keccak-224 hash function. */
+exports.keccak_224 = (() => gen(0x01, 144, 224 / 8))();
+/** keccak-256 hash function. Different from SHA3-256. */
+exports.keccak_256 = (() => gen(0x01, 136, 256 / 8))();
+/** keccak-384 hash function. */
+exports.keccak_384 = (() => gen(0x01, 104, 384 / 8))();
+/** keccak-512 hash function. */
+exports.keccak_512 = (() => gen(0x01, 72, 512 / 8))();
+const genShake = (suffix, blockLen, outputLen) => (0, utils_ts_1.createXOFer)((opts = {}) => new Keccak(blockLen, suffix, opts.dkLen === undefined ? outputLen : opts.dkLen, true));
+/** SHAKE128 XOF with 128-bit security. */
+exports.shake128 = (() => genShake(0x1f, 168, 128 / 8))();
+/** SHAKE256 XOF with 256-bit security. */
+exports.shake256 = (() => genShake(0x1f, 136, 256 / 8))();
+//# sourceMappingURL=sha3.js.map
+
+/***/ }),
+
+/***/ 2129:
+/***/ ((__unused_webpack_module, exports, __webpack_require__) => {
+
+"use strict";
+
+/**
+ * Utilities for hex, bytes, CSPRNG.
+ * @module
+ */
+/*! noble-hashes - MIT License (c) 2022 Paul Miller (paulmillr.com) */
+Object.defineProperty(exports, "__esModule", ({ value: true }));
+exports.wrapXOFConstructorWithOpts = exports.wrapConstructorWithOpts = exports.wrapConstructor = exports.Hash = exports.nextTick = exports.swap32IfBE = exports.byteSwapIfBE = exports.swap8IfBE = exports.isLE = void 0;
+exports.isBytes = isBytes;
+exports.anumber = anumber;
+exports.abytes = abytes;
+exports.ahash = ahash;
+exports.aexists = aexists;
+exports.aoutput = aoutput;
+exports.u8 = u8;
+exports.u32 = u32;
+exports.clean = clean;
+exports.createView = createView;
+exports.rotr = rotr;
+exports.rotl = rotl;
+exports.byteSwap = byteSwap;
+exports.byteSwap32 = byteSwap32;
+exports.bytesToHex = bytesToHex;
+exports.hexToBytes = hexToBytes;
+exports.asyncLoop = asyncLoop;
+exports.utf8ToBytes = utf8ToBytes;
+exports.bytesToUtf8 = bytesToUtf8;
+exports.toBytes = toBytes;
+exports.kdfInputToBytes = kdfInputToBytes;
+exports.concatBytes = concatBytes;
+exports.checkOpts = checkOpts;
+exports.createHasher = createHasher;
+exports.createOptHasher = createOptHasher;
+exports.createXOFer = createXOFer;
+exports.randomBytes = randomBytes;
+// We use WebCrypto aka globalThis.crypto, which exists in browsers and node.js 16+.
+// node.js versions earlier than v19 don't declare it in global scope.
+// For node.js, package.json#exports field mapping rewrites import
+// from `crypto` to `cryptoNode`, which imports native module.
+// Makes the utils un-importable in browsers without a bundler.
+// Once node.js 18 is deprecated (2025-04-30), we can just drop the import.
+const crypto_1 = __webpack_require__(3275);
+/** Checks if something is Uint8Array. Be careful: nodejs Buffer will return true. */
+function isBytes(a) {
+    return a instanceof Uint8Array || (ArrayBuffer.isView(a) && a.constructor.name === 'Uint8Array');
+}
+/** Asserts something is positive integer. */
+function anumber(n) {
+    if (!Number.isSafeInteger(n) || n < 0)
+        throw new Error('positive integer expected, got ' + n);
+}
+/** Asserts something is Uint8Array. */
+function abytes(b, ...lengths) {
+    if (!isBytes(b))
+        throw new Error('Uint8Array expected');
+    if (lengths.length > 0 && !lengths.includes(b.length))
+        throw new Error('Uint8Array expected of length ' + lengths + ', got length=' + b.length);
+}
+/** Asserts something is hash */
+function ahash(h) {
+    if (typeof h !== 'function' || typeof h.create !== 'function')
+        throw new Error('Hash should be wrapped by utils.createHasher');
+    anumber(h.outputLen);
+    anumber(h.blockLen);
+}
+/** Asserts a hash instance has not been destroyed / finished */
+function aexists(instance, checkFinished = true) {
+    if (instance.destroyed)
+        throw new Error('Hash instance has been destroyed');
+    if (checkFinished && instance.finished)
+        throw new Error('Hash#digest() has already been called');
+}
+/** Asserts output is properly-sized byte array */
+function aoutput(out, instance) {
+    abytes(out);
+    const min = instance.outputLen;
+    if (out.length < min) {
+        throw new Error('digestInto() expects output buffer of length at least ' + min);
+    }
+}
+/** Cast u8 / u16 / u32 to u8. */
+function u8(arr) {
+    return new Uint8Array(arr.buffer, arr.byteOffset, arr.byteLength);
+}
+/** Cast u8 / u16 / u32 to u32. */
+function u32(arr) {
+    return new Uint32Array(arr.buffer, arr.byteOffset, Math.floor(arr.byteLength / 4));
+}
+/** Zeroize a byte array. Warning: JS provides no guarantees. */
+function clean(...arrays) {
+    for (let i = 0; i < arrays.length; i++) {
+        arrays[i].fill(0);
+    }
+}
+/** Create DataView of an array for easy byte-level manipulation. */
+function createView(arr) {
+    return new DataView(arr.buffer, arr.byteOffset, arr.byteLength);
+}
+/** The rotate right (circular right shift) operation for uint32 */
+function rotr(word, shift) {
+    return (word << (32 - shift)) | (word >>> shift);
+}
+/** The rotate left (circular left shift) operation for uint32 */
+function rotl(word, shift) {
+    return (word << shift) | ((word >>> (32 - shift)) >>> 0);
+}
+/** Is current platform little-endian? Most are. Big-Endian platform: IBM */
+exports.isLE = (() => new Uint8Array(new Uint32Array([0x11223344]).buffer)[0] === 0x44)();
+/** The byte swap operation for uint32 */
+function byteSwap(word) {
+    return (((word << 24) & 0xff000000) |
+        ((word << 8) & 0xff0000) |
+        ((word >>> 8) & 0xff00) |
+        ((word >>> 24) & 0xff));
+}
+/** Conditionally byte swap if on a big-endian platform */
+exports.swap8IfBE = exports.isLE
+    ? (n) => n
+    : (n) => byteSwap(n);
+/** @deprecated */
+exports.byteSwapIfBE = exports.swap8IfBE;
+/** In place byte swap for Uint32Array */
+function byteSwap32(arr) {
+    for (let i = 0; i < arr.length; i++) {
+        arr[i] = byteSwap(arr[i]);
+    }
+    return arr;
+}
+exports.swap32IfBE = exports.isLE
+    ? (u) => u
+    : byteSwap32;
+// Built-in hex conversion https://caniuse.com/mdn-javascript_builtins_uint8array_fromhex
+const hasHexBuiltin = /* @__PURE__ */ (() => 
+// @ts-ignore
+typeof Uint8Array.from([]).toHex === 'function' && typeof Uint8Array.fromHex === 'function')();
+// Array where index 0xf0 (240) is mapped to string 'f0'
+const hexes = /* @__PURE__ */ Array.from({ length: 256 }, (_, i) => i.toString(16).padStart(2, '0'));
+/**
+ * Convert byte array to hex string. Uses built-in function, when available.
+ * @example bytesToHex(Uint8Array.from([0xca, 0xfe, 0x01, 0x23])) // 'cafe0123'
+ */
+function bytesToHex(bytes) {
+    abytes(bytes);
+    // @ts-ignore
+    if (hasHexBuiltin)
+        return bytes.toHex();
+    // pre-caching improves the speed 6x
+    let hex = '';
+    for (let i = 0; i < bytes.length; i++) {
+        hex += hexes[bytes[i]];
+    }
+    return hex;
+}
+// We use optimized technique to convert hex string to byte array
+const asciis = { _0: 48, _9: 57, A: 65, F: 70, a: 97, f: 102 };
+function asciiToBase16(ch) {
+    if (ch >= asciis._0 && ch <= asciis._9)
+        return ch - asciis._0; // '2' => 50-48
+    if (ch >= asciis.A && ch <= asciis.F)
+        return ch - (asciis.A - 10); // 'B' => 66-(65-10)
+    if (ch >= asciis.a && ch <= asciis.f)
+        return ch - (asciis.a - 10); // 'b' => 98-(97-10)
+    return;
+}
+/**
+ * Convert hex string to byte array. Uses built-in function, when available.
+ * @example hexToBytes('cafe0123') // Uint8Array.from([0xca, 0xfe, 0x01, 0x23])
+ */
+function hexToBytes(hex) {
+    if (typeof hex !== 'string')
+        throw new Error('hex string expected, got ' + typeof hex);
+    // @ts-ignore
+    if (hasHexBuiltin)
+        return Uint8Array.fromHex(hex);
+    const hl = hex.length;
+    const al = hl / 2;
+    if (hl % 2)
+        throw new Error('hex string expected, got unpadded hex of length ' + hl);
+    const array = new Uint8Array(al);
+    for (let ai = 0, hi = 0; ai < al; ai++, hi += 2) {
+        const n1 = asciiToBase16(hex.charCodeAt(hi));
+        const n2 = asciiToBase16(hex.charCodeAt(hi + 1));
+        if (n1 === undefined || n2 === undefined) {
+            const char = hex[hi] + hex[hi + 1];
+            throw new Error('hex string expected, got non-hex character "' + char + '" at index ' + hi);
+        }
+        array[ai] = n1 * 16 + n2; // multiply first octet, e.g. 'a3' => 10*16+3 => 160 + 3 => 163
+    }
+    return array;
+}
+/**
+ * There is no setImmediate in browser and setTimeout is slow.
+ * Call of async fn will return Promise, which will be fullfiled only on
+ * next scheduler queue processing step and this is exactly what we need.
+ */
+const nextTick = async () => { };
+exports.nextTick = nextTick;
+/** Returns control to thread each 'tick' ms to avoid blocking. */
+async function asyncLoop(iters, tick, cb) {
+    let ts = Date.now();
+    for (let i = 0; i < iters; i++) {
+        cb(i);
+        // Date.now() is not monotonic, so in case if clock goes backwards we return return control too
+        const diff = Date.now() - ts;
+        if (diff >= 0 && diff < tick)
+            continue;
+        await (0, exports.nextTick)();
+        ts += diff;
+    }
+}
+/**
+ * Converts string to bytes using UTF8 encoding.
+ * @example utf8ToBytes('abc') // Uint8Array.from([97, 98, 99])
+ */
+function utf8ToBytes(str) {
+    if (typeof str !== 'string')
+        throw new Error('string expected');
+    return new Uint8Array(new TextEncoder().encode(str)); // https://bugzil.la/1681809
+}
+/**
+ * Converts bytes to string using UTF8 encoding.
+ * @example bytesToUtf8(Uint8Array.from([97, 98, 99])) // 'abc'
+ */
+function bytesToUtf8(bytes) {
+    return new TextDecoder().decode(bytes);
+}
+/**
+ * Normalizes (non-hex) string or Uint8Array to Uint8Array.
+ * Warning: when Uint8Array is passed, it would NOT get copied.
+ * Keep in mind for future mutable operations.
+ */
+function toBytes(data) {
+    if (typeof data === 'string')
+        data = utf8ToBytes(data);
+    abytes(data);
+    return data;
+}
+/**
+ * Helper for KDFs: consumes uint8array or string.
+ * When string is passed, does utf8 decoding, using TextDecoder.
+ */
+function kdfInputToBytes(data) {
+    if (typeof data === 'string')
+        data = utf8ToBytes(data);
+    abytes(data);
+    return data;
+}
+/** Copies several Uint8Arrays into one. */
+function concatBytes(...arrays) {
+    let sum = 0;
+    for (let i = 0; i < arrays.length; i++) {
+        const a = arrays[i];
+        abytes(a);
+        sum += a.length;
+    }
+    const res = new Uint8Array(sum);
+    for (let i = 0, pad = 0; i < arrays.length; i++) {
+        const a = arrays[i];
+        res.set(a, pad);
+        pad += a.length;
+    }
+    return res;
+}
+function checkOpts(defaults, opts) {
+    if (opts !== undefined && {}.toString.call(opts) !== '[object Object]')
+        throw new Error('options should be object or undefined');
+    const merged = Object.assign(defaults, opts);
+    return merged;
+}
+/** For runtime check if class implements interface */
+class Hash {
+}
+exports.Hash = Hash;
+/** Wraps hash function, creating an interface on top of it */
+function createHasher(hashCons) {
+    const hashC = (msg) => hashCons().update(toBytes(msg)).digest();
+    const tmp = hashCons();
+    hashC.outputLen = tmp.outputLen;
+    hashC.blockLen = tmp.blockLen;
+    hashC.create = () => hashCons();
+    return hashC;
+}
+function createOptHasher(hashCons) {
+    const hashC = (msg, opts) => hashCons(opts).update(toBytes(msg)).digest();
+    const tmp = hashCons({});
+    hashC.outputLen = tmp.outputLen;
+    hashC.blockLen = tmp.blockLen;
+    hashC.create = (opts) => hashCons(opts);
+    return hashC;
+}
+function createXOFer(hashCons) {
+    const hashC = (msg, opts) => hashCons(opts).update(toBytes(msg)).digest();
+    const tmp = hashCons({});
+    hashC.outputLen = tmp.outputLen;
+    hashC.blockLen = tmp.blockLen;
+    hashC.create = (opts) => hashCons(opts);
+    return hashC;
+}
+exports.wrapConstructor = createHasher;
+exports.wrapConstructorWithOpts = createOptHasher;
+exports.wrapXOFConstructorWithOpts = createXOFer;
+/** Cryptographically secure PRNG. Uses internal OS-level `crypto.getRandomValues`. */
+function randomBytes(bytesLength = 32) {
+    if (crypto_1.crypto && typeof crypto_1.crypto.getRandomValues === 'function') {
+        return crypto_1.crypto.getRandomValues(new Uint8Array(bytesLength));
+    }
+    // Legacy Node.js compatibility
+    if (crypto_1.crypto && typeof crypto_1.crypto.randomBytes === 'function') {
+        return Uint8Array.from(crypto_1.crypto.randomBytes(bytesLength));
+    }
+    throw new Error('crypto.getRandomValues must be defined');
+}
+//# sourceMappingURL=utils.js.map
+
+/***/ }),
+
+/***/ 1839:
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+var __webpack_unused_export__;
+const { createId, init, getConstants, isCuid } = __webpack_require__(9366);
+
+__webpack_unused_export__ = createId;
+module.exports.Ts = init;
+__webpack_unused_export__ = getConstants;
+__webpack_unused_export__ = isCuid;
+
+
+/***/ }),
+
+/***/ 9366:
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+/* global global, window, module */
+const { sha3_512: sha3 } = __webpack_require__(2725);
+
+const defaultLength = 24;
+const bigLength = 32;
+
+const createEntropy = (length = 4, random = Math.random) => {
+  let entropy = "";
+
+  while (entropy.length < length) {
+    entropy = entropy + Math.floor(random() * 36).toString(36);
+  }
+  return entropy;
+};
+
+/*
+ * Adapted from https://github.com/juanelas/bigint-conversion
+ * MIT License Copyright (c) 2018 Juan Hernández Serrano
+ */
+function bufToBigInt(buf) {
+  let bits = 8n;
+
+  let value = 0n;
+  for (const i of buf.values()) {
+    const bi = BigInt(i);
+    value = (value << bits) + bi;
+  }
+  return value;
+}
+
+const hash = (input = "") => {
+  // Drop the first character because it will bias the histogram
+  // to the left.
+  return bufToBigInt(sha3(input)).toString(36).slice(1);
+};
+
+const alphabet = Array.from({ length: 26 }, (x, i) =>
+  String.fromCharCode(i + 97)
+);
+
+const randomLetter = (random) =>
+  alphabet[Math.floor(random() * alphabet.length)];
+
+/*
+This is a fingerprint of the host environment. It is used to help
+prevent collisions when generating ids in a distributed system.
+If no global object is available, you can pass in your own, or fall back
+on a random string.
+*/
+const createFingerprint = ({
+  globalObj = typeof global !== "undefined"
+    ? global
+    : typeof window !== "undefined"
+    ? window
+    : {},
+  random = Math.random,
+} = {}) => {
+  const globals = Object.keys(globalObj).toString();
+  const sourceString = globals.length
+    ? globals + createEntropy(bigLength, random)
+    : createEntropy(bigLength, random);
+
+  return hash(sourceString).substring(0, bigLength);
+};
+
+const createCounter = (count) => () => {
+  return count++;
+};
+
+// ~22k hosts before 50% chance of initial counter collision
+// with a remaining counter range of 9.0e+15 in JavaScript.
+const initialCountMax = 476782367;
+
+const init = ({
+  // Fallback if the user does not pass in a CSPRNG. This should be OK
+  // because we don't rely solely on the random number generator for entropy.
+  // We also use the host fingerprint, current time, and a session counter.
+  random = Math.random,
+  counter = createCounter(Math.floor(random() * initialCountMax)),
+  length = defaultLength,
+  fingerprint = createFingerprint({ random }),
+} = {}) => {
+  return function cuid2() {
+    const firstLetter = randomLetter(random);
+
+    // If we're lucky, the `.toString(36)` calls may reduce hashing rounds
+    // by shortening the input to the hash function a little.
+    const time = Date.now().toString(36);
+    const count = counter().toString(36);
+
+    // The salt should be long enough to be globally unique across the full
+    // length of the hash. For simplicity, we use the same length as the
+    // intended id output.
+    const salt = createEntropy(length, random);
+    const hashInput = `${time + salt + count + fingerprint}`;
+
+    return `${firstLetter + hash(hashInput).substring(1, length)}`;
+  };
+};
+
+const createId = init();
+
+const isCuid = (id, { minLength = 2, maxLength = bigLength } = {}) => {
+  const length = id.length;
+  const regex = /^[0-9a-z]+$/;
+
+  try {
+    if (
+      typeof id === "string" &&
+      length >= minLength &&
+      length <= maxLength &&
+      regex.test(id)
+    )
+      return true;
+  } finally {
+  }
+
+  return false;
+};
+
+module.exports.getConstants = () => ({ defaultLength, bigLength });
+module.exports.init = init;
+module.exports.createId = createId;
+module.exports.bufToBigInt = bufToBigInt;
+module.exports.createCounter = createCounter;
+module.exports.createFingerprint = createFingerprint;
+module.exports.isCuid = isCuid;
+
+
+/***/ }),
+
+/***/ 9154:
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+
+
+var rawAsap = __webpack_require__(8878);
+var freeTasks = [];
+
+/**
+ * Calls a task as soon as possible after returning, in its own event, with
+ * priority over IO events. An exception thrown in a task can be handled by
+ * `process.on("uncaughtException") or `domain.on("error")`, but will otherwise
+ * crash the process. If the error is handled, all subsequent tasks will
+ * resume.
+ *
+ * @param {{call}} task A callable object, typically a function that takes no
+ * arguments.
+ */
+module.exports = asap;
+function asap(task) {
+    var rawTask;
+    if (freeTasks.length) {
+        rawTask = freeTasks.pop();
+    } else {
+        rawTask = new RawTask();
+    }
+    rawTask.task = task;
+    rawTask.domain = process.domain;
+    rawAsap(rawTask);
+}
+
+function RawTask() {
+    this.task = null;
+    this.domain = null;
+}
+
+RawTask.prototype.call = function () {
+    if (this.domain) {
+        this.domain.enter();
+    }
+    var threw = true;
+    try {
+        this.task.call();
+        threw = false;
+        // If the task throws an exception (presumably) Node.js restores the
+        // domain stack for the next event.
+        if (this.domain) {
+            this.domain.exit();
+        }
+    } finally {
+        // We use try/finally and a threw flag to avoid messing up stack traces
+        // when we catch and release errors.
+        if (threw) {
+            // In Node.js, uncaught exceptions are considered fatal errors.
+            // Re-throw them to interrupt flushing!
+            // Ensure that flushing continues if an uncaught exception is
+            // suppressed listening process.on("uncaughtException") or
+            // domain.on("error").
+            rawAsap.requestFlush();
+        }
+        // If the task threw an error, we do not want to exit the domain here.
+        // Exiting the domain would prevent the domain from catching the error.
+        this.task = null;
+        this.domain = null;
+        freeTasks.push(this);
+    }
+};
+
+
+
+/***/ }),
+
+/***/ 8878:
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+
+
+var domain; // The domain module is executed on demand
+var hasSetImmediate = typeof setImmediate === "function";
+
+// Use the fastest means possible to execute a task in its own turn, with
+// priority over other events including network IO events in Node.js.
+//
+// An exception thrown by a task will permanently interrupt the processing of
+// subsequent tasks. The higher level `asap` function ensures that if an
+// exception is thrown by a task, that the task queue will continue flushing as
+// soon as possible, but if you use `rawAsap` directly, you are responsible to
+// either ensure that no exceptions are thrown from your task, or to manually
+// call `rawAsap.requestFlush` if an exception is thrown.
+module.exports = rawAsap;
+function rawAsap(task) {
+    if (!queue.length) {
+        requestFlush();
+        flushing = true;
+    }
+    // Avoids a function call
+    queue[queue.length] = task;
+}
+
+var queue = [];
+// Once a flush has been requested, no further calls to `requestFlush` are
+// necessary until the next `flush` completes.
+var flushing = false;
+// The position of the next task to execute in the task queue. This is
+// preserved between calls to `flush` so that it can be resumed if
+// a task throws an exception.
+var index = 0;
+// If a task schedules additional tasks recursively, the task queue can grow
+// unbounded. To prevent memory excaustion, the task queue will periodically
+// truncate already-completed tasks.
+var capacity = 1024;
+
+// The flush function processes all tasks that have been scheduled with
+// `rawAsap` unless and until one of those tasks throws an exception.
+// If a task throws an exception, `flush` ensures that its state will remain
+// consistent and will resume where it left off when called again.
+// However, `flush` does not make any arrangements to be called again if an
+// exception is thrown.
+function flush() {
+    while (index < queue.length) {
+        var currentIndex = index;
+        // Advance the index before calling the task. This ensures that we will
+        // begin flushing on the next task the task throws an error.
+        index = index + 1;
+        queue[currentIndex].call();
+        // Prevent leaking memory for long chains of recursive calls to `asap`.
+        // If we call `asap` within tasks scheduled by `asap`, the queue will
+        // grow, but to avoid an O(n) walk for every task we execute, we don't
+        // shift tasks off the queue after they have been executed.
+        // Instead, we periodically shift 1024 tasks off the queue.
+        if (index > capacity) {
+            // Manually shift all values starting at the index back to the
+            // beginning of the queue.
+            for (var scan = 0, newLength = queue.length - index; scan < newLength; scan++) {
+                queue[scan] = queue[scan + index];
+            }
+            queue.length -= index;
+            index = 0;
+        }
+    }
+    queue.length = 0;
+    index = 0;
+    flushing = false;
+}
+
+rawAsap.requestFlush = requestFlush;
+function requestFlush() {
+    // Ensure flushing is not bound to any domain.
+    // It is not sufficient to exit the domain, because domains exist on a stack.
+    // To execute code outside of any domain, the following dance is necessary.
+    var parentDomain = process.domain;
+    if (parentDomain) {
+        if (!domain) {
+            // Lazy execute the domain module.
+            // Only employed if the user elects to use domains.
+            domain = __webpack_require__(3167);
+        }
+        domain.active = process.domain = null;
+    }
+
+    // `setImmediate` is slower that `process.nextTick`, but `process.nextTick`
+    // cannot handle recursion.
+    // `requestFlush` will only be called recursively from `asap.js`, to resume
+    // flushing after an error is thrown into a domain.
+    // Conveniently, `setImmediate` was introduced in the same version
+    // `process.nextTick` started throwing recursion errors.
+    if (flushing && hasSetImmediate) {
+        setImmediate(flush);
+    } else {
+        process.nextTick(flush);
+    }
+
+    if (parentDomain) {
+        domain.active = process.domain = parentDomain;
+    }
+}
+
+
+/***/ }),
+
+/***/ 8306:
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+var wrappy = __webpack_require__(6039)
+module.exports = wrappy(dezalgo)
+
+var asap = __webpack_require__(9154)
+
+function dezalgo (cb) {
+  var sync = true
+  asap(function () {
+    sync = false
+  })
+
+  return function zalgoSafe() {
+    var args = arguments
+    var me = this
+    if (sync)
+      asap(function() {
+        cb.apply(me, args)
+      })
+    else
+      cb.apply(me, args)
+  }
+}
+
+
+/***/ }),
+
+/***/ 6367:
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+var wrappy = __webpack_require__(6039)
+module.exports = wrappy(once)
+module.exports.strict = wrappy(onceStrict)
+
+once.proto = once(function () {
+  Object.defineProperty(Function.prototype, 'once', {
+    value: function () {
+      return once(this)
+    },
+    configurable: true
+  })
+
+  Object.defineProperty(Function.prototype, 'onceStrict', {
+    value: function () {
+      return onceStrict(this)
+    },
+    configurable: true
+  })
+})
+
+function once (fn) {
+  var f = function () {
+    if (f.called) return f.value
+    f.called = true
+    return f.value = fn.apply(this, arguments)
+  }
+  f.called = false
+  return f
+}
+
+function onceStrict (fn) {
+  var f = function () {
+    if (f.called)
+      throw new Error(f.onceError)
+    f.called = true
+    return f.value = fn.apply(this, arguments)
+  }
+  var name = fn.name || 'Function wrapped with `once`'
+  f.onceError = name + " shouldn't be called more than once"
+  f.called = false
+  return f
+}
+
+
+/***/ }),
+
+/***/ 6039:
+/***/ ((module) => {
+
+// Returns a wrapper function that returns a wrapped callback
+// The wrapper function should do some stuff, and return a
+// presumably different callback function.
+// This makes sure that own properties are retained, so that
+// decorations and such are not lost along the way.
+module.exports = wrappy
+function wrappy (fn, cb) {
+  if (fn && cb) return wrappy(fn)(cb)
+
+  if (typeof fn !== 'function')
+    throw new TypeError('need wrapper function')
+
+  Object.keys(fn).forEach(function (k) {
+    wrapper[k] = fn[k]
+  })
+
+  return wrapper
+
+  function wrapper() {
+    var args = new Array(arguments.length)
+    for (var i = 0; i < args.length; i++) {
+      args[i] = arguments[i]
+    }
+    var ret = fn.apply(this, args)
+    var cb = args[args.length-1]
+    if (typeof ret === 'function' && ret !== cb) {
+      Object.keys(cb).forEach(function (k) {
+        ret[k] = cb[k]
+      })
+    }
+    return ret
+  }
+}
+
+
+/***/ }),
+
+/***/ 4577:
+/***/ ((__unused_webpack___webpack_module__, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+// ESM COMPAT FLAG
+__webpack_require__.r(__webpack_exports__);
+
+// EXPORTS
+__webpack_require__.d(__webpack_exports__, {
+  DummyParser: () => (/* reexport */ Dummy),
+  File: () => (/* reexport */ src_PersistentFile),
+  Formidable: () => (/* reexport */ Formidable),
+  IncomingForm: () => (/* reexport */ Formidable),
+  JSONParser: () => (/* reexport */ parsers_JSON),
+  MultipartParser: () => (/* reexport */ Multipart),
+  OctetStreamParser: () => (/* reexport */ OctetStream),
+  OctetstreamParser: () => (/* reexport */ OctetStream),
+  PersistentFile: () => (/* reexport */ src_PersistentFile),
+  QueryStringParser: () => (/* reexport */ Querystring),
+  QuerystringParser: () => (/* reexport */ Querystring),
+  VolatileFile: () => (/* reexport */ src_VolatileFile),
+  "default": () => (/* binding */ src),
+  defaultOptions: () => (/* reexport */ DEFAULT_OPTIONS),
+  enabledPlugins: () => (/* binding */ enabledPlugins),
+  errors: () => (/* reexport */ FormidableError_namespaceObject),
+  formidable: () => (/* binding */ formidable),
+  json: () => (/* reexport */ json_plugin),
+  multipart: () => (/* reexport */ multipart_plugin),
+  octetstream: () => (/* reexport */ octetstream_plugin),
+  querystring: () => (/* reexport */ querystring_plugin)
+});
+
+// NAMESPACE OBJECT: ./node_modules/.pnpm/formidable@3.5.4/node_modules/formidable/src/FormidableError.js
+var FormidableError_namespaceObject = {};
+__webpack_require__.r(FormidableError_namespaceObject);
+__webpack_require__.d(FormidableError_namespaceObject, {
+  aborted: () => (aborted),
+  biggerThanMaxFileSize: () => (biggerThanMaxFileSize),
+  biggerThanTotalMaxFileSize: () => (biggerThanTotalMaxFileSize),
+  cannotCreateDir: () => (cannotCreateDir),
+  "default": () => (src_FormidableError),
+  filenameNotString: () => (filenameNotString),
+  malformedMultipart: () => (malformedMultipart),
+  maxFieldsExceeded: () => (maxFieldsExceeded),
+  maxFieldsSizeExceeded: () => (maxFieldsSizeExceeded),
+  maxFilesExceeded: () => (maxFilesExceeded),
+  missingContentType: () => (missingContentType),
+  missingMultipartBoundary: () => (missingMultipartBoundary),
+  missingPlugin: () => (missingPlugin),
+  noEmptyFiles: () => (noEmptyFiles),
+  noParser: () => (noParser),
+  pluginFailed: () => (pluginFailed),
+  pluginFunction: () => (pluginFunction),
+  smallerThanMinFileSize: () => (smallerThanMinFileSize),
+  uninitializedParser: () => (uninitializedParser),
+  unknownTransferEncoding: () => (unknownTransferEncoding)
+});
+
+// EXTERNAL MODULE: external "node:fs"
+var external_node_fs_ = __webpack_require__(3024);
+// EXTERNAL MODULE: external "node:crypto"
+var external_node_crypto_ = __webpack_require__(7598);
+// EXTERNAL MODULE: external "node:events"
+var external_node_events_ = __webpack_require__(8474);
+;// CONCATENATED MODULE: ./node_modules/.pnpm/formidable@3.5.4/node_modules/formidable/src/PersistentFile.js
+/* eslint-disable no-underscore-dangle */
+
+
+
+
+
+class PersistentFile extends external_node_events_.EventEmitter {
+  constructor({ filepath, newFilename, originalFilename, mimetype, hashAlgorithm }) {
+    super();
+
+    this.lastModifiedDate = null;
+    Object.assign(this, { filepath, newFilename, originalFilename, mimetype, hashAlgorithm });
+
+    this.size = 0;
+    this._writeStream = null;
+
+    if (typeof this.hashAlgorithm === 'string') {
+      this.hash = external_node_crypto_.createHash(this.hashAlgorithm);
+    } else {
+      this.hash = null;
+    }
+  }
+
+  open() {
+    this._writeStream = external_node_fs_.createWriteStream(this.filepath);
+    this._writeStream.on('error', (err) => {
+      this.emit('error', err);
+    });
+  }
+
+  toJSON() {
+    const json = {
+      size: this.size,
+      filepath: this.filepath,
+      newFilename: this.newFilename,
+      mimetype: this.mimetype,
+      mtime: this.lastModifiedDate,
+      length: this.length,
+      originalFilename: this.originalFilename,
+    };
+    if (this.hash && this.hash !== '') {
+      json.hash = this.hash;
+    }
+    return json;
+  }
+
+  toString() {
+    return `PersistentFile: ${this.newFilename}, Original: ${this.originalFilename}, Path: ${this.filepath}`;
+  }
+
+  write(buffer, cb) {
+    if (this.hash) {
+      this.hash.update(buffer);
+    }
+
+    if (this._writeStream.closed) {
+      cb();
+      return;
+    }
+
+    this._writeStream.write(buffer, () => {
+      this.lastModifiedDate = new Date();
+      this.size += buffer.length;
+      this.emit('progress', this.size);
+      cb();
+    });
+  }
+
+  end(cb) {
+    if (this.hash) {
+      this.hash = this.hash.digest('hex');
+    }
+    this._writeStream.end(() => {
+      this.emit('end');
+      cb();
+    });
+  }
+
+  destroy() {
+    this._writeStream.destroy();
+    const filepath = this.filepath; 
+    setTimeout(function () {
+        external_node_fs_.unlink(filepath, () => {});
+    }, 1)
+  }
+}
+
+/* harmony default export */ const src_PersistentFile = (PersistentFile);
+
+;// CONCATENATED MODULE: ./node_modules/.pnpm/formidable@3.5.4/node_modules/formidable/src/VolatileFile.js
+/* eslint-disable no-underscore-dangle */
+
+
+
+
+class VolatileFile extends external_node_events_.EventEmitter {
+  constructor({ filepath, newFilename, originalFilename, mimetype, hashAlgorithm, createFileWriteStream }) {
+    super();
+
+    this.lastModifiedDate = null;
+    Object.assign(this, { filepath, newFilename, originalFilename, mimetype, hashAlgorithm, createFileWriteStream });
+
+    this.size = 0;
+    this._writeStream = null;
+
+    if (typeof this.hashAlgorithm === 'string') {
+      this.hash = (0,external_node_crypto_.createHash)(this.hashAlgorithm);
+    } else {
+      this.hash = null;
+    }
+  }
+
+  open() {
+    this._writeStream = this.createFileWriteStream(this);
+    this._writeStream.on('error', (err) => {
+      this.emit('error', err);
+    });
+  }
+
+  destroy() {
+    this._writeStream.destroy();
+  }
+
+  toJSON() {
+    const json = {
+      size: this.size,
+      newFilename: this.newFilename,
+      length: this.length,
+      originalFilename: this.originalFilename,
+      mimetype: this.mimetype,
+    };
+    if (this.hash && this.hash !== '') {
+      json.hash = this.hash;
+    }
+    return json;
+  }
+
+  toString() {
+    return `VolatileFile: ${this.originalFilename}`;
+  }
+
+  write(buffer, cb) {
+    if (this.hash) {
+      this.hash.update(buffer);
+    }
+
+    if (this._writeStream.closed || this._writeStream.destroyed) {
+      cb();
+      return;
+    }
+
+    this._writeStream.write(buffer, () => {
+      this.size += buffer.length;
+      this.emit('progress', this.size);
+      cb();
+    });
+  }
+
+  end(cb) {
+    if (this.hash) {
+      this.hash = this.hash.digest('hex');
+    }
+    this._writeStream.end(() => {
+      this.emit('end');
+      cb();
+    });
+  }
+}
+
+/* harmony default export */ const src_VolatileFile = (VolatileFile);
+
+// EXTERNAL MODULE: ./node_modules/.pnpm/@paralleldrive+cuid2@2.3.1/node_modules/@paralleldrive/cuid2/index.js
+var cuid2 = __webpack_require__(1839);
+// EXTERNAL MODULE: ./node_modules/.pnpm/dezalgo@1.0.4/node_modules/dezalgo/dezalgo.js
+var dezalgo = __webpack_require__(8306);
+// EXTERNAL MODULE: external "node:fs/promises"
+var promises_ = __webpack_require__(1455);
+// EXTERNAL MODULE: external "node:os"
+var external_node_os_ = __webpack_require__(8161);
+// EXTERNAL MODULE: external "node:path"
+var external_node_path_ = __webpack_require__(6760);
+// EXTERNAL MODULE: external "node:string_decoder"
+var external_node_string_decoder_ = __webpack_require__(6193);
+// EXTERNAL MODULE: ./node_modules/.pnpm/once@1.4.0/node_modules/once/once.js
+var once = __webpack_require__(6367);
+;// CONCATENATED MODULE: ./node_modules/.pnpm/formidable@3.5.4/node_modules/formidable/src/FormidableError.js
+const missingPlugin = 1000;
+const pluginFunction = 1001;
+const aborted = 1002;
+const noParser = 1003;
+const uninitializedParser = 1004;
+const filenameNotString = 1005;
+const maxFieldsSizeExceeded = 1006;
+const maxFieldsExceeded = 1007;
+const smallerThanMinFileSize = 1008;
+const biggerThanTotalMaxFileSize = 1009;
+const noEmptyFiles = 1010;
+const missingContentType = 1011;
+const malformedMultipart = 1012;
+const missingMultipartBoundary = 1013;
+const unknownTransferEncoding = 1014;
+const maxFilesExceeded = 1015;
+const biggerThanMaxFileSize = 1016;
+const pluginFailed = 1017;
+const cannotCreateDir = 1018;
+
+const FormidableError = class extends Error {
+  constructor(message, internalCode, httpCode = 500) {
+    super(message);
+    this.code = internalCode;
+    this.httpCode = httpCode;
+  }
+};
+
+
+
+/* harmony default export */ const src_FormidableError = (FormidableError);
+
+// EXTERNAL MODULE: external "node:stream"
+var external_node_stream_ = __webpack_require__(7075);
+;// CONCATENATED MODULE: ./node_modules/.pnpm/formidable@3.5.4/node_modules/formidable/src/parsers/Dummy.js
+/* eslint-disable no-underscore-dangle */
+
+
+
+class DummyParser extends external_node_stream_.Transform {
+  constructor(incomingForm, options = {}) {
+    super();
+    this.globalOptions = { ...options };
+    this.incomingForm = incomingForm;
+  }
+
+  _flush(callback) {
+    this.incomingForm.ended = true;
+    this.incomingForm._maybeEnd();
+    callback();
+  }
+}
+
+/* harmony default export */ const Dummy = (DummyParser);
+
+;// CONCATENATED MODULE: ./node_modules/.pnpm/formidable@3.5.4/node_modules/formidable/src/parsers/Multipart.js
+/* eslint-disable no-fallthrough */
+/* eslint-disable no-bitwise */
+/* eslint-disable no-plusplus */
+/* eslint-disable no-underscore-dangle */
+
+
+
+
+
+let s = 0;
+const STATE = {
+  PARSER_UNINITIALIZED: s++,
+  START: s++,
+  START_BOUNDARY: s++,
+  HEADER_FIELD_START: s++,
+  HEADER_FIELD: s++,
+  HEADER_VALUE_START: s++,
+  HEADER_VALUE: s++,
+  HEADER_VALUE_ALMOST_DONE: s++,
+  HEADERS_ALMOST_DONE: s++,
+  PART_DATA_START: s++,
+  PART_DATA: s++,
+  PART_END: s++,
+  END: s++,
+};
+
+let f = 1;
+const FBOUNDARY = { PART_BOUNDARY: f, LAST_BOUNDARY: (f *= 2) };
+
+const LF = 10;
+const CR = 13;
+const SPACE = 32;
+const HYPHEN = 45;
+const COLON = 58;
+const A = 97;
+const Z = 122;
+
+function lower(c) {
+  return c | 0x20;
+}
+
+const STATES = {};
+
+Object.keys(STATE).forEach((stateName) => {
+  STATES[stateName] = STATE[stateName];
+});
+
+class MultipartParser extends external_node_stream_.Transform {
+  constructor(options = {}) {
+    super({ readableObjectMode: true });
+    this.boundary = null;
+    this.boundaryChars = null;
+    this.lookbehind = null;
+    this.bufferLength = 0;
+    this.state = STATE.PARSER_UNINITIALIZED;
+
+    this.globalOptions = { ...options };
+    this.index = null;
+    this.flags = 0;
+  }
+
+  _endUnexpected() {
+    return new src_FormidableError(
+      `MultipartParser.end(): stream ended unexpectedly: ${this.explain()}`,
+      malformedMultipart,
+      400,
+    );
+  }
+
+  _flush(done) {
+    if (
+      (this.state === STATE.HEADER_FIELD_START && this.index === 0) ||
+      (this.state === STATE.PART_DATA && this.index === this.boundary.length)
+    ) {
+      this._handleCallback('partEnd');
+      this._handleCallback('end');
+      done();
+    } else if (this.state !== STATE.END) {
+      done(this._endUnexpected());
+    } else {
+      done();
+    }
+  }
+
+  initWithBoundary(str) {
+    this.boundary = Buffer.from(`\r\n--${str}`);
+    this.lookbehind = Buffer.alloc(this.boundary.length + 8);
+    this.state = STATE.START;
+    this.boundaryChars = {};
+
+    for (let i = 0; i < this.boundary.length; i++) {
+      this.boundaryChars[this.boundary[i]] = true;
+    }
+  }
+
+  // eslint-disable-next-line max-params
+  _handleCallback(name, buf, start, end) {
+    if (start !== undefined && start === end) {
+      return;
+    }
+    this.push({ name, buffer: buf, start, end });
+  }
+
+  // eslint-disable-next-line max-statements
+  _transform(buffer, _, done) {
+    let i = 0;
+    let prevIndex = this.index;
+    let { index, state, flags } = this;
+    const { lookbehind, boundary, boundaryChars } = this;
+    const boundaryLength = boundary.length;
+    const boundaryEnd = boundaryLength - 1;
+    this.bufferLength = buffer.length;
+    let c = null;
+    let cl = null;
+
+    const setMark = (name, idx) => {
+      this[`${name}Mark`] = typeof idx === 'number' ? idx : i;
+    };
+
+    const clearMarkSymbol = (name) => {
+      delete this[`${name}Mark`];
+    };
+
+    const dataCallback = (name, shouldClear) => {
+      const markSymbol = `${name}Mark`;
+      if (!(markSymbol in this)) {
+        return;
+      }
+
+      if (!shouldClear) {
+        this._handleCallback(name, buffer, this[markSymbol], buffer.length);
+        setMark(name, 0);
+      } else {
+        this._handleCallback(name, buffer, this[markSymbol], i);
+        clearMarkSymbol(name);
+      }
+    };
+
+    for (i = 0; i < this.bufferLength; i++) {
+      c = buffer[i];
+      switch (state) {
+        case STATE.PARSER_UNINITIALIZED:
+          done(this._endUnexpected());
+          return;
+        case STATE.START:
+          index = 0;
+          state = STATE.START_BOUNDARY;
+        case STATE.START_BOUNDARY:
+          if (index === boundary.length - 2) {
+            if (c === HYPHEN) {
+              flags |= FBOUNDARY.LAST_BOUNDARY;
+            } else if (c !== CR) {
+              done(this._endUnexpected());
+              return;
+            }
+            index++;
+            break;
+          } else if (index - 1 === boundary.length - 2) {
+            if (flags & FBOUNDARY.LAST_BOUNDARY && c === HYPHEN) {
+              this._handleCallback('end');
+              state = STATE.END;
+              flags = 0;
+            } else if (!(flags & FBOUNDARY.LAST_BOUNDARY) && c === LF) {
+              index = 0;
+              this._handleCallback('partBegin');
+              state = STATE.HEADER_FIELD_START;
+            } else {
+              done(this._endUnexpected());
+              return;
+            }
+            break;
+          }
+
+          if (c !== boundary[index + 2]) {
+            index = -2;
+          }
+          if (c === boundary[index + 2]) {
+            index++;
+          }
+          break;
+        case STATE.HEADER_FIELD_START:
+          state = STATE.HEADER_FIELD;
+          setMark('headerField');
+          index = 0;
+        case STATE.HEADER_FIELD:
+          if (c === CR) {
+            clearMarkSymbol('headerField');
+            state = STATE.HEADERS_ALMOST_DONE;
+            break;
+          }
+
+          index++;
+          if (c === HYPHEN) {
+            break;
+          }
+
+          if (c === COLON) {
+            if (index === 1) {
+              // empty header field
+              done(this._endUnexpected());
+              return;
+            }
+            dataCallback('headerField', true);
+            state = STATE.HEADER_VALUE_START;
+            break;
+          }
+
+          cl = lower(c);
+          if (cl < A || cl > Z) {
+            done(this._endUnexpected());
+            return;
+          }
+          break;
+        case STATE.HEADER_VALUE_START:
+          if (c === SPACE) {
+            break;
+          }
+
+          setMark('headerValue');
+          state = STATE.HEADER_VALUE;
+        case STATE.HEADER_VALUE:
+          if (c === CR) {
+            dataCallback('headerValue', true);
+            this._handleCallback('headerEnd');
+            state = STATE.HEADER_VALUE_ALMOST_DONE;
+          }
+          break;
+        case STATE.HEADER_VALUE_ALMOST_DONE:
+          if (c !== LF) {
+            done(this._endUnexpected());
+return;
+          }
+          state = STATE.HEADER_FIELD_START;
+          break;
+        case STATE.HEADERS_ALMOST_DONE:
+          if (c !== LF) {
+            done(this._endUnexpected());
+            return;
+          }
+
+          this._handleCallback('headersEnd');
+          state = STATE.PART_DATA_START;
+          break;
+        case STATE.PART_DATA_START:
+          state = STATE.PART_DATA;
+          setMark('partData');
+        case STATE.PART_DATA:
+          prevIndex = index;
+
+          if (index === 0) {
+            // boyer-moore derived algorithm to safely skip non-boundary data
+            i += boundaryEnd;
+            while (i < this.bufferLength && !(buffer[i] in boundaryChars)) {
+              i += boundaryLength;
+            }
+            i -= boundaryEnd;
+            c = buffer[i];
+          }
+
+          if (index < boundary.length) {
+            if (boundary[index] === c) {
+              if (index === 0) {
+                dataCallback('partData', true);
+              }
+              index++;
+            } else {
+              index = 0;
+            }
+          } else if (index === boundary.length) {
+            index++;
+            if (c === CR) {
+              // CR = part boundary
+              flags |= FBOUNDARY.PART_BOUNDARY;
+            } else if (c === HYPHEN) {
+              // HYPHEN = end boundary
+              flags |= FBOUNDARY.LAST_BOUNDARY;
+            } else {
+              index = 0;
+            }
+          } else if (index - 1 === boundary.length) {
+            if (flags & FBOUNDARY.PART_BOUNDARY) {
+              index = 0;
+              if (c === LF) {
+                // unset the PART_BOUNDARY flag
+                flags &= ~FBOUNDARY.PART_BOUNDARY;
+                this._handleCallback('partEnd');
+                this._handleCallback('partBegin');
+                state = STATE.HEADER_FIELD_START;
+                break;
+              }
+            } else if (flags & FBOUNDARY.LAST_BOUNDARY) {
+              if (c === HYPHEN) {
+                this._handleCallback('partEnd');
+                this._handleCallback('end');
+                state = STATE.END;
+                flags = 0;
+              } else {
+                index = 0;
+              }
+            } else {
+              index = 0;
+            }
+          }
+
+          if (index > 0) {
+            // when matching a possible boundary, keep a lookbehind reference
+            // in case it turns out to be a false lead
+            lookbehind[index - 1] = c;
+          } else if (prevIndex > 0) {
+            // if our boundary turned out to be rubbish, the captured lookbehind
+            // belongs to partData
+            this._handleCallback('partData', lookbehind, 0, prevIndex);
+            prevIndex = 0;
+            setMark('partData');
+
+            // reconsider the current character even so it interrupted the sequence
+            // it could be the beginning of a new sequence
+            i--;
+          }
+
+          break;
+        case STATE.END:
+          break;
+        default:
+          done(this._endUnexpected());
+          return;
+      }
+    }
+
+    dataCallback('headerField');
+    dataCallback('headerValue');
+    dataCallback('partData');
+
+    this.index = index;
+    this.state = state;
+    this.flags = flags;
+
+    done();
+    return this.bufferLength;
+  }
+
+  explain() {
+    return `state = ${MultipartParser.stateToString(this.state)}`;
+  }
+}
+
+// eslint-disable-next-line consistent-return
+MultipartParser.stateToString = (stateNumber) => {
+  // eslint-disable-next-line no-restricted-syntax, guard-for-in
+  for (const stateName in STATE) {
+    const number = STATE[stateName];
+    if (number === stateNumber) return stateName;
+  }
+};
+
+/* harmony default export */ const Multipart = (Object.assign(MultipartParser, { STATES }));
+
+;// CONCATENATED MODULE: ./node_modules/.pnpm/formidable@3.5.4/node_modules/formidable/src/parsers/OctetStream.js
+
+
+class OctetStreamParser extends external_node_stream_.PassThrough {
+  constructor(options = {}) {
+    super();
+    this.globalOptions = { ...options };
+  }
+}
+
+/* harmony default export */ const OctetStream = (OctetStreamParser);
+
+;// CONCATENATED MODULE: ./node_modules/.pnpm/formidable@3.5.4/node_modules/formidable/src/plugins/octetstream.js
+/* eslint-disable no-underscore-dangle */
+
+
+
+const octetStreamType = 'octet-stream';
+// the `options` is also available through the `options` / `formidable.options`
+async function octetstream_plugin(formidable, options) {
+  // the `this` context is always formidable, as the first argument of a plugin
+  // but this allows us to customize/test each plugin
+
+  /* istanbul ignore next */
+  const self = this || formidable;
+
+  if (/octet-stream/i.test(self.headers['content-type'])) {
+    await init.call(self, self, options);
+  }
+  return self;
+}
+
+// Note that it's a good practice (but it's up to you) to use the `this.options` instead
+// of the passed `options` (second) param, because when you decide
+// to test the plugin you can pass custom `this` context to it (and so `this.options`)
+async function init(_self, _opts) {
+  this.type = octetStreamType;
+  const originalFilename = this.headers['x-file-name'];
+  const mimetype = this.headers['content-type'];
+
+  const thisPart = {
+    originalFilename,
+    mimetype,
+  };
+  const newFilename = this._getNewName(thisPart);
+  const filepath = this._joinDirectoryName(newFilename);
+  const file = await this._newFile({
+    newFilename,
+    filepath,
+    originalFilename,
+    mimetype,
+  });
+
+  this.emit('fileBegin', originalFilename, file);
+  file.open();
+  this.openedFiles.push(file);
+  this._flushing += 1;
+
+  this._parser = new OctetStream(this.options);
+
+  // Keep track of writes that haven't finished so we don't emit the file before it's done being written
+  let outstandingWrites = 0;
+
+  this._parser.on('data', (buffer) => {
+    this.pause();
+    outstandingWrites += 1;
+
+    file.write(buffer, () => {
+      outstandingWrites -= 1;
+      this.resume();
+
+      if (this.ended) {
+        this._parser.emit('doneWritingFile');
+      }
+    });
+  });
+
+  this._parser.on('end', () => {
+    this._flushing -= 1;
+    this.ended = true;
+
+    const done = () => {
+      file.end(() => {
+        this.emit('file', 'file', file);
+        this._maybeEnd();
+      });
+    };
+
+    if (outstandingWrites === 0) {
+      done();
+    } else {
+      this._parser.once('doneWritingFile', done);
+    }
+  });
+
+  return this;
+}
+
+;// CONCATENATED MODULE: ./node_modules/.pnpm/formidable@3.5.4/node_modules/formidable/src/parsers/Querystring.js
+/* eslint-disable no-underscore-dangle */
+
+
+
+// This is a buffering parser, have a look at StreamingQuerystring.js for a streaming parser
+class QuerystringParser extends external_node_stream_.Transform {
+  constructor(options = {}) {
+    super({ readableObjectMode: true });
+    this.globalOptions = { ...options };
+    this.buffer = '';
+    this.bufferLength = 0;
+  }
+
+  _transform(buffer, encoding, callback) {
+    this.buffer += buffer.toString('ascii');
+    this.bufferLength = this.buffer.length;
+    callback();
+  }
+
+  _flush(callback) {
+    const fields = new URLSearchParams(this.buffer);
+    for (const [key, value] of fields) {
+      this.push({
+        key,
+        value,
+      });
+    }
+    this.buffer = '';
+    callback();
+  }
+}
+
+/* harmony default export */ const Querystring = (QuerystringParser);
+
+;// CONCATENATED MODULE: ./node_modules/.pnpm/formidable@3.5.4/node_modules/formidable/src/plugins/querystring.js
+/* eslint-disable no-underscore-dangle */
+
+
+
+
+const querystringType = 'urlencoded';
+// the `options` is also available through the `this.options` / `formidable.options`
+function querystring_plugin(formidable, options) {
+  // the `this` context is always formidable, as the first argument of a plugin
+  // but this allows us to customize/test each plugin
+
+  /* istanbul ignore next */
+  const self = this || formidable;
+
+  if (/urlencoded/i.test(self.headers['content-type'])) {
+    querystring_init.call(self, self, options);
+  }
+  return self;
+};
+
+// Note that it's a good practice (but it's up to you) to use the `this.options` instead
+// of the passed `options` (second) param, because when you decide
+// to test the plugin you can pass custom `this` context to it (and so `this.options`)
+function querystring_init(_self, _opts) {
+  this.type = querystringType;
+
+  const parser = new Querystring(this.options);
+
+  parser.on('data', ({ key, value }) => {
+    this.emit('field', key, value);
+  });
+
+  parser.once('end', () => {
+    this.ended = true;
+    this._maybeEnd();
+  });
+
+  this._parser = parser;
+
+  return this;
+}
+
+;// CONCATENATED MODULE: ./node_modules/.pnpm/formidable@3.5.4/node_modules/formidable/src/plugins/multipart.js
+/* eslint-disable no-underscore-dangle */
+
+
+
+
+
+
+const multipartType = 'multipart';
+// the `options` is also available through the `options` / `formidable.options`
+function multipart_plugin(formidable, options) {
+  // the `this` context is always formidable, as the first argument of a plugin
+  // but this allows us to customize/test each plugin
+
+  /* istanbul ignore next */
+  const self = this || formidable;
+
+  // NOTE: we (currently) support both multipart/form-data and multipart/related
+  const multipart = /multipart/i.test(self.headers['content-type']);
+
+  if (multipart) {
+    const m = self.headers['content-type'].match(
+      /boundary=(?:"([^"]+)"|([^;]+))/i,
+    );
+    if (m) {
+      const initMultipart = createInitMultipart(m[1] || m[2]);
+      initMultipart.call(self, self, options); // lgtm [js/superfluous-trailing-arguments]
+    } else {
+      const err = new src_FormidableError(
+        'bad content-type header, no multipart boundary',
+        missingMultipartBoundary,
+        400,
+      );
+      self._error(err);
+    }
+  }
+  return self;
+}
+
+// Note that it's a good practice (but it's up to you) to use the `this.options` instead
+// of the passed `options` (second) param, because when you decide
+// to test the plugin you can pass custom `this` context to it (and so `this.options`)
+function createInitMultipart(boundary) {
+  return function initMultipart() {
+    this.type = multipartType;
+
+    const parser = new Multipart(this.options);
+    let headerField;
+    let headerValue;
+    let part;
+
+    parser.initWithBoundary(boundary);
+
+    // eslint-disable-next-line max-statements, consistent-return
+    parser.on('data', async ({ name, buffer, start, end }) => {
+      if (name === 'partBegin') {
+        part = new external_node_stream_.Stream();
+        part.readable = true;
+        part.headers = {};
+        part.name = null;
+        part.originalFilename = null;
+        part.mimetype = null;
+
+        part.transferEncoding = this.options.encoding;
+        part.transferBuffer = '';
+
+        headerField = '';
+        headerValue = '';
+      } else if (name === 'headerField') {
+        headerField += buffer.toString(this.options.encoding, start, end);
+      } else if (name === 'headerValue') {
+        headerValue += buffer.toString(this.options.encoding, start, end);
+      } else if (name === 'headerEnd') {
+        headerField = headerField.toLowerCase();
+        part.headers[headerField] = headerValue;
+
+        // matches either a quoted-string or a token (RFC 2616 section 19.5.1)
+        const m = headerValue.match(
+          // eslint-disable-next-line no-useless-escape
+          /\bname=("([^"]*)"|([^\(\)<>@,;:\\"\/\[\]\?=\{\}\s\t/]+))/i,
+        );
+        if (headerField === 'content-disposition') {
+          if (m) {
+            part.name = m[2] || m[3] || '';
+          }
+
+          part.originalFilename = this._getFileName(headerValue);
+        } else if (headerField === 'content-type') {
+          part.mimetype = headerValue;
+        } else if (headerField === 'content-transfer-encoding') {
+          part.transferEncoding = headerValue.toLowerCase();
+        }
+
+        headerField = '';
+        headerValue = '';
+      } else if (name === 'headersEnd') {
+        switch (part.transferEncoding) {
+          case 'binary':
+          case '7bit':
+          case '8bit':
+          case 'utf-8': {
+            const dataPropagation = (ctx) => {
+              if (ctx.name === 'partData') {
+                part.emit('data', ctx.buffer.slice(ctx.start, ctx.end));
+              }
+            };
+            const dataStopPropagation = (ctx) => {
+              if (ctx.name === 'partEnd') {
+                part.emit('end');
+                parser.off('data', dataPropagation);
+                parser.off('data', dataStopPropagation);
+              }
+            };
+            parser.on('data', dataPropagation);
+            parser.on('data', dataStopPropagation);
+            break;
+          }
+          case 'base64': {
+            const dataPropagation = (ctx) => {
+              if (ctx.name === 'partData') {
+                part.transferBuffer += ctx.buffer
+                  .slice(ctx.start, ctx.end)
+                  .toString('ascii');
+
+                /*
+                  four bytes (chars) in base64 converts to three bytes in binary
+                  encoding. So we should always work with a number of bytes that
+                  can be divided by 4, it will result in a number of bytes that
+                  can be divided vy 3.
+                  */
+                const offset = parseInt(part.transferBuffer.length / 4, 10) * 4;
+                part.emit(
+                  'data',
+                  Buffer.from(
+                    part.transferBuffer.substring(0, offset),
+                    'base64',
+                  ),
+                );
+                part.transferBuffer = part.transferBuffer.substring(offset);
+              }
+            };
+            const dataStopPropagation = (ctx) => {
+              if (ctx.name === 'partEnd') {
+                part.emit('data', Buffer.from(part.transferBuffer, 'base64'));
+                part.emit('end');
+                parser.off('data', dataPropagation);
+                parser.off('data', dataStopPropagation);
+              }
+            };
+            parser.on('data', dataPropagation);
+            parser.on('data', dataStopPropagation);
+            break;
+          }
+          default:
+            return this._error(
+              new src_FormidableError(
+                'unknown transfer-encoding',
+                unknownTransferEncoding,
+                501,
+              ),
+            );
+        }
+        this._parser.pause();
+        await this.onPart(part);
+        this._parser.resume();
+      } else if (name === 'end') {
+        this.ended = true;
+        this._maybeEnd();
+      }
+    });
+
+    this._parser = parser;
+  };
+}
+
+;// CONCATENATED MODULE: ./node_modules/.pnpm/formidable@3.5.4/node_modules/formidable/src/parsers/JSON.js
+/* eslint-disable no-underscore-dangle */
+
+
+
+class JSONParser extends external_node_stream_.Transform {
+  constructor(options = {}) {
+    super({ readableObjectMode: true });
+    this.chunks = [];
+    this.globalOptions = { ...options };
+  }
+
+  _transform(chunk, encoding, callback) {
+    this.chunks.push(String(chunk)); // todo consider using a string decoder
+    callback();
+  }
+
+  _flush(callback) {
+    try {
+      const fields = JSON.parse(this.chunks.join(''));
+      this.push(fields);
+    } catch (e) {
+      callback(e);
+      return;
+    }
+    this.chunks = null;
+    callback();
+  }
+}
+
+/* harmony default export */ const parsers_JSON = (JSONParser);
+
+;// CONCATENATED MODULE: ./node_modules/.pnpm/formidable@3.5.4/node_modules/formidable/src/plugins/json.js
+/* eslint-disable no-underscore-dangle */
+
+
+
+const jsonType = 'json';
+// the `options` is also available through the `this.options` / `formidable.options`
+function json_plugin(formidable, options) {
+  // the `this` context is always formidable, as the first argument of a plugin
+  // but this allows us to customize/test each plugin
+
+  /* istanbul ignore next */
+  const self = this || formidable;
+
+  if (/json/i.test(self.headers['content-type'])) {
+    json_init.call(self, self, options);
+  }
+
+  return self;
+};
+
+// Note that it's a good practice (but it's up to you) to use the `this.options` instead
+// of the passed `options` (second) param, because when you decide
+// to test the plugin you can pass custom `this` context to it (and so `this.options`)
+function json_init(_self, _opts) {
+  this.type = jsonType;
+
+  const parser = new parsers_JSON(this.options);
+
+  parser.on('data', (fields) => {
+    this.fields = fields;
+  });
+
+  parser.once('end', () => {
+    this.ended = true;
+    this._maybeEnd();
+  });
+
+  this._parser = parser;
+}
+
+;// CONCATENATED MODULE: ./node_modules/.pnpm/formidable@3.5.4/node_modules/formidable/src/plugins/index.js
+
+
+
+
+
+
+
+;// CONCATENATED MODULE: ./node_modules/.pnpm/formidable@3.5.4/node_modules/formidable/src/Formidable.js
+/* eslint-disable class-methods-use-this */
+/* eslint-disable no-underscore-dangle */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+const CUID2_FINGERPRINT = `${process.env.NODE_ENV}-${external_node_os_.platform()}-${external_node_os_.hostname()}`
+const createId = (0,cuid2/* init */.Ts)({ length: 25, fingerprint: CUID2_FINGERPRINT.toLowerCase() });
+
+const DEFAULT_OPTIONS = {
+  maxFields: 1000,
+  maxFieldsSize: 20 * 1024 * 1024,
+  maxFiles: Infinity,
+  maxFileSize: 200 * 1024 * 1024,
+  maxTotalFileSize: undefined,
+  minFileSize: 1,
+  allowEmptyFiles: false,
+  createDirsFromUploads: false,
+  keepExtensions: false,
+  encoding: 'utf-8',
+  hashAlgorithm: false,
+  uploadDir: external_node_os_.tmpdir(),
+  enabledPlugins: [octetstream_plugin, querystring_plugin, multipart_plugin, json_plugin],
+  fileWriteStreamHandler: null,
+  defaultInvalidName: 'invalid-name',
+  filter(_part) {
+    return true;
+  },
+  filename: undefined,
+};
+
+function hasOwnProp(obj, key) {
+  return Object.prototype.hasOwnProperty.call(obj, key);
+}
+
+
+const decorateForceSequential = function (promiseCreator) {
+  /* forces a function that returns a promise to be sequential
+  useful for fs  for example */
+  let lastPromise = Promise.resolve();
+  return async function (...x) {
+      const promiseWeAreWaitingFor = lastPromise;
+      let currentPromise;
+      let callback;
+      // we need to change lastPromise before await anything,
+      // otherwise 2 calls might wait the same thing
+      lastPromise = new Promise(function (resolve) {
+          callback = resolve;
+      });
+      await promiseWeAreWaitingFor;
+      currentPromise = promiseCreator(...x);
+      currentPromise.then(callback).catch(callback);
+      return currentPromise;
+  };
+};
+
+const createNecessaryDirectoriesAsync = decorateForceSequential(function (filePath) {
+  const directoryname = external_node_path_.dirname(filePath);
+  return promises_.mkdir(directoryname, { recursive: true });
+});
+
+const invalidExtensionChar = (c) => {
+  const code = c.charCodeAt(0);
+  return !(
+    code === 46 || // .
+    (code >= 48 && code <= 57) ||
+    (code >= 65 && code <= 90) ||
+    (code >= 97 && code <= 122)
+  );
+};
+
+class IncomingForm extends external_node_events_.EventEmitter {
+  constructor(options = {}) {
+    super();
+
+    this.options = { ...DEFAULT_OPTIONS, ...options };
+    if (!this.options.maxTotalFileSize) {
+      this.options.maxTotalFileSize = this.options.maxFileSize
+    }
+
+    const dir = external_node_path_.resolve(
+      this.options.uploadDir || this.options.uploaddir || external_node_os_.tmpdir(),
+    );
+
+    this.uploaddir = dir;
+    this.uploadDir = dir;
+
+    // initialize with null
+    [
+      'error',
+      'headers',
+      'type',
+      'bytesExpected',
+      'bytesReceived',
+      '_parser',
+      'req',
+    ].forEach((key) => {
+      this[key] = null;
+    });
+
+    this._setUpRename();
+
+    this._flushing = 0;
+    this._fieldsSize = 0;
+    this._totalFileSize = 0;
+    this._plugins = [];
+    this.openedFiles = [];
+
+    this.options.enabledPlugins = []
+      .concat(this.options.enabledPlugins)
+      .filter(Boolean);
+
+    if (this.options.enabledPlugins.length === 0) {
+      throw new src_FormidableError(
+        'expect at least 1 enabled builtin plugin, see options.enabledPlugins',
+        missingPlugin,
+      );
+    }
+
+    this.options.enabledPlugins.forEach((plugin) => {
+      this.use(plugin);
+    });
+
+    this._setUpMaxFields();
+    this._setUpMaxFiles();
+    this.ended = undefined;
+    this.type = undefined;
+  }
+
+  use(plugin) {
+    if (typeof plugin !== 'function') {
+      throw new src_FormidableError(
+        '.use: expect `plugin` to be a function',
+        pluginFunction,
+      );
+    }
+    this._plugins.push(plugin.bind(this));
+    return this;
+  }
+
+  pause () {
+    try {
+      this.req.pause();
+    } catch (err) {
+      // the stream was destroyed
+      if (!this.ended) {
+        // before it was completed, crash & burn
+        this._error(err);
+      }
+      return false;
+    }
+    return true;
+  }
+
+  resume () {
+    try {
+      this.req.resume();
+    } catch (err) {
+      // the stream was destroyed
+      if (!this.ended) {
+        // before it was completed, crash & burn
+        this._error(err);
+      }
+      return false;
+    }
+
+    return true;
+  }
+
+  // returns a promise if no callback is provided
+  async parse(req, cb) {
+    this.req = req;
+    let promise;
+
+    // Setup callback first, so we don't miss anything from data events emitted immediately.
+    if (!cb) {
+      let resolveRef;
+      let rejectRef;
+      promise = new Promise((resolve, reject) => {
+        resolveRef = resolve;
+        rejectRef = reject;
+      });
+      cb = (err, fields, files) => {
+        if (err) {
+          rejectRef(err);
+        } else {
+          resolveRef([fields, files]);
+        }
+      }
+    }
+    const callback = once(dezalgo(cb));
+    this.fields = {};
+    const files = {};
+
+    this.on('field', (name, value) => {
+      if (this.type === 'multipart' || this.type === 'urlencoded') {
+        if (!hasOwnProp(this.fields, name)) {
+          this.fields[name] = [value];
+        } else {
+          this.fields[name].push(value);
+        }
+      } else {
+        this.fields[name] = value;
+      }
+    });
+    this.on('file', (name, file) => {
+      if (!hasOwnProp(files, name)) {
+        files[name] = [file];
+      } else {
+        files[name].push(file);
+      }
+    });
+    this.on('error', (err) => {
+      callback(err, this.fields, files);
+    });
+    this.on('end', () => {
+      callback(null, this.fields, files);
+    });
+
+    // Parse headers and setup the parser, ready to start listening for data.
+    await this.writeHeaders(req.headers);
+
+    // Start listening for data.
+    req
+      .on('error', (err) => {
+        this._error(err);
+      })
+      .on('aborted', () => {
+        this.emit('aborted');
+        this._error(new src_FormidableError('Request aborted', aborted));
+      })
+      .on('data', (buffer) => {
+        try {
+          this.write(buffer);
+        } catch (err) {
+          this._error(err);
+        }
+      })
+      .on('end', () => {
+        if (this.error) {
+          return;
+        }
+        if (this._parser) {
+          this._parser.end();
+        }
+      });
+    if (promise) {
+      return promise;
+    }
+    return this;
+  }
+
+  async writeHeaders(headers) {
+    this.headers = headers;
+    this._parseContentLength();
+    await this._parseContentType();
+
+    if (!this._parser) {
+      this._error(
+        new src_FormidableError(
+          'no parser found',
+          noParser,
+          415, // Unsupported Media Type
+        ),
+      );
+      return;
+    }
+
+    this._parser.once('error', (error) => {
+      this._error(error);
+    });
+  }
+
+  write(buffer) {
+    if (this.error) {
+      return null;
+    }
+    if (!this._parser) {
+      this._error(
+        new src_FormidableError('uninitialized parser', uninitializedParser),
+      );
+      return null;
+    }
+
+    this.bytesReceived += buffer.length;
+    this.emit('progress', this.bytesReceived, this.bytesExpected);
+
+    this._parser.write(buffer);
+
+    return this.bytesReceived;
+  }
+
+  onPart(part) {
+    // this method can be overwritten by the user
+    return this._handlePart(part);
+  }
+
+  async _handlePart(part) {
+    if (part.originalFilename && typeof part.originalFilename !== 'string') {
+      this._error(
+        new src_FormidableError(
+          `the part.originalFilename should be string when it exists`,
+          filenameNotString,
+        ),
+      );
+      return;
+    }
+
+    // This MUST check exactly for undefined. You can not change it to !part.originalFilename.
+
+    // todo: uncomment when switch tests to Jest
+    // console.log(part);
+
+    // ? NOTE(@tunnckocore): no it can be any falsey value, it most probably depends on what's returned
+    // from somewhere else. Where recently I changed the return statements
+    // and such thing because code style
+    // ? NOTE(@tunnckocore): or even better, if there is no mimetype, then it's for sure a field
+    // ? NOTE(@tunnckocore): originalFilename is an empty string when a field?
+    if (!part.mimetype) {
+      let value = '';
+      const decoder = new external_node_string_decoder_.StringDecoder(
+        part.transferEncoding || this.options.encoding,
+      );
+
+      part.on('data', (buffer) => {
+        this._fieldsSize += buffer.length;
+        if (this._fieldsSize > this.options.maxFieldsSize) {
+          this._error(
+            new src_FormidableError(
+              `options.maxFieldsSize (${this.options.maxFieldsSize} bytes) exceeded, received ${this._fieldsSize} bytes of field data`,
+              maxFieldsSizeExceeded,
+              413, // Payload Too Large
+            ),
+          );
+          return;
+        }
+        value += decoder.write(buffer);
+      });
+
+      part.on('end', () => {
+        this.emit('field', part.name, value);
+      });
+      return;
+    }
+
+    if (!this.options.filter(part)) {
+      return;
+    }
+
+    this._flushing += 1;
+
+    let fileSize = 0;
+    const newFilename = this._getNewName(part);
+    const filepath = this._joinDirectoryName(newFilename);
+    const file = await this._newFile({
+      newFilename,
+      filepath,
+      originalFilename: part.originalFilename,
+      mimetype: part.mimetype,
+    });
+    file.on('error', (err) => {
+      this._error(err);
+    });
+    this.emit('fileBegin', part.name, file);
+
+    file.open();
+    this.openedFiles.push(file);
+
+    part.on('data', (buffer) => {
+      this._totalFileSize += buffer.length;
+      fileSize += buffer.length;
+
+      if (this._totalFileSize > this.options.maxTotalFileSize) {
+        this._error(
+          new src_FormidableError(
+            `options.maxTotalFileSize (${this.options.maxTotalFileSize} bytes) exceeded, received ${this._totalFileSize} bytes of file data`,
+            biggerThanTotalMaxFileSize,
+            413,
+          ),
+        );
+        return;
+      }
+      if (buffer.length === 0) {
+        return;
+      }
+      this.pause();
+      file.write(buffer, () => {
+        this.resume();
+      });
+    });
+
+    part.on('end', () => {
+      if (!this.options.allowEmptyFiles && fileSize === 0) {
+        this._error(
+          new src_FormidableError(
+            `options.allowEmptyFiles is false, file size should be greater than 0`,
+            noEmptyFiles,
+            400,
+          ),
+        );
+        return;
+      }
+      if (fileSize < this.options.minFileSize) {
+        this._error(
+          new src_FormidableError(
+            `options.minFileSize (${this.options.minFileSize} bytes) inferior, received ${fileSize} bytes of file data`,
+            smallerThanMinFileSize,
+            400,
+          ),
+        );
+        return;
+      }
+      if (fileSize > this.options.maxFileSize) {
+        this._error(
+          new src_FormidableError(
+            `options.maxFileSize (${this.options.maxFileSize} bytes), received ${fileSize} bytes of file data`,
+            biggerThanMaxFileSize,
+            413,
+          ),
+        );
+        return;
+      }
+
+      file.end(() => {
+        this._flushing -= 1;
+        this.emit('file', part.name, file);
+        this._maybeEnd();
+      });
+    });
+  }
+
+  // eslint-disable-next-line max-statements
+  async _parseContentType() {
+    if (this.bytesExpected === 0) {
+      this._parser = new Dummy(this, this.options);
+      return;
+    }
+
+    if (!this.headers['content-type']) {
+      this._error(
+        new src_FormidableError(
+          'bad content-type header, no content-type',
+          missingContentType,
+          400,
+        ),
+      );
+      return;
+    }
+
+
+    new Dummy(this, this.options);
+
+    const results = [];
+    await Promise.all(this._plugins.map(async (plugin, idx) => {
+      let pluginReturn = null;
+      try {
+        pluginReturn = await plugin(this, this.options) || this;
+      } catch (err) {
+        // directly throw from the `form.parse` method;
+        // there is no other better way, except a handle through options
+        const error = new src_FormidableError(
+          `plugin on index ${idx} failed with: ${err.message}`,
+          pluginFailed,
+          500,
+        );
+        error.idx = idx;
+        throw error;
+      }
+      Object.assign(this, pluginReturn);
+
+      // todo: use Set/Map and pass plugin name instead of the `idx` index
+      this.emit('plugin', idx, pluginReturn);
+    }));
+    this.emit('pluginsResults', results);
+  }
+
+  _error(err, eventName = 'error') {
+    if (this.error || this.ended) {
+      return;
+    }
+
+    this.req = null;
+    this.error = err;
+    this.emit(eventName, err);
+
+    this.openedFiles.forEach((file) => {
+      file.destroy();
+    });
+  }
+
+  _parseContentLength() {
+    this.bytesReceived = 0;
+    if (this.headers['content-length']) {
+      this.bytesExpected = parseInt(this.headers['content-length'], 10);
+    } else if (this.headers['transfer-encoding'] === undefined) {
+      this.bytesExpected = 0;
+    }
+
+    if (this.bytesExpected !== null) {
+      this.emit('progress', this.bytesReceived, this.bytesExpected);
+    }
+  }
+
+  _newParser() {
+    return new Multipart(this.options);
+  }
+
+  async _newFile({ filepath, originalFilename, mimetype, newFilename }) {
+    if (this.options.fileWriteStreamHandler) {
+      return new src_VolatileFile({
+        newFilename,
+        filepath,
+        originalFilename,
+        mimetype,
+        createFileWriteStream: this.options.fileWriteStreamHandler,
+        hashAlgorithm: this.options.hashAlgorithm,
+      });
+    }
+    if (this.options.createDirsFromUploads) {
+      try {
+        await createNecessaryDirectoriesAsync(filepath);
+      } catch (errorCreatingDir) {
+        this._error(new src_FormidableError(
+          `cannot create directory`,
+          cannotCreateDir,
+          409,
+        ));
+      }
+    }
+    return new src_PersistentFile({
+      newFilename,
+      filepath,
+      originalFilename,
+      mimetype,
+      hashAlgorithm: this.options.hashAlgorithm,
+    });
+  }
+
+  _getFileName(headerValue) {
+    // matches either a quoted-string or a token (RFC 2616 section 19.5.1)
+    const m = headerValue.match(
+      /\bfilename=("(.*?)"|([^()<>{}[\]@,;:"?=\s/\t]+))($|;\s)/i,
+    );
+    if (!m) return null;
+
+    const match = m[2] || m[3] || '';
+    let originalFilename = match.substr(match.lastIndexOf('\\') + 1);
+    originalFilename = originalFilename.replace(/%22/g, '"');
+    originalFilename = originalFilename.replace(/&#([\d]{4});/g, (_, code) =>
+      String.fromCharCode(code),
+    );
+
+    return originalFilename;
+  }
+
+  // able to get composed extension with multiple dots
+  // "a.b.c" -> ".b.c"
+  // as opposed to path.extname -> ".c"
+  _getExtension(str) {
+    if (!str) {
+      return '';
+    }
+
+    const basename = external_node_path_.basename(str);
+    const firstDot = basename.indexOf('.');
+    const lastDot = basename.lastIndexOf('.');
+    let rawExtname = external_node_path_.extname(basename);
+
+    if (firstDot !== lastDot) {
+      rawExtname =  basename.slice(firstDot);
+    }
+
+    let filtered;
+    const firstInvalidIndex = Array.from(rawExtname).findIndex(invalidExtensionChar);
+    if (firstInvalidIndex === -1) {
+      filtered = rawExtname;
+    } else {
+      filtered = rawExtname.substring(0, firstInvalidIndex);
+    }
+    if (filtered === '.') {
+      return '';
+    }
+    return filtered;
+  }
+
+  _joinDirectoryName(name) {
+    const newPath = external_node_path_.join(this.uploadDir, name);
+
+    // prevent directory traversal attacks
+    if (!newPath.startsWith(this.uploadDir)) {
+      return external_node_path_.join(this.uploadDir, this.options.defaultInvalidName);
+    }
+
+    return newPath;
+  }
+
+  _setUpRename() {
+    const hasRename = typeof this.options.filename === 'function';
+    if (hasRename) {
+      this._getNewName = (part) => {
+        let ext = '';
+        let name = this.options.defaultInvalidName;
+        if (part.originalFilename) {
+          // can be null
+          ({ ext, name } = external_node_path_.parse(part.originalFilename));
+          if (this.options.keepExtensions !== true) {
+            ext = '';
+          }
+        }
+        return this.options.filename.call(this, name, ext, part, this);
+      };
+    } else {
+      this._getNewName = (part) => {
+        const name = createId();
+
+        if (part && this.options.keepExtensions) {
+          const originalFilename =
+            typeof part === 'string' ? part : part.originalFilename;
+          return `${name}${this._getExtension(originalFilename)}`;
+        }
+
+        return name;
+      };
+    }
+  }
+
+  _setUpMaxFields() {
+    if (this.options.maxFields !== Infinity) {
+      let fieldsCount = 0;
+      this.on('field', () => {
+        fieldsCount += 1;
+        if (fieldsCount > this.options.maxFields) {
+          this._error(
+            new src_FormidableError(
+              `options.maxFields (${this.options.maxFields}) exceeded`,
+              maxFieldsExceeded,
+              413,
+            ),
+          );
+        }
+      });
+    }
+  }
+
+  _setUpMaxFiles() {
+    if (this.options.maxFiles !== Infinity) {
+      let fileCount = 0;
+      this.on('fileBegin', () => {
+        fileCount += 1;
+        if (fileCount > this.options.maxFiles) {
+          this._error(
+            new src_FormidableError(
+              `options.maxFiles (${this.options.maxFiles}) exceeded`,
+              maxFilesExceeded,
+              413,
+            ),
+          );
+        }
+      });
+    }
+  }
+
+  _maybeEnd() {
+    if (!this.ended || this._flushing || this.error) {
+      return;
+    }
+    this.req = null;
+    this.emit('end');
+  }
+}
+
+/* harmony default export */ const Formidable = (IncomingForm);
+
+
+;// CONCATENATED MODULE: ./node_modules/.pnpm/formidable@3.5.4/node_modules/formidable/src/parsers/index.js
+
+
+
+
+
+
+
+
+;// CONCATENATED MODULE: ./node_modules/.pnpm/formidable@3.5.4/node_modules/formidable/src/index.js
+
+
+
+
+
+
+// make it available without requiring the `new` keyword
+// if you want it access `const formidable.IncomingForm` as v1
+const formidable = (...args) => new Formidable(...args);
+const {enabledPlugins} = DEFAULT_OPTIONS;
+
+/* harmony default export */ const src = (formidable);
+
+
+
+
+
+
+/***/ })
+
+};
+;

@@ -1,0 +1,34 @@
+{
+  "name": "data-miner",
+  "version": "2.0.0",
+  "description": "Data mining powered by Github workflows",
+  "main": "index.js",
+  "scripts": {
+    "build": "ncc build src/index.ts -m -o dist",
+    "dist": "TEST_MODE=true ncc run dist/index.js",
+    "test": "vitest run --coverage",
+    "lint": "tsc -p tsconfig.json --noEmit && eslint ."
+  },
+  "keywords": [],
+  "license": "WTFPL",
+  "packageManager": "pnpm@10.26.2",
+  "dependencies": {
+    "@actions/core": "^2.0.1",
+    "dayjs": "^1.11.19",
+    "feed": "^5.1.0",
+    "md5": "^2.3.0",
+    "soap": "^1.6.1"
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.39.2",
+    "@types/md5": "^2.3.6",
+    "@types/node": "^25.0.3",
+    "@vercel/ncc": "^0.38.4",
+    "@vitest/coverage-v8": "^4.0.16",
+    "eslint": "^9.39.2",
+    "globals": "^16.5.0",
+    "typescript": "^5.9.3",
+    "typescript-eslint": "^8.50.1",
+    "vitest": "^4.0.16"
+  }
+}

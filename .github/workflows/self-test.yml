@@ -1,0 +1,59 @@
+name: self-test
+
+on:
+  push:
+    branches:
+      - main
+
+  schedule:
+    - cron: '34 3,4,5,6,9,12 * * *'
+
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  self-test:
+    runs-on: ubuntu-latest
+    outputs:
+      result: ${{ steps.data-miner.outputs.result }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: ./
+        id: data-miner
+        env:
+          ERATE_USERNAME: ${{ secrets.USERNAME }}
+          ERATE_PASSWORD: ${{ secrets.PASSWORD }}
+          ERATE_LICENCE_ID: ${{ secrets.LICENCE_ID }}
+
+  handle-output:
+    needs: self-test
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/configure-pages@v2
+      - env:
+          RESULT: ${{ needs.self-test.outputs.result }}
+        run: |
+          mkdir -p _site
+          echo "$RESULT" | jq -c '.[] | select (.id == "fcast3") | .data' > ./_site/fcast3.json
+          echo "$RESULT" | jq -c '.[] | select (.id == "fcast3") | .xml' > ./fcast3.xml.json
+          cat ./fcast3.xml.json | jq -r . > ./_site/fcast3.xml
+          rm ./fcast3.xml.json
+          echo "$RESULT" | jq -c '.[] | select (.id == "erate") | .data' > ./_site/erate.json
+          test -f ./_site/fcast3.json
+          test -f ./_site/fcast3.xml
+          test -f ./_site/erate.json
+      - uses: actions/upload-pages-artifact@v3
+      - uses: actions/deploy-pages@v4
+        id: deployment

@@ -1,0 +1,8 @@
+name: 'data-miner'
+description: 'Data mining powered by Github actions'
+outputs:
+  result:
+    description: 'A result keyed by `data` and `xml` keys'
+runs:
+  using: 'node20'
+  main: 'dist/index.js'
