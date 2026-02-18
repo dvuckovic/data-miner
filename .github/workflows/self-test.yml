@@ -57,3 +57,11 @@ jobs:
       - uses: actions/upload-pages-artifact@v3
       - uses: actions/deploy-pages@v4
         id: deployment
+
+  workflow-keepalive:
+    if: github.event_name == 'schedule'
+    runs-on: ubuntu-latest
+    permissions:
+      actions: write
+    steps:
+      - uses: liskin/gh-workflow-keepalive@v1

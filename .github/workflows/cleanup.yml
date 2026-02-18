@@ -8,8 +8,15 @@ jobs:
   cleanup:
     runs-on: ubuntu-latest
     steps:
-    - name: Delete Workflow Runs
-      uses: Mattraks/delete-workflow-runs@main
+    - uses: Mattraks/delete-workflow-runs@main
       with:
         retain_days: 1
         keep_minimum_runs: 0
+
+  workflow-keepalive:
+    if: github.event_name == 'schedule'
+    runs-on: ubuntu-latest
+    permissions:
+      actions: write
+    steps:
+      - uses: liskin/gh-workflow-keepalive@v1
