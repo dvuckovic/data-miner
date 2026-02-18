@@ -2,9 +2,13 @@ import { vi, describe, it, expect } from 'vitest'
 import * as core from '@actions/core'
 import { readFileSync } from 'fs'
 import { resolve } from 'path'
+import dayjs from 'dayjs'
+import customParseFormat from 'dayjs/plugin/customParseFormat'
 
 import erate from './erate'
 import getSOAPResponse from './erate/getSOAPResponse'
+
+dayjs.extend(customParseFormat)
 
 vi.mock('@actions/core')
 vi.mock('./erate/getSOAPResponse')
@@ -25,7 +29,7 @@ describe('erate Plugin', () => {
     expect(result).toHaveProperty('data')
     expect(result.data).toEqual({
       result: expect.objectContaining({
-        date: '26.12.2025',
+        date: dayjs().format('DD.MM.YYYY'),
         eur: { kup: '117.0114', pro: '117.7156' },
       }),
     })
