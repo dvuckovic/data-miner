@@ -25,6 +25,9 @@ jobs:
     outputs:
       result: ${{ steps.data-miner.outputs.result }}
     steps:
+      - run: |
+          sudo apt update && sudo apt install --only-upgrade ca-certificates
+          sudo update-ca-certificates
       - uses: actions/checkout@v4
       - uses: ./
         id: data-miner
