@@ -25,9 +25,6 @@ jobs:
     outputs:
       result: ${{ steps.data-miner.outputs.result }}
     steps:
-      - run: |
-          sudo apt update && sudo apt install --only-upgrade ca-certificates
-          sudo update-ca-certificates
       - uses: actions/checkout@v4
       - uses: ./
         id: data-miner
@@ -35,6 +32,7 @@ jobs:
           ERATE_USERNAME: ${{ secrets.USERNAME }}
           ERATE_PASSWORD: ${{ secrets.PASSWORD }}
           ERATE_LICENCE_ID: ${{ secrets.LICENCE_ID }}
+          NODE_TLS_REJECT_UNAUTHORIZED: '0'
 
   handle-output:
     needs: self-test
