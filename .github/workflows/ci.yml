@@ -9,6 +9,9 @@ jobs:
   ci:
     runs-on: ubuntu-latest
     steps:
+      - run: |
+          sudo apt update && sudo apt install --only-upgrade ca-certificates
+          sudo update-ca-certificates
       - uses: actions/checkout@v4
       - run: corepack enable pnpm
       - uses: actions/setup-node@v5
